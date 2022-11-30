@@ -7,6 +7,7 @@ import org.eclipse.jdt.core.dom.CompilationUnit;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class GTAction {
@@ -60,6 +61,7 @@ public class GTAction {
 			sb.append("\tTO\t");
 			sb.append(update.getValue());
 		}
+		sb.append("\n");
 		this.charStr = sb.toString();
 	}
 
@@ -105,7 +107,7 @@ public class GTAction {
 
 	public String convertNodeType(String actionString){
 		Pattern nodeTypePattern = Pattern.compile("([0-9]+)(@@)");
-		java.util.regex.Matcher matcher = nodeTypePattern.matcher(actionString);
+		Matcher matcher = nodeTypePattern.matcher(actionString);
 		if(matcher.find()){
 			int nodeType = Integer.parseInt(matcher.group(1));
 			return actionString.replaceAll(nodeType+"@@", ASTNode.nodeClassForType(nodeType).getSimpleName()+"@@");

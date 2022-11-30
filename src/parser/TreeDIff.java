@@ -37,7 +37,7 @@ public class TreeDIff {
         m.match();
         ActionGenerator g = new ActionGenerator(src, dst, m.getMappings());
         g.generate();
-        List<com.github.gumtreediff.actions.model.Action> actions = g.getActions();
+        List<Action> actions = g.getActions();
         CompilationUnit srcCu = CodeUtils.getCompilationUnit(getFileContent(srcFile.getAbsolutePath()));
         CompilationUnit dstCu = CodeUtils.getCompilationUnit(getFileContent(dstFile.getAbsolutePath()));
         //Group actions.

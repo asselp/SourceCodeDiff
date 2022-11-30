@@ -67,7 +67,7 @@ public class Example1 {
 
             // m is the point where the array is divided into two sub arrays
             int mid = (left + right) / 3;
-
+            int vari = 3;
             // recursive call to each sub arrays
             mergeSortt(array, left, mid);
             mergeSortt(array, mid + 1, right);

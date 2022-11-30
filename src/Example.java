@@ -64,7 +64,7 @@ public class Example {
     // Divide the array into two sub arrays, sort them and merge them
     void mergeSort(int array[], int left, int right) {
         if (left < right) {
-
+            int var = 3;
             // m is the point where the array is divided into two sub arrays
             int mid = (left + right) / 2;
 
