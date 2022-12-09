@@ -1,0 +1,74 @@
+[INS	MethodInvocation@@[257]
+, INS	MethodInvocation@@[267]
+, MOV	SimpleName@@indicesString[258]	TO	MethodInvocation@@[257]
+, MOV	SimpleName@@message[258]	TO	MethodInvocation@@[257]
+, MOV	SimpleName@@indicesString[269]	TO	MethodInvocation@@[267]
+, MOV	SimpleName@@message[270]	TO	MethodInvocation@@[267]
+, DEL	ImportDeclaration@@[10]
+
+	DEL	QualifiedName@@org.elasticsearch.common.Nullable[10]
+, DEL	SingleVariableDeclaration@@[249]
+
+	DEL	MarkerAnnotation@@[249]
+
+	DEL	SimpleName@@Nullable[249]
+
+	DEL	ParameterizedType@@Set<String>[249]
+
+	DEL	SimpleType@@Set[249]
+
+	DEL	SimpleName@@Set[249]
+
+	DEL	SimpleType@@String[249]
+
+	DEL	SimpleName@@String[249]
+
+	DEL	SimpleName@@specificIndices[249]
+, DEL	ConditionalExpression@@[258]
+
+	DEL	InfixExpression@@==[258]
+
+	DEL	SimpleName@@specificIndices[258]
+
+	DEL	NullLiteral@@[258]
+
+	DEL	MethodInvocation@@[258]
+
+	DEL	MethodInvocation@@[258]
+
+	DEL	SimpleName@@collectionToCommaDelimitedString[258]
+
+	DEL	SimpleName@@specificIndices[258]
+, DEL	SingleVariableDeclaration@@[268]
+
+	DEL	MarkerAnnotation@@[268]
+
+	DEL	SimpleName@@Nullable[268]
+
+	DEL	ParameterizedType@@Set<String>[268]
+
+	DEL	SimpleType@@Set[268]
+
+	DEL	SimpleName@@Set[268]
+
+	DEL	SimpleType@@String[268]
+
+	DEL	SimpleName@@String[268]
+
+	DEL	SimpleName@@specificIndices[268]
+, DEL	ConditionalExpression@@[269]
+
+	DEL	InfixExpression@@==[269]
+
+	DEL	SimpleName@@specificIndices[269]
+
+	DEL	NullLiteral@@[269]
+
+	DEL	MethodInvocation@@[269]
+
+	DEL	MethodInvocation@@[271]
+
+	DEL	SimpleName@@collectionToCommaDelimitedString[271]
+
+	DEL	SimpleName@@specificIndices[275]
+]

@@ -1,0 +1,16 @@
+[INS	MethodInvocation@@[44]
+
+	INS	MethodInvocation@@[44]
+
+	INS	SimpleName@@endObject[51]
+
+	INS	SimpleName@@string[51]
+, MOV	MethodInvocation@@[44]	TO	MethodInvocation@@[44]
+, UPD	SimpleName@@string[51]	TO	endObject
+, UPD	SimpleName@@endObject[49]	TO	field
+, INS	StringLiteral@@"format"[49]
+, INS	StringLiteral@@"doc_values"[49]
+, UPD	SimpleName@@field[48]	TO	startObject
+, UPD	StringLiteral@@"doc_values"[48]	TO	"fielddata"
+, DEL	BooleanLiteral@@true[48]
+]

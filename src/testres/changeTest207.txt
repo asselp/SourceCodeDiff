@@ -1,0 +1,81 @@
+[INS	SimpleType@@SparseIntArray[53]
+, UPD	SimpleName@@ArrayList[53]	TO	SparseIntArray
+, MOV	SimpleName@@ArrayList[53]	TO	SimpleType@@SparseIntArray[53]
+, INS	ExpressionStatement@@[139]
+
+	INS	MethodInvocation@@[139]
+, INS	SimpleType@@SparseIntArray[53]
+, UPD	SimpleName@@ArrayList[54]	TO	SparseIntArray
+, MOV	SimpleName@@ArrayList[54]	TO	SimpleType@@SparseIntArray[53]
+, MOV	SimpleName@@mViewsToDrop[141]	TO	MethodInvocation@@[139]
+, UPD	SimpleName@@add[141]	TO	put
+, MOV	SimpleName@@add[141]	TO	MethodInvocation@@[139]
+, MOV	PrefixExpression@@-[141]	TO	MethodInvocation@@[139]
+, MOV	PrefixExpression@@-[144]	TO	MethodInvocation@@[139]
+, UPD	SimpleName@@add[229]	TO	put
+, INS	SimpleName@@parentReactTag[227]
+, DEL	ParameterizedType@@ArrayList<Integer>[53]
+
+	DEL	SimpleType@@ArrayList[53]
+
+	DEL	SimpleType@@Integer[53]
+
+	DEL	SimpleName@@Integer[53]
+, DEL	ParameterizedType@@ArrayList<>[54]
+
+	DEL	SimpleType@@ArrayList[54]
+, DEL	FieldDeclaration@@[54]
+
+	DEL	Modifier@@private[54]
+
+	DEL	Modifier@@final[54]
+
+	DEL	ParameterizedType@@ArrayList<Integer>[54]
+
+	DEL	SimpleType@@ArrayList[54]
+
+	DEL	SimpleName@@ArrayList[54]
+
+	DEL	SimpleType@@Integer[54]
+
+	DEL	SimpleName@@Integer[54]
+
+	DEL	VariableDeclarationFragment@@[54]
+
+	DEL	SimpleName@@mParentsForViewsToDrop[54]
+
+	DEL	ClassInstanceCreation@@[55]
+
+	DEL	ParameterizedType@@ArrayList<>[55]
+
+	DEL	SimpleType@@ArrayList[55]
+
+	DEL	SimpleName@@ArrayList[55]
+, DEL	SimpleName@@mParentsForViewsToDrop[131]
+, DEL	ExpressionStatement@@[135]
+
+	DEL	MethodInvocation@@[135]
+
+	DEL	SimpleName@@mParentsForViewsToDrop[135]
+
+	DEL	SimpleName@@clear[136]
+, DEL	ExpressionStatement@@[141]
+
+	DEL	MethodInvocation@@[141]
+, DEL	ExpressionStatement@@[144]
+
+	DEL	MethodInvocation@@[144]
+
+	DEL	SimpleName@@mParentsForViewsToDrop[144]
+
+	DEL	SimpleName@@add[144]
+, DEL	ExpressionStatement@@[230]
+
+	DEL	MethodInvocation@@[230]
+
+	DEL	SimpleName@@mParentsForViewsToDrop[230]
+
+	DEL	SimpleName@@add[230]
+
+	DEL	SimpleName@@parentReactTag[230]
+]

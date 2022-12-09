@@ -1,0 +1,26 @@
+[INS	QualifiedName@@ToStringFunction.NAME[69]
+, INS	QualifiedName@@ToStringFunction.NAME[75]
+, INS	QualifiedName@@ToStringFunction.NAME[49]
+, INS	QualifiedName@@ToStringFunction.NAME[55]
+, INS	QualifiedName@@ToStringFunction.NAME[60]
+, DEL	FieldDeclaration@@[43]
+
+	DEL	Modifier@@private[43]
+
+	DEL	Modifier@@final[43]
+
+	DEL	SimpleType@@String[43]
+
+	DEL	SimpleName@@String[43]
+
+	DEL	VariableDeclarationFragment@@[43]
+
+	DEL	SimpleName@@functionName[43]
+
+	DEL	QualifiedName@@CastFunctionResolver.FunctionNames.TO_STRING[43]
+, DEL	SimpleName@@functionName[51]
+, DEL	SimpleName@@functionName[57]
+, DEL	SimpleName@@functionName[62]
+, DEL	SimpleName@@functionName[71]
+, DEL	SimpleName@@functionName[77]
+]

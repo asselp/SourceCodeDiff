@@ -1,0 +1,9 @@
+[INS	ImportDeclaration@@[33]
+
+	INS	QualifiedName@@org.ballerinalang.util.BLangCompilerConstants.ARRAY_VERSION[33]
+, INS	MemberValuePair@@[42]
+
+	INS	SimpleName@@version[42]
+
+	INS	SimpleName@@ARRAY_VERSION[42]
+]

@@ -1,0 +1,20 @@
+[UPD	SimpleType@@AlluxioWorkerService[62]	TO	AlluxioWorker
+
+	UPD	SimpleName@@AlluxioWorkerService[62]	TO	AlluxioWorker
+, INS	SimpleName@@AlluxioWorker[60]
+, UPD	SimpleName@@PropertyKey[82]	TO	key
+, UPD	SimpleName@@isValid[82]	TO	startsWith
+, UPD	SimpleName@@key[82]	TO	ALLUXIO_CONF_PREFIX
+, UPD	SimpleName@@getRpcAddress[97]	TO	getWorkerAddress
+, INS	SimpleName@@getName[232]
+, DEL	ImportDeclaration@@[14]
+
+	DEL	QualifiedName@@alluxio.PropertyKey[14]
+, DEL	ImportDeclaration@@[18]
+
+	DEL	QualifiedName@@alluxio.metrics.MetricsSystem[18]
+, DEL	QualifiedName@@AlluxioWorkerService.Factory[62]
+, DEL	SimpleName@@MetricsSystem[234]
+, DEL	SimpleName@@buildSourceRegistryName[234]
+, DEL	QualifiedName@@MetricsSystem.WORKER_INSTANCE[234]
+]

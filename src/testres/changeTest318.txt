@@ -1,0 +1,26 @@
+[INS	FieldDeclaration@@[27]
+
+	INS	Modifier@@private[27]
+
+	INS	Modifier@@static[27]
+
+	INS	SimpleType@@org.apache.commons.logging.Log[27]
+
+	INS	QualifiedName@@org.apache.commons.logging.Log[27]
+
+	INS	VariableDeclarationFragment@@[29]
+
+	INS	SimpleName@@_log[29]
+
+	INS	MethodInvocation@@[29]
+
+	INS	QualifiedName@@edu.indiana.lib.twinpeaks.util.LogUtils[29]
+
+	INS	SimpleName@@getLog[29]
+
+	INS	TypeLiteral@@[29]
+
+	INS	SimpleType@@Properties[29]
+
+	INS	SimpleName@@Properties[29]
+]

@@ -1,0 +1,81 @@
+[UPD	QualifiedName@@org.apache.lucene.search.QueryCachingPolicy[24]	TO	org.apache.lucene.search.FilterCachingPolicy
+, UPD	QualifiedName@@org.elasticsearch.common.lucene.search.Queries[27]	TO	org.elasticsearch.common.lucene.search.OrFilter
+, INS	VariableDeclarationStatement@@[111]
+
+	INS	SimpleType@@Filter[111]
+
+	INS	VariableDeclarationFragment@@[111]
+
+	INS	SimpleName@@filter[111]
+
+	INS	ClassInstanceCreation@@[111]
+
+	INS	SimpleType@@OrFilter[111]
+
+	INS	SimpleName@@filters[111]
+, UPD	SimpleType@@QueryCachingPolicy[56]	TO	FilterCachingPolicy
+
+	UPD	SimpleName@@QueryCachingPolicy[56]	TO	FilterCachingPolicy
+, MOV	SimpleName@@Filter[115]	TO	SimpleType@@Filter[111]
+, UPD	SimpleName@@Filter[118]	TO	OrFilter
+, MOV	SimpleName@@Filter[118]	TO	SimpleType@@OrFilter[111]
+, DEL	ImportDeclaration@@[20]
+
+	DEL	QualifiedName@@org.apache.lucene.search.BooleanClause.Occur[20]
+, DEL	ImportDeclaration@@[22]
+
+	DEL	QualifiedName@@org.apache.lucene.search.BooleanQuery[22]
+, DEL	VariableDeclarationStatement@@[113]
+
+	DEL	SimpleType@@BooleanQuery[113]
+
+	DEL	SimpleName@@BooleanQuery[113]
+
+	DEL	VariableDeclarationFragment@@[113]
+
+	DEL	SimpleName@@boolQuery[113]
+
+	DEL	ClassInstanceCreation@@[113]
+
+	DEL	SimpleType@@BooleanQuery[113]
+
+	DEL	SimpleName@@BooleanQuery[113]
+, DEL	EnhancedForStatement@@[114]
+
+	DEL	SingleVariableDeclaration@@[115]
+
+	DEL	SimpleType@@Filter[115]
+
+	DEL	SimpleName@@filter[115]
+
+	DEL	SimpleName@@filters[117]
+
+	DEL	Block@@[117]
+
+	DEL	ExpressionStatement@@[117]
+
+	DEL	MethodInvocation@@[117]
+
+	DEL	SimpleName@@boolQuery[117]
+
+	DEL	SimpleName@@add[117]
+
+	DEL	SimpleName@@filter[118]
+
+	DEL	QualifiedName@@Occur.SHOULD[118]
+, DEL	VariableDeclarationStatement@@[118]
+
+	DEL	SimpleType@@Filter[118]
+
+	DEL	VariableDeclarationFragment@@[118]
+
+	DEL	SimpleName@@filter[118]
+
+	DEL	MethodInvocation@@[119]
+
+	DEL	SimpleName@@Queries[119]
+
+	DEL	SimpleName@@wrap[119]
+
+	DEL	SimpleName@@boolQuery[119]
+]

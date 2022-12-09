@@ -1,0 +1,187 @@
+[UPD	QualifiedName@@alluxio.master.file.options.CreateFileOptions[25]	TO	alluxio.master.file.meta.options.CreatePathOptions
+, INS	Modifier@@final[89]
+, UPD	SimpleType@@CreateFileOptions[89]	TO	CreatePathOptions
+
+	UPD	SimpleName@@CreateFileOptions[89]	TO	CreatePathOptions
+, INS	Modifier@@final[92]
+, UPD	SimpleType@@CreateFileOptions[89]	TO	CreatePathOptions
+
+	UPD	SimpleName@@CreateFileOptions[89]	TO	CreatePathOptions
+, INS	Modifier@@final[95]
+, UPD	SimpleType@@CreateFileOptions[91]	TO	CreatePathOptions
+
+	UPD	SimpleName@@CreateFileOptions[91]	TO	CreatePathOptions
+, MOV	ExpressionStatement@@[144]	TO	Block@@[101]
+, MOV	ExpressionStatement@@[150]	TO	Block@@[101]
+, INS	SimpleName@@FILE_OPTIONS[89]
+, INS	MethodInvocation@@[89]
+
+	INS	MethodInvocation@@[89]
+
+	INS	MethodInvocation@@[89]
+
+	INS	ClassInstanceCreation@@[89]
+
+	INS	SimpleType@@CreatePathOptions.Builder[89]
+
+	INS	QualifiedName@@CreatePathOptions.Builder[89]
+
+	INS	MethodInvocation@@[91]
+
+	INS	SimpleName@@MasterContext[91]
+
+	INS	SimpleName@@getConf[91]
+
+	INS	SimpleName@@setBlockSizeBytes[91]
+
+	INS	QualifiedName@@Constants.KB[91]
+
+	INS	SimpleName@@setPermissionStatus[92]
+
+	INS	SimpleName@@TEST_PERMISSION_STATUS_2[92]
+
+	INS	SimpleName@@build[92]
+, INS	SimpleName@@WEIRD_FILE_OPTIONS[93]
+, INS	MethodInvocation@@[93]
+
+	INS	MethodInvocation@@[93]
+
+	INS	MethodInvocation@@[93]
+
+	INS	ClassInstanceCreation@@[93]
+
+	INS	SimpleType@@CreatePathOptions.Builder[93]
+
+	INS	QualifiedName@@CreatePathOptions.Builder[93]
+
+	INS	MethodInvocation@@[94]
+
+	INS	SimpleName@@MasterContext[94]
+
+	INS	SimpleName@@getConf[94]
+
+	INS	SimpleName@@setBlockSizeBytes[94]
+
+	INS	QualifiedName@@Constants.KB[94]
+
+	INS	SimpleName@@setPermissionStatus[95]
+
+	INS	SimpleName@@TEST_PERMISSION_STATUS_WEIRD[95]
+
+	INS	SimpleName@@build[95]
+, INS	SimpleName@@NESTED_FILE_OPTIONS[96]
+, INS	MethodInvocation@@[96]
+
+	INS	MethodInvocation@@[96]
+
+	INS	MethodInvocation@@[96]
+
+	INS	MethodInvocation@@[96]
+
+	INS	ClassInstanceCreation@@[96]
+
+	INS	SimpleType@@CreatePathOptions.Builder[96]
+
+	INS	QualifiedName@@CreatePathOptions.Builder[96]
+
+	INS	MethodInvocation@@[97]
+
+	INS	SimpleName@@MasterContext[97]
+
+	INS	SimpleName@@getConf[97]
+
+	INS	SimpleName@@setBlockSizeBytes[97]
+
+	INS	QualifiedName@@Constants.KB[97]
+
+	INS	SimpleName@@setPermissionStatus[98]
+
+	INS	SimpleName@@TEST_PERMISSION_STATUS_1[98]
+
+	INS	SimpleName@@setRecursive[98]
+
+	INS	BooleanLiteral@@true[98]
+
+	INS	SimpleName@@build[98]
+, UPD	SimpleName@@sNestedFileOptions[157]	TO	NESTED_FILE_OPTIONS
+, UPD	SimpleName@@sFileOptions[161]	TO	FILE_OPTIONS
+, UPD	SimpleName@@sWeirdFileOptions[162]	TO	WEIRD_FILE_OPTIONS
+, DEL	SimpleName@@sFileOptions[89]
+, DEL	SimpleName@@sWeirdFileOptions[89]
+, DEL	SimpleName@@sNestedFileOptions[91]
+, DEL	ExpressionStatement@@[119]
+
+	DEL	Assignment@@=[119]
+
+	DEL	SimpleName@@sFileOptions[119]
+
+	DEL	MethodInvocation@@[120]
+
+	DEL	MethodInvocation@@[120]
+
+	DEL	MethodInvocation@@[120]
+
+	DEL	SimpleName@@CreateFileOptions[120]
+
+	DEL	SimpleName@@defaults[120]
+
+	DEL	SimpleName@@setBlockSizeBytes[122]
+
+	DEL	QualifiedName@@Constants.KB[124]
+
+	DEL	SimpleName@@setPermissionStatus[125]
+
+	DEL	SimpleName@@TEST_PERMISSION_STATUS_2[125]
+, DEL	ExpressionStatement@@[126]
+
+	DEL	Assignment@@=[126]
+
+	DEL	SimpleName@@sWeirdFileOptions[126]
+
+	DEL	MethodInvocation@@[126]
+
+	DEL	MethodInvocation@@[126]
+
+	DEL	MethodInvocation@@[126]
+
+	DEL	SimpleName@@CreateFileOptions[126]
+
+	DEL	SimpleName@@defaults[126]
+
+	DEL	SimpleName@@setBlockSizeBytes[126]
+
+	DEL	QualifiedName@@Constants.KB[127]
+
+	DEL	SimpleName@@setPermissionStatus[127]
+
+	DEL	SimpleName@@TEST_PERMISSION_STATUS_WEIRD[127]
+, DEL	ExpressionStatement@@[128]
+
+	DEL	Assignment@@=[128]
+
+	DEL	SimpleName@@sNestedFileOptions[128]
+
+	DEL	MethodInvocation@@[128]
+
+	DEL	MethodInvocation@@[128]
+
+	DEL	MethodInvocation@@[128]
+
+	DEL	MethodInvocation@@[128]
+
+	DEL	SimpleName@@CreateFileOptions[128]
+
+	DEL	SimpleName@@defaults[128]
+
+	DEL	SimpleName@@setBlockSizeBytes[128]
+
+	DEL	QualifiedName@@Constants.KB[129]
+
+	DEL	SimpleName@@setPermissionStatus[129]
+
+	DEL	SimpleName@@TEST_PERMISSION_STATUS_1[129]
+
+	DEL	SimpleName@@setRecursive[130]
+
+	DEL	BooleanLiteral@@true[130]
+]

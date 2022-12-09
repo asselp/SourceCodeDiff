@@ -1,0 +1,21 @@
+[INS	ImportDeclaration@@[17]
+
+	INS	QualifiedName@@com.hazelcast.internal.cluster.impl.ClusterDataSerializerHook[17]
+, INS	MethodDeclaration@@[33]
+
+	INS	MarkerAnnotation@@[33]
+
+	INS	SimpleName@@Override[33]
+
+	INS	Modifier@@public[33]
+
+	INS	PrimitiveType@@int[33]
+
+	INS	SimpleName@@getId[34]
+
+	INS	Block@@[36]
+
+	INS	ReturnStatement@@[36]
+
+	INS	QualifiedName@@ClusterDataSerializerHook.TRIGGER_MEMBER_LIST_PUBLISH[37]
+]

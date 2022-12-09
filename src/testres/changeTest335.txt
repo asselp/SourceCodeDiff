@@ -1,0 +1,29 @@
+[INS	ImportDeclaration@@[26]
+
+	INS	QualifiedName@@java.util.Locale[26]
+, INS	ExpressionStatement@@[186]
+
+	INS	MethodInvocation@@[186]
+
+	INS	SimpleName@@vc[186]
+
+	INS	SimpleName@@put[186]
+
+	INS	StringLiteral@@"lang"[187]
+
+	INS	MethodInvocation@@[187]
+
+	INS	MethodInvocation@@[187]
+
+	INS	ParenthesizedExpression@@[187]
+
+	INS	ClassInstanceCreation@@[187]
+
+	INS	SimpleType@@ResourceLoader[187]
+
+	INS	SimpleName@@ResourceLoader[187]
+
+	INS	SimpleName@@getLocale[187]
+
+	INS	SimpleName@@toString[187]
+]

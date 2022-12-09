@@ -1,0 +1,4 @@
+[UPD	QualifiedName@@org.elasticsearch.painless.lookup.PainlessLookupUtility[28]	TO	org.elasticsearch.painless.ScriptRoot
+, UPD	QualifiedName@@org.elasticsearch.painless.lookup.def[29]	TO	org.elasticsearch.painless.lookup.PainlessLookupUtility
+, UPD	QualifiedName@@org.elasticsearch.painless.ScriptRoot[30]	TO	org.elasticsearch.painless.lookup.def
+]

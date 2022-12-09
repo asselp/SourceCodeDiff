@@ -1,0 +1,161 @@
+[INS	ImportDeclaration@@[23]
+
+	INS	QualifiedName@@org.jboss.arquillian.container.test.api.Deployment[23]
+, INS	ImportDeclaration@@[25]
+
+	INS	QualifiedName@@org.jboss.arquillian.container.test.api.TargetsContainer[25]
+, INS	ImportDeclaration@@[26]
+
+	INS	QualifiedName@@org.jboss.as.test.clustering.cluster.ejb.forwarding.bean.forwarding.NonTxForwardingStatefulSBImpl[26]
+, INS	ImportDeclaration@@[28]
+
+	INS	QualifiedName@@org.jboss.shrinkwrap.api.Archive[28]
+, INS	SimpleType@@AbstractRemoteEJBForwardingTestCase[36]
+
+	INS	SimpleName@@AbstractRemoteEJBForwardingTestCase[36]
+, INS	FieldDeclaration@@[36]
+
+	INS	Modifier@@public[36]
+
+	INS	Modifier@@static[36]
+
+	INS	Modifier@@final[36]
+
+	INS	SimpleType@@String[36]
+
+	INS	SimpleName@@String[36]
+
+	INS	VariableDeclarationFragment@@[36]
+
+	INS	SimpleName@@MODULE_NAME[36]
+
+	INS	MethodInvocation@@[38]
+
+	INS	TypeLiteral@@[38]
+
+	INS	SimpleType@@NonTxClientEJBForwardingTestCase[38]
+
+	INS	SimpleName@@getSimpleName[38]
+, INS	MethodDeclaration@@[41]
+
+	INS	NormalAnnotation@@[41]
+
+	INS	SimpleName@@Deployment[41]
+
+	INS	MemberValuePair@@[41]
+
+	INS	SimpleName@@name[41]
+
+	INS	SimpleName@@DEPLOYMENT_1[41]
+
+	INS	MemberValuePair@@[42]
+
+	INS	SimpleName@@managed[42]
+
+	INS	BooleanLiteral@@false[44]
+
+	INS	MemberValuePair@@[44]
+
+	INS	SimpleName@@testable[44]
+
+	INS	BooleanLiteral@@false[44]
+
+	INS	SingleMemberAnnotation@@[44]
+
+	INS	SimpleName@@TargetsContainer[44]
+
+	INS	SimpleName@@NODE_1[44]
+
+	INS	Modifier@@public[44]
+
+	INS	Modifier@@static[44]
+
+	INS	ParameterizedType@@Archive<?>[45]
+
+	INS	SimpleType@@Archive[45]
+
+	INS	SimpleName@@Archive[45]
+
+	INS	WildcardType@@?[45]
+
+	INS	SimpleName@@deployment1[45]
+
+	INS	Block@@[45]
+
+	INS	ReturnStatement@@[46]
+
+	INS	MethodInvocation@@[46]
+
+	INS	SimpleName@@createForwardingDeployment[46]
+
+	INS	SimpleName@@MODULE_NAME[46]
+
+	INS	BooleanLiteral@@false[47]
+, INS	MethodDeclaration@@[47]
+
+	INS	NormalAnnotation@@[47]
+
+	INS	SimpleName@@Deployment[47]
+
+	INS	MemberValuePair@@[47]
+
+	INS	SimpleName@@name[47]
+
+	INS	SimpleName@@DEPLOYMENT_2[47]
+
+	INS	MemberValuePair@@[47]
+
+	INS	SimpleName@@managed[47]
+
+	INS	BooleanLiteral@@false[49]
+
+	INS	MemberValuePair@@[50]
+
+	INS	SimpleName@@testable[50]
+
+	INS	BooleanLiteral@@false[50]
+
+	INS	SingleMemberAnnotation@@[50]
+
+	INS	SimpleName@@TargetsContainer[50]
+
+	INS	SimpleName@@NODE_2[50]
+
+	INS	Modifier@@public[50]
+
+	INS	Modifier@@static[50]
+
+	INS	ParameterizedType@@Archive<?>[50]
+
+	INS	SimpleType@@Archive[50]
+
+	INS	SimpleName@@Archive[50]
+
+	INS	WildcardType@@?[51]
+
+	INS	SimpleName@@deployment2[51]
+
+	INS	Block@@[51]
+
+	INS	ReturnStatement@@[52]
+
+	INS	MethodInvocation@@[52]
+
+	INS	SimpleName@@createForwardingDeployment[52]
+
+	INS	SimpleName@@MODULE_NAME[52]
+
+	INS	BooleanLiteral@@false[53]
+, INS	MethodInvocation@@[41]
+
+	INS	TypeLiteral@@[41]
+
+	INS	SimpleType@@NonTxForwardingStatefulSBImpl[41]
+
+	INS	SimpleName@@NonTxForwardingStatefulSBImpl[41]
+
+	INS	SimpleName@@getSimpleName[41]
+, UPD	SimpleName@@NonTxRemoteEJBForwardingTestCase[32]	TO	NonTxClientEJBForwardingTestCase
+, MOV	SimpleName@@NonTxRemoteEJBForwardingTestCase[32]	TO	SimpleType@@NonTxClientEJBForwardingTestCase[38]
+, DEL	SimpleType@@NonTxRemoteEJBForwardingTestCase[32]
+]

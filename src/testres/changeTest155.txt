@@ -1,0 +1,12 @@
+[INS	ConditionalExpression@@[105]
+
+	INS	MethodInvocation@@[105]
+
+	INS	BooleanLiteral@@false[108]
+, MOV	MethodInvocation@@[108]	TO	ConditionalExpression@@[105]
+, MOV	SimpleName@@addedElementsIterator[105]	TO	MethodInvocation@@[105]
+, MOV	SimpleName@@hasNext[105]	TO	MethodInvocation@@[105]
+, DEL	InfixExpression@@&&[105]
+
+	DEL	MethodInvocation@@[105]
+]

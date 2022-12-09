@@ -1,0 +1,10 @@
+[INS	VariableDeclarationFragment@@[75]
+
+	INS	SimpleName@@map[75]
+, INS	VariableDeclarationFragment@@[78]
+
+	INS	SimpleName@@map[78]
+, INS	VariableDeclarationFragment@@[81]
+
+	INS	SimpleName@@map[81]
+]

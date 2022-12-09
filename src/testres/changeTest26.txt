@@ -1,0 +1,45 @@
+[DEL	ImportDeclaration@@[35]
+
+	DEL	QualifiedName@@org.elasticsearch.cluster.routing.DelayedAllocationService[35]
+, DEL	ImportDeclaration@@[52]
+
+	DEL	QualifiedName@@org.elasticsearch.cluster.routing.allocation.decider.MaxRetryAllocationDecider[52]
+, DEL	ImportDeclaration@@[65]
+
+	DEL	QualifiedName@@org.elasticsearch.tasks.TaskResultsService[65]
+, DEL	TypeLiteral@@[83]
+
+	DEL	SimpleType@@MaxRetryAllocationDecider[83]
+
+	DEL	SimpleName@@MaxRetryAllocationDecider[83]
+, DEL	ExpressionStatement@@[153]
+
+	DEL	MethodInvocation@@[153]
+
+	DEL	MethodInvocation@@[153]
+
+	DEL	SimpleName@@bind[153]
+
+	DEL	TypeLiteral@@[153]
+
+	DEL	SimpleType@@DelayedAllocationService[153]
+
+	DEL	SimpleName@@DelayedAllocationService[153]
+
+	DEL	SimpleName@@asEagerSingleton[154]
+, DEL	ExpressionStatement@@[158]
+
+	DEL	MethodInvocation@@[158]
+
+	DEL	MethodInvocation@@[158]
+
+	DEL	SimpleName@@bind[158]
+
+	DEL	TypeLiteral@@[158]
+
+	DEL	SimpleType@@TaskResultsService[158]
+
+	DEL	SimpleName@@TaskResultsService[158]
+
+	DEL	SimpleName@@asEagerSingleton[159]
+]

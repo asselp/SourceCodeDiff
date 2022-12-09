@@ -1,0 +1,149 @@
+[INS	ImportDeclaration@@[58]
+
+	INS	QualifiedName@@org.sakaiproject.entity.api.EntityTransferrerRefMigrator[59]
+, INS	SimpleType@@EntityTransferrerRefMigrator[87]
+
+	INS	SimpleName@@EntityTransferrerRefMigrator[87]
+, INS	MethodDeclaration@@[1072]
+
+	INS	Modifier@@public[1072]
+
+	INS	PrimitiveType@@void[1073]
+
+	INS	SimpleName@@transferCopyEntities[1073]
+
+	INS	SingleVariableDeclaration@@[1077]
+
+	INS	SimpleType@@String[1077]
+
+	INS	SimpleName@@String[1077]
+
+	INS	SimpleName@@fromContext[1077]
+
+	INS	SingleVariableDeclaration@@[1077]
+
+	INS	SimpleType@@String[1077]
+
+	INS	SimpleName@@String[1077]
+
+	INS	SimpleName@@toContext[1077]
+
+	INS	SingleVariableDeclaration@@[1079]
+
+	INS	ParameterizedType@@List<String>[1079]
+
+	INS	SimpleType@@List[1079]
+
+	INS	SimpleName@@List[1079]
+
+	INS	SimpleType@@String[1079]
+
+	INS	SimpleName@@String[1079]
+
+	INS	SimpleName@@ids[1079]
+
+	INS	Block@@[1079]
+
+	INS	ExpressionStatement@@[1079]
+
+	INS	MethodInvocation@@[1079]
+
+	INS	SimpleName@@transferCopyEntitiesRefMigrator[1079]
+
+	INS	SimpleName@@fromContext[1081]
+
+	INS	SimpleName@@toContext[1081]
+
+	INS	SimpleName@@ids[1081]
+, INS	MethodDeclaration@@[1274]
+
+	INS	Modifier@@public[1274]
+
+	INS	PrimitiveType@@void[1274]
+
+	INS	SimpleName@@transferCopyEntities[1274]
+
+	INS	SingleVariableDeclaration@@[1276]
+
+	INS	SimpleType@@String[1276]
+
+	INS	SimpleName@@String[1276]
+
+	INS	SimpleName@@fromContext[1276]
+
+	INS	SingleVariableDeclaration@@[1276]
+
+	INS	SimpleType@@String[1276]
+
+	INS	SimpleName@@String[1276]
+
+	INS	SimpleName@@toContext[1276]
+
+	INS	SingleVariableDeclaration@@[1276]
+
+	INS	ParameterizedType@@List<String>[1276]
+
+	INS	SimpleType@@List[1276]
+
+	INS	SimpleName@@List[1276]
+
+	INS	SimpleType@@String[1276]
+
+	INS	SimpleName@@String[1276]
+
+	INS	SimpleName@@ids[1276]
+
+	INS	SingleVariableDeclaration@@[1276]
+
+	INS	PrimitiveType@@boolean[1276]
+
+	INS	SimpleName@@cleanup[1276]
+
+	INS	Block@@[1276]
+
+	INS	ExpressionStatement@@[1276]
+
+	INS	MethodInvocation@@[1276]
+
+	INS	SimpleName@@transferCopyEntitiesRefMigrator[1276]
+
+	INS	SimpleName@@fromContext[1277]
+
+	INS	SimpleName@@toContext[1279]
+
+	INS	SimpleName@@ids[1280]
+
+	INS	SimpleName@@cleanup[1280]
+, UPD	SimpleName@@transferCopyEntities[1076]	TO	transferCopyEntitiesRefMigrator
+, UPD	SimpleName@@transferCopyEntities[1270]	TO	transferCopyEntitiesRefMigrator
+, UPD	SimpleName@@transferCopyEntities[1297]	TO	transferCopyEntitiesRefMigrator
+, UPD	StringLiteral@@"transfer copy syllbus itmes by transferCopyEntities"[1083]	TO	"transfer copy syllbus itmes by transferCopyEntitiesRefMigrator"
+, UPD	StringLiteral@@"Syllabus transferCopyEntities failed"[1294]	TO	"Syllabus transferCopyEntitiesRefMigrator failed"
+, DEL	SingleVariableDeclaration@@[1078]
+
+	DEL	ParameterizedType@@List<String>[1078]
+
+	DEL	SimpleType@@List[1078]
+
+	DEL	SimpleName@@List[1078]
+
+	DEL	SimpleType@@String[1079]
+
+	DEL	SimpleName@@String[1079]
+
+	DEL	SimpleName@@options[1080]
+, DEL	SingleVariableDeclaration@@[1270]
+
+	DEL	ParameterizedType@@List<String>[1270]
+
+	DEL	SimpleType@@List[1270]
+
+	DEL	SimpleName@@List[1270]
+
+	DEL	SimpleType@@String[1270]
+
+	DEL	SimpleName@@String[1270]
+
+	DEL	SimpleName@@options[1271]
+, DEL	NullLiteral@@[1300]
+]

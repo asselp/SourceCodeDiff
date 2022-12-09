@@ -1,0 +1,17 @@
+[DEL	ImportDeclaration@@[26]
+
+	DEL	QualifiedName@@io.crate.metadata.information.MetaDataInformationModule[26]
+, DEL	ExpressionStatement@@[110]
+
+	DEL	MethodInvocation@@[110]
+
+	DEL	SimpleName@@modules[110]
+
+	DEL	SimpleName@@add[110]
+
+	DEL	TypeLiteral@@[110]
+
+	DEL	SimpleType@@MetaDataInformationModule[110]
+
+	DEL	SimpleName@@MetaDataInformationModule[110]
+]

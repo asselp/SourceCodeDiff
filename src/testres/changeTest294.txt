@@ -1,0 +1,19 @@
+[DEL	VariableDeclarationStatement@@[390]
+
+	DEL	PrimitiveType@@boolean[390]
+
+	DEL	VariableDeclarationFragment@@[390]
+
+	DEL	SimpleName@@returnSummary[390]
+
+	DEL	InfixExpression@@!=[390]
+
+	DEL	MethodInvocation@@[390]
+
+	DEL	SimpleName@@context[390]
+
+	DEL	SimpleName@@SUMMARY[391]
+
+	DEL	NullLiteral@@[391]
+, DEL	SimpleName@@returnSummary[396]
+]

@@ -1,0 +1,28 @@
+[DEL	MethodDeclaration@@[65]
+
+	DEL	Modifier@@public[65]
+
+	DEL	PrimitiveType@@void[65]
+
+	DEL	SimpleName@@destroy[65]
+
+	DEL	Block@@[65]
+
+	DEL	IfStatement@@[65]
+
+	DEL	InfixExpression@@!=[65]
+
+	DEL	SimpleName@@mHybridData[65]
+
+	DEL	NullLiteral@@[65]
+
+	DEL	Block@@[65]
+
+	DEL	ExpressionStatement@@[66]
+
+	DEL	MethodInvocation@@[66]
+
+	DEL	SimpleName@@mHybridData[66]
+
+	DEL	SimpleName@@resetNative[68]
+]

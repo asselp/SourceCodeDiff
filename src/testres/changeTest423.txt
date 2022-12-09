@@ -1,0 +1,434 @@
+[INS	ImportDeclaration@@[14]
+
+	INS	QualifiedName@@java.io.BufferedReader[14]
+, INS	ImportDeclaration@@[17]
+
+	INS	QualifiedName@@java.io.InputStream[17]
+, INS	ImportDeclaration@@[18]
+
+	INS	QualifiedName@@java.io.InputStreamReader[18]
+, INS	MethodDeclaration@@[230]
+
+	INS	Modifier@@public[230]
+
+	INS	Modifier@@static[230]
+
+	INS	ParameterizedType@@Set<String>[230]
+
+	INS	SimpleType@@Set[230]
+
+	INS	SimpleName@@Set[230]
+
+	INS	SimpleType@@String[230]
+
+	INS	SimpleName@@String[230]
+
+	INS	SimpleName@@getContainersForApp[230]
+
+	INS	Block@@[231]
+
+	INS	ReturnStatement@@[231]
+
+	INS	MethodInvocation@@[231]
+
+	INS	SimpleName@@getContainersForApp[231]
+
+	INS	SimpleName@@TENANT_NAME[232]
+
+	INS	SimpleName@@APPLICATION_NAME[232]
+
+	INS	StringLiteral@@"default"[232]
+, INS	MethodDeclaration@@[232]
+
+	INS	Modifier@@public[232]
+
+	INS	Modifier@@static[232]
+
+	INS	ParameterizedType@@Set<String>[232]
+
+	INS	SimpleType@@Set[232]
+
+	INS	SimpleName@@Set[232]
+
+	INS	SimpleType@@String[232]
+
+	INS	SimpleName@@String[232]
+
+	INS	SimpleName@@getContainersForApp[232]
+
+	INS	SingleVariableDeclaration@@[232]
+
+	INS	SimpleType@@String[232]
+
+	INS	SimpleName@@String[232]
+
+	INS	SimpleName@@tenant[232]
+
+	INS	SingleVariableDeclaration@@[232]
+
+	INS	SimpleType@@String[232]
+
+	INS	SimpleName@@String[232]
+
+	INS	SimpleName@@application[232]
+
+	INS	SingleVariableDeclaration@@[233]
+
+	INS	SimpleType@@String[233]
+
+	INS	SimpleName@@String[233]
+
+	INS	SimpleName@@instance[234]
+
+	INS	Block@@[236]
+
+	INS	VariableDeclarationStatement@@[236]
+
+	INS	SimpleType@@String[236]
+
+	INS	SimpleName@@String[236]
+
+	INS	VariableDeclarationFragment@@[236]
+
+	INS	SimpleName@@app[236]
+
+	INS	MethodInvocation@@[236]
+
+	INS	SimpleName@@String[236]
+
+	INS	SimpleName@@join[236]
+
+	INS	StringLiteral@@"."[236]
+
+	INS	SimpleName@@tenant[236]
+
+	INS	SimpleName@@application[236]
+
+	INS	SimpleName@@instance[237]
+
+	INS	VariableDeclarationStatement@@[237]
+
+	INS	SimpleType@@Map[237]
+
+	INS	SimpleName@@Map[237]
+
+	INS	VariableDeclarationFragment@@[237]
+
+	INS	SimpleName@@response[237]
+
+	INS	MethodInvocation@@[237]
+
+	INS	SimpleName@@requestExecutor[237]
+
+	INS	SimpleName@@get[237]
+
+	INS	InfixExpression@@+[237]
+
+	INS	StringLiteral@@"/nodes/v2/node/?recursive=true&clusterType=container&application="[237]
+
+	INS	SimpleName@@app[240]
+
+	INS	SimpleName@@CONFIG_SERVER_WEB_SERVICE_PORT[240]
+
+	INS	TypeLiteral@@[240]
+
+	INS	SimpleType@@Map[240]
+
+	INS	SimpleName@@Map[240]
+
+	INS	VariableDeclarationStatement@@[241]
+
+	INS	ParameterizedType@@List<Map>[241]
+
+	INS	SimpleType@@List[241]
+
+	INS	SimpleName@@List[241]
+
+	INS	SimpleType@@Map[241]
+
+	INS	SimpleName@@Map[241]
+
+	INS	VariableDeclarationFragment@@[241]
+
+	INS	SimpleName@@nodes[241]
+
+	INS	CastExpression@@[241]
+
+	INS	ParameterizedType@@List<Map>[241]
+
+	INS	SimpleType@@List[241]
+
+	INS	SimpleName@@List[241]
+
+	INS	SimpleType@@Map[241]
+
+	INS	SimpleName@@Map[241]
+
+	INS	MethodInvocation@@[241]
+
+	INS	SimpleName@@response[241]
+
+	INS	SimpleName@@get[241]
+
+	INS	StringLiteral@@"nodes"[241]
+
+	INS	ReturnStatement@@[242]
+
+	INS	MethodInvocation@@[242]
+
+	INS	MethodInvocation@@[242]
+
+	INS	MethodInvocation@@[242]
+
+	INS	SimpleName@@nodes[242]
+
+	INS	SimpleName@@stream[242]
+
+	INS	SimpleName@@map[242]
+
+	INS	LambdaExpression@@[242]
+
+	INS	VariableDeclarationFragment@@[242]
+
+	INS	SimpleName@@nodeMap[242]
+
+	INS	CastExpression@@[242]
+
+	INS	SimpleType@@String[242]
+
+	INS	SimpleName@@String[242]
+
+	INS	MethodInvocation@@[242]
+
+	INS	SimpleName@@nodeMap[242]
+
+	INS	SimpleName@@get[242]
+
+	INS	StringLiteral@@"hostname"[242]
+
+	INS	SimpleName@@collect[242]
+
+	INS	MethodInvocation@@[242]
+
+	INS	SimpleName@@Collectors[242]
+
+	INS	SimpleName@@toSet[242]
+, INS	MethodDeclaration@@[242]
+
+	INS	Modifier@@public[242]
+
+	INS	Modifier@@static[243]
+
+	INS	PrimitiveType@@void[243]
+
+	INS	SimpleName@@packageApp[243]
+
+	INS	SingleVariableDeclaration@@[243]
+
+	INS	SimpleType@@Path[243]
+
+	INS	SimpleName@@Path[243]
+
+	INS	SimpleName@@pathToApp[243]
+
+	INS	Block@@[243]
+
+	INS	TryStatement@@[243]
+
+	INS	Block@@[243]
+
+	INS	VariableDeclarationStatement@@[244]
+
+	INS	SimpleType@@InputStream[244]
+
+	INS	SimpleName@@InputStream[244]
+
+	INS	VariableDeclarationFragment@@[244]
+
+	INS	SimpleName@@is[244]
+
+	INS	MethodInvocation@@[244]
+
+	INS	MethodInvocation@@[244]
+
+	INS	MethodInvocation@@[244]
+
+	INS	SimpleName@@Runtime[244]
+
+	INS	SimpleName@@getRuntime[244]
+
+	INS	SimpleName@@exec[244]
+
+	INS	StringLiteral@@"mvn package"[244]
+
+	INS	NullLiteral@@[245]
+
+	INS	MethodInvocation@@[245]
+
+	INS	SimpleName@@pathToApp[245]
+
+	INS	SimpleName@@toFile[245]
+
+	INS	SimpleName@@getInputStream[245]
+
+	INS	VariableDeclarationStatement@@[245]
+
+	INS	SimpleType@@InputStreamReader[245]
+
+	INS	SimpleName@@InputStreamReader[245]
+
+	INS	VariableDeclarationFragment@@[245]
+
+	INS	SimpleName@@isr[245]
+
+	INS	ClassInstanceCreation@@[245]
+
+	INS	SimpleType@@InputStreamReader[245]
+
+	INS	SimpleName@@InputStreamReader[245]
+
+	INS	SimpleName@@is[246]
+
+	INS	VariableDeclarationStatement@@[248]
+
+	INS	SimpleType@@BufferedReader[248]
+
+	INS	SimpleName@@BufferedReader[248]
+
+	INS	VariableDeclarationFragment@@[248]
+
+	INS	SimpleName@@buff[248]
+
+	INS	ClassInstanceCreation@@[248]
+
+	INS	SimpleType@@BufferedReader[248]
+
+	INS	SimpleName@@BufferedReader[248]
+
+	INS	SimpleName@@isr[248]
+
+	INS	VariableDeclarationStatement@@[250]
+
+	INS	SimpleType@@String[250]
+
+	INS	SimpleName@@String[250]
+
+	INS	VariableDeclarationFragment@@[250]
+
+	INS	SimpleName@@line[250]
+
+	INS	WhileStatement@@[250]
+
+	INS	InfixExpression@@!=[250]
+
+	INS	ParenthesizedExpression@@[250]
+
+	INS	Assignment@@=[250]
+
+	INS	SimpleName@@line[250]
+
+	INS	MethodInvocation@@[250]
+
+	INS	SimpleName@@buff[250]
+
+	INS	SimpleName@@readLine[250]
+
+	INS	NullLiteral@@[250]
+
+	INS	ExpressionStatement@@[250]
+
+	INS	MethodInvocation@@[250]
+
+	INS	QualifiedName@@System.out[250]
+
+	INS	SimpleName@@println[250]
+
+	INS	SimpleName@@line[250]
+
+	INS	CatchClause@@[250]
+
+	INS	SingleVariableDeclaration@@[250]
+
+	INS	SimpleType@@IOException[250]
+
+	INS	SimpleName@@IOException[250]
+
+	INS	SimpleName@@e[252]
+
+	INS	Block@@[252]
+
+	INS	ThrowStatement@@[252]
+
+	INS	ClassInstanceCreation@@[252]
+
+	INS	SimpleType@@RuntimeException[252]
+
+	INS	SimpleName@@RuntimeException[252]
+
+	INS	StringLiteral@@"Failed to package application"[252]
+
+	INS	SimpleName@@e[253]
+, MOV	MethodInvocation@@[58]	TO	ExpressionStatement@@[59]
+, UPD	SimpleName@@withUlimit[70]	TO	create
+, INS	ExpressionStatement@@[178]
+
+	INS	MethodInvocation@@[178]
+
+	INS	SimpleName@@provisionNodeRequest[178]
+
+	INS	SimpleName@@put[178]
+
+	INS	StringLiteral@@"ipAddress"[178]
+
+	INS	InfixExpression@@+[178]
+
+	INS	StringLiteral@@"172.18.2."[178]
+
+	INS	SimpleName@@i[179]
+, UPD	StringLiteral@@"nproc"[69]	TO	"core"
+, INS	PrefixExpression@@-[72]
+
+	INS	NumberLiteral@@1[72]
+, INS	PrefixExpression@@-[72]
+
+	INS	NumberLiteral@@1[72]
+, UPD	StringLiteral@@"nofile"[68]	TO	"nproc"
+, UPD	NumberLiteral@@16384[68]	TO	409600
+, UPD	NumberLiteral@@16384[68]	TO	409600
+, UPD	SimpleName@@withEntrypoint[67]	TO	withUlimit
+, INS	StringLiteral@@"nofile"[70]
+, INS	NumberLiteral@@16384[70]
+, INS	NumberLiteral@@16384[70]
+, UPD	SimpleName@@withEnvironment[66]	TO	withEntrypoint
+, MOV	MethodInvocation@@[67]	TO	MethodInvocation@@[59]
+, UPD	StringLiteral@@"HOSTED_VESPA_REGION"[65]	TO	"CONFIG_SERVER_HOSTNAME"
+, UPD	SimpleName@@environment[65]	TO	CONFIG_SERVER_HOSTNAME
+, MOV	SimpleName@@environment[65]	TO	MethodInvocation@@[59]
+, UPD	StringLiteral@@"HOSTED_VESPA_ENVIRONMENT"[64]	TO	"HOSTED_VESPA_REGION"
+, UPD	SimpleName@@withVolume[63]	TO	withEnvironment
+, UPD	StringLiteral@@"/etc/hosts"[63]	TO	"HOSTED_VESPA_ENVIRONMENT"
+, INS	MethodInvocation@@[66]
+
+	INS	SimpleName@@environment[66]
+
+	INS	SimpleName@@getEnvironment[67]
+, UPD	SimpleName@@getEnvironment[65]	TO	getRegion
+, DEL	StringLiteral@@"/etc/hosts"[63]
+, DEL	MethodInvocation@@[65]
+
+	DEL	SimpleName@@getRegion[66]
+, DEL	StringLiteral@@"CONFIG_SERVER_HOSTNAME"[66]
+, DEL	SimpleName@@CONFIG_SERVER_HOSTNAME[66]
+, DEL	NumberLiteral@@409600[69]
+, DEL	NumberLiteral@@409600[69]
+, DEL	StringLiteral@@"core"[70]
+, DEL	PrefixExpression@@-[70]
+
+	DEL	NumberLiteral@@1[70]
+, DEL	PrefixExpression@@-[70]
+
+	DEL	NumberLiteral@@1[70]
+, DEL	MethodInvocation@@[58]
+
+	DEL	SimpleName@@create[70]
+]

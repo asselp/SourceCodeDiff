@@ -1,0 +1,5 @@
+[UPD	QualifiedName@@com.hazelcast.transaction.impl.Transaction[27]	TO	com.hazelcast.transaction.impl.TransactionSupport
+, UPD	SimpleType@@Transaction[52]	TO	TransactionSupport
+
+	UPD	SimpleName@@Transaction[52]	TO	TransactionSupport
+]

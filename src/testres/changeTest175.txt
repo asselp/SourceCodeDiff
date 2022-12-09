@@ -1,0 +1,11 @@
+[UPD	QualifiedName@@org.neo4j.kernel.impl.storemigration.monitoring.MigrationProgressMonitor.Section[22]	TO	org.neo4j.kernel.impl.util.monitoring.ProgressReporter
+, UPD	SimpleType@@Section[74]	TO	ProgressReporter
+
+	UPD	SimpleName@@Section[74]	TO	ProgressReporter
+, INS	NumberLiteral@@1[38]
+, INS	NumberLiteral@@1[54]
+, UPD	SimpleName@@section[74]	TO	progressReporter
+, UPD	SimpleName@@section[74]	TO	progressReporter
+, UPD	SimpleName@@section[78]	TO	progressReporter
+, UPD	SimpleName@@section[77]	TO	progressReporter
+]

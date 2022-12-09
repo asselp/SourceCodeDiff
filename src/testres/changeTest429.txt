@@ -1,0 +1,7 @@
+[INS	QualifiedName@@initialContainerNodeSpec.nodeType[58]
+, INS	QualifiedName@@initialContainerNodeSpec.nodeFlavor[59]
+, INS	QualifiedName@@initialContainerNodeSpec.nodeType[97]
+, INS	QualifiedName@@initialContainerNodeSpec.nodeFlavor[98]
+, INS	QualifiedName@@initialContainerNodeSpec.nodeType[117]
+, INS	QualifiedName@@initialContainerNodeSpec.nodeFlavor[117]
+]

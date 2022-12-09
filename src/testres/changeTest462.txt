@@ -1,0 +1,94 @@
+[UPD	QualifiedName@@org.ballerinalang.model.values.BValue[22]	TO	org.ballerinalang.jvm.values.ObjectValue
+, INS	SimpleType@@ObjectValue[30]
+, INS	SimpleType@@ObjectValue[43]
+, UPD	SimpleName@@BValue[32]	TO	ObjectValue
+, MOV	SimpleName@@BValue[32]	TO	SimpleType@@ObjectValue[30]
+, INS	SimpleType@@ObjectValue[36]
+, UPD	SimpleName@@BValue[47]	TO	ObjectValue
+, MOV	SimpleName@@BValue[47]	TO	SimpleType@@ObjectValue[43]
+, UPD	SimpleName@@BValue[39]	TO	ObjectValue
+, MOV	SimpleName@@BValue[39]	TO	SimpleType@@ObjectValue[36]
+, DEL	ImportDeclaration@@[19]
+
+	DEL	QualifiedName@@org.ballerinalang.bre.Context[19]
+, DEL	ImportDeclaration@@[21]
+
+	DEL	QualifiedName@@org.ballerinalang.model.values.BMap[21]
+, DEL	ParameterizedType@@BMap<String,BValue>[32]
+
+	DEL	SimpleType@@BMap[32]
+
+	DEL	SimpleName@@BMap[32]
+
+	DEL	SimpleType@@String[32]
+
+	DEL	SimpleName@@String[32]
+
+	DEL	SimpleType@@BValue[32]
+, DEL	FieldDeclaration@@[35]
+
+	DEL	Modifier@@private[35]
+
+	DEL	SimpleType@@Context[35]
+
+	DEL	SimpleName@@Context[35]
+
+	DEL	VariableDeclarationFragment@@[35]
+
+	DEL	SimpleName@@context[35]
+, DEL	ParameterizedType@@BMap<String,BValue>[39]
+
+	DEL	SimpleType@@BMap[39]
+
+	DEL	SimpleName@@BMap[39]
+
+	DEL	SimpleType@@String[39]
+
+	DEL	SimpleName@@String[39]
+
+	DEL	SimpleType@@BValue[39]
+, DEL	SingleVariableDeclaration@@[39]
+
+	DEL	SimpleType@@Context[39]
+
+	DEL	SimpleName@@Context[39]
+
+	DEL	SimpleName@@context[39]
+, DEL	ExpressionStatement@@[42]
+
+	DEL	Assignment@@=[42]
+
+	DEL	FieldAccess@@[42]
+
+	DEL	ThisExpression@@[42]
+
+	DEL	SimpleName@@context[42]
+
+	DEL	SimpleName@@context[42]
+, DEL	ParameterizedType@@BMap<String,BValue>[47]
+
+	DEL	SimpleType@@BMap[47]
+
+	DEL	SimpleName@@BMap[47]
+
+	DEL	SimpleType@@String[47]
+
+	DEL	SimpleName@@String[47]
+
+	DEL	SimpleType@@BValue[47]
+, DEL	MethodDeclaration@@[70]
+
+	DEL	Modifier@@public[70]
+
+	DEL	SimpleType@@Context[70]
+
+	DEL	SimpleName@@Context[70]
+
+	DEL	SimpleName@@getContext[70]
+
+	DEL	Block@@[71]
+
+	DEL	ReturnStatement@@[71]
+
+	DEL	SimpleName@@context[71]
+]

@@ -1,0 +1,4 @@
+[INS	MethodInvocation@@[50]
+
+	INS	SimpleName@@getClass[50]
+]

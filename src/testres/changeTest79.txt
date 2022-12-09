@@ -1,0 +1,52 @@
+[INS	MarkerAnnotation@@[48]
+
+	INS	SimpleName@@Override[48]
+, MOV	ClassInstanceCreation@@[63]	TO	SuperConstructorInvocation@@[44]
+, DEL	QualifiedName@@JASPIAuthenticationResourceDefinitionAdd.INSTANCE[46]
+, DEL	FieldDeclaration@@[62]
+
+	DEL	Modifier@@static[62]
+
+	DEL	Modifier@@final[62]
+
+	DEL	SimpleType@@JASPIAuthenticationResourceDefinitionAdd[62]
+
+	DEL	SimpleName@@JASPIAuthenticationResourceDefinitionAdd[62]
+
+	DEL	VariableDeclarationFragment@@[63]
+
+	DEL	SimpleName@@INSTANCE[63]
+, DEL	MethodDeclaration@@[63]
+
+	DEL	MarkerAnnotation@@[63]
+
+	DEL	SimpleName@@Override[63]
+
+	DEL	Modifier@@protected[63]
+
+	DEL	PrimitiveType@@void[63]
+
+	DEL	SimpleName@@populateModel[63]
+
+	DEL	SingleVariableDeclaration@@[63]
+
+	DEL	SimpleType@@ModelNode[63]
+
+	DEL	SimpleName@@ModelNode[63]
+
+	DEL	SimpleName@@operation[65]
+
+	DEL	SingleVariableDeclaration@@[65]
+
+	DEL	SimpleType@@ModelNode[65]
+
+	DEL	SimpleName@@ModelNode[65]
+
+	DEL	SimpleName@@model[66]
+
+	DEL	SimpleType@@OperationFailedException[66]
+
+	DEL	SimpleName@@OperationFailedException[66]
+
+	DEL	Block@@[66]
+]

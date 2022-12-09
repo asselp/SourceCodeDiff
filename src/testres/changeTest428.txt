@@ -1,0 +1,49 @@
+[INS	ImportDeclaration@@[24]
+
+	INS	QualifiedName@@com.yahoo.vespa.hosted.provision.node.Reports[24]
+, INS	FieldDeclaration@@[65]
+
+	INS	Modifier@@private[65]
+
+	INS	Modifier@@static[65]
+
+	INS	Modifier@@final[65]
+
+	INS	SimpleType@@String[65]
+
+	INS	SimpleName@@String[65]
+
+	INS	VariableDeclarationFragment@@[65]
+
+	INS	SimpleName@@reportsKey[65]
+
+	INS	StringLiteral@@"reports"[65]
+, INS	ExpressionStatement@@[124]
+
+	INS	MethodInvocation@@[124]
+
+	INS	MethodInvocation@@[124]
+
+	INS	SimpleName@@node[124]
+
+	INS	SimpleName@@reports[124]
+
+	INS	SimpleName@@toSlime[124]
+
+	INS	SimpleName@@object[124]
+
+	INS	SimpleName@@reportsKey[124]
+, INS	MethodInvocation@@[171]
+
+	INS	SimpleName@@Reports[171]
+
+	INS	SimpleName@@fromSlime[171]
+
+	INS	MethodInvocation@@[171]
+
+	INS	SimpleName@@object[171]
+
+	INS	SimpleName@@field[171]
+
+	INS	SimpleName@@reportsKey[171]
+]

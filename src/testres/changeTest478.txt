@@ -1,0 +1,184 @@
+[INS	ImportDeclaration@@[33]
+
+	INS	QualifiedName@@io.ballerina.plugins.idea.sdk.BallerinaSdkUtils.getMajorVersion[33]
+, INS	ImportDeclaration@@[35]
+
+	INS	QualifiedName@@io.ballerina.plugins.idea.sdk.BallerinaSdkUtils.getMinorVersion[35]
+, INS	InfixExpression@@||[71]
+
+	INS	PrefixExpression@@![71]
+
+	INS	PrefixExpression@@![72]
+
+	INS	MethodInvocation@@[72]
+
+	INS	MethodInvocation@@[72]
+
+	INS	SimpleName@@getMinorVersion[72]
+
+	INS	SimpleName@@sdkVersion[72]
+
+	INS	SimpleName@@equals[72]
+
+	INS	MethodInvocation@@[72]
+
+	INS	SimpleName@@getMinorVersion[72]
+
+	INS	SimpleName@@pluginVersion[73]
+, MOV	MethodInvocation@@[68]	TO	PrefixExpression@@![71]
+, UPD	BooleanLiteral@@false[70]	TO	true
+, INS	InfixExpression@@||[81]
+
+	INS	PrefixExpression@@![81]
+
+	INS	PrefixExpression@@![83]
+
+	INS	MethodInvocation@@[83]
+
+	INS	MethodInvocation@@[83]
+
+	INS	SimpleName@@getMinorVersion[83]
+
+	INS	SimpleName@@sdkVersion[83]
+
+	INS	SimpleName@@equals[83]
+
+	INS	MethodInvocation@@[83]
+
+	INS	SimpleName@@getMinorVersion[83]
+
+	INS	SimpleName@@pluginVersion[83]
+, UPD	SimpleName@@sdkVersion[68]	TO	getMajorVersion
+, UPD	SimpleName@@trim[68]	TO	sdkVersion
+, UPD	SimpleName@@pluginVersion[68]	TO	getMajorVersion
+, UPD	SimpleName@@trim[68]	TO	pluginVersion
+, MOV	MethodInvocation@@[77]	TO	PrefixExpression@@![81]
+, UPD	SimpleName@@sdkVersion[77]	TO	getMajorVersion
+, UPD	SimpleName@@trim[77]	TO	sdkVersion
+, UPD	SimpleName@@pluginVersion[78]	TO	getMajorVersion
+, UPD	SimpleName@@trim[78]	TO	pluginVersion
+, DEL	PrefixExpression@@![68]
+, DEL	PrefixExpression@@![77]
+, DEL	MethodDeclaration@@[80]
+
+	DEL	MarkerAnnotation@@[80]
+
+	DEL	SimpleName@@NotNull[80]
+
+	DEL	Modifier@@private[81]
+
+	DEL	SimpleType@@String[81]
+
+	DEL	SimpleName@@String[81]
+
+	DEL	SimpleName@@getMajorVersion[82]
+
+	DEL	SingleVariableDeclaration@@[83]
+
+	DEL	MarkerAnnotation@@[83]
+
+	DEL	SimpleName@@NotNull[83]
+
+	DEL	SimpleType@@String[84]
+
+	DEL	SimpleName@@String[84]
+
+	DEL	SimpleName@@version[84]
+
+	DEL	Block@@[84]
+
+	DEL	ReturnStatement@@[86]
+
+	DEL	ConditionalExpression@@[88]
+
+	DEL	MethodInvocation@@[88]
+
+	DEL	SimpleName@@version[88]
+
+	DEL	SimpleName@@contains[88]
+
+	DEL	StringLiteral@@"."[89]
+
+	DEL	ArrayAccess@@[89]
+
+	DEL	MethodInvocation@@[89]
+
+	DEL	MethodInvocation@@[89]
+
+	DEL	SimpleName@@version[89]
+
+	DEL	SimpleName@@replace[89]
+
+	DEL	CharacterLiteral@@'-'[89]
+
+	DEL	CharacterLiteral@@'.'[89]
+
+	DEL	SimpleName@@split[89]
+
+	DEL	StringLiteral@@"[.]"[89]
+
+	DEL	NumberLiteral@@0[89]
+
+	DEL	StringLiteral@@""[89]
+, DEL	MethodDeclaration@@[90]
+
+	DEL	MarkerAnnotation@@[90]
+
+	DEL	SimpleName@@NotNull[90]
+
+	DEL	Modifier@@private[90]
+
+	DEL	SimpleType@@String[90]
+
+	DEL	SimpleName@@String[90]
+
+	DEL	SimpleName@@getMinorVersion[90]
+
+	DEL	SingleVariableDeclaration@@[90]
+
+	DEL	MarkerAnnotation@@[90]
+
+	DEL	SimpleName@@NotNull[90]
+
+	DEL	SimpleType@@String[90]
+
+	DEL	SimpleName@@String[90]
+
+	DEL	SimpleName@@version[90]
+
+	DEL	Block@@[90]
+
+	DEL	ReturnStatement@@[91]
+
+	DEL	ConditionalExpression@@[92]
+
+	DEL	MethodInvocation@@[92]
+
+	DEL	SimpleName@@version[92]
+
+	DEL	SimpleName@@contains[93]
+
+	DEL	StringLiteral@@"."[94]
+
+	DEL	ArrayAccess@@[94]
+
+	DEL	MethodInvocation@@[94]
+
+	DEL	MethodInvocation@@[94]
+
+	DEL	SimpleName@@version[94]
+
+	DEL	SimpleName@@replace[94]
+
+	DEL	CharacterLiteral@@'-'[94]
+
+	DEL	CharacterLiteral@@'.'[94]
+
+	DEL	SimpleName@@split[94]
+
+	DEL	StringLiteral@@"[.]"[94]
+
+	DEL	NumberLiteral@@1[94]
+
+	DEL	StringLiteral@@""[94]
+]

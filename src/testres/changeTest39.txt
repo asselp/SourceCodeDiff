@@ -1,0 +1,4 @@
+[UPD	QualifiedName@@org.elasticsearch.common.inject.Inject[25]	TO	org.elasticsearch.transport.TransportService
+, UPD	QualifiedName@@org.elasticsearch.common.settings.Settings[26]	TO	org.elasticsearch.util.inject.Inject
+, UPD	QualifiedName@@org.elasticsearch.transport.TransportService[27]	TO	org.elasticsearch.util.settings.Settings
+]

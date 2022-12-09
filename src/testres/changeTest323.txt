@@ -1,0 +1,145 @@
+[DEL	ImportDeclaration@@[56]
+
+	DEL	QualifiedName@@org.sakaiproject.user.api.Preferences[56]
+, DEL	ImportDeclaration@@[57]
+
+	DEL	QualifiedName@@org.sakaiproject.user.api.PreferencesService[57]
+, DEL	VariableDeclarationStatement@@[340]
+
+	DEL	SimpleType@@String[340]
+
+	DEL	SimpleName@@String[340]
+
+	DEL	VariableDeclarationFragment@@[340]
+
+	DEL	SimpleName@@userTheme[340]
+
+	DEL	StringLiteral@@"sakaiUserTheme-notSet"[340]
+, DEL	VariableDeclarationStatement@@[341]
+
+	DEL	PrimitiveType@@boolean[341]
+
+	DEL	VariableDeclarationFragment@@[341]
+
+	DEL	SimpleName@@sakaiThemesEnabled[341]
+
+	DEL	MethodInvocation@@[341]
+
+	DEL	SimpleName@@ServerConfigurationService[341]
+
+	DEL	SimpleName@@getBoolean[342]
+
+	DEL	StringLiteral@@"portal.themes"[342]
+
+	DEL	BooleanLiteral@@true[342]
+, DEL	IfStatement@@[342]
+
+	DEL	SimpleName@@sakaiThemesEnabled[342]
+
+	DEL	Block@@[343]
+
+	DEL	VariableDeclarationStatement@@[343]
+
+	DEL	SimpleType@@String[343]
+
+	DEL	SimpleName@@String[343]
+
+	DEL	VariableDeclarationFragment@@[343]
+
+	DEL	SimpleName@@thisUser[343]
+
+	DEL	MethodInvocation@@[343]
+
+	DEL	SimpleName@@SessionManager[343]
+
+	DEL	SimpleName@@getCurrentSessionUserId[343]
+
+	DEL	VariableDeclarationStatement@@[345]
+
+	DEL	SimpleType@@PreferencesService[345]
+
+	DEL	SimpleName@@PreferencesService[345]
+
+	DEL	VariableDeclarationFragment@@[345]
+
+	DEL	SimpleName@@preferencesService[345]
+
+	DEL	MethodInvocation@@[345]
+
+	DEL	SimpleName@@ComponentManager[345]
+
+	DEL	SimpleName@@get[346]
+
+	DEL	TypeLiteral@@[346]
+
+	DEL	SimpleType@@PreferencesService[346]
+
+	DEL	SimpleName@@PreferencesService[346]
+
+	DEL	VariableDeclarationStatement@@[346]
+
+	DEL	SimpleType@@Preferences[346]
+
+	DEL	SimpleName@@Preferences[346]
+
+	DEL	VariableDeclarationFragment@@[347]
+
+	DEL	SimpleName@@prefs[347]
+
+	DEL	MethodInvocation@@[348]
+
+	DEL	SimpleName@@preferencesService[348]
+
+	DEL	SimpleName@@getPreferences[348]
+
+	DEL	SimpleName@@thisUser[348]
+
+	DEL	IfStatement@@[349]
+
+	DEL	InfixExpression@@!=[349]
+
+	DEL	SimpleName@@prefs[349]
+
+	DEL	NullLiteral@@[349]
+
+	DEL	Block@@[349]
+
+	DEL	ExpressionStatement@@[349]
+
+	DEL	Assignment@@=[349]
+
+	DEL	SimpleName@@userTheme[349]
+
+	DEL	MethodInvocation@@[349]
+
+	DEL	SimpleName@@StringUtils[349]
+
+	DEL	SimpleName@@defaultIfEmpty[349]
+
+	DEL	MethodInvocation@@[349]
+
+	DEL	MethodInvocation@@[349]
+
+	DEL	SimpleName@@prefs[349]
+
+	DEL	SimpleName@@getProperties[349]
+
+	DEL	QualifiedName@@PreferencesService.USER_SELECTED_UI_THEME_PREFS[350]
+
+	DEL	SimpleName@@getProperty[351]
+
+	DEL	StringLiteral@@"theme"[351]
+
+	DEL	StringLiteral@@"sakaiUserTheme-notSet"[351]
+, DEL	ExpressionStatement@@[352]
+
+	DEL	MethodInvocation@@[352]
+
+	DEL	SimpleName@@context[352]
+
+	DEL	SimpleName@@put[352]
+
+	DEL	StringLiteral@@"userTheme"[352]
+
+	DEL	SimpleName@@userTheme[352]
+]

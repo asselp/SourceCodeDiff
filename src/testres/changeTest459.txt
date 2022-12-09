@@ -1,0 +1,77 @@
+[INS	MethodDeclaration@@[66]
+
+	INS	Modifier@@public[66]
+
+	INS	Modifier@@static[66]
+
+	INS	SimpleType@@XMLValue[67]
+
+	INS	SimpleName@@XMLValue[67]
+
+	INS	SimpleName@@elements_bstring[68]
+
+	INS	SingleVariableDeclaration@@[68]
+
+	INS	SimpleType@@Strand[68]
+
+	INS	SimpleName@@Strand[68]
+
+	INS	SimpleName@@strand[68]
+
+	INS	SingleVariableDeclaration@@[68]
+
+	INS	SimpleType@@XMLValue[68]
+
+	INS	SimpleName@@XMLValue[68]
+
+	INS	SimpleName@@xml[69]
+
+	INS	SingleVariableDeclaration@@[70]
+
+	INS	SimpleType@@Object[70]
+
+	INS	SimpleName@@Object[70]
+
+	INS	SimpleName@@name[70]
+
+	INS	Block@@[70]
+
+	INS	ReturnStatement@@[70]
+
+	INS	MethodInvocation@@[70]
+
+	INS	SimpleName@@elements[70]
+
+	INS	SimpleName@@strand[70]
+
+	INS	SimpleName@@xml[70]
+
+	INS	SimpleName@@name[70]
+, UPD	SimpleType@@BString[52]	TO	String
+
+	UPD	SimpleName@@BString[52]	TO	String
+, INS	CastExpression@@[51]
+, UPD	SimpleType@@BString[54]	TO	String
+
+	UPD	SimpleName@@BString[54]	TO	String
+, MOV	SimpleType@@BString[54]	TO	CastExpression@@[51]
+, MOV	SimpleName@@name[55]	TO	CastExpression@@[51]
+, DEL	ImportDeclaration@@[25]
+
+	DEL	QualifiedName@@org.ballerinalang.jvm.values.api.BString[25]
+, DEL	ImportDeclaration@@[32]
+
+	DEL	QualifiedName@@org.ballerinalang.util.BLangCompilerConstants.XML_VERSION[33]
+, DEL	MemberValuePair@@[43]
+
+	DEL	SimpleName@@version[43]
+
+	DEL	SimpleName@@XML_VERSION[43]
+, DEL	MethodInvocation@@[54]
+
+	DEL	ParenthesizedExpression@@[54]
+
+	DEL	CastExpression@@[54]
+
+	DEL	SimpleName@@getValue[55]
+]

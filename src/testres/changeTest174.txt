@@ -1,0 +1,20 @@
+[MOV	Block@@[125]	TO	MethodDeclaration@@[120]
+, MOV	ClassInstanceCreation@@[122]	TO	MethodInvocation@@[127]
+, DEL	SimpleName@@fs[127]
+, DEL	SimpleType@@IOException[121]
+
+	DEL	SimpleName@@IOException[121]
+, DEL	Block@@[121]
+
+	DEL	TryStatement@@[122]
+
+	DEL	VariableDeclarationExpression@@[122]
+
+	DEL	SimpleType@@FileSystemAbstraction[122]
+
+	DEL	SimpleName@@FileSystemAbstraction[122]
+
+	DEL	VariableDeclarationFragment@@[122]
+
+	DEL	SimpleName@@fs[122]
+]

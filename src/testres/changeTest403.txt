@@ -1,0 +1,2 @@
+[UPD	QualifiedName@@ai.vespa.util.http.hc5.VespaAsyncHttpClientBuilder[4]	TO	ai.vespa.util.http.VespaAsyncHttpClientBuilder
+]

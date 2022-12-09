@@ -1,0 +1,295 @@
+[UPD	QualifiedName@@com.hazelcast.spi.Operation[30]	TO	com.hazelcast.spi.impl.operationservice.Operation
+, INS	LambdaExpression@@[95]
+
+	INS	VariableDeclarationFragment@@[95]
+
+	INS	SimpleName@@o1[95]
+
+	INS	VariableDeclarationFragment@@[95]
+
+	INS	SimpleName@@o2[95]
+, MOV	Block@@[97]	TO	LambdaExpression@@[95]
+, DEL	ImportDeclaration@@[22]
+
+	DEL	QualifiedName@@com.hazelcast.core.IBiFunction[22]
+, DEL	ImportDeclaration@@[23]
+
+	DEL	QualifiedName@@com.hazelcast.core.Member[23]
+, DEL	ImportDeclaration@@[24]
+
+	DEL	QualifiedName@@com.hazelcast.internal.cluster.Versions[24]
+, DEL	ImportDeclaration@@[28]
+
+	DEL	QualifiedName@@com.hazelcast.nio.Address[28]
+, DEL	ImportDeclaration@@[31]
+
+	DEL	QualifiedName@@com.hazelcast.spi.partition.IPartition[31]
+, DEL	Modifier@@final[97]
+, DEL	Modifier@@final[98]
+, DEL	ClassInstanceCreation@@[94]
+
+	DEL	ParameterizedType@@Comparator<CachePartitionSegment>[94]
+
+	DEL	SimpleType@@Comparator[94]
+
+	DEL	SimpleName@@Comparator[94]
+
+	DEL	SimpleType@@CachePartitionSegment[96]
+
+	DEL	SimpleName@@CachePartitionSegment[96]
+
+	DEL	AnonymousClassDeclaration@@[96]
+
+	DEL	MethodDeclaration@@[96]
+
+	DEL	MarkerAnnotation@@[96]
+
+	DEL	SimpleName@@Override[96]
+
+	DEL	Modifier@@public[96]
+
+	DEL	PrimitiveType@@int[96]
+
+	DEL	SimpleName@@compare[96]
+
+	DEL	SingleVariableDeclaration@@[96]
+
+	DEL	SimpleType@@CachePartitionSegment[96]
+
+	DEL	SimpleName@@CachePartitionSegment[96]
+
+	DEL	SimpleName@@o1[96]
+
+	DEL	SingleVariableDeclaration@@[96]
+
+	DEL	SimpleType@@CachePartitionSegment[96]
+
+	DEL	SimpleName@@CachePartitionSegment[96]
+
+	DEL	SimpleName@@o2[96]
+, DEL	MethodDeclaration@@[135]
+
+	DEL	MarkerAnnotation@@[135]
+
+	DEL	SimpleName@@Override[135]
+
+	DEL	Modifier@@protected[135]
+
+	DEL	ParameterizedType@@IBiFunction<Integer,Integer,Boolean>[135]
+
+	DEL	SimpleType@@IBiFunction[135]
+
+	DEL	SimpleName@@IBiFunction[135]
+
+	DEL	SimpleType@@Integer[136]
+
+	DEL	SimpleName@@Integer[136]
+
+	DEL	SimpleType@@Integer[136]
+
+	DEL	SimpleName@@Integer[136]
+
+	DEL	SimpleType@@Boolean[136]
+
+	DEL	SimpleName@@Boolean[136]
+
+	DEL	SimpleName@@newBackupExpiryOpFilter[136]
+
+	DEL	Block@@[136]
+
+	DEL	ReturnStatement@@[136]
+
+	DEL	ClassInstanceCreation@@[136]
+
+	DEL	ParameterizedType@@IBiFunction<Integer,Integer,Boolean>[136]
+
+	DEL	SimpleType@@IBiFunction[136]
+
+	DEL	SimpleName@@IBiFunction[136]
+
+	DEL	SimpleType@@Integer[136]
+
+	DEL	SimpleName@@Integer[136]
+
+	DEL	SimpleType@@Integer[137]
+
+	DEL	SimpleName@@Integer[137]
+
+	DEL	SimpleType@@Boolean[139]
+
+	DEL	SimpleName@@Boolean[139]
+
+	DEL	AnonymousClassDeclaration@@[140]
+
+	DEL	MethodDeclaration@@[140]
+
+	DEL	MarkerAnnotation@@[140]
+
+	DEL	SimpleName@@Override[140]
+
+	DEL	Modifier@@public[140]
+
+	DEL	SimpleType@@Boolean[140]
+
+	DEL	SimpleName@@Boolean[140]
+
+	DEL	SimpleName@@apply[140]
+
+	DEL	SingleVariableDeclaration@@[140]
+
+	DEL	SimpleType@@Integer[140]
+
+	DEL	SimpleName@@Integer[140]
+
+	DEL	SimpleName@@partitionId[140]
+
+	DEL	SingleVariableDeclaration@@[140]
+
+	DEL	SimpleType@@Integer[140]
+
+	DEL	SimpleName@@Integer[140]
+
+	DEL	SimpleName@@replicaIndex[141]
+
+	DEL	Block@@[141]
+
+	DEL	VariableDeclarationStatement@@[141]
+
+	DEL	ParameterizedType@@IBiFunction<Integer,Integer,Boolean>[141]
+
+	DEL	SimpleType@@IBiFunction[141]
+
+	DEL	SimpleName@@IBiFunction[141]
+
+	DEL	SimpleType@@Integer[141]
+
+	DEL	SimpleName@@Integer[141]
+
+	DEL	SimpleType@@Integer[141]
+
+	DEL	SimpleName@@Integer[141]
+
+	DEL	SimpleType@@Boolean[142]
+
+	DEL	SimpleName@@Boolean[142]
+
+	DEL	VariableDeclarationFragment@@[142]
+
+	DEL	SimpleName@@filter[142]
+
+	DEL	SuperMethodInvocation@@[143]
+
+	DEL	SimpleName@@CacheClearExpiredRecordsTask[143]
+
+	DEL	SimpleName@@newBackupExpiryOpFilter[143]
+
+	DEL	IfStatement@@[144]
+
+	DEL	PrefixExpression@@![144]
+
+	DEL	MethodInvocation@@[144]
+
+	DEL	SimpleName@@filter[144]
+
+	DEL	SimpleName@@apply[144]
+
+	DEL	SimpleName@@partitionId[144]
+
+	DEL	SimpleName@@replicaIndex[144]
+
+	DEL	Block@@[145]
+
+	DEL	ReturnStatement@@[145]
+
+	DEL	BooleanLiteral@@false[145]
+
+	DEL	VariableDeclarationStatement@@[150]
+
+	DEL	SimpleType@@IPartition[150]
+
+	DEL	SimpleName@@IPartition[150]
+
+	DEL	VariableDeclarationFragment@@[150]
+
+	DEL	SimpleName@@partition[150]
+
+	DEL	MethodInvocation@@[151]
+
+	DEL	SimpleName@@partitionService[151]
+
+	DEL	SimpleName@@getPartition[151]
+
+	DEL	SimpleName@@partitionId[151]
+
+	DEL	VariableDeclarationStatement@@[152]
+
+	DEL	SimpleType@@Address[152]
+
+	DEL	SimpleName@@Address[152]
+
+	DEL	VariableDeclarationFragment@@[152]
+
+	DEL	SimpleName@@replicaAddress[152]
+
+	DEL	MethodInvocation@@[153]
+
+	DEL	SimpleName@@partition[153]
+
+	DEL	SimpleName@@getReplicaAddress[153]
+
+	DEL	SimpleName@@replicaIndex[153]
+
+	DEL	VariableDeclarationStatement@@[154]
+
+	DEL	SimpleType@@Member[154]
+
+	DEL	SimpleName@@Member[154]
+
+	DEL	VariableDeclarationFragment@@[154]
+
+	DEL	SimpleName@@member[154]
+
+	DEL	MethodInvocation@@[154]
+
+	DEL	MethodInvocation@@[154]
+
+	DEL	SimpleName@@nodeEngine[154]
+
+	DEL	SimpleName@@getClusterService[154]
+
+	DEL	SimpleName@@getMember[154]
+
+	DEL	SimpleName@@replicaAddress[155]
+
+	DEL	IfStatement@@[155]
+
+	DEL	InfixExpression@@==[155]
+
+	DEL	SimpleName@@member[155]
+
+	DEL	NullLiteral@@[155]
+
+	DEL	Block@@[155]
+
+	DEL	ReturnStatement@@[155]
+
+	DEL	BooleanLiteral@@false[156]
+
+	DEL	ReturnStatement@@[156]
+
+	DEL	MethodInvocation@@[156]
+
+	DEL	MethodInvocation@@[156]
+
+	DEL	MethodInvocation@@[156]
+
+	DEL	SimpleName@@member[156]
+
+	DEL	SimpleName@@getVersion[156]
+
+	DEL	SimpleName@@asVersion[156]
+
+	DEL	SimpleName@@isGreaterOrEqual[156]
+
+	DEL	QualifiedName@@Versions.V3_11[157]
+]

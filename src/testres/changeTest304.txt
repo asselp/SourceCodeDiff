@@ -1,0 +1,45 @@
+[UPD	QualifiedName@@org.apache.commons.logging.Log[31]	TO	org.slf4j.Logger
+, UPD	QualifiedName@@org.apache.commons.logging.LogFactory[32]	TO	org.slf4j.LoggerFactory
+, UPD	SimpleType@@Log[84]	TO	Logger
+
+	UPD	SimpleName@@Log[84]	TO	Logger
+, UPD	SimpleName@@LogFactory[84]	TO	LoggerFactory
+, UPD	SimpleName@@getLog[85]	TO	getLogger
+, INS	StringLiteral@@"Message is {}"[211]
+, INS	MethodInvocation@@[211]
+
+	INS	SimpleName@@message[211]
+
+	INS	SimpleName@@toString[212]
+, INS	StringLiteral@@"Message is {}"[247]
+, INS	MethodInvocation@@[248]
+
+	INS	SimpleName@@message[248]
+
+	INS	SimpleName@@toString[248]
+, INS	ExpressionStatement@@[299]
+
+	INS	MethodInvocation@@[299]
+
+	INS	SimpleName@@log[299]
+
+	INS	SimpleName@@error[299]
+
+	INS	MethodInvocation@@[299]
+
+	INS	SimpleName@@ex[299]
+
+	INS	SimpleName@@getMessage[300]
+
+	INS	SimpleName@@ex[300]
+, DEL	InfixExpression@@+[212]
+
+	DEL	StringLiteral@@"Message is "[212]
+
+	DEL	SimpleName@@message[212]
+, DEL	InfixExpression@@+[248]
+
+	DEL	StringLiteral@@"Message is "[248]
+
+	DEL	SimpleName@@message[249]
+]

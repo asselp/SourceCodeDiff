@@ -1,0 +1,36 @@
+[INS	ImportDeclaration@@[18]
+
+	INS	QualifiedName@@org.sakaiproject.gradebookng.tool.model.GbModalWindow[18]
+, UPD	SimpleType@@ModalWindow[36]	TO	GbModalWindow
+
+	UPD	SimpleName@@ModalWindow[36]	TO	GbModalWindow
+, UPD	StringLiteral@@"nav nav-pills"[81]	TO	"nav nav-tabs"
+, INS	MethodInvocation@@[94]
+
+	INS	SimpleName@@String[94]
+
+	INS	SimpleName@@format[94]
+
+	INS	StringLiteral@@"new GradebookGradeSummary($(\"#%s\"), %s);"[94]
+
+	INS	SimpleName@@showingStudentView[97]
+, MOV	MethodInvocation@@[95]	TO	MethodInvocation@@[94]
+, DEL	ExpressionStatement@@[57]
+
+	DEL	MethodInvocation@@[57]
+
+	DEL	SimpleName@@target[57]
+
+	DEL	SimpleName@@appendJavaScript[57]
+
+	DEL	StringLiteral@@"GradebookGradeSummaryUtils.clearBlur();"[57]
+, DEL	InfixExpression@@+[94]
+
+	DEL	StringLiteral@@"new GradebookGradeSummary($(\"#"[94]
+
+	DEL	StringLiteral@@"\"), "[97]
+
+	DEL	SimpleName@@showingStudentView[97]
+
+	DEL	StringLiteral@@");"[98]
+]

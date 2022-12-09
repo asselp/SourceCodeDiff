@@ -1,0 +1,24 @@
+[INS	ImportDeclaration@@[40]
+
+	INS	QualifiedName@@java.util.Collection[40]
+, UPD	ParameterizedType@@List<T>[103]	TO	Collection<T>
+
+	UPD	SimpleType@@List[103]	TO	Collection
+
+	UPD	SimpleName@@List[103]	TO	Collection
+, UPD	ParameterizedType@@List<T>[121]	TO	Collection<T>
+
+	UPD	SimpleType@@List[121]	TO	Collection
+
+	UPD	SimpleName@@List[121]	TO	Collection
+, UPD	ParameterizedType@@List<T>[107]	TO	Collection<T>
+
+	UPD	SimpleType@@List[107]	TO	Collection
+
+	UPD	SimpleName@@List[107]	TO	Collection
+, UPD	ParameterizedType@@List<T>[115]	TO	Collection<T>
+
+	UPD	SimpleType@@List[115]	TO	Collection
+
+	UPD	SimpleName@@List[115]	TO	Collection
+]

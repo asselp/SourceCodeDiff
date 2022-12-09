@@ -1,0 +1,26 @@
+[INS	MethodDeclaration@@[205]
+
+	INS	Modifier@@public[205]
+
+	INS	Modifier@@abstract[205]
+
+	INS	PrimitiveType@@void[205]
+
+	INS	SimpleName@@setStyleInputs[205]
+
+	INS	SingleVariableDeclaration@@[207]
+
+	INS	ArrayType@@float[][207]
+
+	INS	PrimitiveType@@float[207]
+
+	INS	Dimension@@[207]
+
+	INS	SimpleName@@styleInputs[207]
+
+	INS	SingleVariableDeclaration@@[207]
+
+	INS	PrimitiveType@@int[207]
+
+	INS	SimpleName@@size[207]
+]

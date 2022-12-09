@@ -1,0 +1,59 @@
+[INS	TryStatement@@[388]
+
+	INS	Block@@[388]
+
+	INS	ExpressionStatement@@[388]
+
+	INS	MethodInvocation@@[388]
+
+	INS	SimpleName@@rotation[388]
+
+	INS	SimpleName@@get[388]
+
+	INS	ExpressionStatement@@[388]
+
+	INS	MethodInvocation@@[388]
+
+	INS	StringLiteral@@"Should've failed rotation due to timeout"[389]
+
+	INS	CatchClause@@[390]
+
+	INS	SingleVariableDeclaration@@[391]
+
+	INS	SimpleType@@ExecutionException[391]
+
+	INS	SimpleName@@e[392]
+
+	INS	Block@@[392]
+, MOV	ExpressionStatement@@[391]	TO	Block@@[392]
+, UPD	SimpleName@@assertThrows[389]	TO	fail
+, MOV	SimpleName@@assertThrows[389]	TO	MethodInvocation@@[388]
+, MOV	SimpleName@@ExecutionException[389]	TO	SimpleType@@ExecutionException[391]
+, DEL	ImportDeclaration@@[68]
+
+	DEL	QualifiedName@@org.junit.jupiter.api.Assertions.assertThrows[69]
+, DEL	StringLiteral@@"Should've failed rotation due to timeout"[393]
+, DEL	VariableDeclarationStatement@@[389]
+
+	DEL	SimpleType@@ExecutionException[389]
+
+	DEL	SimpleName@@ExecutionException[389]
+
+	DEL	VariableDeclarationFragment@@[389]
+
+	DEL	SimpleName@@e[389]
+
+	DEL	MethodInvocation@@[389]
+
+	DEL	TypeLiteral@@[389]
+
+	DEL	SimpleType@@ExecutionException[389]
+
+	DEL	ExpressionMethodReference@@[390]
+
+	DEL	SimpleName@@rotation[390]
+
+	DEL	SimpleName@@get[391]
+
+	DEL	StringLiteral@@"Should've failed rotation due to timeout"[391]
+]

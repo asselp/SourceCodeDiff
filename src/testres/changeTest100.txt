@@ -1,0 +1,3 @@
+[UPD	QualifiedName@@org.jboss.as.jacorb.logging.JacORBLogger[34]	TO	org.jboss.as.jacorb.JacORBMessages
+, UPD	QualifiedName@@JacORBLogger.ROOT_LOGGER[79]	TO	JacORBMessages.MESSAGES
+]

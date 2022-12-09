@@ -1,0 +1,11 @@
+[INS	ImportDeclaration@@[32]
+
+	INS	QualifiedName@@java.util.concurrent.Executors[34]
+, INS	ImportDeclaration@@[35]
+
+	INS	QualifiedName@@java.util.concurrent.ScheduledFuture[35]
+, INS	ImportDeclaration@@[36]
+
+	INS	QualifiedName@@java.util.concurrent.ScheduledThreadPoolExecutor[36]
+, UPD	QualifiedName@@java.util.concurrent[34]	TO	java.util.concurrent.TimeUnit
+]

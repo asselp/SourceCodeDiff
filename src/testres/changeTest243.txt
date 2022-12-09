@@ -1,0 +1,83 @@
+[MOV	FieldDeclaration@@[38]	TO	TypeDeclaration@@[37]
+, INS	Modifier@@final[37]
+, INS	ClassInstanceCreation@@[39]
+
+	INS	SimpleType@@NativeModuleRegistryBuilder[39]
+
+	INS	SimpleName@@NativeModuleRegistryBuilder[39]
+
+	INS	NullLiteral@@[40]
+
+	INS	NullLiteral@@[40]
+
+	INS	BooleanLiteral@@false[40]
+, DEL	ImportDeclaration@@[25]
+
+	DEL	QualifiedName@@com.facebook.react.bridge.ReactApplicationContext[25]
+, DEL	IfStatement@@[53]
+
+	DEL	InfixExpression@@==[53]
+
+	DEL	SimpleName@@mNativeModuleRegistryBuilder[53]
+
+	DEL	NullLiteral@@[53]
+
+	DEL	Block@@[53]
+
+	DEL	ExpressionStatement@@[54]
+
+	DEL	Assignment@@=[54]
+
+	DEL	SimpleName@@mNativeModuleRegistryBuilder[54]
+
+	DEL	ClassInstanceCreation@@[54]
+
+	DEL	SimpleType@@NativeModuleRegistryBuilder[54]
+
+	DEL	SimpleName@@NativeModuleRegistryBuilder[54]
+
+	DEL	CastExpression@@[55]
+
+	DEL	SimpleType@@ReactApplicationContext[55]
+
+	DEL	SimpleName@@ReactApplicationContext[55]
+
+	DEL	SimpleName@@mContext[55]
+
+	DEL	NullLiteral@@[56]
+
+	DEL	BooleanLiteral@@false[56]
+, DEL	IfStatement@@[68]
+
+	DEL	InfixExpression@@==[69]
+
+	DEL	SimpleName@@mNativeModuleRegistryBuilder[69]
+
+	DEL	NullLiteral@@[71]
+
+	DEL	Block@@[71]
+
+	DEL	ExpressionStatement@@[71]
+
+	DEL	Assignment@@=[71]
+
+	DEL	SimpleName@@mNativeModuleRegistryBuilder[71]
+
+	DEL	ClassInstanceCreation@@[72]
+
+	DEL	SimpleType@@NativeModuleRegistryBuilder[72]
+
+	DEL	SimpleName@@NativeModuleRegistryBuilder[72]
+
+	DEL	CastExpression@@[73]
+
+	DEL	SimpleType@@ReactApplicationContext[73]
+
+	DEL	SimpleName@@ReactApplicationContext[73]
+
+	DEL	SimpleName@@mContext[73]
+
+	DEL	NullLiteral@@[73]
+
+	DEL	BooleanLiteral@@false[74]
+]

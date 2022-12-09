@@ -1,0 +1,12 @@
+[UPD	QualifiedName@@com.hazelcast.test.HazelcastSerialClassRunner[24]	TO	com.hazelcast.test.HazelcastJUnit4ClassRunner
+, UPD	QualifiedName@@com.hazelcast.test.annotation.QuickTest[27]	TO	com.hazelcast.test.annotation.ParallelTest
+, UPD	SimpleType@@HazelcastParallelClassRunner[36]	TO	HazelcastJUnit4ClassRunner
+
+	UPD	SimpleName@@HazelcastParallelClassRunner[36]	TO	HazelcastJUnit4ClassRunner
+, UPD	SimpleType@@QuickTest[38]	TO	ParallelTest
+
+	UPD	SimpleName@@QuickTest[38]	TO	ParallelTest
+, DEL	ImportDeclaration@@[23]
+
+	DEL	QualifiedName@@com.hazelcast.test.HazelcastParallelClassRunner[23]
+]

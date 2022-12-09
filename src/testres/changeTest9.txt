@@ -1,0 +1,137 @@
+[INS	ImportDeclaration@@[20]
+
+	INS	QualifiedName@@org.apache.lucene.search.Query[20]
+, INS	ImportDeclaration@@[23]
+
+	INS	QualifiedName@@org.elasticsearch.common.bytes.BytesReference[23]
+, INS	ImportDeclaration@@[24]
+
+	INS	QualifiedName@@org.elasticsearch.common.io.stream.NamedWriteable[24]
+, UPD	QualifiedName@@org.elasticsearch.action.support.ToXContentToBytes[20]	TO	org.elasticsearch.client.Requests
+, UPD	QualifiedName@@org.elasticsearch.common.xcontent.XContentBuilder[22]	TO	org.elasticsearch.common.xcontent.ToXContent
+, INS	TypeParameter@@[31]
+
+	INS	SimpleName@@QB[31]
+
+	INS	SimpleType@@QueryBuilder[31]
+, INS	ParameterizedType@@NamedWriteable<QB>[31]
+
+	INS	SimpleType@@NamedWriteable[31]
+
+	INS	SimpleName@@NamedWriteable[31]
+
+	INS	SimpleType@@QB[31]
+, INS	SimpleType@@ToXContent[31]
+, INS	MethodDeclaration@@[31]
+
+	INS	Javadoc@@[31]
+
+	INS	SimpleName@@validate[37]
+, INS	MethodDeclaration@@[50]
+
+	INS	Javadoc@@[50]
+
+	INS	SimpleType@@BytesReference[57]
+
+	INS	SimpleName@@BytesReference[57]
+
+	INS	SimpleName@@buildAsBytes[57]
+, UPD	SimpleName@@Params[35]	TO	ToXContent
+, MOV	SimpleName@@Params[35]	TO	SimpleType@@ToXContent[31]
+, UPD	SimpleType@@IOException[35]	TO	QueryValidationException
+
+	UPD	SimpleName@@IOException[35]	TO	QueryValidationException
+, MOV	SimpleType@@IOException[35]	TO	MethodDeclaration@@[31]
+, INS	Javadoc@@[38]
+, INS	SimpleType@@Query[47]
+, INS	SimpleName@@toQuery[47]
+, UPD	SimpleName@@XContentBuilder[32]	TO	QueryBuilder
+, MOV	SimpleName@@XContentBuilder[32]	TO	SimpleType@@QueryBuilder[31]
+, UPD	SimpleName@@XContentBuilder[35]	TO	QB
+, MOV	SimpleName@@XContentBuilder[35]	TO	SimpleType@@QB[31]
+, UPD	SimpleName@@XContentBuilder[41]	TO	Query
+, MOV	SimpleName@@XContentBuilder[41]	TO	SimpleType@@Query[47]
+, UPD	SimpleType@@Params[42]	TO	QueryParseContext
+
+	UPD	SimpleName@@Params[42]	TO	QueryParseContext
+, UPD	SimpleName@@params[42]	TO	parseContext
+, DEL	Modifier@@abstract[26]
+, DEL	SimpleType@@ToXContentToBytes[28]
+
+	DEL	SimpleName@@ToXContentToBytes[28]
+, DEL	MethodDeclaration@@[28]
+
+	DEL	Modifier@@protected[28]
+
+	DEL	SimpleName@@QueryBuilder[28]
+
+	DEL	Block@@[30]
+
+	DEL	SuperConstructorInvocation@@[30]
+
+	DEL	QualifiedName@@XContentType.JSON[30]
+, DEL	MethodDeclaration@@[31]
+
+	DEL	MarkerAnnotation@@[31]
+
+	DEL	SimpleName@@Override[31]
+
+	DEL	Modifier@@public[31]
+
+	DEL	SimpleType@@XContentBuilder[32]
+
+	DEL	SimpleName@@toXContent[34]
+
+	DEL	SingleVariableDeclaration@@[35]
+
+	DEL	SimpleType@@XContentBuilder[35]
+
+	DEL	SimpleName@@builder[35]
+
+	DEL	SingleVariableDeclaration@@[35]
+
+	DEL	SimpleType@@Params[35]
+
+	DEL	SimpleName@@params[35]
+
+	DEL	Block@@[35]
+
+	DEL	ExpressionStatement@@[35]
+
+	DEL	MethodInvocation@@[35]
+
+	DEL	SimpleName@@builder[35]
+
+	DEL	SimpleName@@startObject[35]
+
+	DEL	ExpressionStatement@@[36]
+
+	DEL	MethodInvocation@@[36]
+
+	DEL	SimpleName@@doXContent[36]
+
+	DEL	SimpleName@@builder[36]
+
+	DEL	SimpleName@@params[36]
+
+	DEL	ExpressionStatement@@[37]
+
+	DEL	MethodInvocation@@[37]
+
+	DEL	SimpleName@@builder[37]
+
+	DEL	SimpleName@@endObject[37]
+
+	DEL	ReturnStatement@@[38]
+
+	DEL	SimpleName@@builder[38]
+, DEL	Modifier@@protected[38]
+, DEL	Modifier@@abstract[39]
+, DEL	PrimitiveType@@void[39]
+, DEL	SimpleName@@doXContent[39]
+, DEL	SingleVariableDeclaration@@[41]
+
+	DEL	SimpleType@@XContentBuilder[41]
+
+	DEL	SimpleName@@builder[42]
+]

@@ -1,0 +1,9 @@
+[UPD	QualifiedName@@org.ballerinalang.core.model.types.BArrayType[19]	TO	org.ballerinalang.model.types.BArrayType
+, UPD	QualifiedName@@org.ballerinalang.core.model.types.TypeTags[21]	TO	org.ballerinalang.model.types.TypeTags
+, UPD	QualifiedName@@org.ballerinalang.core.model.values.BBoolean[22]	TO	org.ballerinalang.model.values.BBoolean
+, UPD	QualifiedName@@org.ballerinalang.core.model.values.BByte[23]	TO	org.ballerinalang.model.values.BByte
+, UPD	QualifiedName@@org.ballerinalang.core.model.values.BFloat[24]	TO	org.ballerinalang.model.values.BFloat
+, UPD	QualifiedName@@org.ballerinalang.core.model.values.BInteger[25]	TO	org.ballerinalang.model.values.BInteger
+, UPD	QualifiedName@@org.ballerinalang.core.model.values.BValue[26]	TO	org.ballerinalang.model.values.BValue
+, UPD	QualifiedName@@org.ballerinalang.core.model.values.BValueArray[27]	TO	org.ballerinalang.model.values.BValueArray
+]

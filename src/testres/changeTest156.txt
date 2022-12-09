@@ -1,0 +1,10 @@
+[INS	ExpressionStatement@@[212]
+
+	INS	MethodInvocation@@[212]
+
+	INS	QualifiedName@@System.out[212]
+
+	INS	SimpleName@@println[213]
+
+	INS	StringLiteral@@"calling"[213]
+]

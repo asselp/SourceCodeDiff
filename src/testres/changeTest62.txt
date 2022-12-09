@@ -1,0 +1,11 @@
+[INS	ImportDeclaration@@[23]
+
+	INS	QualifiedName@@org.jboss.as.ee.subsystem.EeSubsystemRootResource.ECLIPSE_YASSON[23]
+, INS	ImportDeclaration@@[27]
+
+	INS	QualifiedName@@org.jboss.as.ee.subsystem.EeSubsystemRootResource.JSON_BIND_API[27]
+, INS	SimpleName@@JSON_BIND_API[59]
+, INS	SimpleName@@ECLIPSE_YASSON[65]
+, DEL	StringLiteral@@"javax.json.bind.api"[57]
+, DEL	StringLiteral@@"org.eclipse.yasson"[63]
+]

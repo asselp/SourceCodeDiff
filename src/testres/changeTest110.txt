@@ -1,0 +1,3 @@
+[UPD	QualifiedName@@com.hazelcast.spi.PartitionAwareOperation[21]	TO	com.hazelcast.spi.impl.operationservice.PartitionAwareOperation
+, UPD	QualifiedName@@com.hazelcast.spi.impl.AbstractNamedOperation[22]	TO	com.hazelcast.spi.impl.operationservice.AbstractNamedOperation
+]

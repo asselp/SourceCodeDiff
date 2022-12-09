@@ -1,0 +1,6 @@
+[INS	PrefixExpression@@-[45]
+
+	INS	NumberLiteral@@1[46]
+, INS	NullLiteral@@[94]
+, DEL	NumberLiteral@@0[45]
+]

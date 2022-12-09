@@ -1,0 +1,17 @@
+[INS	NullLiteral@@[179]
+, DEL	ImportDeclaration@@[25]
+
+	DEL	QualifiedName@@java.io.IOException[25]
+, DEL	NullLiteral@@[127]
+, DEL	SimpleType@@IOException[177]
+
+	DEL	SimpleName@@IOException[177]
+, DEL	CastExpression@@[181]
+
+	DEL	SimpleType@@ConfigDefinition[181]
+
+	DEL	SimpleName@@ConfigDefinition[181]
+
+	DEL	NullLiteral@@[181]
+, DEL	NullLiteral@@[181]
+]

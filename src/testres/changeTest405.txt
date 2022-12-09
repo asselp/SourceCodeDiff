@@ -1,0 +1,424 @@
+[DEL	ImportDeclaration@@[7]
+
+	DEL	QualifiedName@@com.yahoo.vespa.hosted.controller.integration.ZoneApiMock[8]
+, DEL	ImportDeclaration@@[8]
+
+	DEL	QualifiedName@@com.yahoo.vespa.hosted.controller.integration.ZoneRegistryMock[8]
+, DEL	MethodDeclaration@@[36]
+
+	DEL	MarkerAnnotation@@[36]
+
+	DEL	SimpleName@@Test[36]
+
+	DEL	Modifier@@public[36]
+
+	DEL	PrimitiveType@@void[36]
+
+	DEL	SimpleName@@identical_errors_and_changes_from_multiple_targets_are_merged[36]
+
+	DEL	Block@@[40]
+
+	DEL	VariableDeclarationStatement@@[40]
+
+	DEL	SimpleType@@ZoneApiMock[40]
+
+	DEL	SimpleName@@ZoneApiMock[40]
+
+	DEL	VariableDeclarationFragment@@[40]
+
+	DEL	SimpleName@@prodUsWest1Zone[40]
+
+	DEL	MethodInvocation@@[40]
+
+	DEL	SimpleName@@ZoneApiMock[40]
+
+	DEL	SimpleName@@fromId[41]
+
+	DEL	StringLiteral@@"prod.us-west-1"[41]
+
+	DEL	VariableDeclarationStatement@@[41]
+
+	DEL	SimpleType@@ZoneRegistryMock[41]
+
+	DEL	SimpleName@@ZoneRegistryMock[41]
+
+	DEL	VariableDeclarationFragment@@[41]
+
+	DEL	SimpleName@@registry[41]
+
+	DEL	MethodInvocation@@[41]
+
+	DEL	ClassInstanceCreation@@[41]
+
+	DEL	SimpleType@@ZoneRegistryMock[41]
+
+	DEL	SimpleName@@ZoneRegistryMock[41]
+
+	DEL	QualifiedName@@SystemName.cd[42]
+
+	DEL	SimpleName@@setZones[42]
+
+	DEL	SimpleName@@prodUsWest1Zone[42]
+
+	DEL	VariableDeclarationStatement@@[42]
+
+	DEL	SimpleType@@FlagsTarget[42]
+
+	DEL	SimpleName@@FlagsTarget[42]
+
+	DEL	VariableDeclarationFragment@@[42]
+
+	DEL	SimpleName@@prodUsWest1Target[42]
+
+	DEL	MethodInvocation@@[42]
+
+	DEL	SimpleName@@FlagsTarget[42]
+
+	DEL	SimpleName@@forConfigServer[43]
+
+	DEL	SimpleName@@registry[43]
+
+	DEL	MethodInvocation@@[43]
+
+	DEL	SimpleName@@prodUsWest1Zone[43]
+
+	DEL	SimpleName@@getId[43]
+
+	DEL	VariableDeclarationStatement@@[43]
+
+	DEL	SimpleType@@FlagsTarget[43]
+
+	DEL	SimpleName@@FlagsTarget[43]
+
+	DEL	VariableDeclarationFragment@@[43]
+
+	DEL	SimpleName@@controllerTarget[43]
+
+	DEL	MethodInvocation@@[43]
+
+	DEL	SimpleName@@FlagsTarget[43]
+
+	DEL	SimpleName@@forController[44]
+
+	DEL	QualifiedName@@SystemName.cd[44]
+
+	DEL	VariableDeclarationStatement@@[44]
+
+	DEL	SimpleType@@FlagId[44]
+
+	DEL	SimpleName@@FlagId[44]
+
+	DEL	VariableDeclarationFragment@@[44]
+
+	DEL	SimpleName@@flagOne[44]
+
+	DEL	ClassInstanceCreation@@[44]
+
+	DEL	SimpleType@@FlagId[44]
+
+	DEL	SimpleName@@FlagId[44]
+
+	DEL	StringLiteral@@"flagone"[44]
+
+	DEL	VariableDeclarationStatement@@[46]
+
+	DEL	SimpleType@@FlagId[46]
+
+	DEL	SimpleName@@FlagId[46]
+
+	DEL	VariableDeclarationFragment@@[46]
+
+	DEL	SimpleName@@flagTwo[46]
+
+	DEL	ClassInstanceCreation@@[46]
+
+	DEL	SimpleType@@FlagId[46]
+
+	DEL	SimpleName@@FlagId[46]
+
+	DEL	StringLiteral@@"flagtwo"[46]
+
+	DEL	VariableDeclarationStatement@@[47]
+
+	DEL	SimpleType@@SystemFlagsDeployResult[47]
+
+	DEL	SimpleName@@SystemFlagsDeployResult[47]
+
+	DEL	VariableDeclarationFragment@@[47]
+
+	DEL	SimpleName@@resultController[47]
+
+	DEL	ClassInstanceCreation@@[49]
+
+	DEL	SimpleType@@SystemFlagsDeployResult[49]
+
+	DEL	SimpleName@@SystemFlagsDeployResult[49]
+
+	DEL	MethodInvocation@@[50]
+
+	DEL	SimpleName@@List[50]
+
+	DEL	SimpleName@@of[50]
+
+	DEL	MethodInvocation@@[50]
+
+	DEL	SimpleName@@FlagDataChange[50]
+
+	DEL	SimpleName@@deleted[50]
+
+	DEL	SimpleName@@flagOne[51]
+
+	DEL	SimpleName@@controllerTarget[51]
+
+	DEL	MethodInvocation@@[51]
+
+	DEL	SimpleName@@List[51]
+
+	DEL	SimpleName@@of[51]
+
+	DEL	MethodInvocation@@[51]
+
+	DEL	SimpleName@@OperationError[51]
+
+	DEL	SimpleName@@deleteFailed[51]
+
+	DEL	StringLiteral@@"message"[52]
+
+	DEL	SimpleName@@controllerTarget[52]
+
+	DEL	SimpleName@@flagTwo[52]
+
+	DEL	VariableDeclarationStatement@@[52]
+
+	DEL	SimpleType@@SystemFlagsDeployResult[52]
+
+	DEL	SimpleName@@SystemFlagsDeployResult[52]
+
+	DEL	VariableDeclarationFragment@@[52]
+
+	DEL	SimpleName@@resultProdUsWest1[52]
+
+	DEL	ClassInstanceCreation@@[53]
+
+	DEL	SimpleType@@SystemFlagsDeployResult[53]
+
+	DEL	SimpleName@@SystemFlagsDeployResult[53]
+
+	DEL	MethodInvocation@@[54]
+
+	DEL	SimpleName@@List[54]
+
+	DEL	SimpleName@@of[54]
+
+	DEL	MethodInvocation@@[54]
+
+	DEL	SimpleName@@FlagDataChange[54]
+
+	DEL	SimpleName@@deleted[54]
+
+	DEL	SimpleName@@flagOne[55]
+
+	DEL	SimpleName@@prodUsWest1Target[55]
+
+	DEL	MethodInvocation@@[55]
+
+	DEL	SimpleName@@List[55]
+
+	DEL	SimpleName@@of[55]
+
+	DEL	MethodInvocation@@[55]
+
+	DEL	SimpleName@@OperationError[55]
+
+	DEL	SimpleName@@deleteFailed[55]
+
+	DEL	StringLiteral@@"message"[56]
+
+	DEL	SimpleName@@prodUsWest1Target[56]
+
+	DEL	SimpleName@@flagTwo[56]
+
+	DEL	VariableDeclarationStatement@@[56]
+
+	DEL	SimpleType@@var[56]
+
+	DEL	SimpleName@@var[56]
+
+	DEL	VariableDeclarationFragment@@[56]
+
+	DEL	SimpleName@@results[56]
+
+	DEL	MethodInvocation@@[56]
+
+	DEL	SimpleName@@List[56]
+
+	DEL	SimpleName@@of[56]
+
+	DEL	SimpleName@@resultController[56]
+
+	DEL	SimpleName@@resultProdUsWest1[56]
+
+	DEL	VariableDeclarationStatement@@[58]
+
+	DEL	SimpleType@@SystemFlagsDeployResult[58]
+
+	DEL	SimpleName@@SystemFlagsDeployResult[58]
+
+	DEL	VariableDeclarationFragment@@[58]
+
+	DEL	SimpleName@@mergedResult[58]
+
+	DEL	MethodInvocation@@[58]
+
+	DEL	SimpleName@@merge[58]
+
+	DEL	SimpleName@@results[58]
+
+	DEL	VariableDeclarationStatement@@[59]
+
+	DEL	ParameterizedType@@List<FlagDataChange>[59]
+
+	DEL	SimpleType@@List[59]
+
+	DEL	SimpleName@@List[59]
+
+	DEL	SimpleType@@FlagDataChange[59]
+
+	DEL	SimpleName@@FlagDataChange[59]
+
+	DEL	VariableDeclarationFragment@@[59]
+
+	DEL	SimpleName@@changes[59]
+
+	DEL	MethodInvocation@@[59]
+
+	DEL	SimpleName@@mergedResult[59]
+
+	DEL	SimpleName@@flagChanges[59]
+
+	DEL	ExpressionStatement@@[61]
+
+	DEL	MethodInvocation@@[61]
+
+	DEL	MethodInvocation@@[61]
+
+	DEL	SimpleName@@assertThat[61]
+
+	DEL	SimpleName@@changes[61]
+
+	DEL	SimpleName@@hasSize[61]
+
+	DEL	NumberLiteral@@1[61]
+
+	DEL	VariableDeclarationStatement@@[61]
+
+	DEL	SimpleType@@FlagDataChange[61]
+
+	DEL	SimpleName@@FlagDataChange[61]
+
+	DEL	VariableDeclarationFragment@@[62]
+
+	DEL	SimpleName@@change[62]
+
+	DEL	MethodInvocation@@[62]
+
+	DEL	SimpleName@@changes[62]
+
+	DEL	SimpleName@@get[62]
+
+	DEL	NumberLiteral@@0[62]
+
+	DEL	ExpressionStatement@@[62]
+
+	DEL	MethodInvocation@@[62]
+
+	DEL	MethodInvocation@@[62]
+
+	DEL	SimpleName@@assertThat[62]
+
+	DEL	MethodInvocation@@[63]
+
+	DEL	SimpleName@@change[63]
+
+	DEL	SimpleName@@targets[63]
+
+	DEL	SimpleName@@containsOnly[63]
+
+	DEL	SimpleName@@controllerTarget[63]
+
+	DEL	SimpleName@@prodUsWest1Target[64]
+
+	DEL	VariableDeclarationStatement@@[64]
+
+	DEL	ParameterizedType@@List<OperationError>[64]
+
+	DEL	SimpleType@@List[64]
+
+	DEL	SimpleName@@List[64]
+
+	DEL	SimpleType@@OperationError[64]
+
+	DEL	SimpleName@@OperationError[64]
+
+	DEL	VariableDeclarationFragment@@[64]
+
+	DEL	SimpleName@@errors[64]
+
+	DEL	MethodInvocation@@[64]
+
+	DEL	SimpleName@@mergedResult[64]
+
+	DEL	SimpleName@@errors[64]
+
+	DEL	ExpressionStatement@@[66]
+
+	DEL	MethodInvocation@@[66]
+
+	DEL	MethodInvocation@@[66]
+
+	DEL	SimpleName@@assertThat[66]
+
+	DEL	SimpleName@@errors[66]
+
+	DEL	SimpleName@@hasSize[66]
+
+	DEL	NumberLiteral@@1[66]
+
+	DEL	VariableDeclarationStatement@@[66]
+
+	DEL	SimpleType@@OperationError[66]
+
+	DEL	SimpleName@@OperationError[66]
+
+	DEL	VariableDeclarationFragment@@[66]
+
+	DEL	SimpleName@@error[66]
+
+	DEL	MethodInvocation@@[67]
+
+	DEL	SimpleName@@errors[67]
+
+	DEL	SimpleName@@get[67]
+
+	DEL	NumberLiteral@@0[67]
+
+	DEL	ExpressionStatement@@[67]
+
+	DEL	MethodInvocation@@[67]
+
+	DEL	MethodInvocation@@[67]
+
+	DEL	SimpleName@@assertThat[67]
+
+	DEL	MethodInvocation@@[67]
+
+	DEL	SimpleName@@error[67]
+
+	DEL	SimpleName@@targets[68]
+
+	DEL	SimpleName@@containsOnly[68]
+
+	DEL	SimpleName@@controllerTarget[68]
+
+	DEL	SimpleName@@prodUsWest1Target[68]
+]

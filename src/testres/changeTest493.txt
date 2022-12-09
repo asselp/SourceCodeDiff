@@ -1,0 +1,4 @@
+[UPD	QualifiedName@@io.ballerina.jvm.api.BStringUtils[19]	TO	org.ballerinalang.jvm.api.BStringUtils
+, UPD	QualifiedName@@io.ballerina.jvm.api.values.BString[21]	TO	org.ballerinalang.jvm.api.values.BString
+, UPD	QualifiedName@@io.ballerina.jvm.internal.ErrorUtils[22]	TO	org.ballerinalang.jvm.internal.ErrorUtils
+]

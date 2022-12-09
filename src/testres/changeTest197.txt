@@ -1,0 +1,132 @@
+[DEL	ImportDeclaration@@[26]
+
+	DEL	QualifiedName@@java.util.stream.Collectors[27]
+, DEL	MethodDeclaration@@[54]
+
+	DEL	Modifier@@default[54]
+
+	DEL	ParameterizedType@@Map<MemberId,T>[54]
+
+	DEL	SimpleType@@Map[54]
+
+	DEL	SimpleName@@Map[54]
+
+	DEL	SimpleType@@MemberId[54]
+
+	DEL	SimpleName@@MemberId[54]
+
+	DEL	SimpleType@@T[54]
+
+	DEL	SimpleName@@T[54]
+
+	DEL	SimpleName@@filterHostsByDb[54]
+
+	DEL	SingleVariableDeclaration@@[54]
+
+	DEL	ParameterizedType@@Map<MemberId,T>[54]
+
+	DEL	SimpleType@@Map[54]
+
+	DEL	SimpleName@@Map[54]
+
+	DEL	SimpleType@@MemberId[55]
+
+	DEL	SimpleName@@MemberId[55]
+
+	DEL	SimpleType@@T[57]
+
+	DEL	SimpleName@@T[57]
+
+	DEL	SimpleName@@s[57]
+
+	DEL	SingleVariableDeclaration@@[57]
+
+	DEL	SimpleType@@String[57]
+
+	DEL	SimpleName@@String[57]
+
+	DEL	SimpleName@@dbName[57]
+
+	DEL	Block@@[57]
+
+	DEL	ReturnStatement@@[57]
+
+	DEL	MethodInvocation@@[57]
+
+	DEL	MethodInvocation@@[57]
+
+	DEL	MethodInvocation@@[57]
+
+	DEL	MethodInvocation@@[57]
+
+	DEL	SimpleName@@s[57]
+
+	DEL	SimpleName@@entrySet[57]
+
+	DEL	SimpleName@@stream[57]
+
+	DEL	SimpleName@@filter[57]
+
+	DEL	LambdaExpression@@[57]
+
+	DEL	VariableDeclarationFragment@@[57]
+
+	DEL	SimpleName@@e[57]
+
+	DEL	MethodInvocation@@[57]
+
+	DEL	MethodInvocation@@[57]
+
+	DEL	MethodInvocation@@[57]
+
+	DEL	SimpleName@@e[57]
+
+	DEL	SimpleName@@getValue[58]
+
+	DEL	SimpleName@@getDatabaseName[59]
+
+	DEL	SimpleName@@equals[59]
+
+	DEL	SimpleName@@dbName[59]
+
+	DEL	SimpleName@@collect[59]
+
+	DEL	MethodInvocation@@[59]
+
+	DEL	SimpleName@@Collectors[59]
+
+	DEL	SimpleName@@toMap[59]
+
+	DEL	ExpressionMethodReference@@[59]
+
+	DEL	QualifiedName@@Map.Entry[59]
+
+	DEL	SimpleName@@getKey[59]
+
+	DEL	ExpressionMethodReference@@[60]
+
+	DEL	QualifiedName@@Map.Entry[60]
+
+	DEL	SimpleName@@getValue[60]
+, DEL	MethodDeclaration@@[60]
+
+	DEL	ParameterizedType@@Topology<T>[60]
+
+	DEL	SimpleType@@Topology[60]
+
+	DEL	SimpleName@@Topology[60]
+
+	DEL	SimpleType@@T[60]
+
+	DEL	SimpleName@@T[60]
+
+	DEL	SimpleName@@filterTopologyByDb[60]
+
+	DEL	SingleVariableDeclaration@@[60]
+
+	DEL	SimpleType@@String[60]
+
+	DEL	SimpleName@@String[60]
+
+	DEL	SimpleName@@dbName[60]
+]

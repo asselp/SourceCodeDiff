@@ -1,0 +1,404 @@
+[INS	MethodDeclaration@@[131]
+
+	INS	Modifier@@public[131]
+
+	INS	PrimitiveType@@void[131]
+
+	INS	SimpleName@@testReplicationWithShadowIndex[131]
+
+	INS	SimpleType@@Exception[132]
+
+	INS	SimpleName@@Exception[132]
+
+	INS	Block@@[132]
+
+	INS	VariableDeclarationStatement@@[132]
+
+	INS	Modifier@@final[132]
+
+	INS	SimpleType@@String[132]
+
+	INS	SimpleName@@String[132]
+
+	INS	VariableDeclarationFragment@@[132]
+
+	INS	SimpleName@@index[132]
+
+	INS	StringLiteral@@"test"[132]
+
+	INS	VariableDeclarationStatement@@[132]
+
+	INS	Modifier@@final[132]
+
+	INS	SimpleType@@ShardId[132]
+
+	INS	SimpleName@@ShardId[132]
+
+	INS	VariableDeclarationFragment@@[133]
+
+	INS	SimpleName@@shardId[133]
+
+	INS	ClassInstanceCreation@@[136]
+
+	INS	SimpleType@@ShardId[136]
+
+	INS	SimpleName@@ShardId[136]
+
+	INS	SimpleName@@index[136]
+
+	INS	StringLiteral@@"_na_"[136]
+
+	INS	NumberLiteral@@0[136]
+
+	INS	VariableDeclarationStatement@@[136]
+
+	INS	Modifier@@final[136]
+
+	INS	SimpleType@@ClusterState[136]
+
+	INS	SimpleName@@ClusterState[136]
+
+	INS	VariableDeclarationFragment@@[136]
+
+	INS	SimpleName@@state[136]
+
+	INS	MethodInvocation@@[137]
+
+	INS	SimpleName@@stateWithActivePrimary[137]
+
+	INS	SimpleName@@index[137]
+
+	INS	BooleanLiteral@@true[137]
+
+	INS	MethodInvocation@@[137]
+
+	INS	SimpleName@@randomInt[137]
+
+	INS	NumberLiteral@@5[138]
+
+	INS	VariableDeclarationStatement@@[138]
+
+	INS	Modifier@@final[138]
+
+	INS	PrimitiveType@@long[138]
+
+	INS	VariableDeclarationFragment@@[138]
+
+	INS	SimpleName@@primaryTerm[138]
+
+	INS	MethodInvocation@@[138]
+
+	INS	MethodInvocation@@[138]
+
+	INS	MethodInvocation@@[138]
+
+	INS	SimpleName@@state[138]
+
+	INS	SimpleName@@getMetaData[138]
+
+	INS	SimpleName@@index[140]
+
+	INS	SimpleName@@index[140]
+
+	INS	SimpleName@@primaryTerm[140]
+
+	INS	NumberLiteral@@0[140]
+
+	INS	VariableDeclarationStatement@@[140]
+
+	INS	Modifier@@final[140]
+
+	INS	SimpleType@@IndexShardRoutingTable[140]
+
+	INS	SimpleName@@IndexShardRoutingTable[140]
+
+	INS	VariableDeclarationFragment@@[140]
+
+	INS	SimpleName@@indexShardRoutingTable[140]
+
+	INS	MethodInvocation@@[141]
+
+	INS	MethodInvocation@@[141]
+
+	INS	SimpleName@@state[141]
+
+	INS	SimpleName@@getRoutingTable[141]
+
+	INS	SimpleName@@shardRoutingTable[141]
+
+	INS	SimpleName@@shardId[141]
+
+	INS	VariableDeclarationStatement@@[141]
+
+	INS	Modifier@@final[141]
+
+	INS	SimpleType@@ShardRouting[141]
+
+	INS	SimpleName@@ShardRouting[141]
+
+	INS	VariableDeclarationFragment@@[142]
+
+	INS	SimpleName@@primaryShard[142]
+
+	INS	MethodInvocation@@[142]
+
+	INS	SimpleName@@indexShardRoutingTable[142]
+
+	INS	SimpleName@@primaryShard[142]
+
+	INS	VariableDeclarationStatement@@[142]
+
+	INS	SimpleType@@Request[142]
+
+	INS	SimpleName@@Request[142]
+
+	INS	VariableDeclarationFragment@@[142]
+
+	INS	SimpleName@@request[142]
+
+	INS	ClassInstanceCreation@@[142]
+
+	INS	SimpleType@@Request[142]
+
+	INS	SimpleName@@Request[142]
+
+	INS	SimpleName@@shardId[142]
+
+	INS	VariableDeclarationStatement@@[142]
+
+	INS	ParameterizedType@@PlainActionFuture<TestPrimary.Result>[142]
+
+	INS	SimpleType@@PlainActionFuture[142]
+
+	INS	SimpleName@@PlainActionFuture[142]
+
+	INS	SimpleType@@TestPrimary.Result[143]
+
+	INS	QualifiedName@@TestPrimary.Result[143]
+
+	INS	VariableDeclarationFragment@@[143]
+
+	INS	SimpleName@@listener[143]
+
+	INS	ClassInstanceCreation@@[143]
+
+	INS	ParameterizedType@@PlainActionFuture<>[143]
+
+	INS	SimpleType@@PlainActionFuture[143]
+
+	INS	SimpleName@@PlainActionFuture[143]
+
+	INS	VariableDeclarationStatement@@[143]
+
+	INS	Modifier@@final[143]
+
+	INS	SimpleType@@TestReplicationOperation[145]
+
+	INS	SimpleName@@TestReplicationOperation[145]
+
+	INS	VariableDeclarationFragment@@[145]
+
+	INS	SimpleName@@op[145]
+
+	INS	ClassInstanceCreation@@[145]
+
+	INS	SimpleType@@TestReplicationOperation[145]
+
+	INS	SimpleName@@TestReplicationOperation[145]
+
+	INS	SimpleName@@request[146]
+
+	INS	ClassInstanceCreation@@[146]
+
+	INS	SimpleType@@TestPrimary[146]
+
+	INS	SimpleName@@TestPrimary[146]
+
+	INS	SimpleName@@primaryShard[146]
+
+	INS	SimpleName@@primaryTerm[146]
+
+	INS	SimpleName@@listener[146]
+
+	INS	BooleanLiteral@@false[147]
+
+	INS	ClassInstanceCreation@@[147]
+
+	INS	SimpleType@@TestReplicaProxy[147]
+
+	INS	SimpleName@@TestReplicaProxy[147]
+
+	INS	LambdaExpression@@[147]
+
+	INS	SimpleName@@state[147]
+
+	INS	SimpleName@@logger[147]
+
+	INS	StringLiteral@@"test"[147]
+
+	INS	ExpressionStatement@@[148]
+
+	INS	MethodInvocation@@[148]
+
+	INS	SimpleName@@op[148]
+
+	INS	SimpleName@@execute[148]
+
+	INS	ExpressionStatement@@[148]
+
+	INS	MethodInvocation@@[148]
+
+	INS	SimpleName@@assertThat[148]
+
+	INS	StringLiteral@@"request was not processed on primary"[148]
+
+	INS	MethodInvocation@@[148]
+
+	INS	QualifiedName@@request.processedOnPrimary[148]
+
+	INS	SimpleName@@get[149]
+
+	INS	MethodInvocation@@[149]
+
+	INS	SimpleName@@equalTo[149]
+
+	INS	BooleanLiteral@@true[149]
+
+	INS	ExpressionStatement@@[149]
+
+	INS	MethodInvocation@@[149]
+
+	INS	SimpleName@@assertThat[149]
+
+	INS	QualifiedName@@request.processedOnReplicas[150]
+
+	INS	MethodInvocation@@[151]
+
+	INS	SimpleName@@equalTo[151]
+
+	INS	MethodInvocation@@[151]
+
+	INS	SimpleName@@Collections[151]
+
+	INS	SimpleName@@emptySet[151]
+
+	INS	ExpressionStatement@@[151]
+
+	INS	MethodInvocation@@[151]
+
+	INS	SimpleName@@assertTrue[151]
+
+	INS	StringLiteral@@"listener is not marked as done"[151]
+
+	INS	MethodInvocation@@[151]
+
+	INS	SimpleName@@listener[151]
+
+	INS	SimpleName@@isDone[151]
+
+	INS	VariableDeclarationStatement@@[152]
+
+	INS	SimpleType@@ShardInfo[152]
+
+	INS	SimpleName@@ShardInfo[152]
+
+	INS	VariableDeclarationFragment@@[152]
+
+	INS	SimpleName@@shardInfo[152]
+
+	INS	MethodInvocation@@[152]
+
+	INS	MethodInvocation@@[152]
+
+	INS	SimpleName@@listener[152]
+
+	INS	SimpleName@@actionGet[152]
+
+	INS	SimpleName@@getShardInfo[152]
+
+	INS	ExpressionStatement@@[152]
+
+	INS	MethodInvocation@@[152]
+
+	INS	SimpleName@@assertThat[152]
+
+	INS	MethodInvocation@@[153]
+
+	INS	SimpleName@@shardInfo[153]
+
+	INS	SimpleName@@getFailed[153]
+
+	INS	MethodInvocation@@[153]
+
+	INS	SimpleName@@equalTo[153]
+
+	INS	NumberLiteral@@0[153]
+
+	INS	ExpressionStatement@@[153]
+
+	INS	MethodInvocation@@[153]
+
+	INS	SimpleName@@assertThat[153]
+
+	INS	MethodInvocation@@[153]
+
+	INS	SimpleName@@shardInfo[153]
+
+	INS	SimpleName@@getFailures[153]
+
+	INS	MethodInvocation@@[154]
+
+	INS	SimpleName@@arrayWithSize[154]
+
+	INS	NumberLiteral@@0[154]
+
+	INS	ExpressionStatement@@[154]
+
+	INS	MethodInvocation@@[154]
+
+	INS	SimpleName@@assertThat[154]
+
+	INS	MethodInvocation@@[154]
+
+	INS	SimpleName@@shardInfo[154]
+
+	INS	SimpleName@@getSuccessful[154]
+
+	INS	MethodInvocation@@[155]
+
+	INS	SimpleName@@equalTo[155]
+
+	INS	NumberLiteral@@1[155]
+
+	INS	ExpressionStatement@@[155]
+
+	INS	MethodInvocation@@[155]
+
+	INS	SimpleName@@assertThat[155]
+
+	INS	MethodInvocation@@[155]
+
+	INS	SimpleName@@shardInfo[155]
+
+	INS	SimpleName@@getTotal[155]
+
+	INS	MethodInvocation@@[156]
+
+	INS	SimpleName@@equalTo[156]
+
+	INS	MethodInvocation@@[156]
+
+	INS	SimpleName@@indexShardRoutingTable[156]
+
+	INS	SimpleName@@getSize[156]
+, INS	SingleVariableDeclaration@@[520]
+
+	INS	PrimitiveType@@boolean[520]
+
+	INS	SimpleName@@executeOnReplicas[520]
+, INS	BooleanLiteral@@true[513]
+, INS	SimpleName@@executeOnReplicas[521]
+, INS	MethodInvocation@@[309]
+
+	INS	SimpleName@@randomBoolean[309]
+]

@@ -1,0 +1,193 @@
+[UPD	SimpleType@@T[179]	TO	SizeMonitoringFrameLayout
+
+	UPD	SimpleName@@T[179]	TO	SizeMonitoringFrameLayout
+, INS	VariableDeclarationStatement@@[183]
+
+	INS	Modifier@@final[183]
+
+	INS	PrimitiveType@@int[183]
+
+	INS	VariableDeclarationFragment@@[183]
+
+	INS	SimpleName@@width[183]
+, INS	VariableDeclarationStatement@@[183]
+
+	INS	Modifier@@final[183]
+
+	INS	PrimitiveType@@int[183]
+
+	INS	VariableDeclarationFragment@@[184]
+
+	INS	SimpleName@@height[184]
+, INS	IfStatement@@[186]
+
+	INS	InfixExpression@@&&[186]
+
+	INS	InfixExpression@@&&[186]
+
+	INS	InfixExpression@@!=[186]
+
+	INS	MethodInvocation@@[186]
+
+	INS	SimpleName@@rootView[186]
+
+	INS	SimpleName@@getLayoutParams[186]
+
+	INS	NullLiteral@@[186]
+
+	INS	InfixExpression@@>[188]
+
+	INS	FieldAccess@@[188]
+
+	INS	MethodInvocation@@[188]
+
+	INS	SimpleName@@rootView[188]
+
+	INS	SimpleName@@getLayoutParams[188]
+
+	INS	SimpleName@@width[189]
+
+	INS	NumberLiteral@@0[189]
+
+	INS	InfixExpression@@>[190]
+
+	INS	FieldAccess@@[190]
+
+	INS	MethodInvocation@@[190]
+
+	INS	SimpleName@@rootView[190]
+
+	INS	SimpleName@@getLayoutParams[190]
+
+	INS	SimpleName@@height[190]
+
+	INS	NumberLiteral@@0[190]
+
+	INS	Block@@[190]
+
+	INS	ExpressionStatement@@[190]
+
+	INS	Assignment@@=[190]
+
+	INS	SimpleName@@width[190]
+
+	INS	FieldAccess@@[190]
+
+	INS	MethodInvocation@@[190]
+
+	INS	SimpleName@@rootView[190]
+
+	INS	SimpleName@@getLayoutParams[190]
+
+	INS	SimpleName@@width[190]
+
+	INS	ExpressionStatement@@[191]
+
+	INS	Assignment@@=[191]
+
+	INS	SimpleName@@height[191]
+
+	INS	FieldAccess@@[191]
+
+	INS	MethodInvocation@@[191]
+
+	INS	SimpleName@@rootView[191]
+
+	INS	SimpleName@@getLayoutParams[191]
+
+	INS	SimpleName@@height[191]
+
+	INS	Block@@[192]
+
+	INS	ExpressionStatement@@[192]
+
+	INS	Assignment@@=[192]
+
+	INS	SimpleName@@width[192]
+
+	INS	MethodInvocation@@[192]
+
+	INS	SimpleName@@rootView[192]
+
+	INS	SimpleName@@getWidth[192]
+
+	INS	ExpressionStatement@@[193]
+
+	INS	Assignment@@=[193]
+
+	INS	SimpleName@@height[193]
+
+	INS	MethodInvocation@@[193]
+
+	INS	SimpleName@@rootView[193]
+
+	INS	SimpleName@@getHeight[193]
+, INS	SimpleName@@width[201]
+, INS	SimpleName@@height[201]
+, DEL	TypeParameter@@[176]
+
+	DEL	SimpleName@@T[176]
+
+	DEL	SimpleType@@SizeMonitoringFrameLayout[177]
+
+	DEL	SimpleName@@SizeMonitoringFrameLayout[177]
+
+	DEL	SimpleType@@MeasureSpecProvider[177]
+
+	DEL	SimpleName@@MeasureSpecProvider[177]
+, DEL	MethodDeclaration@@[562]
+
+	DEL	Javadoc@@[562]
+
+	DEL	Modifier@@public[567]
+
+	DEL	PrimitiveType@@void[567]
+
+	DEL	SimpleName@@updateRootLayoutSpecs[567]
+
+	DEL	SingleVariableDeclaration@@[567]
+
+	DEL	PrimitiveType@@int[567]
+
+	DEL	SimpleName@@rootViewTag[567]
+
+	DEL	SingleVariableDeclaration@@[567]
+
+	DEL	PrimitiveType@@int[567]
+
+	DEL	SimpleName@@widthMeasureSpec[567]
+
+	DEL	SingleVariableDeclaration@@[570]
+
+	DEL	PrimitiveType@@int[570]
+
+	DEL	SimpleName@@heightMeasureSpec[570]
+
+	DEL	Block@@[570]
+
+	DEL	ExpressionStatement@@[570]
+
+	DEL	MethodInvocation@@[570]
+
+	DEL	SimpleName@@mUIImplementation[570]
+
+	DEL	SimpleName@@updateRootView[570]
+
+	DEL	SimpleName@@rootViewTag[571]
+
+	DEL	SimpleName@@widthMeasureSpec[571]
+
+	DEL	SimpleName@@heightMeasureSpec[571]
+
+	DEL	ExpressionStatement@@[572]
+
+	DEL	MethodInvocation@@[572]
+
+	DEL	SimpleName@@mUIImplementation[572]
+
+	DEL	SimpleName@@dispatchViewUpdates[572]
+
+	DEL	PrefixExpression@@-[572]
+
+	DEL	NumberLiteral@@1[572]
+]

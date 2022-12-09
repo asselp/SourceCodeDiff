@@ -1,0 +1,26 @@
+[INS	ImportDeclaration@@[15]
+
+	INS	QualifiedName@@alluxio.client.ClientContext[15]
+, INS	ImportDeclaration@@[21]
+
+	INS	QualifiedName@@javax.annotation.concurrent.NotThreadSafe[21]
+, INS	VariableDeclarationStatement@@[162]
+
+	INS	SimpleType@@Configuration[162]
+
+	INS	SimpleName@@Configuration[162]
+
+	INS	VariableDeclarationFragment@@[162]
+
+	INS	SimpleName@@conf[162]
+
+	INS	MethodInvocation@@[162]
+
+	INS	SimpleName@@ClientContext[162]
+
+	INS	SimpleName@@getConf[165]
+, UPD	SimpleName@@Configuration[166]	TO	conf
+, DEL	ImportDeclaration@@[25]
+
+	DEL	QualifiedName@@javax.annotation.concurrent.NotThreadSafe[25]
+]

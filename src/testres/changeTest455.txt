@@ -1,0 +1,8 @@
+[INS	MethodInvocation@@[46]
+
+	INS	SimpleName@@notNullChild[46]
+, MOV	MethodInvocation@@[46]	TO	MethodInvocation@@[46]
+, INS	SimpleName@@PsiTreeUtil[46]
+, UPD	SimpleName@@findNotNullChildByClass[46]	TO	getChildOfType
+, INS	ThisExpression@@[47]
+]

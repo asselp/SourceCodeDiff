@@ -1,0 +1,2 @@
+[UPD	QualifiedName@@org.jboss.as.server.logging.ServerLogger[22]	TO	org.jboss.as.server.ServerLogger
+]

@@ -1,0 +1,17 @@
+[DEL	Modifier@@final[27]
+, DEL	MethodDeclaration@@[139]
+
+	DEL	MarkerAnnotation@@[139]
+
+	DEL	SimpleName@@Override[139]
+
+	DEL	PrimitiveType@@long[139]
+
+	DEL	SimpleName@@sizePerItem[139]
+
+	DEL	Block@@[139]
+
+	DEL	ReturnStatement@@[142]
+
+	DEL	QualifiedName@@Integer.BYTES[142]
+]

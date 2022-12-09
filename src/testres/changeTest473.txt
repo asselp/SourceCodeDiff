@@ -1,0 +1,133 @@
+[INS	MethodDeclaration@@[475]
+
+	INS	NormalAnnotation@@[475]
+
+	INS	SimpleName@@Test[475]
+
+	INS	MemberValuePair@@[476]
+
+	INS	SimpleName@@enabled[476]
+
+	INS	BooleanLiteral@@false[478]
+
+	INS	Modifier@@public[478]
+
+	INS	PrimitiveType@@void[478]
+
+	INS	SimpleName@@testForkJoin[478]
+
+	INS	Block@@[479]
+
+	INS	VariableDeclarationStatement@@[479]
+
+	INS	SimpleType@@CompileResult[479]
+
+	INS	SimpleName@@CompileResult[479]
+
+	INS	VariableDeclarationFragment@@[479]
+
+	INS	SimpleName@@result[479]
+
+	INS	MethodInvocation@@[479]
+
+	INS	SimpleName@@BCompileUtil[479]
+
+	INS	SimpleName@@compile[479]
+
+	INS	StringLiteral@@"test-src/taintchecking/propagation/fork-join.bal"[479]
+
+	INS	ExpressionStatement@@[480]
+
+	INS	MethodInvocation@@[480]
+
+	INS	SimpleName@@Assert[480]
+
+	INS	SimpleName@@assertEquals[480]
+
+	INS	FieldAccess@@[480]
+
+	INS	MethodInvocation@@[480]
+
+	INS	SimpleName@@result[480]
+
+	INS	SimpleName@@getDiagnostics[480]
+
+	INS	SimpleName@@length[481]
+
+	INS	NumberLiteral@@0[481]
+, INS	MethodDeclaration@@[481]
+
+	INS	NormalAnnotation@@[481]
+
+	INS	SimpleName@@Test[481]
+
+	INS	MemberValuePair@@[481]
+
+	INS	SimpleName@@enabled[481]
+
+	INS	BooleanLiteral@@false[481]
+
+	INS	Modifier@@public[481]
+
+	INS	PrimitiveType@@void[481]
+
+	INS	SimpleName@@testForkJoinNegative[481]
+
+	INS	Block@@[482]
+
+	INS	VariableDeclarationStatement@@[482]
+
+	INS	SimpleType@@CompileResult[482]
+
+	INS	SimpleName@@CompileResult[482]
+
+	INS	VariableDeclarationFragment@@[482]
+
+	INS	SimpleName@@result[482]
+
+	INS	MethodInvocation@@[482]
+
+	INS	SimpleName@@BCompileUtil[482]
+
+	INS	SimpleName@@compile[482]
+
+	INS	StringLiteral@@"test-src/taintchecking/propagation/fork-join-negative.bal"[482]
+
+	INS	ExpressionStatement@@[483]
+
+	INS	MethodInvocation@@[483]
+
+	INS	SimpleName@@Assert[483]
+
+	INS	SimpleName@@assertEquals[483]
+
+	INS	FieldAccess@@[483]
+
+	INS	MethodInvocation@@[483]
+
+	INS	SimpleName@@result[483]
+
+	INS	SimpleName@@getDiagnostics[483]
+
+	INS	SimpleName@@length[483]
+
+	INS	NumberLiteral@@1[484]
+
+	INS	ExpressionStatement@@[486]
+
+	INS	MethodInvocation@@[486]
+
+	INS	SimpleName@@BAssertUtil[486]
+
+	INS	SimpleName@@validateError[486]
+
+	INS	SimpleName@@result[487]
+
+	INS	NumberLiteral@@0[487]
+
+	INS	StringLiteral@@"tainted value passed to sensitive parameter 'secureIn'"[487]
+
+	INS	NumberLiteral@@10[488]
+
+	INS	NumberLiteral@@24[488]
+]

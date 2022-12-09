@@ -1,0 +1,18 @@
+[INS	StringLiteral@@"RCTText"[18]
+, DEL	FieldDeclaration@@[17]
+
+	DEL	Modifier@@static[17]
+
+	DEL	Modifier@@final[17]
+
+	DEL	SimpleType@@String[17]
+
+	DEL	SimpleName@@String[17]
+
+	DEL	VariableDeclarationFragment@@[17]
+
+	DEL	SimpleName@@REACT_CLASS[17]
+
+	DEL	StringLiteral@@"RCTText"[17]
+, DEL	SimpleName@@REACT_CLASS[20]
+]

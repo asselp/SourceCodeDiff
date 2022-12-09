@@ -1,0 +1,80 @@
+[MOV	ExpressionStatement@@[73]	TO	Block@@[40]
+, DEL	ExpressionStatement@@[78]
+
+	DEL	MethodInvocation@@[78]
+
+	DEL	SimpleName@@getTasksIndex[78]
+
+	DEL	SimpleName@@setOptions[78]
+
+	DEL	MethodInvocation@@[78]
+
+	DEL	SimpleName@@expectVersionSpecificWarnings[78]
+
+	DEL	LambdaExpression@@[78]
+
+	DEL	VariableDeclarationFragment@@[78]
+
+	DEL	SimpleName@@v[78]
+
+	DEL	Block@@[78]
+
+	DEL	ExpressionStatement@@[80]
+
+	DEL	MethodInvocation@@[80]
+
+	DEL	SimpleName@@v[80]
+
+	DEL	SimpleName@@current[80]
+
+	DEL	SimpleName@@systemIndexWarning[80]
+
+	DEL	ExpressionStatement@@[80]
+
+	DEL	MethodInvocation@@[80]
+
+	DEL	SimpleName@@v[80]
+
+	DEL	SimpleName@@compatible[80]
+
+	DEL	SimpleName@@systemIndexWarning[80]
+, DEL	ExpressionStatement@@[100]
+
+	DEL	MethodInvocation@@[100]
+
+	DEL	SimpleName@@putAliasRequest[100]
+
+	DEL	SimpleName@@setOptions[100]
+
+	DEL	MethodInvocation@@[100]
+
+	DEL	SimpleName@@expectVersionSpecificWarnings[100]
+
+	DEL	LambdaExpression@@[101]
+
+	DEL	VariableDeclarationFragment@@[101]
+
+	DEL	SimpleName@@v[101]
+
+	DEL	Block@@[102]
+
+	DEL	ExpressionStatement@@[102]
+
+	DEL	MethodInvocation@@[102]
+
+	DEL	SimpleName@@v[102]
+
+	DEL	SimpleName@@current[103]
+
+	DEL	SimpleName@@systemIndexWarning[103]
+
+	DEL	ExpressionStatement@@[103]
+
+	DEL	MethodInvocation@@[103]
+
+	DEL	SimpleName@@v[103]
+
+	DEL	SimpleName@@compatible[103]
+
+	DEL	SimpleName@@systemIndexWarning[103]
+]

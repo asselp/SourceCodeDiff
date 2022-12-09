@@ -1,0 +1,2 @@
+[UPD	QualifiedName@@org.elasticsearch.protocol.xpack.security.User[32]	TO	org.elasticsearch.xpack.core.security.user.User
+]

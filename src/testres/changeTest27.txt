@@ -1,0 +1,157 @@
+[INS	ImportDeclaration@@[150]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.IngestActionFilter[150]
+, INS	ImportDeclaration@@[150]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.IngestProxyActionFilter[151]
+, INS	ImportDeclaration@@[151]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.DeletePipelineAction[151]
+, INS	ImportDeclaration@@[152]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.DeletePipelineTransportAction[152]
+, INS	ImportDeclaration@@[153]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.GetPipelineAction[153]
+, INS	ImportDeclaration@@[154]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.GetPipelineTransportAction[154]
+, INS	ImportDeclaration@@[155]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.PutPipelineAction[155]
+, INS	ImportDeclaration@@[156]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.PutPipelineTransportAction[156]
+, INS	ImportDeclaration@@[157]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.SimulatePipelineAction[157]
+, INS	ImportDeclaration@@[158]
+
+	INS	QualifiedName@@org.elasticsearch.action.ingest.SimulatePipelineTransportAction[158]
+, INS	ImportDeclaration@@[195]
+
+	INS	QualifiedName@@org.elasticsearch.common.settings.Settings[195]
+, INS	ImportDeclaration@@[196]
+
+	INS	QualifiedName@@org.elasticsearch.node.NodeModule[196]
+, INS	FieldDeclaration@@[220]
+
+	INS	Modifier@@private[220]
+
+	INS	Modifier@@final[220]
+
+	INS	PrimitiveType@@boolean[220]
+
+	INS	VariableDeclarationFragment@@[220]
+
+	INS	SimpleName@@ingestEnabled[220]
+, INS	SingleVariableDeclaration@@[222]
+
+	INS	PrimitiveType@@boolean[222]
+
+	INS	SimpleName@@ingestEnabled[222]
+, INS	ExpressionStatement@@[223]
+
+	INS	Assignment@@=[223]
+
+	INS	FieldAccess@@[223]
+
+	INS	ThisExpression@@[223]
+
+	INS	SimpleName@@ingestEnabled[223]
+
+	INS	SimpleName@@ingestEnabled[223]
+, INS	IfStatement@@[245]
+
+	INS	InfixExpression@@==[245]
+
+	INS	SimpleName@@proxy[245]
+
+	INS	BooleanLiteral@@false[245]
+
+	INS	Block@@[245]
+
+	INS	IfStatement@@[246]
+
+	INS	SimpleName@@ingestEnabled[248]
+
+	INS	Block@@[248]
+
+	INS	ExpressionStatement@@[248]
+
+	INS	MethodInvocation@@[248]
+
+	INS	SimpleName@@registerFilter[248]
+
+	INS	TypeLiteral@@[248]
+
+	INS	SimpleType@@IngestActionFilter[248]
+
+	INS	SimpleName@@IngestActionFilter[248]
+
+	INS	Block@@[249]
+
+	INS	ExpressionStatement@@[249]
+
+	INS	MethodInvocation@@[249]
+
+	INS	SimpleName@@registerFilter[249]
+
+	INS	TypeLiteral@@[249]
+
+	INS	SimpleType@@IngestProxyActionFilter[249]
+
+	INS	SimpleName@@IngestProxyActionFilter[249]
+, INS	ExpressionStatement@@[356]
+
+	INS	MethodInvocation@@[356]
+
+	INS	SimpleName@@registerAction[356]
+
+	INS	QualifiedName@@PutPipelineAction.INSTANCE[356]
+
+	INS	TypeLiteral@@[356]
+
+	INS	SimpleType@@PutPipelineTransportAction[356]
+
+	INS	SimpleName@@PutPipelineTransportAction[356]
+, INS	ExpressionStatement@@[357]
+
+	INS	MethodInvocation@@[357]
+
+	INS	SimpleName@@registerAction[357]
+
+	INS	QualifiedName@@GetPipelineAction.INSTANCE[357]
+
+	INS	TypeLiteral@@[357]
+
+	INS	SimpleType@@GetPipelineTransportAction[357]
+
+	INS	SimpleName@@GetPipelineTransportAction[357]
+, INS	ExpressionStatement@@[358]
+
+	INS	MethodInvocation@@[358]
+
+	INS	SimpleName@@registerAction[358]
+
+	INS	QualifiedName@@DeletePipelineAction.INSTANCE[358]
+
+	INS	TypeLiteral@@[358]
+
+	INS	SimpleType@@DeletePipelineTransportAction[358]
+
+	INS	SimpleName@@DeletePipelineTransportAction[358]
+, INS	ExpressionStatement@@[360]
+
+	INS	MethodInvocation@@[360]
+
+	INS	SimpleName@@registerAction[360]
+
+	INS	QualifiedName@@SimulatePipelineAction.INSTANCE[360]
+
+	INS	TypeLiteral@@[360]
+
+	INS	SimpleType@@SimulatePipelineTransportAction[360]
+
+	INS	SimpleName@@SimulatePipelineTransportAction[360]
+]

@@ -1,0 +1,21 @@
+[INS	ParenthesizedExpression@@[296]
+, MOV	CastExpression@@[297]	TO	ParenthesizedExpression@@[296]
+, UPD	SimpleType@@GuardedRunnable[303]	TO	Runnable
+
+	UPD	SimpleName@@GuardedRunnable[303]	TO	Runnable
+, UPD	SimpleName@@runGuarded[304]	TO	run
+, DEL	ImportDeclaration@@[29]
+
+	DEL	QualifiedName@@com.facebook.react.bridge.GuardedRunnable[29]
+, DEL	VariableDeclarationStatement@@[297]
+
+	DEL	SimpleType@@ReactContext[297]
+
+	DEL	SimpleName@@ReactContext[297]
+
+	DEL	VariableDeclarationFragment@@[297]
+
+	DEL	SimpleName@@reactContext[297]
+, DEL	SimpleName@@reactContext[299]
+, DEL	SimpleName@@reactContext[304]
+]

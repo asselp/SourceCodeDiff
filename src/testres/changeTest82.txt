@@ -1,0 +1,36 @@
+[INS	VariableDeclarationStatement@@[187]
+
+	INS	ParameterizedType@@ServiceBuilder<?>[187]
+
+	INS	SimpleType@@ServiceBuilder[187]
+
+	INS	SimpleName@@ServiceBuilder[187]
+
+	INS	WildcardType@@?[187]
+
+	INS	VariableDeclarationFragment@@[187]
+
+	INS	SimpleName@@serviceBuilder[187]
+, INS	ExpressionStatement@@[190]
+
+	INS	MethodInvocation@@[190]
+
+	INS	SimpleName@@serviceBuilder[190]
+
+	INS	SimpleName@@setInitialMode[190]
+
+	INS	QualifiedName@@Mode.ACTIVE[190]
+, MOV	MethodInvocation@@[187]	TO	ExpressionStatement@@[187]
+
+	MOV	MethodInvocation@@[187]	TO	VariableDeclarationFragment@@[187]
+, INS	SimpleName@@serviceBuilder[189]
+, DEL	MethodInvocation@@[187]
+
+	DEL	MethodInvocation@@[187]
+
+	DEL	SimpleName@@setInitialMode[190]
+
+	DEL	QualifiedName@@Mode.ACTIVE[190]
+
+	DEL	SimpleName@@install[190]
+]

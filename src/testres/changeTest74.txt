@@ -1,0 +1,134 @@
+[MOV	FieldDeclaration@@[58]	TO	TypeDeclaration@@[56]
+, MOV	FieldDeclaration@@[60]	TO	TypeDeclaration@@[56]
+, UPD	QualifiedName@@org.wildfly.clustering.service.SupplierDependency[49]	TO	org.wildfly.clustering.service.SimpleServiceNameProvider
+, UPD	QualifiedName@@org.wildfly.clustering.spi.ClusteringCacheRequirement[50]	TO	org.wildfly.clustering.service.SupplierDependency
+, INS	SimpleType@@SimpleServiceNameProvider[57]
+
+	INS	SimpleName@@SimpleServiceNameProvider[57]
+, UPD	Modifier@@volatile[62]	TO	static
+, INS	Modifier@@final[57]
+, UPD	SimpleType@@String[62]	TO	ServiceName
+
+	UPD	SimpleName@@String[62]	TO	ServiceName
+, UPD	Modifier@@volatile[63]	TO	final
+, UPD	SimpleType@@ServiceName[63]	TO	String
+
+	UPD	SimpleName@@ServiceName[63]	TO	String
+, INS	SimpleName@@BASE_NAME[57]
+, INS	MethodInvocation@@[57]
+
+	INS	QualifiedName@@ServiceName.JBOSS[57]
+
+	INS	SimpleName@@append[58]
+
+	INS	StringLiteral@@"ejb"[58]
+
+	INS	StringLiteral@@"remote"[58]
+
+	INS	StringLiteral@@"client-mappings"[58]
+, UPD	SimpleName@@name[63]	TO	containerName
+, UPD	SimpleName@@clientMappingsClusterName[66]	TO	containerName
+, UPD	SimpleType@@ServiceName[66]	TO	String
+
+	UPD	SimpleName@@ServiceName[66]	TO	String
+, UPD	SimpleName@@remotingConnectorInfoServiceName[66]	TO	connectorName
+, INS	SuperConstructorInvocation@@[65]
+
+	INS	MethodInvocation@@[65]
+
+	INS	SimpleName@@BASE_NAME[65]
+
+	INS	SimpleName@@append[65]
+
+	INS	SimpleName@@connectorName[65]
+, INS	VariableDeclarationStatement@@[77]
+
+	INS	SimpleType@@ServiceName[77]
+
+	INS	SimpleName@@ServiceName[77]
+
+	INS	VariableDeclarationFragment@@[78]
+
+	INS	SimpleName@@name[78]
+
+	INS	MethodInvocation@@[78]
+
+	INS	ThisExpression@@[78]
+
+	INS	SimpleName@@getServiceName[78]
+, UPD	SimpleName@@clientMappingsClusterName[66]	TO	containerName
+, UPD	SimpleName@@clientMappingsClusterName[66]	TO	containerName
+, INS	MethodInvocation@@[68]
+
+	INS	SimpleName@@RemotingConnectorBindingInfoService[68]
+
+	INS	SimpleName@@serviceName[68]
+
+	INS	SimpleName@@connectorName[68]
+, INS	SimpleName@@name[79]
+, INS	SimpleName@@name[81]
+, UPD	SimpleName@@clientMappingsClusterName[79]	TO	containerName
+, DEL	ImportDeclaration@@[43]
+
+	DEL	QualifiedName@@org.wildfly.clustering.ejb.BeanManagerFactoryServiceConfiguratorConfiguration[43]
+, DEL	SimpleName@@clientMappingsClusterName[62]
+, DEL	SimpleName@@remotingConnectorInfoServiceName[68]
+, DEL	MethodDeclaration@@[68]
+
+	DEL	MarkerAnnotation@@[68]
+
+	DEL	SimpleName@@Override[68]
+
+	DEL	Modifier@@public[68]
+
+	DEL	SimpleType@@ServiceName[68]
+
+	DEL	SimpleName@@ServiceName[68]
+
+	DEL	SimpleName@@getServiceName[68]
+
+	DEL	Block@@[68]
+
+	DEL	ReturnStatement@@[69]
+
+	DEL	FieldAccess@@[71]
+
+	DEL	ThisExpression@@[71]
+
+	DEL	SimpleName@@name[71]
+, DEL	ExpressionStatement@@[77]
+
+	DEL	Assignment@@=[77]
+
+	DEL	FieldAccess@@[77]
+
+	DEL	ThisExpression@@[77]
+
+	DEL	SimpleName@@name[77]
+
+	DEL	MethodInvocation@@[77]
+
+	DEL	QualifiedName@@ClusteringCacheRequirement.REGISTRY_ENTRY[77]
+
+	DEL	SimpleName@@getServiceName[77]
+
+	DEL	SimpleName@@context[78]
+
+	DEL	FieldAccess@@[78]
+
+	DEL	ThisExpression@@[78]
+
+	DEL	SimpleName@@clientMappingsClusterName[78]
+
+	DEL	QualifiedName@@BeanManagerFactoryServiceConfiguratorConfiguration.CLIENT_MAPPINGS_CACHE_NAME[78]
+, DEL	FieldAccess@@[84]
+
+	DEL	ThisExpression@@[84]
+
+	DEL	SimpleName@@name[84]
+, DEL	FieldAccess@@[86]
+
+	DEL	ThisExpression@@[86]
+
+	DEL	SimpleName@@name[86]
+]

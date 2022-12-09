@@ -1,0 +1,300 @@
+[DEL	MethodDeclaration@@[241]
+
+	DEL	Modifier@@public[241]
+
+	DEL	PrimitiveType@@void[241]
+
+	DEL	SimpleName@@testAllShardsForMultipleIndices[241]
+
+	DEL	Block@@[241]
+
+	DEL	ExpressionStatement@@[241]
+
+	DEL	MethodInvocation@@[241]
+
+	DEL	SimpleName@@assertThat[241]
+
+	DEL	MethodInvocation@@[241]
+
+	DEL	MethodInvocation@@[241]
+
+	DEL	FieldAccess@@[241]
+
+	DEL	ThisExpression@@[241]
+
+	DEL	SimpleName@@emptyRoutingTable[241]
+
+	DEL	SimpleName@@allShards[242]
+
+	DEL	ArrayCreation@@[242]
+
+	DEL	ArrayType@@String[][242]
+
+	DEL	SimpleType@@String[242]
+
+	DEL	SimpleName@@String[242]
+
+	DEL	Dimension@@[242]
+
+	DEL	NumberLiteral@@0[242]
+
+	DEL	SimpleName@@size[242]
+
+	DEL	MethodInvocation@@[242]
+
+	DEL	SimpleName@@is[242]
+
+	DEL	NumberLiteral@@0[242]
+
+	DEL	ExpressionStatement@@[243]
+
+	DEL	MethodInvocation@@[243]
+
+	DEL	SimpleName@@assertThat[243]
+
+	DEL	MethodInvocation@@[243]
+
+	DEL	MethodInvocation@@[243]
+
+	DEL	FieldAccess@@[243]
+
+	DEL	ThisExpression@@[243]
+
+	DEL	SimpleName@@testRoutingTable[243]
+
+	DEL	SimpleName@@allShards[243]
+
+	DEL	ArrayCreation@@[243]
+
+	DEL	ArrayType@@String[][243]
+
+	DEL	SimpleType@@String[243]
+
+	DEL	SimpleName@@String[243]
+
+	DEL	Dimension@@[243]
+
+	DEL	ArrayInitializer@@[243]
+
+	DEL	SimpleName@@TEST_INDEX_1[243]
+
+	DEL	SimpleName@@size[243]
+
+	DEL	MethodInvocation@@[243]
+
+	DEL	SimpleName@@is[243]
+
+	DEL	FieldAccess@@[244]
+
+	DEL	ThisExpression@@[244]
+
+	DEL	SimpleName@@shardsPerIndex[244]
+
+	DEL	ExpressionStatement@@[247]
+
+	DEL	MethodInvocation@@[247]
+
+	DEL	SimpleName@@initPrimaries[247]
+
+	DEL	ExpressionStatement@@[247]
+
+	DEL	MethodInvocation@@[247]
+
+	DEL	SimpleName@@assertThat[247]
+
+	DEL	MethodInvocation@@[247]
+
+	DEL	MethodInvocation@@[247]
+
+	DEL	FieldAccess@@[247]
+
+	DEL	ThisExpression@@[247]
+
+	DEL	SimpleName@@testRoutingTable[248]
+
+	DEL	SimpleName@@allShards[248]
+
+	DEL	ArrayCreation@@[248]
+
+	DEL	ArrayType@@String[][248]
+
+	DEL	SimpleType@@String[248]
+
+	DEL	SimpleName@@String[248]
+
+	DEL	Dimension@@[248]
+
+	DEL	ArrayInitializer@@[248]
+
+	DEL	SimpleName@@TEST_INDEX_1[248]
+
+	DEL	SimpleName@@size[248]
+
+	DEL	MethodInvocation@@[248]
+
+	DEL	SimpleName@@is[248]
+
+	DEL	FieldAccess@@[248]
+
+	DEL	ThisExpression@@[248]
+
+	DEL	SimpleName@@shardsPerIndex[248]
+
+	DEL	ExpressionStatement@@[250]
+
+	DEL	MethodInvocation@@[250]
+
+	DEL	SimpleName@@startInitializingShards[250]
+
+	DEL	SimpleName@@TEST_INDEX_1[250]
+
+	DEL	ExpressionStatement@@[250]
+
+	DEL	MethodInvocation@@[250]
+
+	DEL	SimpleName@@assertThat[250]
+
+	DEL	MethodInvocation@@[250]
+
+	DEL	MethodInvocation@@[250]
+
+	DEL	FieldAccess@@[250]
+
+	DEL	ThisExpression@@[250]
+
+	DEL	SimpleName@@testRoutingTable[250]
+
+	DEL	SimpleName@@allShards[250]
+
+	DEL	ArrayCreation@@[250]
+
+	DEL	ArrayType@@String[][250]
+
+	DEL	SimpleType@@String[250]
+
+	DEL	SimpleName@@String[250]
+
+	DEL	Dimension@@[250]
+
+	DEL	ArrayInitializer@@[251]
+
+	DEL	SimpleName@@TEST_INDEX_1[251]
+
+	DEL	SimpleName@@size[252]
+
+	DEL	MethodInvocation@@[252]
+
+	DEL	SimpleName@@is[252]
+
+	DEL	FieldAccess@@[252]
+
+	DEL	ThisExpression@@[252]
+
+	DEL	SimpleName@@shardsPerIndex[253]
+
+	DEL	ExpressionStatement@@[253]
+
+	DEL	MethodInvocation@@[253]
+
+	DEL	SimpleName@@startInitializingShards[253]
+
+	DEL	SimpleName@@TEST_INDEX_2[253]
+
+	DEL	ExpressionStatement@@[253]
+
+	DEL	MethodInvocation@@[253]
+
+	DEL	SimpleName@@assertThat[253]
+
+	DEL	MethodInvocation@@[253]
+
+	DEL	MethodInvocation@@[253]
+
+	DEL	FieldAccess@@[253]
+
+	DEL	ThisExpression@@[253]
+
+	DEL	SimpleName@@testRoutingTable[253]
+
+	DEL	SimpleName@@allShards[253]
+
+	DEL	ArrayCreation@@[255]
+
+	DEL	ArrayType@@String[][255]
+
+	DEL	SimpleType@@String[255]
+
+	DEL	SimpleName@@String[255]
+
+	DEL	Dimension@@[255]
+
+	DEL	ArrayInitializer@@[255]
+
+	DEL	SimpleName@@TEST_INDEX_1[255]
+
+	DEL	SimpleName@@TEST_INDEX_2[255]
+
+	DEL	SimpleName@@size[255]
+
+	DEL	MethodInvocation@@[256]
+
+	DEL	SimpleName@@is[256]
+
+	DEL	FieldAccess@@[256]
+
+	DEL	ThisExpression@@[256]
+
+	DEL	SimpleName@@totalNumberOfShards[256]
+
+	DEL	TryStatement@@[256]
+
+	DEL	Block@@[256]
+
+	DEL	ExpressionStatement@@[256]
+
+	DEL	MethodInvocation@@[256]
+
+	DEL	FieldAccess@@[256]
+
+	DEL	ThisExpression@@[256]
+
+	DEL	SimpleName@@testRoutingTable[256]
+
+	DEL	SimpleName@@allShards[256]
+
+	DEL	ArrayCreation@@[256]
+
+	DEL	ArrayType@@String[][256]
+
+	DEL	SimpleType@@String[256]
+
+	DEL	SimpleName@@String[256]
+
+	DEL	Dimension@@[256]
+
+	DEL	ArrayInitializer@@[256]
+
+	DEL	SimpleName@@TEST_INDEX_1[256]
+
+	DEL	StringLiteral@@"not_exists"[258]
+
+	DEL	CatchClause@@[258]
+
+	DEL	SingleVariableDeclaration@@[258]
+
+	DEL	SimpleType@@IndexNotFoundException[258]
+
+	DEL	SimpleName@@IndexNotFoundException[258]
+
+	DEL	SimpleName@@e[259]
+
+	DEL	Block@@[259]
+
+	DEL	ExpressionStatement@@[259]
+
+	DEL	MethodInvocation@@[259]
+
+	DEL	SimpleName@@fail[259]
+
+	DEL	StringLiteral@@"Calling with non-existing index should be ignored at the moment"[259]
+]

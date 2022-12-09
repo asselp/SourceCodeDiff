@@ -1,0 +1,105 @@
+[UPD	QualifiedName@@java.io.IOException[9]	TO	com.yahoo.vespa.hosted.controller.restapi.SlimeJsonResponse
+, UPD	SimpleType@@HttpResponse[16]	TO	SlimeJsonResponse
+
+	UPD	SimpleName@@HttpResponse[16]	TO	SlimeJsonResponse
+, INS	Modifier@@private[15]
+, UPD	Modifier@@public[23]	TO	static
+, INS	SimpleType@@Slime[18]
+
+	INS	SimpleName@@Slime[18]
+, INS	SimpleName@@toSlime[18]
+, INS	SuperConstructorInvocation@@[14]
+
+	INS	MethodInvocation@@[15]
+
+	INS	SimpleName@@toSlime[15]
+
+	INS	SimpleName@@upgrader[15]
+, UPD	SimpleType@@OutputStream[25]	TO	Upgrader
+
+	UPD	SimpleName@@OutputStream[25]	TO	Upgrader
+, UPD	SimpleName@@outputStream[26]	TO	upgrader
+, INS	ReturnStatement@@[27]
+
+	INS	SimpleName@@slime[28]
+, DEL	ImportDeclaration@@[2]
+
+	DEL	QualifiedName@@com.yahoo.container.jdisc.HttpResponse[4]
+, DEL	ImportDeclaration@@[5]
+
+	DEL	QualifiedName@@com.yahoo.slime.JsonFormat[6]
+, DEL	ImportDeclaration@@[10]
+
+	DEL	QualifiedName@@java.io.OutputStream[10]
+, DEL	FieldDeclaration@@[16]
+
+	DEL	Modifier@@private[16]
+
+	DEL	Modifier@@final[16]
+
+	DEL	SimpleType@@Upgrader[18]
+
+	DEL	SimpleName@@Upgrader[18]
+
+	DEL	VariableDeclarationFragment@@[18]
+
+	DEL	SimpleName@@upgrader[18]
+, DEL	SuperConstructorInvocation@@[20]
+
+	DEL	NumberLiteral@@200[20]
+, DEL	ExpressionStatement@@[21]
+
+	DEL	Assignment@@=[21]
+
+	DEL	FieldAccess@@[21]
+
+	DEL	ThisExpression@@[21]
+
+	DEL	SimpleName@@upgrader[21]
+
+	DEL	SimpleName@@upgrader[22]
+, DEL	MarkerAnnotation@@[22]
+
+	DEL	SimpleName@@Override[22]
+, DEL	PrimitiveType@@void[25]
+, DEL	SimpleName@@render[25]
+, DEL	SimpleType@@IOException[26]
+
+	DEL	SimpleName@@IOException[26]
+, DEL	ExpressionStatement@@[35]
+
+	DEL	MethodInvocation@@[35]
+
+	DEL	ClassInstanceCreation@@[35]
+
+	DEL	SimpleType@@JsonFormat[35]
+
+	DEL	SimpleName@@JsonFormat[35]
+
+	DEL	BooleanLiteral@@true[36]
+
+	DEL	SimpleName@@encode[36]
+
+	DEL	SimpleName@@outputStream[37]
+
+	DEL	SimpleName@@slime[38]
+, DEL	MethodDeclaration@@[38]
+
+	DEL	MarkerAnnotation@@[38]
+
+	DEL	SimpleName@@Override[38]
+
+	DEL	Modifier@@public[38]
+
+	DEL	SimpleType@@String[38]
+
+	DEL	SimpleName@@String[38]
+
+	DEL	SimpleName@@getContentType[39]
+
+	DEL	Block@@[41]
+
+	DEL	ReturnStatement@@[42]
+
+	DEL	StringLiteral@@"application/json"[42]
+]

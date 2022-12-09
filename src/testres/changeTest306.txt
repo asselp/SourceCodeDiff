@@ -1,0 +1,6 @@
+[UPD	QualifiedName@@org.codehaus.jackson.annotate.JsonAnyGetter[7]	TO	com.fasterxml.jackson.annotation.JsonAnyGetter
+, UPD	QualifiedName@@org.codehaus.jackson.annotate.JsonAnySetter[8]	TO	com.fasterxml.jackson.annotation.JsonAnySetter
+, UPD	QualifiedName@@org.codehaus.jackson.annotate.JsonProperty[8]	TO	com.fasterxml.jackson.annotation.JsonProperty
+, UPD	QualifiedName@@org.codehaus.jackson.annotate.JsonPropertyOrder[9]	TO	com.fasterxml.jackson.annotation.JsonPropertyOrder
+, UPD	QualifiedName@@org.codehaus.jackson.map.annotate.JsonSerialize[10]	TO	com.fasterxml.jackson.databind.annotation.JsonSerialize
+]

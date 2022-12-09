@@ -1,0 +1,34 @@
+[DEL	ImportDeclaration@@[31]
+
+	DEL	QualifiedName@@java.nio.file.NoSuchFileException[31]
+, DEL	ImportDeclaration@@[33]
+
+	DEL	QualifiedName@@java.util.stream.Stream[33]
+, DEL	MethodDeclaration@@[99]
+
+	DEL	Javadoc@@[99]
+
+	DEL	ParameterizedType@@Stream<FileHandle>[121]
+
+	DEL	SimpleType@@Stream[121]
+
+	DEL	SimpleName@@Stream[121]
+
+	DEL	SimpleType@@FileHandle[121]
+
+	DEL	SimpleName@@FileHandle[121]
+
+	DEL	SimpleName@@streamFilesRecursive[122]
+
+	DEL	SingleVariableDeclaration@@[122]
+
+	DEL	SimpleType@@File[122]
+
+	DEL	SimpleName@@File[122]
+
+	DEL	SimpleName@@directory[122]
+
+	DEL	SimpleType@@IOException[122]
+
+	DEL	SimpleName@@IOException[122]
+]

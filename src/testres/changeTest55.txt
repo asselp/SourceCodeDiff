@@ -1,0 +1,56 @@
+[UPD	QualifiedName@@org.jboss.msc.service.Service[24]	TO	org.jboss.msc.service.AbstractService
+, UPD	QualifiedName@@org.jboss.msc.service.ServiceBuilder[26]	TO	org.jboss.msc.service.Service
+, UPD	QualifiedName@@org.jboss.msc.service.ServiceName[27]	TO	org.jboss.msc.service.ServiceBuilder
+, UPD	QualifiedName@@org.jboss.msc.service.ServiceTarget[28]	TO	org.jboss.msc.service.ServiceName
+, UPD	QualifiedName@@org.jboss.msc.service.StopContext[30]	TO	org.jboss.msc.service.ServiceTarget
+, UPD	ParameterizedType@@Service<SingletonServiceBuilderFactory>[40]	TO	AbstractService<SingletonServiceBuilderFactory>
+
+	UPD	SimpleType@@Service[40]	TO	AbstractService
+
+	UPD	SimpleName@@Service[40]	TO	AbstractService
+, DEL	ImportDeclaration@@[29]
+
+	DEL	QualifiedName@@org.jboss.msc.service.StartContext[29]
+, DEL	MethodDeclaration@@[51]
+
+	DEL	MarkerAnnotation@@[51]
+
+	DEL	SimpleName@@Override[51]
+
+	DEL	Modifier@@public[51]
+
+	DEL	PrimitiveType@@void[52]
+
+	DEL	SimpleName@@start[52]
+
+	DEL	SingleVariableDeclaration@@[52]
+
+	DEL	SimpleType@@StartContext[52]
+
+	DEL	SimpleName@@StartContext[52]
+
+	DEL	SimpleName@@context[53]
+
+	DEL	Block@@[55]
+, DEL	MethodDeclaration@@[56]
+
+	DEL	MarkerAnnotation@@[56]
+
+	DEL	SimpleName@@Override[56]
+
+	DEL	Modifier@@public[56]
+
+	DEL	PrimitiveType@@void[56]
+
+	DEL	SimpleName@@stop[57]
+
+	DEL	SingleVariableDeclaration@@[57]
+
+	DEL	SimpleType@@StopContext[57]
+
+	DEL	SimpleName@@StopContext[57]
+
+	DEL	SimpleName@@context[57]
+
+	DEL	Block@@[58]
+]

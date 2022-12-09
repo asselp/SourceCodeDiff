@@ -1,0 +1,84 @@
+[INS	ImportDeclaration@@[25]
+
+	INS	QualifiedName@@java.time.Duration[25]
+, INS	ImportDeclaration@@[26]
+
+	INS	QualifiedName@@java.time.Instant[26]
+, INS	SimpleType@@Duration[89]
+
+	INS	SimpleName@@Duration[89]
+, INS	PrefixExpression@@![94]
+
+	INS	MethodInvocation@@[94]
+
+	INS	SimpleName@@maxInactiveInterval[94]
+
+	INS	SimpleName@@isZero[94]
+, UPD	SimpleName@@timeout[88]	TO	maxInactiveInterval
+, INS	SimpleType@@Instant[94]
+
+	INS	SimpleName@@Instant[94]
+, INS	SimpleType@@Duration[95]
+
+	INS	SimpleName@@Duration[95]
+, MOV	MethodInvocation@@[92]	TO	VariableDeclarationFragment@@[93]
+, UPD	StringLiteral@@"Session %s will expire in %d ms"[97]	TO	"Session %s will expire in %d sec"
+, INS	MethodInvocation@@[99]
+
+	INS	SimpleName@@getSeconds[100]
+, UPD	SimpleName@@Math[94]	TO	Duration
+, UPD	SimpleName@@max[94]	TO	between
+, INS	MethodInvocation@@[96]
+
+	INS	SimpleName@@Instant[96]
+
+	INS	SimpleName@@now[96]
+, INS	MethodInvocation@@[96]
+
+	INS	SimpleName@@maxInactiveInterval[96]
+, UPD	SimpleName@@timeout[97]	TO	maxInactiveInterval
+, MOV	SimpleName@@timeout[97]	TO	MethodInvocation@@[99]
+, UPD	SimpleName@@System[94]	TO	lastAccessed
+, MOV	SimpleName@@System[94]	TO	MethodInvocation@@[96]
+, UPD	SimpleName@@currentTimeMillis[94]	TO	plus
+, MOV	SimpleName@@currentTimeMillis[94]	TO	MethodInvocation@@[96]
+, INS	ConditionalExpression@@[101]
+
+	INS	PrefixExpression@@![101]
+
+	INS	MethodInvocation@@[101]
+
+	INS	SimpleName@@isNegative[101]
+
+	INS	MethodInvocation@@[101]
+
+	INS	SimpleName@@delay[101]
+
+	INS	SimpleName@@getSeconds[102]
+
+	INS	NumberLiteral@@0[102]
+, UPD	QualifiedName@@TimeUnit.MILLISECONDS[99]	TO	TimeUnit.SECONDS
+, MOV	SimpleName@@delay[99]	TO	MethodInvocation@@[101]
+, DEL	PrimitiveType@@long[87]
+, DEL	QualifiedName@@TimeUnit.MILLISECONDS[91]
+, DEL	InfixExpression@@>[92]
+
+	DEL	SimpleName@@timeout[92]
+
+	DEL	NumberLiteral@@0[92]
+, DEL	PrimitiveType@@long[92]
+, DEL	MethodInvocation@@[92]
+
+	DEL	SimpleName@@getTime[93]
+, DEL	PrimitiveType@@long[94]
+, DEL	InfixExpression@@-[94]
+
+	DEL	InfixExpression@@+[94]
+
+	DEL	SimpleName@@lastAccessed[94]
+
+	DEL	SimpleName@@timeout[94]
+
+	DEL	MethodInvocation@@[94]
+, DEL	NumberLiteral@@0[94]
+]

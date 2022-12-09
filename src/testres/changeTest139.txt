@@ -1,0 +1,26 @@
+[INS	MethodInvocation@@[81]
+, INS	MethodInvocation@@[83]
+, UPD	SimpleName@@getNode[82]	TO	getNodeEngineImpl
+, MOV	SimpleName@@getNode[82]	TO	MethodInvocation@@[81]
+, MOV	SimpleName@@instance1[82]	TO	MethodInvocation@@[81]
+, UPD	SimpleName@@getNode[84]	TO	getNodeEngineImpl
+, MOV	SimpleName@@getNode[84]	TO	MethodInvocation@@[83]
+, MOV	SimpleName@@instance2[84]	TO	MethodInvocation@@[83]
+, DEL	ImportDeclaration@@[27]
+
+	DEL	QualifiedName@@com.hazelcast.instance.TestUtil[27]
+, DEL	FieldAccess@@[82]
+
+	DEL	MethodInvocation@@[82]
+
+	DEL	SimpleName@@TestUtil[82]
+
+	DEL	SimpleName@@nodeEngine[82]
+, DEL	FieldAccess@@[84]
+
+	DEL	MethodInvocation@@[84]
+
+	DEL	SimpleName@@TestUtil[84]
+
+	DEL	SimpleName@@nodeEngine[84]
+]

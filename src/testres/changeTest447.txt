@@ -1,0 +1,40 @@
+[INS	ImportDeclaration@@[5]
+
+	INS	QualifiedName@@com.yahoo.vespa.clustercontroller.core.ClusterStateBundle[6]
+, INS	MethodDeclaration@@[85]
+
+	INS	Modifier@@public[85]
+
+	INS	Modifier@@abstract[85]
+
+	INS	PrimitiveType@@boolean[85]
+
+	INS	SimpleName@@storeLastPublishedStateBundle[85]
+
+	INS	SingleVariableDeclaration@@[85]
+
+	INS	SimpleType@@ClusterStateBundle[85]
+
+	INS	SimpleName@@ClusterStateBundle[85]
+
+	INS	SimpleName@@stateBundle[85]
+
+	INS	SimpleType@@InterruptedException[87]
+
+	INS	SimpleName@@InterruptedException[87]
+, INS	MethodDeclaration@@[87]
+
+	INS	Modifier@@public[87]
+
+	INS	Modifier@@abstract[87]
+
+	INS	SimpleType@@ClusterStateBundle[87]
+
+	INS	SimpleName@@ClusterStateBundle[87]
+
+	INS	SimpleName@@retrieveLastPublishedStateBundle[87]
+
+	INS	SimpleType@@InterruptedException[87]
+
+	INS	SimpleName@@InterruptedException[87]
+]

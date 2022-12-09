@@ -1,0 +1,22 @@
+[INS	ImportDeclaration@@[26]
+
+	INS	QualifiedName@@org.apache.hadoop.conf.Configuration[26]
+, INS	ClassInstanceCreation@@[77]
+
+	INS	SimpleType@@Configuration[77]
+
+	INS	SimpleName@@Configuration[77]
+, INS	SimpleName@@BUFFER_SIZE[77]
+, INS	ClassInstanceCreation@@[85]
+
+	INS	SimpleType@@Configuration[85]
+
+	INS	SimpleName@@Configuration[85]
+, INS	SimpleName@@BUFFER_SIZE[85]
+, INS	ClassInstanceCreation@@[97]
+
+	INS	SimpleType@@Configuration[97]
+
+	INS	SimpleName@@Configuration[97]
+, INS	SimpleName@@BUFFER_SIZE[97]
+]

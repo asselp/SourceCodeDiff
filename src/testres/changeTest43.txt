@@ -1,0 +1,41 @@
+[INS	ImportDeclaration@@[45]
+
+	INS	QualifiedName@@org.elasticsearch.tasks.TaskCancellationService[45]
+, INS	IfStatement@@[92]
+
+	INS	InfixExpression@@!=[92]
+
+	INS	SimpleName@@testNodes[92]
+
+	INS	NullLiteral@@[95]
+
+	INS	Block@@[95]
+
+	INS	ExpressionStatement@@[98]
+
+	INS	Assignment@@=[98]
+
+	INS	SimpleName@@testNodes[98]
+
+	INS	NullLiteral@@[98]
+, INS	ExpressionStatement@@[186]
+
+	INS	MethodInvocation@@[186]
+
+	INS	MethodInvocation@@[186]
+
+	INS	SimpleName@@transportService[186]
+
+	INS	SimpleName@@getTaskManager[186]
+
+	INS	SimpleName@@setTaskCancellationService[187]
+
+	INS	ClassInstanceCreation@@[187]
+
+	INS	SimpleType@@TaskCancellationService[187]
+
+	INS	SimpleName@@TaskCancellationService[187]
+
+	INS	SimpleName@@transportService[187]
+, MOV	EnhancedForStatement@@[91]	TO	Block@@[95]
+]

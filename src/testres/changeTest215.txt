@@ -1,0 +1,4 @@
+[UPD	SimpleName@@getInt[194]	TO	getColorInt
+, UPD	SimpleName@@getInt[207]	TO	getColorInt
+, UPD	SimpleName@@getInt[216]	TO	getColorInt
+]

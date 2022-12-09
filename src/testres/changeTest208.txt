@@ -1,0 +1,54 @@
+[INS	ImportDeclaration@@[15]
+
+	INS	QualifiedName@@com.facebook.common.logging.FLog[15]
+, INS	ImportDeclaration@@[17]
+
+	INS	QualifiedName@@com.facebook.react.bridge.Callback[17]
+, INS	ImportDeclaration@@[18]
+
+	INS	QualifiedName@@com.facebook.react.bridge.NativeModule[18]
+, INS	ImportDeclaration@@[20]
+
+	INS	QualifiedName@@com.facebook.react.bridge.ReactContext[20]
+, INS	ImportDeclaration@@[25]
+
+	INS	QualifiedName@@java.util.ArrayList[25]
+, INS	ImportDeclaration@@[27]
+
+	INS	QualifiedName@@java.util.HashMap[27]
+, INS	ImportDeclaration@@[27]
+
+	INS	QualifiedName@@java.util.List[28]
+, INS	ImportDeclaration@@[28]
+
+	INS	QualifiedName@@java.util.Map[29]
+, UPD	QualifiedName@@com.facebook.react.bridge.annotations.ReactModule[20]	TO	com.facebook.react.common.ReactConstants
+, INS	MethodDeclaration@@[37]
+
+	INS	MarkerAnnotation@@[37]
+
+	INS	SimpleName@@Override[37]
+
+	INS	Modifier@@public[38]
+
+	INS	SimpleType@@String[38]
+
+	INS	SimpleName@@String[38]
+
+	INS	SimpleName@@getName[38]
+
+	INS	Block@@[40]
+
+	INS	ReturnStatement@@[41]
+
+	INS	StringLiteral@@"Clipboard"[41]
+, DEL	NormalAnnotation@@[25]
+
+	DEL	SimpleName@@ReactModule[25]
+
+	DEL	MemberValuePair@@[25]
+
+	DEL	SimpleName@@name[25]
+
+	DEL	StringLiteral@@"Clipboard"[25]
+]

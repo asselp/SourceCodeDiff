@@ -1,0 +1,160 @@
+[INS	ImportDeclaration@@[104]
+
+	INS	QualifiedName@@com.google.common.base.Preconditions.checkArgument[104]
+, UPD	SimpleType@@Object[721]	TO	Symbol
+
+	UPD	SimpleName@@Object[721]	TO	Symbol
+, INS	AssertStatement@@[719]
+
+	INS	MethodInvocation@@[719]
+
+	INS	SimpleName@@Symbol[719]
+
+	INS	SimpleName@@isLiteral[719]
+
+	INS	MethodInvocation@@[719]
+
+	INS	NumberLiteral@@1[719]
+
+	INS	QualifiedName@@DataTypes.GEO_SHAPE[719]
+, MOV	VariableDeclarationStatement@@[710]	TO	Block@@[722]
+, UPD	SimpleType@@Object[772]	TO	Symbol
+
+	UPD	SimpleName@@Object[772]	TO	Symbol
+, INS	AssertStatement@@[770]
+
+	INS	MethodInvocation@@[770]
+
+	INS	SimpleName@@Symbol[770]
+
+	INS	SimpleName@@isLiteral[770]
+
+	INS	SimpleName@@queryTerm[770]
+
+	INS	QualifiedName@@DataTypes.STRING[771]
+, INS	AssertStatement@@[772]
+
+	INS	MethodInvocation@@[772]
+
+	INS	SimpleName@@Symbol[772]
+
+	INS	SimpleName@@isLiteral[772]
+
+	INS	MethodInvocation@@[772]
+
+	INS	SimpleName@@arguments[772]
+
+	INS	SimpleName@@get[772]
+
+	INS	NumberLiteral@@3[772]
+
+	INS	QualifiedName@@DataTypes.OBJECT[772]
+, INS	ExpressionStatement@@[784]
+
+	INS	MethodInvocation@@[784]
+
+	INS	SimpleName@@checkArgument[784]
+
+	INS	InfixExpression@@!=[784]
+
+	INS	SimpleName@@queryString[784]
+
+	INS	NullLiteral@@[784]
+
+	INS	StringLiteral@@"cannot use NULL as query term in match predicate"[784]
+, INS	SingleMemberAnnotation@@[728]
+
+	INS	SimpleName@@SuppressWarnings[728]
+
+	INS	StringLiteral@@"unchecked"[728]
+, UPD	SimpleType@@Object[710]	TO	Shape
+
+	UPD	SimpleName@@Object[710]	TO	Shape
+, UPD	SimpleName@@queryTermVal[720]	TO	queryTerm
+, UPD	SimpleName@@queryTermVal[710]	TO	shape
+, INS	MethodInvocation@@[731]
+
+	INS	SimpleName@@GeoJSONUtils[731]
+
+	INS	SimpleName@@map2Shape[731]
+
+	INS	ParenthesizedExpression@@[731]
+
+	INS	CastExpression@@[731]
+, UPD	SimpleName@@GeoJSONUtils[732]	TO	arguments
+, MOV	SimpleName@@GeoJSONUtils[732]	TO	MethodInvocation@@[719]
+, UPD	SimpleName@@map2Shape[732]	TO	get
+, MOV	SimpleName@@map2Shape[732]	TO	MethodInvocation@@[719]
+, INS	MethodInvocation@@[776]
+
+	INS	ParenthesizedExpression@@[776]
+
+	INS	CastExpression@@[776]
+
+	INS	SimpleType@@Literal[776]
+
+	INS	SimpleName@@Literal[776]
+
+	INS	SimpleName@@value[776]
+, UPD	SimpleName@@queryTermVal[719]	TO	queryTerm
+, MOV	ParameterizedType@@Map<String,Object>[732]	TO	CastExpression@@[731]
+, MOV	MethodInvocation@@[710]	TO	CastExpression@@[731]
+, MOV	SimpleName@@queryTerm[776]	TO	CastExpression@@[776]
+, DEL	ExpressionStatement@@[709]
+
+	DEL	MethodInvocation@@[709]
+
+	DEL	SimpleName@@Preconditions[709]
+
+	DEL	SimpleName@@checkArgument[709]
+
+	DEL	InstanceofExpression@@[710]
+
+	DEL	SimpleName@@queryTerm[710]
+
+	DEL	SimpleType@@Input[710]
+
+	DEL	SimpleName@@Input[710]
+
+	DEL	StringLiteral@@"queryTerm must be a literal"[710]
+, DEL	IfStatement@@[714]
+
+	DEL	InfixExpression@@==[714]
+
+	DEL	SimpleName@@queryTermVal[714]
+
+	DEL	NullLiteral@@[714]
+
+	DEL	Block@@[714]
+
+	DEL	ThrowStatement@@[714]
+
+	DEL	ClassInstanceCreation@@[716]
+
+	DEL	SimpleType@@IllegalArgumentException[716]
+
+	DEL	SimpleName@@IllegalArgumentException[716]
+
+	DEL	StringLiteral@@"cannot use NULL as query term in match predicate"[717]
+, DEL	VariableDeclarationStatement@@[730]
+
+	DEL	SingleMemberAnnotation@@[730]
+
+	DEL	SimpleName@@SuppressWarnings[730]
+
+	DEL	StringLiteral@@"unchecked"[730]
+
+	DEL	SimpleType@@Shape[731]
+
+	DEL	SimpleName@@Shape[731]
+
+	DEL	VariableDeclarationFragment@@[732]
+
+	DEL	SimpleName@@shape[732]
+
+	DEL	MethodInvocation@@[732]
+
+	DEL	CastExpression@@[732]
+
+	DEL	SimpleName@@queryTerm[732]
+]

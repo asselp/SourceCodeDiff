@@ -1,0 +1,30 @@
+[INS	MethodDeclaration@@[18]
+
+	INS	Modifier@@public[18]
+
+	INS	SimpleName@@JSApplicationIllegalArgumentException[18]
+
+	INS	SingleVariableDeclaration@@[21]
+
+	INS	SimpleType@@String[21]
+
+	INS	SimpleName@@String[21]
+
+	INS	SimpleName@@detailMessage[21]
+
+	INS	SingleVariableDeclaration@@[21]
+
+	INS	SimpleType@@Throwable[21]
+
+	INS	SimpleName@@Throwable[21]
+
+	INS	SimpleName@@t[21]
+
+	INS	Block@@[21]
+
+	INS	SuperConstructorInvocation@@[21]
+
+	INS	SimpleName@@detailMessage[21]
+
+	INS	SimpleName@@t[22]
+]

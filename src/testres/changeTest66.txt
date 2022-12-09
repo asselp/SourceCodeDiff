@@ -1,0 +1,99 @@
+[INS	FieldDeclaration@@[33]
+
+	INS	Modifier@@private[33]
+
+	INS	Modifier@@transient[33]
+
+	INS	ParameterizedType@@ImmutableBeanEntry<I>[33]
+
+	INS	SimpleType@@ImmutableBeanEntry[33]
+
+	INS	SimpleName@@ImmutableBeanEntry[33]
+
+	INS	SimpleType@@I[34]
+
+	INS	SimpleName@@I[34]
+
+	INS	VariableDeclarationFragment@@[34]
+
+	INS	SimpleName@@entry[34]
+
+	INS	NullLiteral@@[34]
+, INS	SingleVariableDeclaration@@[36]
+
+	INS	SimpleType@@I[36]
+
+	INS	SimpleName@@I[36]
+
+	INS	SimpleName@@beanId[36]
+, INS	Block@@[42]
+
+	INS	IfStatement@@[42]
+
+	INS	InfixExpression@@!=[42]
+
+	INS	FieldAccess@@[42]
+
+	INS	ThisExpression@@[42]
+
+	INS	SimpleName@@entry[42]
+
+	INS	NullLiteral@@[42]
+
+	INS	Block@@[42]
+
+	INS	ExpressionStatement@@[43]
+
+	INS	MethodInvocation@@[43]
+
+	INS	SimpleName@@scheduler[43]
+
+	INS	SimpleName@@schedule[43]
+
+	INS	FieldAccess@@[43]
+
+	INS	ThisExpression@@[43]
+
+	INS	SimpleName@@beanId[43]
+
+	INS	FieldAccess@@[44]
+
+	INS	ThisExpression@@[44]
+
+	INS	SimpleName@@entry[44]
+
+	INS	ReturnStatement@@[46]
+
+	INS	NullLiteral@@[46]
+, UPD	ParameterizedType@@Bean<I,?>[36]	TO	ImmutableBeanEntry<I>
+
+	UPD	SimpleType@@Bean[36]	TO	ImmutableBeanEntry
+
+	UPD	SimpleName@@Bean[36]	TO	ImmutableBeanEntry
+, UPD	SimpleName@@bean[36]	TO	entry
+, INS	ExpressionStatement@@[37]
+
+	INS	Assignment@@=[37]
+
+	INS	FieldAccess@@[37]
+
+	INS	ThisExpression@@[37]
+
+	INS	SimpleName@@entry[37]
+
+	INS	SimpleName@@entry[37]
+, MOV	Block@@[41]	TO	IfStatement@@[42]
+, INS	SimpleName@@beanId[36]
+, DEL	ImportDeclaration@@[24]
+
+	DEL	QualifiedName@@org.wildfly.clustering.ejb.Bean[24]
+, DEL	WildcardType@@?[36]
+, DEL	MethodInvocation@@[36]
+
+	DEL	SimpleName@@bean[36]
+
+	DEL	SimpleName@@getId[36]
+, DEL	ReturnStatement@@[42]
+
+	DEL	NullLiteral@@[42]
+]

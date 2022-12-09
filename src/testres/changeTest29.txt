@@ -1,0 +1,46 @@
+[DEL	ImportDeclaration@@[22]
+
+	DEL	QualifiedName@@java.nio.file.Path[22]
+, DEL	MethodDeclaration@@[33]
+
+	DEL	MarkerAnnotation@@[33]
+
+	DEL	SimpleName@@Override[33]
+
+	DEL	Modifier@@public[34]
+
+	DEL	SimpleType@@Path[35]
+
+	DEL	SimpleName@@Path[35]
+
+	DEL	SimpleName@@nodeConfigPath[36]
+
+	DEL	SingleVariableDeclaration@@[36]
+
+	DEL	PrimitiveType@@int[36]
+
+	DEL	SimpleName@@nodeOrdinal[37]
+
+	DEL	Block@@[37]
+
+	DEL	ReturnStatement@@[37]
+
+	DEL	NullLiteral@@[37]
+, DEL	MethodDeclaration@@[50]
+
+	DEL	Modifier@@public[50]
+
+	DEL	Modifier@@abstract[50]
+
+	DEL	SimpleType@@Path[50]
+
+	DEL	SimpleName@@Path[50]
+
+	DEL	SimpleName@@nodeConfigPath[50]
+
+	DEL	SingleVariableDeclaration@@[50]
+
+	DEL	PrimitiveType@@int[50]
+
+	DEL	SimpleName@@nodeOrdinal[50]
+]

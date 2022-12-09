@@ -1,0 +1,30 @@
+[INS	ImportDeclaration@@[46]
+
+	INS	QualifiedName@@org.wildfly.extension.messaging.activemq.jms.ConnectionFactoryAttributes.External[46]
+, INS	ExpressionStatement@@[113]
+
+	INS	Assignment@@=[113]
+
+	INS	ArrayAccess@@[113]
+
+	INS	SimpleName@@result[113]
+
+	INS	InfixExpression@@-[113]
+
+	INS	SimpleName@@size[113]
+
+	INS	NumberLiteral@@1[113]
+
+	INS	MethodInvocation@@[113]
+
+	INS	SimpleName@@ConnectionFactoryAttribute[113]
+
+	INS	SimpleName@@create[115]
+
+	INS	QualifiedName@@External.ENABLE_AMQ1_PREFIX[115]
+
+	INS	StringLiteral@@"enable1xPrefixes"[115]
+
+	INS	BooleanLiteral@@true[116]
+, INS	NumberLiteral@@1[65]
+]

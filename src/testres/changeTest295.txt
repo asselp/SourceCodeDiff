@@ -1,0 +1,14 @@
+[INS	ImportDeclaration@@[30]
+
+	INS	QualifiedName@@java.util.UUID[32]
+, INS	SingleVariableDeclaration@@[39]
+
+	INS	SimpleType@@UUID[39]
+
+	INS	SimpleName@@UUID[39]
+
+	INS	SimpleName@@jobId[39]
+, INS	SuperConstructorInvocation@@[43]
+
+	INS	SimpleName@@jobId[43]
+]

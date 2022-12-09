@@ -1,0 +1,6 @@
+[UPD	QualifiedName@@org.wildfly.clustering.marshalling.spi.IndexExternalizer[32]	TO	org.wildfly.clustering.marshalling.spi.IndexSerializer
+, UPD	QualifiedName@@IndexExternalizer.UNSIGNED_SHORT[43]	TO	IndexSerializer.UNSIGNED_SHORT
+, UPD	SimpleName@@writeData[43]	TO	writeInt
+, UPD	QualifiedName@@IndexExternalizer.UNSIGNED_SHORT[52]	TO	IndexSerializer.UNSIGNED_SHORT
+, UPD	SimpleName@@readData[53]	TO	readInt
+]

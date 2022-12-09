@@ -1,0 +1,7 @@
+[INS	ImportDeclaration@@[31]
+
+	INS	QualifiedName@@io.crate.testing.MockedClusterServiceModule[31]
+, UPD	SimpleType@@TestModule[60]	TO	MockedClusterServiceModule
+
+	UPD	SimpleName@@TestModule[60]	TO	MockedClusterServiceModule
+]

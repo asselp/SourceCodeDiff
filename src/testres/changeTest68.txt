@@ -1,0 +1,4 @@
+[DEL	ImportDeclaration@@[25]
+
+	DEL	QualifiedName@@java.time.Period[26]
+]

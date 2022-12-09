@@ -1,0 +1,16 @@
+[UPD	QualifiedName@@com.hazelcast.concurrent.atomicreference.AtomicReferenceAbstractTest[4]	TO	com.hazelcast.concurrent.atomicreference.AtomicReferenceBasicTest
+, UPD	SimpleType@@AtomicReferenceAbstractTest[14]	TO	AtomicReferenceBasicTest
+
+	UPD	SimpleName@@AtomicReferenceAbstractTest[14]	TO	AtomicReferenceBasicTest
+, MOV	TypeLiteral@@[12]	TO	SingleMemberAnnotation@@[13]
+, DEL	ImportDeclaration@@[6]
+
+	DEL	QualifiedName@@com.hazelcast.test.annotation.ParallelTest[7]
+, DEL	ArrayInitializer@@[12]
+
+	DEL	TypeLiteral@@[13]
+
+	DEL	SimpleType@@ParallelTest[13]
+
+	DEL	SimpleName@@ParallelTest[13]
+]

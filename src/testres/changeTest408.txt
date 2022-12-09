@@ -1,0 +1,25 @@
+[INS	ImportDeclaration@@[6]
+
+	INS	QualifiedName@@com.yahoo.container.logging.ConnectionLog[7]
+, INS	ExpressionStatement@@[761]
+
+	INS	MethodInvocation@@[761]
+
+	INS	MethodInvocation@@[761]
+
+	INS	SimpleName@@bind[761]
+
+	INS	TypeLiteral@@[761]
+
+	INS	SimpleType@@ConnectionLog[761]
+
+	INS	SimpleName@@ConnectionLog[761]
+
+	INS	SimpleName@@toInstance[765]
+
+	INS	ClassInstanceCreation@@[766]
+
+	INS	SimpleType@@VoidConnectionLog[766]
+
+	INS	SimpleName@@VoidConnectionLog[766]
+]

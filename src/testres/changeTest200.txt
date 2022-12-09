@@ -1,0 +1,29 @@
+[UPD	QualifiedName@@org.neo4j.kernel.GraphDatabaseAPI[34]	TO	org.neo4j.kernel.InternalAbstractGraphDatabase
+, UPD	SimpleType@@GraphDatabaseAPI[60]	TO	InternalAbstractGraphDatabase
+
+	UPD	SimpleName@@GraphDatabaseAPI[60]	TO	InternalAbstractGraphDatabase
+, INS	VariableDeclarationStatement@@[211]
+
+	INS	SimpleType@@Transaction[211]
+
+	INS	SimpleName@@Transaction[211]
+, MOV	VariableDeclarationFragment@@[210]	TO	VariableDeclarationStatement@@[211]
+, INS	Block@@[228]
+
+	INS	ExpressionStatement@@[228]
+
+	INS	MethodInvocation@@[228]
+
+	INS	SimpleName@@tx[228]
+
+	INS	SimpleName@@finish[228]
+, UPD	SimpleType@@GraphDatabaseAPI[64]	TO	InternalAbstractGraphDatabase
+
+	UPD	SimpleName@@GraphDatabaseAPI[64]	TO	InternalAbstractGraphDatabase
+, DEL	NullLiteral@@[73]
+, DEL	VariableDeclarationExpression@@[210]
+
+	DEL	SimpleType@@Transaction[210]
+
+	DEL	SimpleName@@Transaction[210]
+]

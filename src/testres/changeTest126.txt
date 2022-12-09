@@ -1,0 +1,4 @@
+[UPD	SimpleType@@BaseCountDownLatchOperation[24]	TO	AbstractCountDownLatchOperation
+
+	UPD	SimpleName@@BaseCountDownLatchOperation[24]	TO	AbstractCountDownLatchOperation
+]

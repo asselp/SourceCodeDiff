@@ -1,0 +1,8 @@
+[INS	Modifier@@static[30]
+, UPD	SimpleName@@logger[33]	TO	LOGGER
+, UPD	SimpleName@@logger[93]	TO	LOGGER
+, DEL	ImportDeclaration@@[23]
+
+	DEL	QualifiedName@@java.util.logging.Level[23]
+, DEL	Modifier@@static[31]
+]

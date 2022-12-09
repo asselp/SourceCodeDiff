@@ -1,0 +1,231 @@
+[INS	SimpleType@@IOException[130]
+
+	INS	SimpleName@@IOException[130]
+, UPD	PrimitiveType@@int[216]	TO	boolean
+, UPD	SimpleName@@getIndexedCount[216]	TO	hasIndexed
+, INS	BooleanLiteral@@false[207]
+, UPD	SimpleName@@candidates[217]	TO	canidates
+, UPD	SimpleName@@candidates[220]	TO	canidates
+, UPD	QualifiedName@@candidates.length[224]	TO	canidates.length
+, INS	BooleanLiteral@@false[199]
+, INS	ReturnStatement@@[205]
+
+	INS	BooleanLiteral@@true[205]
+, UPD	SimpleName@@candidates[226]	TO	canidates
+, DEL	ImportDeclaration@@[35]
+
+	DEL	QualifiedName@@org.neo4j.helpers.collection.MapUtil[35]
+, DEL	MethodDeclaration@@[130]
+
+	DEL	MarkerAnnotation@@[130]
+
+	DEL	SimpleName@@Test[130]
+
+	DEL	Modifier@@public[130]
+
+	DEL	PrimitiveType@@void[130]
+
+	DEL	SimpleName@@shouldReportNodeIndexedMultipleTimes[130]
+
+	DEL	SimpleType@@Exception[131]
+
+	DEL	SimpleName@@Exception[131]
+
+	DEL	Block@@[131]
+
+	DEL	VariableDeclarationStatement@@[131]
+
+	DEL	SimpleType@@IndexRule[131]
+
+	DEL	SimpleName@@IndexRule[131]
+
+	DEL	VariableDeclarationFragment@@[131]
+
+	DEL	SimpleName@@indexRule[131]
+
+	DEL	MethodInvocation@@[134]
+
+	DEL	SimpleName@@indexRule[134]
+
+	DEL	SimpleName@@indexId[135]
+
+	DEL	SimpleName@@labelId[135]
+
+	DEL	SimpleName@@propertyKeyId[135]
+
+	DEL	ClassInstanceCreation@@[135]
+
+	DEL	SimpleType@@Descriptor[135]
+
+	DEL	SimpleName@@Descriptor[135]
+
+	DEL	StringLiteral@@"provider1"[135]
+
+	DEL	StringLiteral@@"version1"[135]
+
+	DEL	VariableDeclarationStatement@@[137]
+
+	DEL	SimpleType@@NodeRecord[137]
+
+	DEL	SimpleName@@NodeRecord[137]
+
+	DEL	VariableDeclarationFragment@@[138]
+
+	DEL	SimpleName@@nodeRecord[138]
+
+	DEL	MethodInvocation@@[138]
+
+	DEL	SimpleName@@nodeWithLabels[138]
+
+	DEL	SimpleName@@labelId[138]
+
+	DEL	VariableDeclarationStatement@@[138]
+
+	DEL	PrimitiveType@@long[138]
+
+	DEL	VariableDeclarationFragment@@[138]
+
+	DEL	SimpleName@@nodeId[138]
+
+	DEL	MethodInvocation@@[138]
+
+	DEL	SimpleName@@nodeRecord[138]
+
+	DEL	SimpleName@@getId[138]
+
+	DEL	VariableDeclarationStatement@@[138]
+
+	DEL	SimpleType@@NodeCorrectlyIndexedCheck[138]
+
+	DEL	SimpleName@@NodeCorrectlyIndexedCheck[138]
+
+	DEL	VariableDeclarationFragment@@[138]
+
+	DEL	SimpleName@@check[138]
+
+	DEL	ClassInstanceCreation@@[139]
+
+	DEL	SimpleType@@NodeCorrectlyIndexedCheck[139]
+
+	DEL	SimpleName@@NodeCorrectlyIndexedCheck[139]
+
+	DEL	MethodInvocation@@[139]
+
+	DEL	SimpleName@@indexContaining[139]
+
+	DEL	SimpleName@@indexRule[141]
+
+	DEL	MethodInvocation@@[141]
+
+	DEL	SimpleName@@MapUtil[141]
+
+	DEL	SimpleType@@Object[141]
+
+	DEL	SimpleName@@Object[141]
+
+	DEL	ArrayType@@long[][141]
+
+	DEL	PrimitiveType@@long[141]
+
+	DEL	Dimension@@[141]
+
+	DEL	SimpleName@@genericMap[141]
+
+	DEL	StringLiteral@@"propertyValue"[142]
+
+	DEL	ArrayCreation@@[142]
+
+	DEL	ArrayType@@long[][142]
+
+	DEL	PrimitiveType@@long[142]
+
+	DEL	Dimension@@[142]
+
+	DEL	ArrayInitializer@@[142]
+
+	DEL	SimpleName@@nodeId[142]
+
+	DEL	SimpleName@@nodeId[142]
+
+	DEL	SimpleName@@nodeId[143]
+
+	DEL	MethodInvocation@@[143]
+
+	DEL	SimpleName@@nodeHasProperty[143]
+
+	DEL	SimpleName@@nodeRecord[143]
+
+	DEL	StringLiteral@@"propertyValue"[143]
+
+	DEL	VariableDeclarationStatement@@[144]
+
+	DEL	SimpleType@@ConsistencyReport.NodeConsistencyReport[144]
+
+	DEL	QualifiedName@@ConsistencyReport.NodeConsistencyReport[144]
+
+	DEL	VariableDeclarationFragment@@[144]
+
+	DEL	SimpleName@@report[144]
+
+	DEL	MethodInvocation@@[144]
+
+	DEL	SimpleName@@mock[144]
+
+	DEL	TypeLiteral@@[144]
+
+	DEL	SimpleType@@ConsistencyReport.NodeConsistencyReport[144]
+
+	DEL	QualifiedName@@ConsistencyReport.NodeConsistencyReport[144]
+
+	DEL	ExpressionStatement@@[145]
+
+	DEL	MethodInvocation@@[145]
+
+	DEL	SimpleName@@check[145]
+
+	DEL	SimpleName@@check[145]
+
+	DEL	SimpleName@@nodeRecord[147]
+
+	DEL	MethodInvocation@@[147]
+
+	DEL	SimpleName@@engineFor[147]
+
+	DEL	SimpleName@@report[147]
+
+	DEL	NullLiteral@@[147]
+
+	DEL	ExpressionStatement@@[147]
+
+	DEL	MethodInvocation@@[147]
+
+	DEL	MethodInvocation@@[147]
+
+	DEL	SimpleName@@verify[147]
+
+	DEL	SimpleName@@report[147]
+
+	DEL	SimpleName@@indexedMultipleTimes[147]
+
+	DEL	SimpleName@@indexRule[147]
+
+	DEL	StringLiteral@@"propertyValue"[149]
+
+	DEL	NumberLiteral@@3[150]
+, DEL	NumberLiteral@@0[222]
+, DEL	VariableDeclarationStatement@@[223]
+
+	DEL	PrimitiveType@@int[223]
+
+	DEL	VariableDeclarationFragment@@[223]
+
+	DEL	SimpleName@@count[223]
+
+	DEL	NumberLiteral@@0[224]
+, DEL	ExpressionStatement@@[229]
+
+	DEL	PostfixExpression@@++[229]
+
+	DEL	SimpleName@@count[229]
+, DEL	SimpleName@@count[230]
+]

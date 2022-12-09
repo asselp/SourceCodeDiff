@@ -1,0 +1,6 @@
+[UPD	QualifiedName@@org.ballerinalang.test.util.BCompileUtil[25]	TO	org.ballerinalang.test.BCompileUtil
+, UPD	QualifiedName@@org.ballerinalang.test.util.BRunUtil[26]	TO	org.ballerinalang.test.BRunUtil
+, UPD	QualifiedName@@org.ballerinalang.test.util.CompileResult[27]	TO	org.ballerinalang.test.CompileResult
+, DEL	ThisExpression@@[122]
+, DEL	StringLiteral@@"a.b"[126]
+]

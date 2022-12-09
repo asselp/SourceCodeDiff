@@ -1,0 +1,85 @@
+[INS	ImportDeclaration@@[52]
+
+	INS	QualifiedName@@org.sakaiproject.component.cover.ServerConfigurationService[53]
+, INS	FieldDeclaration@@[150]
+
+	INS	Modifier@@private[150]
+
+	INS	SimpleType@@Boolean[150]
+
+	INS	SimpleName@@Boolean[150]
+
+	INS	VariableDeclarationFragment@@[151]
+
+	INS	SimpleName@@allowMinScore[151]
+, INS	MethodDeclaration@@[1516]
+
+	INS	Modifier@@public[1516]
+
+	INS	SimpleType@@Boolean[1516]
+
+	INS	SimpleName@@Boolean[1516]
+
+	INS	SimpleName@@getAllowMinScore[1516]
+
+	INS	Block@@[1516]
+
+	INS	IfStatement@@[1516]
+
+	INS	InfixExpression@@==[1516]
+
+	INS	SimpleName@@allowMinScore[1516]
+
+	INS	NullLiteral@@[1517]
+
+	INS	Block@@[1517]
+
+	INS	ExpressionStatement@@[1517]
+
+	INS	Assignment@@=[1517]
+
+	INS	SimpleName@@allowMinScore[1517]
+
+	INS	MethodInvocation@@[1517]
+
+	INS	SimpleName@@ServerConfigurationService[1517]
+
+	INS	SimpleName@@getBoolean[1518]
+
+	INS	StringLiteral@@"samigo.allowMinScore"[1518]
+
+	INS	QualifiedName@@Boolean.FALSE[1518]
+
+	INS	ReturnStatement@@[1518]
+
+	INS	SimpleName@@allowMinScore[1519]
+, INS	MethodDeclaration@@[1519]
+
+	INS	Modifier@@public[1519]
+
+	INS	PrimitiveType@@void[1520]
+
+	INS	SimpleName@@setAllowMinScore[1520]
+
+	INS	SingleVariableDeclaration@@[1520]
+
+	INS	SimpleType@@Boolean[1520]
+
+	INS	SimpleName@@Boolean[1520]
+
+	INS	SimpleName@@allowMinScore[1520]
+
+	INS	Block@@[1520]
+
+	INS	ExpressionStatement@@[1520]
+
+	INS	Assignment@@=[1520]
+
+	INS	FieldAccess@@[1520]
+
+	INS	ThisExpression@@[1520]
+
+	INS	SimpleName@@allowMinScore[1521]
+
+	INS	SimpleName@@allowMinScore[1521]
+]

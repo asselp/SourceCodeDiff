@@ -1,0 +1,7 @@
+[DEL	ImportDeclaration@@[26]
+
+	DEL	QualifiedName@@org.elasticsearch.test.rest.yaml.parser.ClientYamlTestParseException[26]
+, DEL	SimpleType@@ClientYamlTestParseException[37]
+
+	DEL	SimpleName@@ClientYamlTestParseException[37]
+]

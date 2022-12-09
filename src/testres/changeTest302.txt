@@ -1,0 +1,6 @@
+[INS	ImportDeclaration@@[19]
+
+	INS	QualifiedName@@org.slf4j.LoggerFactory[19]
+, UPD	QualifiedName@@org.apache.log4j.Logger[18]	TO	org.slf4j.Logger
+, UPD	SimpleName@@Logger[34]	TO	LoggerFactory
+]

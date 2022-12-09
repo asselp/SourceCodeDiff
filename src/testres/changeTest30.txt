@@ -1,0 +1,15 @@
+[INS	InfixExpression@@&&[215]
+
+	INS	PrefixExpression@@![216]
+
+	INS	MethodInvocation@@[216]
+
+	INS	MethodInvocation@@[216]
+
+	INS	SimpleName@@context[216]
+
+	INS	SimpleName@@sourceToParse[216]
+
+	INS	SimpleName@@flyweight[216]
+, MOV	InfixExpression@@==[215]	TO	InfixExpression@@&&[215]
+]

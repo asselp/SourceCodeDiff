@@ -1,0 +1,7 @@
+[INS	ImportDeclaration@@[32]
+
+	INS	QualifiedName@@tachyon.client.util.ClientTestUtils[32]
+, UPD	SimpleName@@ClientContext[102]	TO	ClientTestUtils
+, UPD	SimpleName@@reset[103]	TO	resetClientContext
+, DEL	NumberLiteral@@1000[44]
+]

@@ -1,0 +1,19 @@
+[INS	ExpressionStatement@@[83]
+
+	INS	MethodInvocation@@[83]
+, INS	ReturnStatement@@[83]
+
+	INS	SimpleName@@fieldMapper[83]
+, MOV	SimpleName@@fieldMapper[83]	TO	MethodInvocation@@[83]
+, MOV	SimpleName@@includeInAll[83]	TO	MethodInvocation@@[83]
+, MOV	SimpleName@@includeInAll[83]	TO	MethodInvocation@@[83]
+, DEL	ReturnStatement@@[83]
+
+	DEL	CastExpression@@[83]
+
+	DEL	SimpleType@@FloatFieldMapper[83]
+
+	DEL	SimpleName@@FloatFieldMapper[83]
+
+	DEL	MethodInvocation@@[83]
+]

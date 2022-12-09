@@ -1,0 +1,4 @@
+[UPD	SimpleType@@ReactShadowNode[97]	TO	ReactShadowNodeImpl
+
+	UPD	SimpleName@@ReactShadowNode[97]	TO	ReactShadowNodeImpl
+]

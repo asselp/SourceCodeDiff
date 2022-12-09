@@ -1,0 +1,36 @@
+[INS	IfStatement@@[179]
+
+	INS	InstanceofExpression@@[179]
+
+	INS	SimpleName@@cause[179]
+
+	INS	SimpleType@@StatusRuntimeException[180]
+
+	INS	SimpleName@@StatusRuntimeException[180]
+
+	INS	Block@@[182]
+
+	INS	ExpressionStatement@@[182]
+
+	INS	Assignment@@=[182]
+
+	INS	SimpleName@@status[182]
+
+	INS	MethodInvocation@@[183]
+
+	INS	ParenthesizedExpression@@[183]
+
+	INS	CastExpression@@[183]
+
+	INS	SimpleType@@StatusRuntimeException[183]
+
+	INS	SimpleName@@StatusRuntimeException[183]
+
+	INS	SimpleName@@cause[183]
+
+	INS	SimpleName@@getStatus[183]
+
+	INS	Block@@[184]
+, MOV	IfStatement@@[179]	TO	Block@@[184]
+, MOV	IfStatement@@[186]	TO	Block@@[184]
+]

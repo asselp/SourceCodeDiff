@@ -1,0 +1,28 @@
+[INS	VariableDeclarationStatement@@[94]
+
+	INS	VariableDeclarationFragment@@[94]
+
+	INS	MethodInvocation@@[94]
+, MOV	Modifier@@final[92]	TO	VariableDeclarationStatement@@[94]
+, MOV	SimpleType@@Data[92]	TO	VariableDeclarationStatement@@[94]
+, UPD	SimpleName@@key[78]	TO	out
+, UPD	SimpleName@@out[78]	TO	key
+, MOV	SimpleName@@key[92]	TO	VariableDeclarationFragment@@[94]
+, UPD	SimpleName@@key[93]	TO	in
+, MOV	SimpleName@@key[93]	TO	MethodInvocation@@[94]
+, MOV	SimpleName@@readData[93]	TO	MethodInvocation@@[94]
+, DEL	VariableDeclarationStatement@@[92]
+
+	DEL	VariableDeclarationFragment@@[92]
+
+	DEL	ClassInstanceCreation@@[92]
+
+	DEL	SimpleType@@Data[92]
+
+	DEL	SimpleName@@Data[92]
+, DEL	ExpressionStatement@@[93]
+
+	DEL	MethodInvocation@@[93]
+
+	DEL	SimpleName@@in[93]
+]

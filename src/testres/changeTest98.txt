@@ -1,0 +1,33 @@
+[UPD	QualifiedName@@java.util.Collections[24]	TO	java.util.Map
+, UPD	QualifiedName@@java.util.Map[25]	TO	java.util.Set
+, UPD	QualifiedName@@java.util.Set[26]	TO	java.util.UUID
+, UPD	QualifiedName@@java.util.UUID[27]	TO	java.util.concurrent.atomic.AtomicReference
+, INS	ParameterizedType@@AtomicReference<Map<String,UUID>>[38]
+
+	INS	SimpleType@@AtomicReference[38]
+
+	INS	SimpleName@@AtomicReference[38]
+, MOV	ParameterizedType@@Map<String,UUID>[38]	TO	ParameterizedType@@AtomicReference<Map<String,UUID>>[38]
+, INS	ParameterizedType@@AtomicReference<Map<String,UUID>>[43]
+
+	INS	SimpleType@@AtomicReference[43]
+
+	INS	SimpleName@@AtomicReference[43]
+, MOV	ParameterizedType@@Map<String,UUID>[43]	TO	ParameterizedType@@AtomicReference<Map<String,UUID>>[43]
+, INS	SimpleName@@names[44]
+, INS	MethodInvocation@@[52]
+
+	INS	SimpleName@@get[52]
+, MOV	FieldAccess@@[52]	TO	MethodInvocation@@[52]
+, INS	MethodInvocation@@[57]
+, INS	SimpleName@@get[57]
+, MOV	FieldAccess@@[57]	TO	MethodInvocation@@[57]
+, MOV	SimpleName@@get[57]	TO	MethodInvocation@@[57]
+, DEL	MethodInvocation@@[44]
+
+	DEL	SimpleName@@Collections[44]
+
+	DEL	SimpleName@@unmodifiableMap[44]
+
+	DEL	SimpleName@@names[45]
+]

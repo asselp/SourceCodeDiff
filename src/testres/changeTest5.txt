@@ -1,0 +1,82 @@
+[INS	ImportDeclaration@@[28]
+
+	INS	QualifiedName@@org.apache.http.RequestLine[28]
+, INS	MethodDeclaration@@[142]
+
+	INS	Modifier@@private[142]
+
+	INS	Modifier@@static[142]
+
+	INS	SimpleType@@String[143]
+
+	INS	SimpleName@@String[143]
+
+	INS	SimpleName@@getUri[143]
+
+	INS	SingleVariableDeclaration@@[143]
+
+	INS	SimpleType@@RequestLine[143]
+
+	INS	SimpleName@@RequestLine[143]
+
+	INS	SimpleName@@requestLine[143]
+
+	INS	Block@@[143]
+
+	INS	IfStatement@@[144]
+
+	INS	InfixExpression@@!=[144]
+
+	INS	MethodInvocation@@[144]
+
+	INS	MethodInvocation@@[144]
+
+	INS	SimpleName@@requestLine[144]
+
+	INS	SimpleName@@getUri[145]
+
+	INS	SimpleName@@charAt[145]
+
+	INS	NumberLiteral@@0[146]
+
+	INS	CharacterLiteral@@'/'[146]
+
+	INS	Block@@[147]
+
+	INS	ReturnStatement@@[147]
+
+	INS	InfixExpression@@+[147]
+
+	INS	StringLiteral@@"/"[147]
+
+	INS	MethodInvocation@@[147]
+
+	INS	SimpleName@@requestLine[147]
+
+	INS	SimpleName@@getUri[150]
+
+	INS	ReturnStatement@@[150]
+
+	INS	MethodInvocation@@[150]
+
+	INS	SimpleName@@requestLine[150]
+
+	INS	SimpleName@@getUri[150]
+, INS	IfStatement@@[84]
+
+	INS	MethodInvocation@@[84]
+
+	INS	SimpleName@@logger[84]
+
+	INS	SimpleName@@isDebugEnabled[84]
+
+	INS	Block@@[84]
+, MOV	ExpressionStatement@@[83]	TO	Block@@[84]
+, UPD	SimpleName@@logger[84]	TO	tracer
+, INS	SimpleName@@getUri[103]
+, INS	SimpleName@@getUri[59]
+, INS	SimpleName@@getUri[85]
+, DEL	SimpleName@@getUri[58]
+, DEL	SimpleName@@getUri[84]
+, DEL	SimpleName@@getUri[101]
+]

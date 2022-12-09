@@ -1,0 +1,31 @@
+[UPD	SimpleName@@transportCreateAction[40]	TO	transportAction
+, UPD	SimpleName@@transportCreateAction[45]	TO	transportAction
+, DEL	VariableDeclarationStatement@@[42]
+
+	DEL	SimpleType@@TransportDropUserAction[42]
+
+	DEL	SimpleName@@TransportDropUserAction[42]
+
+	DEL	VariableDeclarationFragment@@[42]
+
+	DEL	SimpleName@@transportDropUserAction[42]
+
+	DEL	ClassInstanceCreation@@[43]
+
+	DEL	SimpleType@@TransportDropUserAction[43]
+
+	DEL	SimpleName@@TransportDropUserAction[43]
+
+	DEL	SimpleName@@settings[43]
+
+	DEL	SimpleName@@transportService[43]
+
+	DEL	SimpleName@@clusterService[43]
+
+	DEL	SimpleName@@threadPool[44]
+
+	DEL	SimpleName@@actionFilters[44]
+
+	DEL	SimpleName@@indexNameExpressionResolver[44]
+, DEL	SimpleName@@transportDropUserAction[45]
+]

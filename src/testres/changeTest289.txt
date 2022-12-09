@@ -1,0 +1,74 @@
+[INS	ImportDeclaration@@[25]
+
+	INS	QualifiedName@@io.crate.analyze.relations.AnalyzedRelation[25]
+, INS	ImportDeclaration@@[26]
+
+	INS	QualifiedName@@io.crate.analyze.relations.RelationVisitor[26]
+, INS	SimpleType@@AnalyzedRelation[42]
+
+	INS	SimpleName@@AnalyzedRelation[42]
+, INS	MethodDeclaration@@[160]
+
+	INS	MarkerAnnotation@@[160]
+
+	INS	SimpleName@@Override[160]
+
+	INS	Modifier@@public[163]
+
+	INS	TypeParameter@@[163]
+
+	INS	SimpleName@@C[163]
+
+	INS	TypeParameter@@[163]
+
+	INS	SimpleName@@R[163]
+
+	INS	SimpleType@@R[163]
+
+	INS	SimpleName@@R[163]
+
+	INS	SimpleName@@accept[163]
+
+	INS	SingleVariableDeclaration@@[163]
+
+	INS	ParameterizedType@@RelationVisitor<C,R>[163]
+
+	INS	SimpleType@@RelationVisitor[163]
+
+	INS	SimpleName@@RelationVisitor[163]
+
+	INS	SimpleType@@C[163]
+
+	INS	SimpleName@@C[163]
+
+	INS	SimpleType@@R[163]
+
+	INS	SimpleName@@R[163]
+
+	INS	SimpleName@@visitor[164]
+
+	INS	SingleVariableDeclaration@@[164]
+
+	INS	SimpleType@@C[164]
+
+	INS	SimpleName@@C[164]
+
+	INS	SimpleName@@context[164]
+
+	INS	Block@@[164]
+
+	INS	ReturnStatement@@[164]
+
+	INS	MethodInvocation@@[165]
+
+	INS	SimpleName@@visitor[165]
+
+	INS	SimpleName@@visitSelectAnalyzedStatement[167]
+
+	INS	ThisExpression@@[168]
+
+	INS	SimpleName@@context[168]
+, UPD	SimpleType@@Analyzer.ParameterContext[52]	TO	ParameterContext
+, INS	SimpleName@@ParameterContext[54]
+, DEL	QualifiedName@@Analyzer.ParameterContext[52]
+]

@@ -1,0 +1,7 @@
+[UPD	QualifiedName@@org.neo4j.cluster.protocol.LoggingContext[27]	TO	org.neo4j.cluster.protocol.TimeoutsContext
+, UPD	QualifiedName@@org.neo4j.cluster.protocol.TimeoutsContext[28]	TO	org.neo4j.cluster.protocol.cluster.ClusterMessage
+, UPD	QualifiedName@@org.neo4j.cluster.protocol.cluster.ClusterMessage[29]	TO	org.neo4j.logging.LogProvider
+, UPD	SimpleType@@LoggingContext[35]	TO	LogProvider
+
+	UPD	SimpleName@@LoggingContext[35]	TO	LogProvider
+]

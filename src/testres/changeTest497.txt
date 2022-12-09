@@ -1,0 +1,16 @@
+[DEL	ExpressionStatement@@[347]
+
+	DEL	Assignment@@=[347]
+
+	DEL	QualifiedName@@pkgNode.projectKind[347]
+
+	DEL	MethodInvocation@@[347]
+
+	DEL	MethodInvocation@@[347]
+
+	DEL	SimpleName@@moduleContext[347]
+
+	DEL	SimpleName@@project[347]
+
+	DEL	SimpleName@@kind[347]
+]

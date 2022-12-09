@@ -1,0 +1,6 @@
+[INS	MethodInvocation@@[163]
+
+	INS	SimpleName@@nodeAttribute[163]
+
+	INS	SimpleName@@getConfigType[164]
+]

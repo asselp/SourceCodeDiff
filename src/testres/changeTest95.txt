@@ -1,0 +1,76 @@
+[DEL	IfStatement@@[440]
+
+	DEL	PrefixExpression@@![440]
+
+	DEL	MethodInvocation@@[440]
+
+	DEL	FieldAccess@@[440]
+
+	DEL	ThisExpression@@[440]
+
+	DEL	SimpleName@@schema[440]
+
+	DEL	SimpleName@@since[440]
+
+	DEL	QualifiedName@@JGroupsSchema.VERSION_5_0[440]
+
+	DEL	Block@@[441]
+
+	DEL	VariableDeclarationStatement@@[441]
+
+	DEL	SimpleType@@String[441]
+
+	DEL	SimpleName@@String[441]
+
+	DEL	VariableDeclarationFragment@@[441]
+
+	DEL	SimpleName@@portRangeProperty[441]
+
+	DEL	StringLiteral@@"port_range"[441]
+
+	DEL	IfStatement@@[441]
+
+	DEL	PrefixExpression@@![441]
+
+	DEL	MethodInvocation@@[441]
+
+	DEL	SimpleName@@operation[441]
+
+	DEL	SimpleName@@hasDefined[441]
+
+	DEL	MethodInvocation@@[441]
+
+	DEL	QualifiedName@@AbstractProtocolResourceDefinition.Attribute.PROPERTIES[441]
+
+	DEL	SimpleName@@getName[443]
+
+	DEL	SimpleName@@portRangeProperty[443]
+
+	DEL	Block@@[444]
+
+	DEL	ExpressionStatement@@[445]
+
+	DEL	MethodInvocation@@[445]
+
+	DEL	MethodInvocation@@[445]
+
+	DEL	MethodInvocation@@[445]
+
+	DEL	SimpleName@@operation[445]
+
+	DEL	SimpleName@@get[445]
+
+	DEL	MethodInvocation@@[446]
+
+	DEL	QualifiedName@@AbstractProtocolResourceDefinition.Attribute.PROPERTIES[446]
+
+	DEL	SimpleName@@getName[446]
+
+	DEL	SimpleName@@get[446]
+
+	DEL	SimpleName@@portRangeProperty[446]
+
+	DEL	SimpleName@@set[447]
+
+	DEL	StringLiteral@@"50"[447]
+]

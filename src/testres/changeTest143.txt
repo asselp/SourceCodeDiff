@@ -1,0 +1,3 @@
+[UPD	QualifiedName@@com.hazelcast.multimap.MultiMapPortableHook[17]	TO	com.hazelcast.config.MultiMapConfig
+, UPD	QualifiedName@@com.hazelcast.config.MultiMapConfig[19]	TO	com.hazelcast.multimap.MultiMapPortableHook
+]

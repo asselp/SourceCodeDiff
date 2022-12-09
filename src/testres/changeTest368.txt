@@ -1,0 +1,7 @@
+[DEL	ImportDeclaration@@[16]
+
+	DEL	QualifiedName@@alluxio.exception.AlluxioException[16]
+, DEL	SimpleType@@AlluxioException[51]
+
+	DEL	SimpleName@@AlluxioException[51]
+]

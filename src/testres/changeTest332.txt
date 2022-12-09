@@ -1,0 +1,6 @@
+[UPD	QualifiedName@@org.slf4j.Logger[27]	TO	org.apache.log4j.Logger
+, UPD	SimpleName@@LoggerFactory[73]	TO	Logger
+, DEL	ImportDeclaration@@[27]
+
+	DEL	QualifiedName@@org.slf4j.LoggerFactory[29]
+]

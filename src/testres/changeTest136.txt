@@ -1,0 +1,252 @@
+[INS	Block@@[25]
+, DEL	ImportDeclaration@@[19]
+
+	DEL	QualifiedName@@com.hazelcast.cluster.impl.ClusterServiceImpl[19]
+, DEL	ImportDeclaration@@[20]
+
+	DEL	QualifiedName@@com.hazelcast.instance.MemberImpl[20]
+, DEL	ImportDeclaration@@[21]
+
+	DEL	QualifiedName@@com.hazelcast.logging.ILogger[21]
+, DEL	ImportDeclaration@@[22]
+
+	DEL	QualifiedName@@com.hazelcast.nio.ObjectDataInput[22]
+, DEL	ImportDeclaration@@[23]
+
+	DEL	QualifiedName@@com.hazelcast.nio.ObjectDataOutput[23]
+, DEL	ImportDeclaration@@[25]
+
+	DEL	QualifiedName@@java.io.IOException[25]
+, DEL	FieldDeclaration@@[30]
+
+	DEL	Modifier@@private[30]
+
+	DEL	PrimitiveType@@long[30]
+
+	DEL	VariableDeclarationFragment@@[30]
+
+	DEL	SimpleName@@timestamp[30]
+, DEL	MethodDeclaration@@[32]
+
+	DEL	Modifier@@public[32]
+
+	DEL	SimpleName@@HeartbeatOperation[32]
+
+	DEL	Block@@[33]
+, DEL	MethodDeclaration@@[34]
+
+	DEL	Modifier@@public[34]
+
+	DEL	SimpleName@@HeartbeatOperation[34]
+
+	DEL	SingleVariableDeclaration@@[35]
+
+	DEL	PrimitiveType@@long[35]
+
+	DEL	SimpleName@@timestamp[36]
+
+	DEL	Block@@[37]
+
+	DEL	ExpressionStatement@@[37]
+
+	DEL	Assignment@@=[37]
+
+	DEL	FieldAccess@@[37]
+
+	DEL	ThisExpression@@[37]
+
+	DEL	SimpleName@@timestamp[37]
+
+	DEL	SimpleName@@timestamp[37]
+, DEL	Block@@[39]
+
+	DEL	VariableDeclarationStatement@@[41]
+
+	DEL	SimpleType@@ClusterServiceImpl[41]
+
+	DEL	SimpleName@@ClusterServiceImpl[41]
+
+	DEL	VariableDeclarationFragment@@[42]
+
+	DEL	SimpleName@@service[42]
+
+	DEL	MethodInvocation@@[42]
+
+	DEL	SimpleName@@getService[42]
+
+	DEL	VariableDeclarationStatement@@[43]
+
+	DEL	SimpleType@@MemberImpl[43]
+
+	DEL	SimpleName@@MemberImpl[43]
+
+	DEL	VariableDeclarationFragment@@[43]
+
+	DEL	SimpleName@@member[43]
+
+	DEL	MethodInvocation@@[43]
+
+	DEL	SimpleName@@service[43]
+
+	DEL	SimpleName@@getMember[43]
+
+	DEL	MethodInvocation@@[44]
+
+	DEL	SimpleName@@getCallerAddress[44]
+
+	DEL	IfStatement@@[44]
+
+	DEL	InfixExpression@@==[44]
+
+	DEL	SimpleName@@member[44]
+
+	DEL	NullLiteral@@[44]
+
+	DEL	Block@@[44]
+
+	DEL	VariableDeclarationStatement@@[44]
+
+	DEL	SimpleType@@ILogger[44]
+
+	DEL	SimpleName@@ILogger[44]
+
+	DEL	VariableDeclarationFragment@@[45]
+
+	DEL	SimpleName@@logger[45]
+
+	DEL	MethodInvocation@@[45]
+
+	DEL	SimpleName@@getLogger[45]
+
+	DEL	IfStatement@@[46]
+
+	DEL	MethodInvocation@@[46]
+
+	DEL	SimpleName@@logger[46]
+
+	DEL	SimpleName@@isFinestEnabled[46]
+
+	DEL	Block@@[46]
+
+	DEL	ExpressionStatement@@[47]
+
+	DEL	MethodInvocation@@[47]
+
+	DEL	SimpleName@@logger[47]
+
+	DEL	SimpleName@@finest[47]
+
+	DEL	InfixExpression@@+[47]
+
+	DEL	StringLiteral@@"Heartbeat received from an unknown endpoint: "[47]
+
+	DEL	MethodInvocation@@[48]
+
+	DEL	SimpleName@@getCallerAddress[48]
+
+	DEL	ReturnStatement@@[48]
+
+	DEL	ExpressionStatement@@[49]
+
+	DEL	MethodInvocation@@[49]
+
+	DEL	MethodInvocation@@[49]
+
+	DEL	SimpleName@@service[49]
+
+	DEL	SimpleName@@getClusterHeartbeatManager[49]
+
+	DEL	SimpleName@@onHeartbeat[51]
+
+	DEL	SimpleName@@member[52]
+
+	DEL	SimpleName@@timestamp[52]
+, DEL	MethodDeclaration@@[62]
+
+	DEL	MarkerAnnotation@@[62]
+
+	DEL	SimpleName@@Override[62]
+
+	DEL	Modifier@@protected[62]
+
+	DEL	PrimitiveType@@void[62]
+
+	DEL	SimpleName@@writeInternal[62]
+
+	DEL	SingleVariableDeclaration@@[62]
+
+	DEL	SimpleType@@ObjectDataOutput[62]
+
+	DEL	SimpleName@@ObjectDataOutput[62]
+
+	DEL	SimpleName@@out[65]
+
+	DEL	SimpleType@@IOException[65]
+
+	DEL	SimpleName@@IOException[65]
+
+	DEL	Block@@[66]
+
+	DEL	ExpressionStatement@@[66]
+
+	DEL	SuperMethodInvocation@@[66]
+
+	DEL	SimpleName@@writeInternal[66]
+
+	DEL	SimpleName@@out[66]
+
+	DEL	ExpressionStatement@@[66]
+
+	DEL	MethodInvocation@@[66]
+
+	DEL	SimpleName@@out[66]
+
+	DEL	SimpleName@@writeLong[66]
+
+	DEL	SimpleName@@timestamp[66]
+, DEL	MethodDeclaration@@[67]
+
+	DEL	MarkerAnnotation@@[67]
+
+	DEL	SimpleName@@Override[67]
+
+	DEL	Modifier@@protected[67]
+
+	DEL	PrimitiveType@@void[68]
+
+	DEL	SimpleName@@readInternal[68]
+
+	DEL	SingleVariableDeclaration@@[68]
+
+	DEL	SimpleType@@ObjectDataInput[68]
+
+	DEL	SimpleName@@ObjectDataInput[68]
+
+	DEL	SimpleName@@in[69]
+
+	DEL	SimpleType@@IOException[71]
+
+	DEL	SimpleName@@IOException[71]
+
+	DEL	Block@@[72]
+
+	DEL	ExpressionStatement@@[72]
+
+	DEL	SuperMethodInvocation@@[72]
+
+	DEL	SimpleName@@readInternal[72]
+
+	DEL	SimpleName@@in[72]
+
+	DEL	ExpressionStatement@@[72]
+
+	DEL	Assignment@@=[72]
+
+	DEL	SimpleName@@timestamp[72]
+
+	DEL	MethodInvocation@@[72]
+
+	DEL	SimpleName@@in[72]
+
+	DEL	SimpleName@@readLong[72]
+]

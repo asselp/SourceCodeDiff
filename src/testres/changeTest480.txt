@@ -1,0 +1,51 @@
+[INS	ReturnStatement@@[34]
+
+	INS	MethodInvocation@@[34]
+
+	INS	SimpleName@@StringUtils[34]
+
+	INS	SimpleName@@fromString[34]
+
+	INS	MethodInvocation@@[35]
+, MOV	SimpleName@@bType[43]	TO	MethodInvocation@@[35]
+, MOV	SimpleName@@getName[43]	TO	MethodInvocation@@[35]
+, DEL	Javadoc@@[29]
+, DEL	Javadoc@@[34]
+, DEL	VariableDeclarationStatement@@[43]
+
+	DEL	SimpleType@@String[43]
+
+	DEL	SimpleName@@String[43]
+
+	DEL	VariableDeclarationFragment@@[43]
+
+	DEL	SimpleName@@typeName[43]
+
+	DEL	MethodInvocation@@[43]
+, DEL	IfStatement@@[44]
+
+	DEL	InfixExpression@@==[44]
+
+	DEL	SimpleName@@typeName[44]
+
+	DEL	NullLiteral@@[44]
+
+	DEL	Block@@[44]
+
+	DEL	ExpressionStatement@@[45]
+
+	DEL	Assignment@@=[45]
+
+	DEL	SimpleName@@typeName[45]
+
+	DEL	StringLiteral@@""[45]
+, DEL	ReturnStatement@@[46]
+
+	DEL	MethodInvocation@@[46]
+
+	DEL	SimpleName@@StringUtils[46]
+
+	DEL	SimpleName@@fromString[46]
+
+	DEL	SimpleName@@typeName[47]
+]

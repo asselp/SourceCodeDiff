@@ -1,0 +1,9 @@
+[DEL	ImportDeclaration@@[35]
+
+	DEL	QualifiedName@@org.jboss.as.controller.access.DelegatingConfigurableAuthorizer[35]
+, DEL	ClassInstanceCreation@@[71]
+
+	DEL	SimpleType@@DelegatingConfigurableAuthorizer[71]
+
+	DEL	SimpleName@@DelegatingConfigurableAuthorizer[71]
+]

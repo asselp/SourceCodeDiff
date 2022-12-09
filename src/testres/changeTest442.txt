@@ -1,0 +1,143 @@
+[INS	SimpleType@@String[15]
+, MOV	SingleVariableDeclaration@@[23]	TO	MethodDeclaration@@[26]
+, MOV	SimpleName@@String[17]	TO	SimpleType@@String[15]
+, UPD	SimpleName@@dimensions[17]	TO	dimension
+, INS	SimpleName@@dimension[19]
+, UPD	SimpleName@@dimensions[40]	TO	dimension
+, MOV	ClassInstanceCreation@@[45]	TO	ClassInstanceCreation@@[-1]
+, INS	StringLiteral@@", "[42]
+, INS	SimpleName@@dimension[42]
+, UPD	SimpleName@@dimensions[29]	TO	dimension
+, UPD	SimpleName@@dimensions[46]	TO	dimension
+, DEL	ImportDeclaration@@[2]
+
+	DEL	QualifiedName@@com.google.common.collect.ImmutableList[4]
+, DEL	ImportDeclaration@@[8]
+
+	DEL	QualifiedName@@java.util.Objects[8]
+, DEL	ParameterizedType@@List<String>[17]
+
+	DEL	SimpleType@@List[17]
+
+	DEL	SimpleName@@List[17]
+
+	DEL	SimpleType@@String[17]
+, DEL	MethodDeclaration@@[17]
+
+	DEL	Modifier@@public[17]
+
+	DEL	SimpleName@@Argmin[17]
+
+	DEL	SingleVariableDeclaration@@[19]
+
+	DEL	ParameterizedType@@TensorFunction<NAMETYPE>[19]
+
+	DEL	SimpleType@@TensorFunction[19]
+
+	DEL	SimpleName@@TensorFunction[19]
+
+	DEL	SimpleType@@NAMETYPE[19]
+
+	DEL	SimpleName@@NAMETYPE[19]
+
+	DEL	SimpleName@@argument[19]
+
+	DEL	Block@@[19]
+
+	DEL	ConstructorInvocation@@[19]
+
+	DEL	SimpleName@@argument[19]
+
+	DEL	MethodInvocation@@[20]
+
+	DEL	SimpleName@@Collections[20]
+
+	DEL	SimpleName@@emptyList[20]
+, DEL	MethodDeclaration@@[20]
+
+	DEL	Modifier@@public[20]
+
+	DEL	SimpleName@@Argmin[20]
+
+	DEL	SingleVariableDeclaration@@[21]
+
+	DEL	ParameterizedType@@TensorFunction<NAMETYPE>[21]
+
+	DEL	SimpleType@@TensorFunction[21]
+
+	DEL	SimpleName@@TensorFunction[21]
+
+	DEL	SimpleType@@NAMETYPE[23]
+
+	DEL	SimpleName@@NAMETYPE[23]
+
+	DEL	SimpleName@@argument[23]
+
+	DEL	Block@@[23]
+
+	DEL	ConstructorInvocation@@[23]
+
+	DEL	SimpleName@@argument[23]
+
+	DEL	MethodInvocation@@[24]
+
+	DEL	SimpleName@@Collections[24]
+
+	DEL	SimpleName@@singletonList[24]
+
+	DEL	SimpleName@@dimension[24]
+, DEL	SingleVariableDeclaration@@[27]
+
+	DEL	ParameterizedType@@List<String>[27]
+
+	DEL	SimpleType@@List[27]
+
+	DEL	SimpleName@@List[27]
+
+	DEL	SimpleType@@String[27]
+
+	DEL	SimpleName@@String[27]
+
+	DEL	SimpleName@@dimensions[27]
+, DEL	ExpressionStatement@@[27]
+
+	DEL	MethodInvocation@@[27]
+
+	DEL	SimpleName@@Objects[27]
+
+	DEL	SimpleName@@requireNonNull[27]
+
+	DEL	SimpleName@@dimensions[28]
+
+	DEL	StringLiteral@@"The dimensions cannot be null"[28]
+, DEL	MethodInvocation@@[29]
+
+	DEL	SimpleName@@ImmutableList[29]
+
+	DEL	SimpleName@@copyOf[30]
+
+	DEL	SimpleName@@dimensions[30]
+, DEL	VariableDeclarationStatement@@[45]
+
+	DEL	ParameterizedType@@TensorFunction<NAMETYPE>[45]
+
+	DEL	SimpleType@@TensorFunction[45]
+
+	DEL	SimpleName@@TensorFunction[45]
+
+	DEL	SimpleType@@NAMETYPE[45]
+
+	DEL	SimpleName@@NAMETYPE[45]
+
+	DEL	VariableDeclarationFragment@@[45]
+
+	DEL	SimpleName@@reduce[45]
+, DEL	SimpleName@@reduce[46]
+, DEL	MethodInvocation@@[52]
+
+	DEL	SimpleName@@Reduce[52]
+
+	DEL	SimpleName@@commaSeparated[52]
+
+	DEL	SimpleName@@dimensions[52]
+]

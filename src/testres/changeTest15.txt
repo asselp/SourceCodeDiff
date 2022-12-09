@@ -1,0 +1,43 @@
+[INS	ImportDeclaration@@[33]
+
+	INS	QualifiedName@@org.elasticsearch.common.compress.CompressedStreamInput[33]
+, MOV	ExpressionStatement@@[326]	TO	Block@@[320]
+, UPD	SimpleType@@InputStream[322]	TO	CompressedStreamInput
+
+	UPD	SimpleName@@InputStream[322]	TO	CompressedStreamInput
+, INS	MethodInvocation@@[325]
+
+	INS	SimpleName@@compressedStreamInput[325]
+
+	INS	SimpleName@@resetToBufferStart[325]
+, DEL	ImportDeclaration@@[54]
+
+	DEL	QualifiedName@@java.io.BufferedInputStream[54]
+, DEL	ImportDeclaration@@[56]
+
+	DEL	QualifiedName@@java.io.InputStream[56]
+, DEL	IfStatement@@[325]
+
+	DEL	InfixExpression@@==[325]
+
+	DEL	MethodInvocation@@[325]
+
+	DEL	SimpleName@@compressedStreamInput[325]
+
+	DEL	SimpleName@@markSupported[325]
+
+	DEL	BooleanLiteral@@false[326]
+
+	DEL	Block@@[326]
+, DEL	Assignment@@=[326]
+
+	DEL	SimpleName@@compressedStreamInput[326]
+
+	DEL	ClassInstanceCreation@@[326]
+
+	DEL	SimpleType@@BufferedInputStream[327]
+
+	DEL	SimpleName@@BufferedInputStream[327]
+
+	DEL	SimpleName@@compressedStreamInput[327]
+]

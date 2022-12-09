@@ -1,0 +1,11 @@
+[UPD	QualifiedName@@org.neo4j.kernel.impl.util.monitoring.ProgressReporter[25]	TO	org.neo4j.kernel.impl.storemigration.monitoring.MigrationProgressMonitor
+, UPD	QualifiedName@@org.neo4j.kernel.impl.util.monitoring.SilentProgressReporter[26]	TO	org.neo4j.kernel.impl.storemigration.monitoring.SilentMigrationProgressMonitor
+, UPD	SimpleType@@ProgressReporter[55]	TO	MigrationProgressMonitor.Section
+, INS	QualifiedName@@MigrationProgressMonitor.Section[55]
+, UPD	SimpleType@@ProgressReporter[75]	TO	MigrationProgressMonitor.Section
+, UPD	QualifiedName@@SilentProgressReporter.INSTANCE[70]	TO	SilentMigrationProgressMonitor.NO_OP_SECTION
+, INS	QualifiedName@@MigrationProgressMonitor.Section[75]
+, DEL	SimpleName@@ProgressReporter[55]
+, DEL	QualifiedName@@NumberArrayFactory.NO_MONITOR[64]
+, DEL	SimpleName@@ProgressReporter[75]
+]

@@ -1,0 +1,21 @@
+[INS	ImportDeclaration@@[28]
+
+	INS	QualifiedName@@org.junit.Ignore[29]
+, UPD	QualifiedName@@org.junit.After[20]	TO	org.neo4j.helpers.collection.MapUtil.stringMap
+, UPD	QualifiedName@@org.junit.Before[22]	TO	org.neo4j.test.ha.ClusterManager.allSeesAllAsJoined
+, UPD	QualifiedName@@org.junit.Test[23]	TO	org.neo4j.test.ha.ClusterManager.clusterWithAdditionalClients
+, UPD	QualifiedName@@org.neo4j.kernel.ha.HighlyAvailableGraphDatabase[24]	TO	org.neo4j.test.ha.ClusterManager.masterAvailable
+, UPD	QualifiedName@@org.neo4j.test.TargetDirectory[26]	TO	org.neo4j.test.ha.ClusterManager.masterSeesMembers
+, UPD	QualifiedName@@org.neo4j.test.ha.ClusterManager[27]	TO	org.junit.After
+, UPD	QualifiedName@@org.neo4j.test.ha.ClusterManager.ManagedCluster[28]	TO	org.junit.Before
+, UPD	QualifiedName@@org.neo4j.helpers.collection.MapUtil.stringMap[29]	TO	org.junit.Test
+, UPD	QualifiedName@@org.neo4j.test.ha.ClusterManager.allSeesAllAsJoined[31]	TO	org.neo4j.kernel.ha.HighlyAvailableGraphDatabase
+, UPD	QualifiedName@@org.neo4j.test.ha.ClusterManager.clusterWithAdditionalClients[32]	TO	org.neo4j.test.TargetDirectory
+, UPD	QualifiedName@@org.neo4j.test.ha.ClusterManager.masterAvailable[33]	TO	org.neo4j.test.ha.ClusterManager
+, UPD	QualifiedName@@org.neo4j.test.ha.ClusterManager.masterSeesMembers[34]	TO	org.neo4j.test.ha.ClusterManager.ManagedCluster
+, INS	SingleMemberAnnotation@@[35]
+
+	INS	SimpleName@@Ignore[35]
+
+	INS	StringLiteral@@"build failures make this block forever"[35]
+]

@@ -1,0 +1,90 @@
+[INS	Block@@[267]
+, MOV	ExpressionStatement@@[277]	TO	Block@@[267]
+, DEL	ImportDeclaration@@[38]
+
+	DEL	QualifiedName@@com.facebook.react.bridge.WritableMap[38]
+, DEL	ImportDeclaration@@[39]
+
+	DEL	QualifiedName@@com.facebook.react.bridge.WritableNativeMap[39]
+, DEL	ImportDeclaration@@[40]
+
+	DEL	QualifiedName@@com.facebook.react.uimanager.StateWrapper[40]
+, DEL	FieldDeclaration@@[94]
+
+	DEL	Modifier@@protected[94]
+
+	DEL	MarkerAnnotation@@[94]
+
+	DEL	SimpleName@@Nullable[94]
+
+	DEL	SimpleType@@StateWrapper[94]
+
+	DEL	SimpleName@@StateWrapper[94]
+
+	DEL	VariableDeclarationFragment@@[96]
+
+	DEL	SimpleName@@mStateWrapper[96]
+
+	DEL	NullLiteral@@[96]
+, DEL	Block@@[272]
+
+	DEL	IfStatement@@[272]
+
+	DEL	InfixExpression@@==[272]
+
+	DEL	SimpleName@@mMostRecentEventCount[272]
+
+	DEL	SimpleName@@mostRecentEventCount[272]
+
+	DEL	Block@@[272]
+
+	DEL	ReturnStatement@@[273]
+
+	DEL	IfStatement@@[277]
+
+	DEL	InfixExpression@@!=[277]
+
+	DEL	SimpleName@@mStateWrapper[277]
+
+	DEL	NullLiteral@@[277]
+
+	DEL	Block@@[278]
+
+	DEL	VariableDeclarationStatement@@[278]
+
+	DEL	SimpleType@@WritableMap[278]
+
+	DEL	SimpleName@@WritableMap[278]
+
+	DEL	VariableDeclarationFragment@@[278]
+
+	DEL	SimpleName@@map[278]
+
+	DEL	ClassInstanceCreation@@[278]
+
+	DEL	SimpleType@@WritableNativeMap[278]
+
+	DEL	SimpleName@@WritableNativeMap[278]
+
+	DEL	ExpressionStatement@@[281]
+
+	DEL	MethodInvocation@@[281]
+
+	DEL	SimpleName@@map[281]
+
+	DEL	SimpleName@@putInt[281]
+
+	DEL	StringLiteral@@"mostRecentEventCount"[281]
+
+	DEL	SimpleName@@mMostRecentEventCount[281]
+
+	DEL	ExpressionStatement@@[282]
+
+	DEL	MethodInvocation@@[282]
+
+	DEL	SimpleName@@mStateWrapper[282]
+
+	DEL	SimpleName@@updateState[282]
+
+	DEL	SimpleName@@map[282]
+]

@@ -1,0 +1,71 @@
+[INS	ImportDeclaration@@[23]
+
+	INS	QualifiedName@@org.wso2.ballerinalang.compiler.tree.BLangBlockFunctionBody[23]
+, INS	MethodDeclaration@@[95]
+
+	INS	Block@@[96]
+
+	INS	ExpressionStatement@@[96]
+
+	INS	MethodInvocation@@[96]
+
+	INS	ExpressionMethodReference@@[98]
+
+	INS	ThisExpression@@[98]
+
+	INS	SimpleName@@acceptNode[99]
+, INS	MethodDeclaration@@[100]
+
+	INS	MarkerAnnotation@@[100]
+
+	INS	SimpleName@@Override[100]
+
+	INS	Modifier@@public[100]
+
+	INS	PrimitiveType@@void[100]
+
+	INS	SimpleName@@visit[100]
+
+	INS	SingleVariableDeclaration@@[100]
+
+	INS	SimpleType@@BLangBlockFunctionBody[100]
+
+	INS	SimpleName@@BLangBlockFunctionBody[100]
+
+	INS	SimpleName@@blockFuncBody[101]
+
+	INS	Block@@[101]
+, MOV	MarkerAnnotation@@[94]	TO	MethodDeclaration@@[95]
+, MOV	Modifier@@public[94]	TO	MethodDeclaration@@[95]
+, MOV	PrimitiveType@@void[94]	TO	MethodDeclaration@@[95]
+, MOV	SimpleName@@visit[94]	TO	MethodDeclaration@@[95]
+, MOV	SingleVariableDeclaration@@[94]	TO	MethodDeclaration@@[95]
+, MOV	ExpressionStatement@@[99]	TO	Block@@[101]
+, MOV	QualifiedName@@blockNode.stmts[95]	TO	MethodInvocation@@[96]
+, MOV	SimpleName@@forEach[96]	TO	MethodInvocation@@[96]
+, INS	QualifiedName@@blockFuncBody.stmts[101]
+, INS	SimpleName@@forEach[104]
+, INS	ExpressionMethodReference@@[104]
+
+	INS	ThisExpression@@[104]
+
+	INS	SimpleName@@acceptNode[105]
+, DEL	ThisExpression@@[99]
+, DEL	SimpleName@@acceptNode[99]
+, DEL	SimpleName@@stmt[99]
+, DEL	MethodDeclaration@@[94]
+
+	DEL	Block@@[95]
+
+	DEL	ExpressionStatement@@[95]
+
+	DEL	MethodInvocation@@[95]
+
+	DEL	LambdaExpression@@[97]
+
+	DEL	VariableDeclarationFragment@@[97]
+
+	DEL	SimpleName@@stmt[97]
+
+	DEL	Block@@[98]
+]

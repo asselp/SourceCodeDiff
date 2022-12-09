@@ -1,0 +1,2 @@
+[UPD	SimpleName@@compare[188]	TO	compareValueTo
+]

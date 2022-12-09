@@ -1,0 +1,8 @@
+[UPD	QualifiedName@@org.apache.commons.logging.Log[37]	TO	org.slf4j.Logger
+, UPD	QualifiedName@@org.apache.commons.logging.LogFactory[39]	TO	org.slf4j.LoggerFactory
+, UPD	SimpleType@@Log[62]	TO	Logger
+
+	UPD	SimpleName@@Log[62]	TO	Logger
+, UPD	SimpleName@@LogFactory[62]	TO	LoggerFactory
+, UPD	SimpleName@@getLog[62]	TO	getLogger
+]

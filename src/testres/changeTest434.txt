@@ -1,0 +1,198 @@
+[DEL	ImportDeclaration@@[17]
+
+	DEL	QualifiedName@@com.yahoo.vespa.hosted.provision.NodeRepository[17]
+, DEL	ImportDeclaration@@[36]
+
+	DEL	QualifiedName@@java.util.logging.Level[36]
+, DEL	ImportDeclaration@@[36]
+
+	DEL	QualifiedName@@java.util.logging.Logger[37]
+, DEL	FieldDeclaration@@[54]
+
+	DEL	Modifier@@private[54]
+
+	DEL	Modifier@@static[54]
+
+	DEL	Modifier@@final[54]
+
+	DEL	SimpleType@@Logger[54]
+
+	DEL	SimpleName@@Logger[54]
+
+	DEL	VariableDeclarationFragment@@[55]
+
+	DEL	SimpleName@@log[55]
+
+	DEL	MethodInvocation@@[55]
+
+	DEL	SimpleName@@Logger[55]
+
+	DEL	SimpleName@@getLogger[55]
+
+	DEL	MethodInvocation@@[56]
+
+	DEL	TypeLiteral@@[56]
+
+	DEL	SimpleType@@Nodes[56]
+
+	DEL	SimpleName@@Nodes[56]
+
+	DEL	SimpleName@@getName[57]
+, DEL	MethodDeclaration@@[64]
+
+	DEL	Javadoc@@[64]
+
+	DEL	Modifier@@public[69]
+
+	DEL	PrimitiveType@@void[69]
+
+	DEL	SimpleName@@rewrite[69]
+
+	DEL	Block@@[69]
+
+	DEL	VariableDeclarationStatement@@[69]
+
+	DEL	SimpleType@@Instant[69]
+
+	DEL	SimpleName@@Instant[69]
+
+	DEL	VariableDeclarationFragment@@[69]
+
+	DEL	SimpleName@@start[69]
+
+	DEL	MethodInvocation@@[69]
+
+	DEL	SimpleName@@clock[69]
+
+	DEL	SimpleName@@instant[69]
+
+	DEL	VariableDeclarationStatement@@[70]
+
+	DEL	PrimitiveType@@int[70]
+
+	DEL	VariableDeclarationFragment@@[70]
+
+	DEL	SimpleName@@nodesWritten[70]
+
+	DEL	NumberLiteral@@0[70]
+
+	DEL	EnhancedForStatement@@[71]
+
+	DEL	SingleVariableDeclaration@@[71]
+
+	DEL	SimpleType@@Node.State[71]
+
+	DEL	QualifiedName@@Node.State[71]
+
+	DEL	SimpleName@@state[71]
+
+	DEL	MethodInvocation@@[71]
+
+	DEL	QualifiedName@@Node.State[71]
+
+	DEL	SimpleName@@values[72]
+
+	DEL	Block@@[72]
+
+	DEL	VariableDeclarationStatement@@[72]
+
+	DEL	ParameterizedType@@List<Node>[72]
+
+	DEL	SimpleType@@List[72]
+
+	DEL	SimpleName@@List[72]
+
+	DEL	SimpleType@@Node[73]
+
+	DEL	SimpleName@@Node[73]
+
+	DEL	VariableDeclarationFragment@@[73]
+
+	DEL	SimpleName@@nodes[73]
+
+	DEL	MethodInvocation@@[73]
+
+	DEL	SimpleName@@db[73]
+
+	DEL	SimpleName@@readNodes[73]
+
+	DEL	SimpleName@@state[73]
+
+	DEL	ExpressionStatement@@[75]
+
+	DEL	MethodInvocation@@[75]
+
+	DEL	SimpleName@@db[75]
+
+	DEL	SimpleName@@writeTo[75]
+
+	DEL	SimpleName@@state[75]
+
+	DEL	SimpleName@@nodes[75]
+
+	DEL	QualifiedName@@Agent.system[75]
+
+	DEL	MethodInvocation@@[75]
+
+	DEL	SimpleName@@Optional[75]
+
+	DEL	SimpleName@@empty[75]
+
+	DEL	ExpressionStatement@@[76]
+
+	DEL	Assignment@@+=[76]
+
+	DEL	SimpleName@@nodesWritten[76]
+
+	DEL	MethodInvocation@@[76]
+
+	DEL	SimpleName@@nodes[76]
+
+	DEL	SimpleName@@size[76]
+
+	DEL	VariableDeclarationStatement@@[76]
+
+	DEL	SimpleType@@Instant[76]
+
+	DEL	SimpleName@@Instant[76]
+
+	DEL	VariableDeclarationFragment@@[76]
+
+	DEL	SimpleName@@end[76]
+
+	DEL	MethodInvocation@@[76]
+
+	DEL	SimpleName@@clock[76]
+
+	DEL	SimpleName@@instant[77]
+
+	DEL	ExpressionStatement@@[77]
+
+	DEL	MethodInvocation@@[77]
+
+	DEL	SimpleName@@log[77]
+
+	DEL	SimpleName@@log[77]
+
+	DEL	QualifiedName@@Level.INFO[77]
+
+	DEL	MethodInvocation@@[78]
+
+	DEL	SimpleName@@String[78]
+
+	DEL	SimpleName@@format[78]
+
+	DEL	StringLiteral@@"Rewrote %d nodes in %s"[79]
+
+	DEL	SimpleName@@nodesWritten[79]
+
+	DEL	MethodInvocation@@[80]
+
+	DEL	SimpleName@@Duration[80]
+
+	DEL	SimpleName@@between[80]
+
+	DEL	SimpleName@@start[80]
+
+	DEL	SimpleName@@end[80]
+]

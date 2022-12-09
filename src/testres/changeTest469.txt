@@ -1,0 +1,173 @@
+[INS	ImportDeclaration@@[31]
+
+	INS	QualifiedName@@org.ballerinalang.mime.util.MimeConstants.FIRST_PARAMETER_INDEX[31]
+, INS	ImportDeclaration@@[33]
+
+	INS	QualifiedName@@org.ballerinalang.mime.util.MimeConstants.SECOND_PARAMETER_INDEX[33]
+, UPD	QualifiedName@@org.ballerinalang.jvm.Strand[22]	TO	org.ballerinalang.mime.util.EntityBodyHandler
+, UPD	QualifiedName@@org.ballerinalang.jvm.values.ArrayValue[23]	TO	org.ballerinalang.mime.util.MimeUtil
+, UPD	QualifiedName@@org.ballerinalang.jvm.values.ObjectValue[24]	TO	org.ballerinalang.model.types.TypeKind
+, UPD	QualifiedName@@org.ballerinalang.mime.util.EntityBodyHandler[25]	TO	org.ballerinalang.model.values.BMap
+, UPD	QualifiedName@@org.ballerinalang.mime.util.MimeUtil[26]	TO	org.ballerinalang.model.values.BValue
+, UPD	QualifiedName@@org.ballerinalang.model.types.TypeKind[27]	TO	org.ballerinalang.model.values.BValueArray
+, INS	MethodDeclaration@@[48]
+
+	INS	Block@@[49]
+
+	INS	VariableDeclarationStatement@@[50]
+
+	INS	ParameterizedType@@BMap<String,BValue>[50]
+
+	INS	SimpleType@@BMap[50]
+
+	INS	SimpleName@@BMap[50]
+
+	INS	SimpleType@@String[50]
+
+	INS	SimpleType@@BValue[50]
+
+	INS	VariableDeclarationFragment@@[50]
+
+	INS	SimpleName@@entityStruct[50]
+
+	INS	CastExpression@@[50]
+
+	INS	ParameterizedType@@BMap<String,BValue>[50]
+
+	INS	SimpleType@@BMap[50]
+
+	INS	SimpleName@@BMap[50]
+
+	INS	SimpleType@@String[51]
+
+	INS	SimpleName@@String[51]
+
+	INS	SimpleType@@BValue[51]
+
+	INS	MethodInvocation@@[51]
+
+	INS	SimpleName@@context[51]
+
+	INS	SimpleName@@getRefArgument[51]
+
+	INS	SimpleName@@FIRST_PARAMETER_INDEX[51]
+
+	INS	VariableDeclarationStatement@@[51]
+
+	INS	ArrayType@@byte[][51]
+
+	INS	PrimitiveType@@byte[51]
+
+	INS	Dimension@@[51]
+
+	INS	VariableDeclarationFragment@@[51]
+
+	INS	SimpleName@@payload[51]
+
+	INS	MethodInvocation@@[51]
+
+	INS	ParenthesizedExpression@@[51]
+
+	INS	CastExpression@@[51]
+
+	INS	SimpleType@@BValueArray[51]
+
+	INS	SimpleName@@BValueArray[51]
+
+	INS	MethodInvocation@@[51]
+
+	INS	SimpleName@@context[51]
+
+	INS	SimpleName@@getRefArgument[51]
+
+	INS	SimpleName@@SECOND_PARAMETER_INDEX[52]
+
+	INS	SimpleName@@getBytes[52]
+
+	INS	VariableDeclarationStatement@@[52]
+
+	INS	SimpleType@@String[52]
+
+	INS	VariableDeclarationFragment@@[52]
+
+	INS	SimpleName@@contentType[52]
+
+	INS	MethodInvocation@@[52]
+
+	INS	SimpleName@@context[52]
+
+	INS	SimpleName@@getStringArgument[52]
+
+	INS	SimpleName@@FIRST_PARAMETER_INDEX[53]
+
+	INS	ExpressionStatement@@[55]
+
+	INS	MethodInvocation@@[55]
+
+	INS	SimpleName@@context[55]
+
+	INS	SimpleName@@setReturnValues[55]
+, MOV	MarkerAnnotation@@[45]	TO	MethodDeclaration@@[48]
+, MOV	Modifier@@public[45]	TO	MethodDeclaration@@[48]
+, MOV	PrimitiveType@@void[45]	TO	MethodDeclaration@@[48]
+, MOV	SimpleName@@execute[45]	TO	MethodDeclaration@@[48]
+, MOV	SingleVariableDeclaration@@[45]	TO	MethodDeclaration@@[48]
+, MOV	ExpressionStatement@@[56]	TO	Block@@[49]
+, MOV	ExpressionStatement@@[57]	TO	Block@@[49]
+, MOV	SimpleName@@String[56]	TO	SimpleType@@String[52]
+, UPD	SimpleName@@entityObj[56]	TO	entityStruct
+, INS	ClassInstanceCreation@@[54]
+
+	INS	SimpleType@@BValueArray[54]
+
+	INS	SimpleName@@BValueArray[54]
+
+	INS	SimpleName@@payload[54]
+, INS	SimpleName@@context[54]
+, UPD	SimpleName@@entityObj[57]	TO	entityStruct
+, UPD	SimpleName@@Strand[53]	TO	String
+, MOV	SimpleName@@Strand[53]	TO	SimpleType@@String[50]
+, UPD	SimpleName@@ObjectValue[54]	TO	BValue
+, MOV	SimpleName@@ObjectValue[54]	TO	SimpleType@@BValue[50]
+, UPD	SimpleName@@ArrayValue[56]	TO	BValue
+, MOV	SimpleName@@ArrayValue[56]	TO	SimpleType@@BValue[51]
+, DEL	SimpleName@@payload[57]
+, DEL	MethodDeclaration@@[45]
+
+	DEL	Block@@[46]
+, DEL	MethodDeclaration@@[52]
+
+	DEL	Modifier@@public[52]
+
+	DEL	Modifier@@static[53]
+
+	DEL	PrimitiveType@@void[53]
+
+	DEL	SimpleName@@setByteArray[53]
+
+	DEL	SingleVariableDeclaration@@[53]
+
+	DEL	SimpleType@@Strand[53]
+
+	DEL	SimpleName@@strand[53]
+
+	DEL	SingleVariableDeclaration@@[54]
+
+	DEL	SimpleType@@ObjectValue[54]
+
+	DEL	SimpleName@@entityObj[56]
+
+	DEL	SingleVariableDeclaration@@[56]
+
+	DEL	SimpleType@@ArrayValue[56]
+
+	DEL	SimpleName@@payload[56]
+
+	DEL	SingleVariableDeclaration@@[56]
+
+	DEL	SimpleType@@String[56]
+
+	DEL	SimpleName@@contentType[56]
+
+	DEL	Block@@[56]
+]

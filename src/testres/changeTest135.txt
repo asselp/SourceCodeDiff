@@ -1,0 +1,33 @@
+[INS	ImportDeclaration@@[32]
+
+	INS	QualifiedName@@java.net.URLDecoder[32]
+, INS	VariableDeclarationStatement@@[48]
+
+	INS	SimpleType@@String[48]
+
+	INS	SimpleName@@String[48]
+
+	INS	VariableDeclarationFragment@@[48]
+
+	INS	SimpleName@@decodedURL[48]
+
+	INS	MethodInvocation@@[48]
+
+	INS	SimpleName@@URLDecoder[48]
+
+	INS	SimpleName@@decode[48]
+
+	INS	MethodInvocation@@[48]
+
+	INS	SimpleName@@configUrl1[48]
+
+	INS	SimpleName@@getFile[49]
+
+	INS	StringLiteral@@"UTF-8"[49]
+, INS	SimpleName@@decodedURL[50]
+, DEL	MethodInvocation@@[48]
+
+	DEL	SimpleName@@configUrl1[48]
+
+	DEL	SimpleName@@getFile[48]
+]

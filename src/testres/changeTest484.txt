@@ -1,0 +1,188 @@
+[UPD	PrimitiveType@@long[426]	TO	int
+, UPD	SimpleName@@size[426]	TO	length
+, MOV	IfStatement@@[480]	TO	Block@@[481]
+, MOV	ReturnStatement@@[500]	TO	Block@@[481]
+, INS	NullLiteral@@[477]
+, MOV	InfixExpression@@<[505]	TO	ReturnStatement@@[513]
+, MOV	MethodInvocation@@[491]	TO	ReturnStatement@@[486]
+, DEL	ImportDeclaration@@[24]
+
+	DEL	QualifiedName@@org.ballerinalang.model.types.TypeTags[24]
+, DEL	FieldDeclaration@@[468]
+
+	DEL	SimpleType@@IterMode[468]
+
+	DEL	SimpleName@@IterMode[468]
+
+	DEL	VariableDeclarationFragment@@[468]
+
+	DEL	SimpleName@@iterMode[468]
+
+	DEL	QualifiedName@@IterMode.SEQUENCE[468]
+, DEL	FieldDeclaration@@[471]
+
+	DEL	SimpleType@@BXMLCodePointIterator[471]
+
+	DEL	SimpleName@@BXMLCodePointIterator[471]
+
+	DEL	VariableDeclarationFragment@@[471]
+
+	DEL	SimpleName@@codePointIterator[471]
+, DEL	SimpleName@@codePointIterator[480]
+, DEL	MethodInvocation@@[484]
+
+	DEL	SimpleName@@codePointIterator[484]
+
+	DEL	SimpleName@@getNext[484]
+, DEL	Block@@[486]
+
+	DEL	ExpressionStatement@@[486]
+
+	DEL	Assignment@@=[486]
+
+	DEL	SimpleName@@iterMode[486]
+
+	DEL	QualifiedName@@IterMode.SEQUENCE[487]
+
+	DEL	ExpressionStatement@@[488]
+
+	DEL	Assignment@@=[488]
+
+	DEL	SimpleName@@codePointIterator[488]
+
+	DEL	NullLiteral@@[488]
+, DEL	MethodInvocation@@[501]
+
+	DEL	SimpleName@@codePointIterator[501]
+
+	DEL	SimpleName@@getNext[501]
+, DEL	IfStatement@@[480]
+
+	DEL	InfixExpression@@==[480]
+
+	DEL	SimpleName@@iterMode[480]
+
+	DEL	QualifiedName@@IterMode.CODE_POINT[480]
+
+	DEL	Block@@[480]
+, DEL	VariableDeclarationStatement@@[489]
+
+	DEL	ParameterizedType@@BRefType<?>[489]
+
+	DEL	SimpleType@@BRefType[489]
+
+	DEL	SimpleName@@BRefType[489]
+
+	DEL	WildcardType@@?[489]
+
+	DEL	VariableDeclarationFragment@@[491]
+
+	DEL	SimpleName@@curVal[491]
+, DEL	IfStatement@@[492]
+
+	DEL	InfixExpression@@&&[492]
+
+	DEL	InfixExpression@@==[492]
+
+	DEL	MethodInvocation@@[492]
+
+	DEL	MethodInvocation@@[492]
+
+	DEL	SimpleName@@curVal[492]
+
+	DEL	SimpleName@@getType[492]
+
+	DEL	SimpleName@@getTag[492]
+
+	DEL	QualifiedName@@TypeTags.XML_TAG[492]
+
+	DEL	InfixExpression@@==[496]
+
+	DEL	MethodInvocation@@[496]
+
+	DEL	ParenthesizedExpression@@[496]
+
+	DEL	CastExpression@@[496]
+
+	DEL	SimpleType@@BXMLItem[496]
+
+	DEL	SimpleName@@BXMLItem[496]
+
+	DEL	SimpleName@@curVal[496]
+
+	DEL	SimpleName@@getNodeType[496]
+
+	DEL	QualifiedName@@XMLNodeType.TEXT[497]
+
+	DEL	Block@@[497]
+
+	DEL	ExpressionStatement@@[497]
+
+	DEL	Assignment@@=[497]
+
+	DEL	SimpleName@@iterMode[497]
+
+	DEL	QualifiedName@@IterMode.CODE_POINT[498]
+
+	DEL	ExpressionStatement@@[498]
+
+	DEL	Assignment@@=[498]
+
+	DEL	SimpleName@@codePointIterator[498]
+
+	DEL	MethodInvocation@@[499]
+
+	DEL	SimpleName@@BXMLCodePointIterator[499]
+
+	DEL	SimpleName@@from[499]
+
+	DEL	ParenthesizedExpression@@[499]
+
+	DEL	MethodInvocation@@[499]
+
+	DEL	SimpleName@@curVal[499]
+
+	DEL	SimpleName@@stringValue[499]
+, DEL	ReturnStatement@@[502]
+
+	DEL	SimpleName@@curVal[502]
+, DEL	VariableDeclarationStatement@@[505]
+
+	DEL	PrimitiveType@@boolean[505]
+
+	DEL	VariableDeclarationFragment@@[505]
+
+	DEL	SimpleName@@hasMoreXmlItems[505]
+, DEL	ConditionalExpression@@[506]
+
+	DEL	InfixExpression@@==[506]
+
+	DEL	SimpleName@@iterMode[506]
+
+	DEL	QualifiedName@@IterMode.SEQUENCE[506]
+
+	DEL	SimpleName@@hasMoreXmlItems[506]
+
+	DEL	ParenthesizedExpression@@[507]
+
+	DEL	InfixExpression@@||[507]
+
+	DEL	MethodInvocation@@[507]
+
+	DEL	SimpleName@@codePointIterator[507]
+
+	DEL	SimpleName@@hasNext[507]
+
+	DEL	SimpleName@@hasMoreXmlItems[507]
+, DEL	EnumDeclaration@@[507]
+
+	DEL	SimpleName@@IterMode[508]
+
+	DEL	EnumConstantDeclaration@@[508]
+
+	DEL	SimpleName@@SEQUENCE[508]
+
+	DEL	EnumConstantDeclaration@@[508]
+
+	DEL	SimpleName@@CODE_POINT[508]
+]

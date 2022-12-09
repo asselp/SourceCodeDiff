@@ -1,0 +1,4 @@
+[INS	ImportDeclaration@@[28]
+
+	INS	QualifiedName@@javax.ejb.Stateless[28]
+]

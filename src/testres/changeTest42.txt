@@ -1,0 +1,99 @@
+[DEL	ImportDeclaration@@[24]
+
+	DEL	QualifiedName@@org.elasticsearch.client.watcher.DeactivateWatchRequest[24]
+, DEL	MethodDeclaration@@[83]
+
+	DEL	Modifier@@public[83]
+
+	DEL	PrimitiveType@@void[83]
+
+	DEL	SimpleName@@testDeactivateWatch[83]
+
+	DEL	Block@@[84]
+
+	DEL	VariableDeclarationStatement@@[84]
+
+	DEL	SimpleType@@String[84]
+
+	DEL	SimpleName@@String[84]
+
+	DEL	VariableDeclarationFragment@@[84]
+
+	DEL	SimpleName@@watchId[84]
+
+	DEL	MethodInvocation@@[84]
+
+	DEL	SimpleName@@randomAlphaOfLength[84]
+
+	DEL	NumberLiteral@@10[86]
+
+	DEL	VariableDeclarationStatement@@[87]
+
+	DEL	SimpleType@@DeactivateWatchRequest[87]
+
+	DEL	SimpleName@@DeactivateWatchRequest[87]
+
+	DEL	VariableDeclarationFragment@@[87]
+
+	DEL	SimpleName@@deactivateWatchRequest[87]
+
+	DEL	ClassInstanceCreation@@[88]
+
+	DEL	SimpleType@@DeactivateWatchRequest[88]
+
+	DEL	SimpleName@@DeactivateWatchRequest[88]
+
+	DEL	SimpleName@@watchId[88]
+
+	DEL	VariableDeclarationStatement@@[89]
+
+	DEL	SimpleType@@Request[89]
+
+	DEL	SimpleName@@Request[89]
+
+	DEL	VariableDeclarationFragment@@[89]
+
+	DEL	SimpleName@@request[89]
+
+	DEL	MethodInvocation@@[89]
+
+	DEL	SimpleName@@WatcherRequestConverters[89]
+
+	DEL	SimpleName@@deactivateWatch[89]
+
+	DEL	SimpleName@@deactivateWatchRequest[89]
+
+	DEL	ExpressionStatement@@[90]
+
+	DEL	MethodInvocation@@[90]
+
+	DEL	SimpleName@@assertEquals[90]
+
+	DEL	QualifiedName@@HttpPut.METHOD_NAME[90]
+
+	DEL	MethodInvocation@@[90]
+
+	DEL	SimpleName@@request[90]
+
+	DEL	SimpleName@@getMethod[90]
+
+	DEL	ExpressionStatement@@[90]
+
+	DEL	MethodInvocation@@[90]
+
+	DEL	SimpleName@@assertEquals[90]
+
+	DEL	InfixExpression@@+[90]
+
+	DEL	StringLiteral@@"/_xpack/watcher/watch/"[90]
+
+	DEL	SimpleName@@watchId[92]
+
+	DEL	StringLiteral@@"/_deactivate"[92]
+
+	DEL	MethodInvocation@@[92]
+
+	DEL	SimpleName@@request[92]
+
+	DEL	SimpleName@@getEndpoint[92]
+]

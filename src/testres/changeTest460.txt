@@ -1,0 +1,11 @@
+[DEL	MemberValuePair@@[195]
+
+	DEL	SimpleName@@enabled[195]
+
+	DEL	BooleanLiteral@@false[195]
+, DEL	MemberValuePair@@[219]
+
+	DEL	SimpleName@@enabled[219]
+
+	DEL	BooleanLiteral@@false[219]
+]

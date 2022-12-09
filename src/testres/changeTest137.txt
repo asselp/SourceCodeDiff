@@ -1,0 +1,16 @@
+[INS	ReturnStatement@@[57]
+, INS	ReturnStatement@@[58]
+, INS	ReturnStatement@@[63]
+, MOV	BooleanLiteral@@true[58]	TO	ReturnStatement@@[57]
+, MOV	BooleanLiteral@@false[62]	TO	ReturnStatement@@[58]
+, MOV	BooleanLiteral@@false[68]	TO	ReturnStatement@@[63]
+, DEL	Block@@[58]
+
+	DEL	ReturnStatement@@[58]
+, DEL	Block@@[61]
+
+	DEL	ReturnStatement@@[62]
+, DEL	Block@@[68]
+
+	DEL	ReturnStatement@@[68]
+]

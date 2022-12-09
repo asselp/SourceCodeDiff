@@ -1,0 +1,173 @@
+[MOV	Block@@[386]	TO	MethodDeclaration@@[361]
+
+	MOV	VariableDeclarationStatement@@[396]	TO	Block@@[401]
+
+	MOV	VariableDeclarationStatement@@[398]	TO	Block@@[401]
+
+	MOV	VariableDeclarationStatement@@[398]	TO	Block@@[401]
+
+	MOV	ExpressionStatement@@[399]	TO	Block@@[401]
+
+	MOV	ExpressionStatement@@[426]	TO	Block@@[401]
+, MOV	IfStatement@@[414]	TO	Block@@[386]
+
+	MOV	InfixExpression@@&&[414]	TO	IfStatement@@[415]
+, INS	ReturnStatement@@[426]
+
+	INS	SimpleName@@htmlString[426]
+, INS	MethodInvocation@@[367]
+
+	INS	StringLiteral@@"<!--fixups:"[368]
+, MOV	Block@@[371]	TO	IfStatement@@[414]
+, MOV	Block@@[401]	TO	IfStatement@@[414]
+
+	MOV	VariableDeclarationStatement@@[401]	TO	Block@@[404]
+
+	MOV	IfStatement@@[401]	TO	Block@@[416]
+
+	MOV	InfixExpression@@&&[401]	TO	IfStatement@@[404]
+, UPD	SimpleName@@fileNames[415]	TO	htmlString
+, MOV	SimpleName@@fileNames[415]	TO	MethodInvocation@@[367]
+, UPD	SimpleName@@entrySet[415]	TO	startsWith
+, MOV	SimpleName@@entrySet[415]	TO	MethodInvocation@@[367]
+, MOV	EnhancedForStatement@@[403]	TO	Block@@[401]
+
+	MOV	SingleVariableDeclaration@@[403]	TO	EnhancedForStatement@@[404]
+, INS	EnhancedForStatement@@[413]
+
+	INS	SimpleName@@hrefs[413]
+
+	INS	Block@@[413]
+
+	INS	IfStatement@@[415]
+
+	INS	Block@@[415]
+
+	INS	EnhancedForStatement@@[415]
+
+	INS	MethodInvocation@@[416]
+
+	INS	SimpleName@@fileNames[416]
+
+	INS	SimpleName@@entrySet[416]
+
+	INS	Block@@[416]
+, MOV	SingleVariableDeclaration@@[400]	TO	EnhancedForStatement@@[403]
+, INS	SimpleName@@srcs[401]
+, MOV	SingleVariableDeclaration@@[413]	TO	EnhancedForStatement@@[413]
+, MOV	VariableDeclarationStatement@@[413]	TO	Block@@[413]
+, MOV	ExpressionStatement@@[417]	TO	Block@@[413]
+, INS	SimpleName@@inline[597]
+, INS	EnhancedForStatement@@[404]
+
+	INS	MethodInvocation@@[405]
+
+	INS	SimpleName@@fileNames[405]
+
+	INS	SimpleName@@entrySet[405]
+
+	INS	Block@@[405]
+
+	INS	IfStatement@@[407]
+
+	INS	Block@@[409]
+, MOV	SingleVariableDeclaration@@[414]	TO	EnhancedForStatement@@[415]
+, MOV	InfixExpression@@&&[404]	TO	IfStatement@@[407]
+, MOV	InfixExpression@@&&[416]	TO	IfStatement@@[401]
+, MOV	ExpressionStatement@@[411]	TO	Block@@[409]
+, MOV	BreakStatement@@[412]	TO	Block@@[409]
+, MOV	ExpressionStatement@@[424]	TO	Block@@[403]
+, INS	BreakStatement@@[426]
+, DEL	MethodInvocation@@[403]
+
+	DEL	SimpleName@@fileNames[403]
+
+	DEL	SimpleName@@entrySet[404]
+, DEL	Block@@[414]
+
+	DEL	EnhancedForStatement@@[414]
+
+	DEL	MethodInvocation@@[415]
+
+	DEL	Block@@[416]
+
+	DEL	IfStatement@@[416]
+
+	DEL	Block@@[416]
+
+	DEL	BreakStatement@@[426]
+, DEL	EnhancedForStatement@@[400]
+
+	DEL	SimpleName@@srcs[401]
+, DEL	EnhancedForStatement@@[413]
+
+	DEL	SimpleName@@hrefs[413]
+
+	DEL	Block@@[413]
+, DEL	Block@@[362]
+
+	DEL	IfStatement@@[366]
+
+	DEL	MethodInvocation@@[367]
+
+	DEL	SimpleName@@htmlString[367]
+
+	DEL	SimpleName@@startsWith[367]
+
+	DEL	StringLiteral@@"<!--fixups:"[368]
+
+	DEL	ReturnStatement@@[427]
+
+	DEL	SimpleName@@htmlString[427]
+, DEL	ExpressionStatement@@[482]
+
+	DEL	MethodInvocation@@[482]
+
+	DEL	SimpleName@@log[482]
+
+	DEL	SimpleName@@debug[482]
+
+	DEL	StringLiteral@@"Using variant {} of type {} for resource {}"[482]
+
+	DEL	SimpleName@@variantResource[483]
+
+	DEL	SimpleName@@variantType[483]
+
+	DEL	SimpleName@@resource[483]
+, DEL	Block@@[485]
+
+	DEL	ExpressionStatement@@[485]
+
+	DEL	MethodInvocation@@[485]
+
+	DEL	SimpleName@@log[485]
+
+	DEL	SimpleName@@debug[485]
+
+	DEL	StringLiteral@@"NOT using variant {} of type {} for resource {}"[485]
+
+	DEL	SimpleName@@variantResource[486]
+
+	DEL	SimpleName@@variantType[486]
+
+	DEL	SimpleName@@resource[486]
+, DEL	InfixExpression@@&&[602]
+
+	DEL	InfixExpression@@&&[602]
+
+	DEL	SimpleName@@inline[602]
+
+	DEL	InfixExpression@@!=[602]
+
+	DEL	SimpleName@@mime[602]
+
+	DEL	NullLiteral@@[603]
+
+	DEL	MethodInvocation@@[605]
+
+	DEL	SimpleName@@mime[605]
+
+	DEL	SimpleName@@startsWith[605]
+
+	DEL	StringLiteral@@"text/"[605]
+]

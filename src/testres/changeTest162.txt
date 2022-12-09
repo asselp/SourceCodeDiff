@@ -1,0 +1,144 @@
+[INS	ImportDeclaration@@[30]
+
+	INS	QualifiedName@@org.neo4j.graphdb.GraphDatabaseService[30]
+, INS	ImportDeclaration@@[32]
+
+	INS	QualifiedName@@org.neo4j.internal.kernel.api.security.SecurityContext[32]
+, INS	ImportDeclaration@@[33]
+
+	INS	QualifiedName@@org.neo4j.logging.Log[33]
+, INS	ImportDeclaration@@[33]
+
+	INS	QualifiedName@@org.neo4j.procedure.ProcedureTransaction[34]
+, INS	ImportDeclaration@@[35]
+
+	INS	QualifiedName@@org.neo4j.procedure.TerminationGuard[35]
+, UPD	QualifiedName@@org.neo4j.tooling.procedure.visitors.examples.RestrictedContextTypes[35]	TO	org.neo4j.tooling.procedure.visitors.examples.StaticContextMisuse
+, UPD	QualifiedName@@org.neo4j.tooling.procedure.visitors.examples.StaticContextMisuse[36]	TO	org.neo4j.tooling.procedure.visitors.examples.RestrictedContextTypes
+, INS	FieldDeclaration@@[46]
+
+	INS	Modifier@@private[46]
+
+	INS	Modifier@@static[48]
+
+	INS	Modifier@@final[48]
+
+	INS	SimpleType@@org.assertj.core.groups.Tuple[48]
+
+	INS	QualifiedName@@org.assertj.core.groups.Tuple[48]
+
+	INS	VariableDeclarationFragment@@[50]
+
+	INS	SimpleName@@UNKNOWN_CONTEXT_ERROR_MSG[50]
+
+	INS	MethodInvocation@@[50]
+
+	INS	SimpleName@@tuple[50]
+
+	INS	QualifiedName@@Diagnostic.Kind.ERROR[50]
+
+	INS	InfixExpression@@+[50]
+
+	INS	InfixExpression@@+[50]
+
+	INS	StringLiteral@@"@org.neo4j.procedure.Context usage error: found unknown type <java.lang.String> on field "[50]
+
+	INS	StringLiteral@@"UnknownContextType#unsupportedType, expected one of: <"[51]
+
+	INS	MethodInvocation@@[52]
+
+	INS	TypeLiteral@@[52]
+
+	INS	SimpleType@@GraphDatabaseService[52]
+
+	INS	SimpleName@@GraphDatabaseService[52]
+
+	INS	SimpleName@@getName[52]
+
+	INS	StringLiteral@@">, <"[53]
+
+	INS	MethodInvocation@@[53]
+
+	INS	TypeLiteral@@[53]
+
+	INS	SimpleType@@Log[53]
+
+	INS	SimpleName@@Log[53]
+
+	INS	SimpleName@@getName[53]
+
+	INS	StringLiteral@@">, <"[53]
+
+	INS	MethodInvocation@@[54]
+
+	INS	TypeLiteral@@[54]
+
+	INS	SimpleType@@TerminationGuard[54]
+
+	INS	SimpleName@@TerminationGuard[54]
+
+	INS	SimpleName@@getName[54]
+
+	INS	StringLiteral@@">, <"[55]
+
+	INS	MethodInvocation@@[55]
+
+	INS	TypeLiteral@@[55]
+
+	INS	SimpleType@@SecurityContext[55]
+
+	INS	SimpleName@@SecurityContext[55]
+
+	INS	SimpleName@@getName[55]
+
+	INS	StringLiteral@@">, <"[55]
+
+	INS	MethodInvocation@@[56]
+
+	INS	TypeLiteral@@[56]
+
+	INS	SimpleType@@ProcedureTransaction[56]
+
+	INS	SimpleName@@ProcedureTransaction[56]
+
+	INS	SimpleName@@getName[56]
+
+	INS	StringLiteral@@">"[57]
+, INS	ExpressionStatement@@[144]
+
+	INS	MethodInvocation@@[144]
+
+	INS	SimpleName@@containsExactly[146]
+
+	INS	SimpleName@@UNKNOWN_CONTEXT_ERROR_MSG[146]
+, MOV	ExpressionStatement@@[131]	TO	Block@@[136]
+, MOV	MethodInvocation@@[145]	TO	MethodInvocation@@[144]
+, UPD	SimpleName@@tuple[135]	TO	UNKNOWN_CONTEXT_ERROR_MSG
+, MOV	SimpleName@@tuple[135]	TO	MethodInvocation@@[125]
+, INS	InfixExpression@@+[162]
+
+	INS	StringLiteral@@"@org.neo4j.procedure.Context usage warning: found unsupported restricted type <%s> on %2$s.\n"[162]
+
+	INS	StringLiteral@@"The procedure will not load unless declared via the configuration option 'dbms.security.procedures.unrestricted'.\n"[166]
+
+	INS	StringLiteral@@"You can ignore this warning by passing the option -AIgnoreContextWarnings to the Java compiler"[168]
+, DEL	MethodInvocation@@[135]
+
+	DEL	QualifiedName@@Diagnostic.Kind.ERROR[135]
+
+	DEL	StringLiteral@@"@org.neo4j.procedure.Context usage error: found unknown type <java.lang.String> on field UnknownContextType#unsupportedType, expected one of: <org.neo4j.graphdb.GraphDatabaseService>, <org.neo4j.logging.Log>, <org.neo4j.procedure.TerminationGuard>, <org.neo4j.kernel.api.security.SecurityContext>, <org.neo4j.procedure.ProcedureTransaction>"[135]
+, DEL	ExpressionStatement@@[145]
+
+	DEL	MethodInvocation@@[145]
+
+	DEL	SimpleName@@containsExactly[147]
+
+	DEL	MethodInvocation@@[147]
+
+	DEL	SimpleName@@tuple[147]
+
+	DEL	QualifiedName@@Diagnostic.Kind.ERROR[149]
+
+	DEL	StringLiteral@@"@org.neo4j.procedure.Context usage error: found unknown type <java.lang.String> on field UnknownContextType#unsupportedType, expected one of: <org.neo4j.graphdb.GraphDatabaseService>, <org.neo4j.logging.Log>, <org.neo4j.procedure.TerminationGuard>, <org.neo4j.kernel.api.security.SecurityContext>, <org.neo4j.procedure.ProcedureTransaction>"[149]
+, DEL	StringLiteral@@"@org.neo4j.procedure.Context usage warning: found unsupported restricted type <%s> on %2$s.\nThe procedure will not load unless declared via the configuration option 'dbms.security.procedures.unrestricted'.\nYou can ignore this warning by passing the option -AIgnoreContextWarnings to the Java compiler"[151]
+]

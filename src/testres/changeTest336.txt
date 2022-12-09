@@ -1,0 +1,42 @@
+[INS	VariableDeclarationStatement@@[379]
+
+	INS	SimpleType@@String[379]
+
+	INS	SimpleName@@String[379]
+
+	INS	VariableDeclarationFragment@@[379]
+
+	INS	SimpleName@@siteTitleTruncated[379]
+
+	INS	MethodInvocation@@[379]
+, INS	ExpressionStatement@@[382]
+
+	INS	MethodInvocation@@[382]
+
+	INS	SimpleName@@m[382]
+
+	INS	SimpleName@@put[382]
+
+	INS	StringLiteral@@"siteTitleNotTruncated"[382]
+
+	INS	SimpleName@@siteTitleNotTruncated[382]
+, UPD	SimpleName@@siteTitle[380]	TO	siteTitleNotTruncated
+, UPD	SimpleName@@siteTitle[382]	TO	siteTitleTruncated
+, UPD	SimpleName@@siteTitle[382]	TO	siteTitleNotTruncated
+, MOV	SimpleName@@getUserSpecificSiteTitle[379]	TO	MethodInvocation@@[379]
+, MOV	SimpleName@@s[380]	TO	MethodInvocation@@[379]
+, UPD	BooleanLiteral@@false[380]	TO	true
+, MOV	BooleanLiteral@@false[380]	TO	MethodInvocation@@[379]
+, INS	BooleanLiteral@@false[381]
+, DEL	ExpressionStatement@@[379]
+
+	DEL	MethodInvocation@@[379]
+
+	DEL	SimpleName@@m[379]
+
+	DEL	SimpleName@@put[379]
+
+	DEL	StringLiteral@@"siteTitleNotTruncated"[379]
+
+	DEL	MethodInvocation@@[379]
+]

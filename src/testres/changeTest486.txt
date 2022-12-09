@@ -1,0 +1,115 @@
+[UPD	SimpleType@@BLangExpression[5414]	TO	BLangBinaryExpr
+
+	UPD	SimpleName@@BLangExpression[5414]	TO	BLangBinaryExpr
+, MOV	IfStatement@@[5435]	TO	Block@@[5413]
+, MOV	InfixExpression@@==[5420]	TO	IfStatement@@[5431]
+, MOV	Block@@[5421]	TO	IfStatement@@[5431]
+, DEL	IfStatement@@[2917]
+
+	DEL	InfixExpression@@==[2918]
+
+	DEL	QualifiedName@@varRefExpr.symbol[2918]
+
+	DEL	NullLiteral@@[2918]
+
+	DEL	Block@@[2918]
+
+	DEL	ExpressionStatement@@[2918]
+
+	DEL	Assignment@@=[2918]
+
+	DEL	SimpleName@@result[2918]
+
+	DEL	SimpleName@@varRefExpr[2918]
+
+	DEL	ReturnStatement@@[2919]
+, DEL	InfixExpression@@&&[5435]
+
+	DEL	InfixExpression@@==[5435]
+
+	DEL	MethodInvocation@@[5435]
+
+	DEL	SimpleName@@expression[5435]
+
+	DEL	SimpleName@@getKind[5435]
+
+	DEL	QualifiedName@@NodeKind.SIMPLE_VARIABLE_REF[5435]
+
+	DEL	MethodInvocation@@[5436]
+
+	DEL	FieldAccess@@[5436]
+
+	DEL	FieldAccess@@[5436]
+
+	DEL	ParenthesizedExpression@@[5436]
+
+	DEL	CastExpression@@[5436]
+
+	DEL	SimpleType@@BLangSimpleVarRef[5436]
+
+	DEL	SimpleName@@BLangSimpleVarRef[5436]
+
+	DEL	SimpleName@@expression[5436]
+
+	DEL	SimpleName@@variableName[5436]
+
+	DEL	SimpleName@@value[5437]
+
+	DEL	SimpleName@@equals[5437]
+
+	DEL	QualifiedName@@IGNORE.value[5437]
+, DEL	Block@@[5437]
+
+	DEL	VariableDeclarationStatement@@[5437]
+
+	DEL	SimpleType@@BLangValueType[5437]
+
+	DEL	SimpleName@@BLangValueType[5437]
+
+	DEL	VariableDeclarationFragment@@[5437]
+
+	DEL	SimpleName@@anyType[5437]
+
+	DEL	CastExpression@@[5437]
+
+	DEL	SimpleType@@BLangValueType[5437]
+
+	DEL	SimpleName@@BLangValueType[5437]
+
+	DEL	MethodInvocation@@[5438]
+
+	DEL	SimpleName@@TreeBuilder[5438]
+
+	DEL	SimpleName@@createValueTypeNode[5438]
+
+	DEL	ExpressionStatement@@[5439]
+
+	DEL	Assignment@@=[5439]
+
+	DEL	QualifiedName@@anyType.type[5439]
+
+	DEL	QualifiedName@@symTable.anyType[5440]
+
+	DEL	ExpressionStatement@@[5440]
+
+	DEL	Assignment@@=[5440]
+
+	DEL	QualifiedName@@anyType.typeKind[5440]
+
+	DEL	QualifiedName@@TypeKind.ANY[5440]
+
+	DEL	ReturnStatement@@[5441]
+
+	DEL	MethodInvocation@@[5441]
+
+	DEL	SimpleName@@ASTBuilderUtil[5441]
+
+	DEL	SimpleName@@createTypeTestExpr[5441]
+
+	DEL	SimpleName@@pos[5441]
+
+	DEL	SimpleName@@varRef[5441]
+
+	DEL	SimpleName@@anyType[5443]
+, DEL	IfStatement@@[5420]
+]

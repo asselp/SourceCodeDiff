@@ -1,0 +1,43 @@
+[UPD	QualifiedName@@org.sakaiproject.gradebookng.business.model.GbStudentNameSortOrder[11]	TO	org.sakaiproject.gradebookng.business.model.GbStudentSortType
+, INS	VariableDeclarationStatement@@[38]
+
+	INS	SimpleType@@String[38]
+
+	INS	SimpleName@@String[38]
+
+	INS	VariableDeclarationFragment@@[38]
+
+	INS	SimpleName@@userId[38]
+
+	INS	CastExpression@@[38]
+
+	INS	SimpleType@@String[38]
+
+	INS	SimpleName@@String[38]
+
+	INS	MethodInvocation@@[38]
+
+	INS	SimpleName@@modelData[38]
+
+	INS	SimpleName@@get[38]
+
+	INS	StringLiteral@@"userId"[39]
+, UPD	SimpleType@@GbStudentNameSortOrder[92]	TO	GbStudentSortType
+
+	UPD	SimpleName@@GbStudentNameSortOrder[92]	TO	GbStudentSortType
+, UPD	SimpleName@@sortOrder[94]	TO	sortType
+, UPD	SimpleType@@GbStudentNameSortOrder[41]	TO	GbStudentSortType
+
+	UPD	SimpleName@@GbStudentNameSortOrder[41]	TO	GbStudentSortType
+, UPD	SimpleName@@nameSortOrder[41]	TO	sortType
+, UPD	QualifiedName@@GbStudentNameSortOrder.LAST_NAME[94]	TO	GbStudentSortType.LAST_NAME
+, UPD	SimpleName@@sortOrder[96]	TO	sortType
+, UPD	QualifiedName@@GbStudentNameSortOrder.FIRST_NAME[97]	TO	GbStudentSortType.FIRST_NAME
+, UPD	SimpleName@@sortOrder[98]	TO	sortType
+, UPD	SimpleType@@GbStudentNameSortOrder[42]	TO	GbStudentSortType
+
+	UPD	SimpleName@@GbStudentNameSortOrder[42]	TO	GbStudentSortType
+, UPD	StringLiteral@@"nameSortOrder"[42]	TO	"sortType"
+, UPD	SimpleName@@nameSortOrder[62]	TO	sortType
+, UPD	SimpleName@@sortOrder[94]	TO	sortType
+]

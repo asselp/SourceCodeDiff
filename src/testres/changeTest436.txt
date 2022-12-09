@@ -1,0 +1,36 @@
+[INS	ImportDeclaration@@[19]
+
+	INS	QualifiedName@@com.yahoo.vespa.model.container.Container[19]
+, INS	ImportDeclaration@@[20]
+
+	INS	QualifiedName@@com.yahoo.vespa.model.container.ContainerCluster[20]
+, UPD	QualifiedName@@com.yahoo.vespa.model.admin.clustercontroller.ClusterControllerContainerCluster[17]	TO	com.yahoo.vespa.model.admin.clustercontroller.ClusterControllerClusterVerifier
+, UPD	SimpleType@@ClusterControllerContainerCluster[81]	TO	ContainerCluster
+
+	UPD	SimpleName@@ClusterControllerContainerCluster[81]	TO	ContainerCluster
+, INS	ExpressionStatement@@[100]
+
+	INS	MethodInvocation@@[100]
+
+	INS	SimpleName@@ContainerModelBuilder[100]
+
+	INS	SimpleName@@addDefaultHandler_legacyBuilder[100]
+
+	INS	SimpleName@@cluster[100]
+, UPD	SimpleType@@var[92]	TO	ContainerCluster
+
+	UPD	SimpleName@@var[92]	TO	ContainerCluster
+, UPD	ParameterizedType@@List<ClusterControllerContainer>[97]	TO	List<Container>
+
+	UPD	SimpleType@@ClusterControllerContainer[97]	TO	Container
+
+	UPD	SimpleName@@ClusterControllerContainer[97]	TO	Container
+, UPD	SimpleType@@ClusterControllerContainerCluster[93]	TO	ContainerCluster
+
+	UPD	SimpleName@@ClusterControllerContainerCluster[93]	TO	ContainerCluster
+, INS	ClassInstanceCreation@@[99]
+
+	INS	SimpleType@@ClusterControllerClusterVerifier[99]
+
+	INS	SimpleName@@ClusterControllerClusterVerifier[99]
+]

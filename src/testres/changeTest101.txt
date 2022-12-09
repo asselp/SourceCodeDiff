@@ -1,0 +1,144 @@
+[DEL	MethodDeclaration@@[55]
+
+	DEL	Modifier@@public[55]
+
+	DEL	Modifier@@static[55]
+
+	DEL	SimpleType@@HazelcastInstance[55]
+
+	DEL	SimpleName@@HazelcastInstance[55]
+
+	DEL	SimpleName@@getOrCreateHazelcastInstance[55]
+
+	DEL	SingleVariableDeclaration@@[59]
+
+	DEL	SimpleType@@Config[59]
+
+	DEL	SimpleName@@Config[59]
+
+	DEL	SimpleName@@config[59]
+
+	DEL	Block@@[59]
+
+	DEL	IfStatement@@[59]
+
+	DEL	InfixExpression@@==[59]
+
+	DEL	SimpleName@@config[59]
+
+	DEL	NullLiteral@@[59]
+
+	DEL	Block@@[59]
+
+	DEL	ThrowStatement@@[59]
+
+	DEL	ClassInstanceCreation@@[59]
+
+	DEL	SimpleType@@NullPointerException[59]
+
+	DEL	SimpleName@@NullPointerException[59]
+
+	DEL	StringLiteral@@"config can't be null"[60]
+
+	DEL	VariableDeclarationStatement@@[61]
+
+	DEL	SimpleType@@String[61]
+
+	DEL	SimpleName@@String[61]
+
+	DEL	VariableDeclarationFragment@@[61]
+
+	DEL	SimpleName@@instanceName[61]
+
+	DEL	MethodInvocation@@[61]
+
+	DEL	SimpleName@@config[61]
+
+	DEL	SimpleName@@getInstanceName[61]
+
+	DEL	IfStatement@@[64]
+
+	DEL	InfixExpression@@||[64]
+
+	DEL	InfixExpression@@==[64]
+
+	DEL	SimpleName@@instanceName[64]
+
+	DEL	NullLiteral@@[64]
+
+	DEL	InfixExpression@@==[64]
+
+	DEL	MethodInvocation@@[64]
+
+	DEL	MethodInvocation@@[64]
+
+	DEL	SimpleName@@instanceName[64]
+
+	DEL	SimpleName@@trim[64]
+
+	DEL	SimpleName@@length[64]
+
+	DEL	NumberLiteral@@0[65]
+
+	DEL	Block@@[65]
+
+	DEL	ThrowStatement@@[65]
+
+	DEL	ClassInstanceCreation@@[65]
+
+	DEL	SimpleType@@IllegalArgumentException[65]
+
+	DEL	SimpleName@@IllegalArgumentException[65]
+
+	DEL	StringLiteral@@"instance name can't be null or empty"[65]
+
+	DEL	SynchronizedStatement@@[66]
+
+	DEL	SimpleName@@INSTANCE_NAME_LOCK[66]
+
+	DEL	Block@@[66]
+
+	DEL	VariableDeclarationStatement@@[67]
+
+	DEL	SimpleType@@HazelcastInstance[67]
+
+	DEL	SimpleName@@HazelcastInstance[67]
+
+	DEL	VariableDeclarationFragment@@[69]
+
+	DEL	SimpleName@@hz[69]
+
+	DEL	MethodInvocation@@[69]
+
+	DEL	SimpleName@@INSTANCE_MAP[69]
+
+	DEL	SimpleName@@get[69]
+
+	DEL	SimpleName@@instanceName[69]
+
+	DEL	IfStatement@@[70]
+
+	DEL	InfixExpression@@==[70]
+
+	DEL	SimpleName@@hz[70]
+
+	DEL	NullLiteral@@[70]
+
+	DEL	Block@@[70]
+
+	DEL	ExpressionStatement@@[70]
+
+	DEL	Assignment@@=[70]
+
+	DEL	SimpleName@@hz[70]
+
+	DEL	MethodInvocation@@[70]
+
+	DEL	SimpleName@@newHazelcastInstance[70]
+
+	DEL	SimpleName@@config[71]
+
+	DEL	ReturnStatement@@[72]
+
+	DEL	SimpleName@@hz[72]
+]

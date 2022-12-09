@@ -1,0 +1,25 @@
+[INS	ImportDeclaration@@[13]
+
+	INS	QualifiedName@@org.elasticsearch.marvel.agent.exporter.MarvelTemplateUtils[13]
+, UPD	QualifiedName@@org.elasticsearch.marvel.MonitoredSystem[11]	TO	org.elasticsearch.marvel.MonitoringIds
+, INS	MethodInvocation@@[23]
+
+	INS	QualifiedName@@MonitoringIds.ES[23]
+
+	INS	SimpleName@@getId[24]
+, INS	QualifiedName@@MarvelTemplateUtils.TEMPLATE_VERSION[24]
+, DEL	SingleVariableDeclaration@@[22]
+
+	DEL	SimpleType@@MonitoredSystem[22]
+
+	DEL	SimpleName@@MonitoredSystem[22]
+
+	DEL	SimpleName@@id[22]
+, DEL	SingleVariableDeclaration@@[22]
+
+	DEL	PrimitiveType@@int[22]
+
+	DEL	SimpleName@@version[22]
+, DEL	SimpleName@@id[22]
+, DEL	SimpleName@@version[22]
+]

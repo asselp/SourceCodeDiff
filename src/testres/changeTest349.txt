@@ -1,0 +1,22 @@
+[DEL	FieldDeclaration@@[59]
+
+	DEL	Modifier@@public[59]
+
+	DEL	Modifier@@static[59]
+
+	DEL	Modifier@@final[59]
+
+	DEL	SimpleType@@String[59]
+
+	DEL	SimpleName@@String[59]
+
+	DEL	VariableDeclarationFragment@@[59]
+
+	DEL	SimpleName@@ROSTER_FUNCTION_VIEWSITEVISITS[59]
+
+	DEL	InfixExpression@@+[60]
+
+	DEL	SimpleName@@ROSTER_FUNCTION_PREFIX[60]
+
+	DEL	StringLiteral@@"viewsitevisits"[60]
+]

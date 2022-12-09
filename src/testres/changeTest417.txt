@@ -1,0 +1,12 @@
+[INS	InfixExpression@@+[711]
+
+	INS	StringLiteral@@"https://"[711]
+
+	INS	QualifiedName@@GUIHandler.BINDING[711]
+, INS	StringLiteral@@"https://*/search/*"[701]
+, INS	InfixExpression@@+[271]
+
+	INS	StringLiteral@@"https://*/"[271]
+
+	INS	SimpleName@@name[271]
+]

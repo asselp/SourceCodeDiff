@@ -1,0 +1,12 @@
+[DEL	ImportDeclaration@@[16]
+
+	DEL	QualifiedName@@com.facebook.react.uimanager.events.EventDispatcher[16]
+, DEL	SingleVariableDeclaration@@[26]
+
+	DEL	SimpleType@@EventDispatcher[26]
+
+	DEL	SimpleName@@EventDispatcher[26]
+
+	DEL	SimpleName@@eventDispatcher[26]
+, DEL	SimpleName@@eventDispatcher[28]
+]

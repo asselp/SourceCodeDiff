@@ -1,0 +1,17 @@
+[INS	MethodInvocation@@[99]
+, MOV	SimpleName@@component[99]	TO	MethodInvocation@@[99]
+, UPD	SimpleName@@getFeedbackMessage[99]	TO	hasFeedbackMessage
+, MOV	SimpleName@@getFeedbackMessage[99]	TO	MethodInvocation@@[99]
+, UPD	SimpleName@@getMessage[105]	TO	first
+, INS	MethodInvocation@@[107]
+
+	INS	SimpleName@@first[110]
+, UPD	SimpleName@@getFeedbackMessage[105]	TO	getFeedbackMessages
+, MOV	MethodInvocation@@[107]	TO	MethodInvocation@@[107]
+, UPD	SimpleName@@getFeedbackMessage[108]	TO	getFeedbackMessages
+, DEL	InfixExpression@@!=[99]
+
+	DEL	MethodInvocation@@[99]
+
+	DEL	NullLiteral@@[100]
+]

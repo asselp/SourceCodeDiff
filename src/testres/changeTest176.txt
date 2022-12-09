@@ -1,0 +1,32 @@
+[UPD	QualifiedName@@java.util.HashMap[20]	TO	java.io.IOException
+, UPD	QualifiedName@@java.util.Map[22]	TO	java.util.HashMap
+, UPD	QualifiedName@@java.util.Set[23]	TO	java.util.Map
+, UPD	QualifiedName@@org.neo4j.internal.kernel.api.exceptions.EntityNotFoundException[24]	TO	java.util.Set
+, UPD	QualifiedName@@org.neo4j.internal.kernel.api.schema.SchemaDescriptor[26]	TO	org.neo4j.kernel.api.exceptions.EntityNotFoundException
+, UPD	QualifiedName@@org.neo4j.kernel.api.schema.index.SchemaIndexDescriptor[31]	TO	org.neo4j.kernel.api.schema.LabelSchemaDescriptor
+, UPD	SimpleType@@SchemaDescriptor[38]	TO	LabelSchemaDescriptor
+
+	UPD	SimpleName@@SchemaDescriptor[38]	TO	LabelSchemaDescriptor
+, INS	SimpleType@@IOException[89]
+
+	INS	SimpleName@@IOException[89]
+, UPD	SimpleType@@SchemaIndexDescriptor[40]	TO	LabelSchemaDescriptor
+
+	UPD	SimpleName@@SchemaIndexDescriptor[40]	TO	LabelSchemaDescriptor
+, UPD	SimpleName@@descriptor[42]	TO	schema
+, INS	SimpleName@@schema[42]
+, INS	SimpleType@@IOException[53]
+
+	INS	SimpleName@@IOException[53]
+, INS	SimpleType@@IndexEntryConflictException[53]
+
+	INS	SimpleName@@IndexEntryConflictException[53]
+, DEL	SuperConstructorInvocation@@[42]
+
+	DEL	SimpleName@@descriptor[42]
+, DEL	MethodInvocation@@[44]
+
+	DEL	SimpleName@@descriptor[44]
+
+	DEL	SimpleName@@schema[44]
+]

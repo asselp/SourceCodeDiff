@@ -1,0 +1,20 @@
+[INS	Block@@[103]
+
+	INS	EnhancedForStatement@@[103]
+
+	INS	SingleVariableDeclaration@@[103]
+
+	INS	SimpleType@@SynopticMsgcntrItem[103]
+
+	INS	SimpleName@@SynopticMsgcntrItem[103]
+
+	INS	SimpleName@@item[104]
+
+	INS	SimpleName@@items[106]
+
+	INS	Block@@[106]
+, MOV	ExpressionStatement@@[103]	TO	Block@@[106]
+, UPD	SimpleName@@saveOrUpdateAll[103]	TO	saveOrUpdate
+, UPD	SimpleName@@items[106]	TO	item
+, DEL	Block@@[103]
+]

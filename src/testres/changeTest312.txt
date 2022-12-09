@@ -1,0 +1,89 @@
+[INS	ImportDeclaration@@[23]
+
+	INS	QualifiedName@@org.apache.commons.lang3.ArrayUtils[23]
+, INS	ImportDeclaration@@[25]
+
+	INS	QualifiedName@@org.apache.commons.lang3.StringUtils[25]
+, UPD	QualifiedName@@org.sakaiproject.util.api.FormattedText[33]	TO	org.sakaiproject.util.Validator
+, INS	MethodDeclaration@@[75]
+
+	INS	Modifier@@public[75]
+
+	INS	PrimitiveType@@void[75]
+
+	INS	SimpleName@@setEntityManager[76]
+
+	INS	SingleVariableDeclaration@@[76]
+
+	INS	SimpleType@@EntityManager[76]
+
+	INS	SimpleName@@EntityManager[76]
+
+	INS	SimpleName@@entityManager[76]
+
+	INS	Block@@[76]
+
+	INS	ExpressionStatement@@[76]
+
+	INS	Assignment@@=[76]
+
+	INS	FieldAccess@@[76]
+
+	INS	ThisExpression@@[76]
+
+	INS	SimpleName@@entityManager[76]
+
+	INS	SimpleName@@entityManager[78]
+, INS	MethodDeclaration@@[78]
+
+	INS	Modifier@@public[78]
+
+	INS	PrimitiveType@@void[78]
+
+	INS	SimpleName@@setServerConfigurationService[78]
+
+	INS	SingleVariableDeclaration@@[79]
+
+	INS	SimpleType@@ServerConfigurationService[79]
+
+	INS	SimpleName@@serverConfigurationService[79]
+
+	INS	Block@@[82]
+
+	INS	ExpressionStatement@@[82]
+
+	INS	Assignment@@=[82]
+
+	INS	FieldAccess@@[82]
+
+	INS	ThisExpression@@[82]
+
+	INS	SimpleName@@serverConfigurationService[82]
+
+	INS	SimpleName@@serverConfigurationService[82]
+, UPD	SimpleName@@FormattedText[50]	TO	ServerConfigurationService
+, MOV	SimpleName@@FormattedText[50]	TO	SimpleType@@ServerConfigurationService[79]
+, UPD	SimpleName@@formattedText[132]	TO	Validator
+, DEL	ImportDeclaration@@[34]
+
+	DEL	QualifiedName@@lombok.Setter[34]
+, DEL	MarkerAnnotation@@[47]
+
+	DEL	SimpleName@@Setter[47]
+, DEL	MarkerAnnotation@@[49]
+
+	DEL	SimpleName@@Setter[49]
+, DEL	FieldDeclaration@@[50]
+
+	DEL	MarkerAnnotation@@[50]
+
+	DEL	SimpleName@@Setter[50]
+
+	DEL	Modifier@@private[50]
+
+	DEL	SimpleType@@FormattedText[50]
+
+	DEL	VariableDeclarationFragment@@[50]
+
+	DEL	SimpleName@@formattedText[50]
+]

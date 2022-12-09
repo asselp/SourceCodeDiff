@@ -1,0 +1,95 @@
+[UPD	SimpleType@@IndexCapability[41]	TO	String
+
+	UPD	SimpleName@@IndexCapability[41]	TO	String
+, UPD	SimpleName@@indexCapability[41]	TO	userDescription
+, INS	StringLiteral@@"description"[40]
+, INS	MethodInvocation@@[49]
+, INS	SimpleName@@providerDescriptor[50]
+, INS	MethodInvocation@@[66]
+, INS	ClassInstanceCreation@@[69]
+
+	INS	SimpleType@@SchemaIndexProvider.Descriptor[69]
+
+	INS	QualifiedName@@SchemaIndexProvider.Descriptor[69]
+
+	INS	StringLiteral@@"bar"[69]
+, INS	StringLiteral@@"foo"[69]
+, MOV	SimpleName@@IndexDescriptorFactory[52]	TO	MethodInvocation@@[49]
+, MOV	SimpleName@@forLabel[52]	TO	MethodInvocation@@[49]
+, MOV	NumberLiteral@@1[52]	TO	MethodInvocation@@[49]
+, MOV	NumberLiteral@@2[52]	TO	MethodInvocation@@[49]
+, MOV	SimpleName@@IndexDescriptorFactory[68]	TO	MethodInvocation@@[66]
+, MOV	SimpleName@@forLabel[70]	TO	MethodInvocation@@[66]
+, MOV	NumberLiteral@@0[71]	TO	MethodInvocation@@[66]
+, MOV	NumberLiteral@@0[71]	TO	MethodInvocation@@[66]
+, MOV	StringLiteral@@"foo"[71]	TO	ClassInstanceCreation@@[69]
+, DEL	ImportDeclaration@@[24]
+
+	DEL	QualifiedName@@org.neo4j.internal.kernel.api.IndexCapability[24]
+, DEL	ImportDeclaration@@[28]
+
+	DEL	QualifiedName@@org.neo4j.kernel.api.schema.index.IndexDescriptor[28]
+, DEL	MethodInvocation@@[42]
+
+	DEL	SimpleName@@mock[42]
+
+	DEL	TypeLiteral@@[42]
+
+	DEL	SimpleType@@IndexCapability[42]
+
+	DEL	SimpleName@@IndexCapability[42]
+, DEL	VariableDeclarationStatement@@[48]
+
+	DEL	SimpleType@@String[48]
+
+	DEL	SimpleName@@String[48]
+
+	DEL	VariableDeclarationFragment@@[48]
+
+	DEL	SimpleName@@userDescription[48]
+
+	DEL	StringLiteral@@"description"[50]
+, DEL	MethodInvocation@@[52]
+
+	DEL	SimpleName@@indexMeta[52]
+
+	DEL	MethodInvocation@@[52]
+, DEL	MethodInvocation@@[68]
+
+	DEL	SimpleName@@indexMeta[68]
+
+	DEL	MethodInvocation@@[68]
+, DEL	MethodDeclaration@@[77]
+
+	DEL	Modifier@@private[77]
+
+	DEL	SimpleType@@IndexMeta[77]
+
+	DEL	SimpleName@@IndexMeta[77]
+
+	DEL	SimpleName@@indexMeta[77]
+
+	DEL	SingleVariableDeclaration@@[77]
+
+	DEL	SimpleType@@IndexDescriptor[77]
+
+	DEL	SimpleName@@IndexDescriptor[77]
+
+	DEL	SimpleName@@descriptor[77]
+
+	DEL	Block@@[78]
+
+	DEL	ReturnStatement@@[79]
+
+	DEL	ClassInstanceCreation@@[81]
+
+	DEL	SimpleType@@IndexMeta[81]
+
+	DEL	SimpleName@@IndexMeta[81]
+
+	DEL	SimpleName@@descriptor[81]
+
+	DEL	SimpleName@@providerDescriptor[81]
+
+	DEL	SimpleName@@indexCapability[81]
+]

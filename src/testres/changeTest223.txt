@@ -1,0 +1,52 @@
+[UPD	QualifiedName@@com.facebook.infer.annotation.Assertions[23]	TO	com.facebook.react.bridge.Callback
+, UPD	QualifiedName@@com.facebook.react.bridge.Callback[24]	TO	com.facebook.react.bridge.LifecycleEventListener
+, UPD	QualifiedName@@com.facebook.react.bridge.LifecycleEventListener[25]	TO	com.facebook.react.bridge.ReactApplicationContext
+, UPD	QualifiedName@@com.facebook.react.bridge.ReactApplicationContext[26]	TO	com.facebook.react.bridge.ReactContextBaseJavaModule
+, UPD	QualifiedName@@com.facebook.react.bridge.ReactContextBaseJavaModule[27]	TO	com.facebook.react.bridge.ReactMethod
+, UPD	QualifiedName@@com.facebook.react.bridge.ReactMethod[28]	TO	com.facebook.react.bridge.ReadableArray
+, UPD	QualifiedName@@com.facebook.react.bridge.ReadableArray[29]	TO	com.facebook.react.bridge.ReadableMap
+, UPD	QualifiedName@@com.facebook.react.bridge.ReadableMap[30]	TO	com.facebook.react.bridge.annotations.ReactModule
+, INS	NormalAnnotation@@[32]
+
+	INS	SimpleName@@ReactModule[32]
+
+	INS	MemberValuePair@@[32]
+
+	INS	SimpleName@@name[32]
+
+	INS	StringLiteral@@"DialogManagerAndroid"[32]
+, DEL	FieldDeclaration@@[37]
+
+	DEL	Modifier@@static[37]
+
+	DEL	Modifier@@final[37]
+
+	DEL	SimpleType@@String[37]
+
+	DEL	SimpleName@@String[37]
+
+	DEL	VariableDeclarationFragment@@[38]
+
+	DEL	SimpleName@@NAME[38]
+
+	DEL	StringLiteral@@"DialogManagerAndroid"[39]
+, DEL	MethodDeclaration@@[60]
+
+	DEL	MarkerAnnotation@@[60]
+
+	DEL	SimpleName@@Override[60]
+
+	DEL	Modifier@@public[60]
+
+	DEL	SimpleType@@String[60]
+
+	DEL	SimpleName@@String[60]
+
+	DEL	SimpleName@@getName[60]
+
+	DEL	Block@@[61]
+
+	DEL	ReturnStatement@@[61]
+
+	DEL	SimpleName@@NAME[61]
+]

@@ -1,0 +1,37 @@
+[INS	NullLiteral@@[1770]
+, INS	NullLiteral@@[1771]
+, INS	NullLiteral@@[1773]
+, DEL	ArrayCreation@@[1770]
+
+	DEL	ArrayType@@String[][1771]
+
+	DEL	SimpleType@@String[1771]
+
+	DEL	SimpleName@@String[1771]
+
+	DEL	Dimension@@[1771]
+
+	DEL	NumberLiteral@@0[1771]
+, DEL	ArrayCreation@@[1773]
+
+	DEL	ArrayType@@String[][1773]
+
+	DEL	SimpleType@@String[1773]
+
+	DEL	SimpleName@@String[1773]
+
+	DEL	Dimension@@[1773]
+
+	DEL	NumberLiteral@@0[1773]
+, DEL	ArrayCreation@@[1773]
+
+	DEL	ArrayType@@String[][1773]
+
+	DEL	SimpleType@@String[1773]
+
+	DEL	SimpleName@@String[1773]
+
+	DEL	Dimension@@[1773]
+
+	DEL	NumberLiteral@@0[1773]
+]

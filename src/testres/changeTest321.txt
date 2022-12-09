@@ -1,0 +1,45 @@
+[DEL	MethodDeclaration@@[843]
+
+	DEL	Javadoc@@[843]
+
+	DEL	Modifier@@public[844]
+
+	DEL	PrimitiveType@@boolean[845]
+
+	DEL	SimpleName@@canSubmit[845]
+
+	DEL	SingleVariableDeclaration@@[846]
+
+	DEL	SimpleType@@String[846]
+
+	DEL	SimpleName@@String[846]
+
+	DEL	SimpleName@@context[846]
+
+	DEL	SingleVariableDeclaration@@[846]
+
+	DEL	SimpleType@@Assignment[846]
+
+	DEL	SimpleName@@Assignment[846]
+
+	DEL	SimpleName@@a[846]
+
+	DEL	SingleVariableDeclaration@@[846]
+
+	DEL	SimpleType@@String[846]
+
+	DEL	SimpleName@@String[846]
+
+	DEL	SimpleName@@userId[846]
+, DEL	MethodDeclaration@@[897]
+
+	DEL	Javadoc@@[897]
+
+	DEL	Modifier@@public[900]
+
+	DEL	SimpleType@@Integer[900]
+
+	DEL	SimpleName@@Integer[900]
+
+	DEL	SimpleName@@getScaleFactor[900]
+]

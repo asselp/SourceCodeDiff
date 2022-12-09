@@ -1,0 +1,2 @@
+[UPD	QualifiedName@@org.wildfly.naming.java.permission.JndiPermission[48]	TO	org.jboss.as.naming.JndiPermission
+]

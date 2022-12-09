@@ -1,0 +1,22 @@
+[DEL	MethodDeclaration@@[52]
+
+	DEL	MarkerAnnotation@@[52]
+
+	DEL	SimpleName@@Override[52]
+
+	DEL	Modifier@@public[52]
+
+	DEL	PrimitiveType@@void[52]
+
+	DEL	SimpleName@@addMenuItem[52]
+
+	DEL	SingleVariableDeclaration@@[53]
+
+	DEL	SimpleType@@String[53]
+
+	DEL	SimpleName@@String[53]
+
+	DEL	SimpleName@@title[53]
+
+	DEL	Block@@[54]
+]

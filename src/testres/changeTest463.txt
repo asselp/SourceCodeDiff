@@ -1,0 +1,11 @@
+[INS	ImportDeclaration@@[28]
+
+	INS	QualifiedName@@org.ballerinalang.jvm.MapUtils.validateRecord[28]
+, INS	ExpressionStatement@@[44]
+
+	INS	MethodInvocation@@[44]
+
+	INS	SimpleName@@validateRecord[44]
+
+	INS	SimpleName@@m[44]
+]

@@ -1,0 +1,15 @@
+[INS	NormalAnnotation@@[161]
+
+	INS	SimpleName@@Test[161]
+
+	INS	MemberValuePair@@[161]
+
+	INS	SimpleName@@groups[161]
+
+	INS	ArrayInitializer@@[161]
+
+	INS	StringLiteral@@"brokenOnNewParser"[161]
+, DEL	MarkerAnnotation@@[161]
+
+	DEL	SimpleName@@Test[161]
+]

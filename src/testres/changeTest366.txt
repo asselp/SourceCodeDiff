@@ -1,0 +1,6 @@
+[INS	MethodInvocation@@[46]
+
+	INS	SimpleName@@format[47]
+, MOV	QualifiedName@@PreconditionMessage.GCS_BUCKET_MUST_BE_SET[46]	TO	MethodInvocation@@[46]
+, MOV	SimpleName@@INTEGRATION_GCS_BUCKET[47]	TO	MethodInvocation@@[46]
+]

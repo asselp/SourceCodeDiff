@@ -1,0 +1,7 @@
+[DEL	ImportDeclaration@@[48]
+
+	DEL	QualifiedName@@org.junit.FixMethodOrder[48]
+, DEL	MarkerAnnotation@@[79]
+
+	DEL	SimpleName@@FixMethodOrder[79]
+]

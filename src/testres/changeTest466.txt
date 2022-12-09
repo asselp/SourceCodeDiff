@@ -1,0 +1,161 @@
+[DEL	ImportDeclaration@@[27]
+
+	DEL	QualifiedName@@org.wso2.ballerinalang.compiler.util.CompilerOptions[27]
+, DEL	ImportDeclaration@@[35]
+
+	DEL	QualifiedName@@org.ballerinalang.compiler.CompilerOptionName.EXPERIMENTAL_FEATURES_ENABLED[35]
+, DEL	ImportDeclaration@@[37]
+
+	DEL	QualifiedName@@org.ballerinalang.compiler.CompilerOptionName.OBSERVABILITY_INCLUDED[37]
+, DEL	ImportDeclaration@@[38]
+
+	DEL	QualifiedName@@org.ballerinalang.compiler.CompilerOptionName.OFFLINE[38]
+, DEL	ImportDeclaration@@[39]
+
+	DEL	QualifiedName@@org.ballerinalang.compiler.CompilerOptionName.SKIP_TESTS[39]
+, DEL	SingleVariableDeclaration@@[57]
+
+	DEL	SimpleType@@CompilationOptions[57]
+
+	DEL	SimpleName@@CompilationOptions[57]
+
+	DEL	SimpleName@@compilationOptions[57]
+, DEL	ExpressionStatement@@[65]
+
+	DEL	MethodInvocation@@[65]
+
+	DEL	SimpleName@@setCompilerOptions[65]
+
+	DEL	SimpleName@@compilationOptions[65]
+, DEL	MethodDeclaration@@[68]
+
+	DEL	Modifier@@private[68]
+
+	DEL	PrimitiveType@@void[69]
+
+	DEL	SimpleName@@setCompilerOptions[69]
+
+	DEL	SingleVariableDeclaration@@[69]
+
+	DEL	SimpleType@@CompilationOptions[69]
+
+	DEL	SimpleName@@CompilationOptions[69]
+
+	DEL	SimpleName@@compilationOptions[69]
+
+	DEL	Block@@[72]
+
+	DEL	VariableDeclarationStatement@@[72]
+
+	DEL	SimpleType@@CompilerOptions[72]
+
+	DEL	SimpleName@@CompilerOptions[72]
+
+	DEL	VariableDeclarationFragment@@[72]
+
+	DEL	SimpleName@@options[72]
+
+	DEL	MethodInvocation@@[72]
+
+	DEL	SimpleName@@CompilerOptions[72]
+
+	DEL	SimpleName@@getInstance[72]
+
+	DEL	SimpleName@@compilerContext[72]
+
+	DEL	ExpressionStatement@@[73]
+
+	DEL	MethodInvocation@@[73]
+
+	DEL	SimpleName@@options[73]
+
+	DEL	SimpleName@@put[73]
+
+	DEL	SimpleName@@OFFLINE[73]
+
+	DEL	MethodInvocation@@[73]
+
+	DEL	SimpleName@@Boolean[73]
+
+	DEL	SimpleName@@toString[73]
+
+	DEL	MethodInvocation@@[73]
+
+	DEL	SimpleName@@compilationOptions[73]
+
+	DEL	SimpleName@@offlineBuild[73]
+
+	DEL	ExpressionStatement@@[74]
+
+	DEL	MethodInvocation@@[74]
+
+	DEL	SimpleName@@options[74]
+
+	DEL	SimpleName@@put[74]
+
+	DEL	SimpleName@@SKIP_TESTS[74]
+
+	DEL	MethodInvocation@@[74]
+
+	DEL	SimpleName@@Boolean[74]
+
+	DEL	SimpleName@@toString[74]
+
+	DEL	MethodInvocation@@[74]
+
+	DEL	SimpleName@@compilationOptions[74]
+
+	DEL	SimpleName@@skipTests[74]
+
+	DEL	ExpressionStatement@@[75]
+
+	DEL	MethodInvocation@@[75]
+
+	DEL	SimpleName@@options[75]
+
+	DEL	SimpleName@@put[75]
+
+	DEL	SimpleName@@EXPERIMENTAL_FEATURES_ENABLED[75]
+
+	DEL	MethodInvocation@@[75]
+
+	DEL	SimpleName@@Boolean[75]
+
+	DEL	SimpleName@@toString[75]
+
+	DEL	MethodInvocation@@[75]
+
+	DEL	SimpleName@@compilationOptions[75]
+
+	DEL	SimpleName@@experimental[76]
+
+	DEL	ExpressionStatement@@[76]
+
+	DEL	MethodInvocation@@[76]
+
+	DEL	SimpleName@@options[76]
+
+	DEL	SimpleName@@put[76]
+
+	DEL	SimpleName@@OBSERVABILITY_INCLUDED[76]
+
+	DEL	MethodInvocation@@[76]
+
+	DEL	SimpleName@@Boolean[76]
+
+	DEL	SimpleName@@toString[76]
+
+	DEL	MethodInvocation@@[76]
+
+	DEL	SimpleName@@compilationOptions[76]
+
+	DEL	SimpleName@@observabilityIncluded[77]
+, DEL	SingleVariableDeclaration@@[78]
+
+	DEL	SimpleType@@CompilationOptions[78]
+
+	DEL	SimpleName@@CompilationOptions[78]
+
+	DEL	SimpleName@@compilationOptions[80]
+, DEL	SimpleName@@compilationOptions[81]
+]

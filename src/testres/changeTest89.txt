@@ -1,0 +1,4 @@
+[UPD	Modifier@@protected[60]	TO	public
+, UPD	SimpleName@@startInternal[61]	TO	start
+, UPD	SimpleName@@startInternal[72]	TO	start
+]

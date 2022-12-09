@@ -1,0 +1,22 @@
+[INS	IfStatement@@[92]
+
+	INS	SimpleName@@isWithinScope[92]
+
+	INS	Block@@[92]
+
+	INS	ExpressionStatement@@[92]
+
+	INS	MethodInvocation@@[92]
+
+	INS	SimpleName@@treeVisitor[92]
+
+	INS	SimpleName@@setPreviousNode[92]
+
+	INS	CastExpression@@[92]
+
+	INS	SimpleType@@BLangNode[92]
+
+	INS	SimpleName@@BLangNode[92]
+
+	INS	SimpleName@@node[92]
+]

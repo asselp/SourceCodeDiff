@@ -1,0 +1,11 @@
+[INS	MethodInvocation@@[78]
+, UPD	QualifiedName@@factory.node[78]	TO	factory.node.threadGroup
+, MOV	QualifiedName@@factory.node[78]	TO	MethodInvocation@@[78]
+, UPD	SimpleName@@getHazelcastThreadGroup[78]	TO	interrupt
+, MOV	SimpleName@@getHazelcastThreadGroup[78]	TO	MethodInvocation@@[78]
+, DEL	MethodInvocation@@[78]
+
+	DEL	MethodInvocation@@[78]
+
+	DEL	SimpleName@@destroy[78]
+]

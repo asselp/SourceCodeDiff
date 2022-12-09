@@ -1,0 +1,180 @@
+[DEL	ImportDeclaration@@[14]
+
+	DEL	QualifiedName@@com.yahoo.vespa.config.server.MockTesterClient[14]
+, DEL	ClassInstanceCreation@@[78]
+
+	DEL	SimpleType@@ConfigserverConfig[78]
+
+	DEL	SimpleName@@ConfigserverConfig[78]
+
+	DEL	ClassInstanceCreation@@[79]
+
+	DEL	SimpleType@@ConfigserverConfig.Builder[79]
+
+	DEL	QualifiedName@@ConfigserverConfig.Builder[79]
+, DEL	ClassInstanceCreation@@[81]
+
+	DEL	SimpleType@@MockTesterClient[81]
+
+	DEL	SimpleName@@MockTesterClient[81]
+, DEL	ClassInstanceCreation@@[179]
+
+	DEL	SimpleType@@MockTesterClient[179]
+
+	DEL	SimpleName@@MockTesterClient[179]
+, DEL	MethodDeclaration@@[219]
+
+	DEL	MarkerAnnotation@@[219]
+
+	DEL	SimpleName@@Test[219]
+
+	DEL	Modifier@@public[220]
+
+	DEL	PrimitiveType@@void[220]
+
+	DEL	SimpleName@@testTesterStatus[220]
+
+	DEL	SimpleType@@IOException[220]
+
+	DEL	SimpleName@@IOException[220]
+
+	DEL	Block@@[221]
+
+	DEL	ExpressionStatement@@[222]
+
+	DEL	MethodInvocation@@[222]
+
+	DEL	SimpleName@@applicationRepository[222]
+
+	DEL	SimpleName@@deploy[222]
+
+	DEL	SimpleName@@testApp[222]
+
+	DEL	MethodInvocation@@[222]
+
+	DEL	SimpleName@@prepareParams[222]
+
+	DEL	SimpleName@@applicationId[222]
+
+	DEL	VariableDeclarationStatement@@[223]
+
+	DEL	SimpleType@@String[223]
+
+	DEL	SimpleName@@String[223]
+
+	DEL	VariableDeclarationFragment@@[223]
+
+	DEL	SimpleName@@url[223]
+
+	DEL	InfixExpression@@+[223]
+
+	DEL	MethodInvocation@@[223]
+
+	DEL	SimpleName@@toUrlPath[223]
+
+	DEL	SimpleName@@applicationId[224]
+
+	DEL	MethodInvocation@@[224]
+
+	DEL	SimpleName@@Zone[224]
+
+	DEL	SimpleName@@defaultZone[224]
+
+	DEL	BooleanLiteral@@true[224]
+
+	DEL	StringLiteral@@"/tester/status"[225]
+
+	DEL	VariableDeclarationStatement@@[228]
+
+	DEL	SimpleType@@ApplicationHandler[228]
+
+	DEL	SimpleName@@ApplicationHandler[228]
+
+	DEL	VariableDeclarationFragment@@[228]
+
+	DEL	SimpleName@@mockHandler[228]
+
+	DEL	MethodInvocation@@[228]
+
+	DEL	SimpleName@@createApplicationHandler[228]
+
+	DEL	VariableDeclarationStatement@@[229]
+
+	DEL	SimpleType@@HttpResponse[229]
+
+	DEL	SimpleName@@HttpResponse[229]
+
+	DEL	VariableDeclarationFragment@@[229]
+
+	DEL	SimpleName@@response[229]
+
+	DEL	MethodInvocation@@[229]
+
+	DEL	SimpleName@@mockHandler[229]
+
+	DEL	SimpleName@@handle[229]
+
+	DEL	MethodInvocation@@[229]
+
+	DEL	SimpleName@@HttpRequest[229]
+
+	DEL	SimpleName@@createTestRequest[229]
+
+	DEL	SimpleName@@url[230]
+
+	DEL	QualifiedName@@com.yahoo.jdisc.http.HttpRequest.Method.GET[230]
+
+	DEL	ExpressionStatement@@[230]
+
+	DEL	MethodInvocation@@[230]
+
+	DEL	SimpleName@@assertEquals[230]
+
+	DEL	NumberLiteral@@200[230]
+
+	DEL	MethodInvocation@@[230]
+
+	DEL	SimpleName@@response[230]
+
+	DEL	SimpleName@@getStatus[231]
+
+	DEL	VariableDeclarationStatement@@[231]
+
+	DEL	SimpleType@@ByteArrayOutputStream[231]
+
+	DEL	SimpleName@@ByteArrayOutputStream[231]
+
+	DEL	VariableDeclarationFragment@@[231]
+
+	DEL	SimpleName@@baos[231]
+
+	DEL	ClassInstanceCreation@@[231]
+
+	DEL	SimpleType@@ByteArrayOutputStream[231]
+
+	DEL	SimpleName@@ByteArrayOutputStream[231]
+
+	DEL	ExpressionStatement@@[233]
+
+	DEL	MethodInvocation@@[233]
+
+	DEL	SimpleName@@response[233]
+
+	DEL	SimpleName@@render[233]
+
+	DEL	SimpleName@@baos[233]
+
+	DEL	ExpressionStatement@@[233]
+
+	DEL	MethodInvocation@@[233]
+
+	DEL	SimpleName@@assertEquals[233]
+
+	DEL	StringLiteral@@"OK"[233]
+
+	DEL	MethodInvocation@@[233]
+
+	DEL	SimpleName@@baos[233]
+
+	DEL	SimpleName@@toString[233]
+]

@@ -1,0 +1,122 @@
+[INS	ImportDeclaration@@[23]
+
+	INS	QualifiedName@@alluxio.util.io.PathUtils[23]
+, UPD	QualifiedName@@alluxio.util.io.PathUtils[22]	TO	alluxio.underfs.hdfs.HdfsUnderFileSystem
+, UPD	QualifiedName@@org.junit.Assert[23]	TO	alluxio.underfs.local.LocalUnderFileSystem
+, UPD	QualifiedName@@org.junit.Assume[25]	TO	org.junit.Assert
+, INS	IfStatement@@[61]
+
+	INS	InfixExpression@@&&[61]
+
+	INS	PrefixExpression@@![61]
+
+	INS	ParenthesizedExpression@@[61]
+
+	INS	InstanceofExpression@@[61]
+
+	INS	SimpleName@@mUfs[61]
+
+	INS	SimpleType@@LocalUnderFileSystem[61]
+
+	INS	SimpleName@@LocalUnderFileSystem[61]
+
+	INS	PrefixExpression@@![61]
+
+	INS	ParenthesizedExpression@@[61]
+
+	INS	InstanceofExpression@@[61]
+
+	INS	SimpleName@@mUfs[61]
+
+	INS	SimpleType@@HdfsUnderFileSystem[62]
+
+	INS	SimpleName@@HdfsUnderFileSystem[62]
+
+	INS	Block@@[62]
+
+	INS	ReturnStatement@@[62]
+, INS	IfStatement@@[81]
+
+	INS	InfixExpression@@&&[82]
+
+	INS	PrefixExpression@@![82]
+
+	INS	ParenthesizedExpression@@[82]
+
+	INS	InstanceofExpression@@[82]
+
+	INS	SimpleName@@mUfs[82]
+
+	INS	SimpleType@@LocalUnderFileSystem[83]
+
+	INS	SimpleName@@LocalUnderFileSystem[83]
+
+	INS	PrefixExpression@@![83]
+
+	INS	ParenthesizedExpression@@[83]
+
+	INS	InstanceofExpression@@[83]
+
+	INS	SimpleName@@mUfs[83]
+
+	INS	SimpleType@@HdfsUnderFileSystem[83]
+
+	INS	SimpleName@@HdfsUnderFileSystem[83]
+
+	INS	Block@@[84]
+
+	INS	ReturnStatement@@[84]
+, DEL	ImportDeclaration@@[15]
+
+	DEL	QualifiedName@@alluxio.IntegrationTestUtils[15]
+, DEL	ExpressionStatement@@[61]
+
+	DEL	MethodInvocation@@[61]
+
+	DEL	SimpleName@@Assume[61]
+
+	DEL	SimpleName@@assumeTrue[61]
+
+	DEL	InfixExpression@@||[62]
+
+	DEL	MethodInvocation@@[62]
+
+	DEL	SimpleName@@IntegrationTestUtils[62]
+
+	DEL	SimpleName@@isLocal[62]
+
+	DEL	SimpleName@@mUfs[62]
+
+	DEL	MethodInvocation@@[62]
+
+	DEL	SimpleName@@IntegrationTestUtils[62]
+
+	DEL	SimpleName@@isHdfs[63]
+
+	DEL	SimpleName@@mUfs[63]
+, DEL	ExpressionStatement@@[82]
+
+	DEL	MethodInvocation@@[82]
+
+	DEL	SimpleName@@Assume[82]
+
+	DEL	SimpleName@@assumeTrue[82]
+
+	DEL	InfixExpression@@||[82]
+
+	DEL	MethodInvocation@@[82]
+
+	DEL	SimpleName@@IntegrationTestUtils[82]
+
+	DEL	SimpleName@@isLocal[83]
+
+	DEL	SimpleName@@mUfs[83]
+
+	DEL	MethodInvocation@@[83]
+
+	DEL	SimpleName@@IntegrationTestUtils[83]
+
+	DEL	SimpleName@@isHdfs[83]
+
+	DEL	SimpleName@@mUfs[84]
+]

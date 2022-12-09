@@ -1,0 +1,76 @@
+[DEL	ImportDeclaration@@[86]
+
+	DEL	QualifiedName@@org.jboss.as.ejb3.iiop.RemoteObjectSubstitutionService[86]
+, DEL	ImportDeclaration@@[100]
+
+	DEL	QualifiedName@@org.jboss.com.sun.corba.se.impl.javax.rmi.RemoteObjectSubstitutionManager[100]
+, DEL	VariableDeclarationStatement@@[150]
+
+	DEL	Modifier@@final[150]
+
+	DEL	SimpleType@@RemoteObjectSubstitutionService[150]
+
+	DEL	SimpleName@@RemoteObjectSubstitutionService[150]
+
+	DEL	VariableDeclarationFragment@@[150]
+
+	DEL	SimpleName@@substitutionService[150]
+
+	DEL	ClassInstanceCreation@@[152]
+
+	DEL	SimpleType@@RemoteObjectSubstitutionService[152]
+
+	DEL	SimpleName@@RemoteObjectSubstitutionService[152]
+, DEL	ExpressionStatement@@[152]
+
+	DEL	MethodInvocation@@[152]
+
+	DEL	SimpleName@@newControllers[152]
+
+	DEL	SimpleName@@add[152]
+
+	DEL	MethodInvocation@@[152]
+
+	DEL	MethodInvocation@@[152]
+
+	DEL	MethodInvocation@@[152]
+
+	DEL	MethodInvocation@@[152]
+
+	DEL	SimpleName@@context[152]
+
+	DEL	SimpleName@@getServiceTarget[152]
+
+	DEL	SimpleName@@addService[153]
+
+	DEL	QualifiedName@@RemoteObjectSubstitutionService.SERVICE_NAME[153]
+
+	DEL	SimpleName@@substitutionService[153]
+
+	DEL	SimpleName@@addDependency[153]
+
+	DEL	QualifiedName@@DeploymentRepository.SERVICE_NAME[154]
+
+	DEL	TypeLiteral@@[154]
+
+	DEL	SimpleType@@DeploymentRepository[154]
+
+	DEL	SimpleName@@DeploymentRepository[154]
+
+	DEL	MethodInvocation@@[154]
+
+	DEL	SimpleName@@substitutionService[154]
+
+	DEL	SimpleName@@getDeploymentRepositoryInjectedValue[154]
+
+	DEL	SimpleName@@install[155]
+, DEL	ExpressionStatement@@[155]
+
+	DEL	MethodInvocation@@[155]
+
+	DEL	SimpleName@@RemoteObjectSubstitutionManager[155]
+
+	DEL	SimpleName@@setRemoteObjectSubstitution[155]
+
+	DEL	SimpleName@@substitutionService[155]
+]
