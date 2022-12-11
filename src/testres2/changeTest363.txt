@@ -1,0 +1,52 @@
+[Insert	ImportDeclaration@@[29]
+
+	Insert	QualifiedName@@java.util.HashMap[30]
+, Insert	ClassInstanceCreation@@[72]
+
+	Insert	ParameterizedType@@HashMap<>[72]
+
+	Insert	SimpleType@@HashMap[72]
+
+	Insert	SimpleName@@HashMap[72]
+, Insert	MethodInvocation@@[80]
+
+	Insert	SimpleName@@mCommands[82]
+, Move	SimpleName@@AlluxioShellUtils[80]	TO	MethodInvocation@@[80]
+, Move	SimpleName@@loadCommands[80]	TO	MethodInvocation@@[80]
+, Move	SimpleName@@mFileSystem[81]	TO	MethodInvocation@@[80]
+, Update	StringLiteral@@"Usage: alluxio fs [generic options]"[103]	TO	"Usage: java AlluxioShell"
+, Insert	MethodInvocation@@[150]
+, Update	StringLiteral@@"%-60s%n"[108]	TO	"%-60s%-95s%n"
+, Insert	MethodInvocation@@[110]
+
+	Insert	MethodInvocation@@[110]
+
+	Insert	SimpleName@@mCommands[110]
+
+	Insert	SimpleName@@get[111]
+
+	Insert	SimpleName@@cmd[111]
+
+	Insert	SimpleName@@getDescription[111]
+, Update	SimpleName@@getUsage[148]	TO	printUsage
+, Move	SimpleName@@getUsage[148]	TO	MethodInvocation@@[150]
+, Update	StringLiteral@@"]"[109]	TO	"]   "
+, Delete	Assignment@@=[79]
+
+	Delete	SimpleName@@mCommands[79]
+
+	Delete	MethodInvocation@@[80]
+, Delete	MethodInvocation@@[148]
+
+	Delete	QualifiedName@@System.out[148]
+
+	Delete	SimpleName@@println[148]
+
+	Delete	InfixExpression@@+[148]
+
+	Delete	StringLiteral@@"Usage: "[148]
+
+	Delete	MethodInvocation@@[148]
+
+	Delete	SimpleName@@command[148]
+]

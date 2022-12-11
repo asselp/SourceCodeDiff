@@ -1,0 +1,18 @@
+[Insert	ImportDeclaration@@[44]
+
+	Insert	QualifiedName@@java.util.UUID[44]
+, Update	QualifiedName@@io.crate.metadata.PartitionName[25]	TO	io.crate.executor.TaskResult
+, Update	QualifiedName@@io.crate.exceptions.Exceptions[26]	TO	io.crate.metadata.PartitionName
+, Update	QualifiedName@@io.crate.exceptions.TaskExecutionException[27]	TO	io.crate.exceptions.Exceptions
+, Update	QualifiedName@@io.crate.executor.TaskResult[28]	TO	io.crate.exceptions.TaskExecutionException
+, Insert	SingleVariableDeclaration@@[56]
+
+	Insert	SimpleType@@UUID[56]
+
+	Insert	SimpleName@@UUID[56]
+
+	Insert	SimpleName@@jobId[56]
+, Insert	SuperConstructorInvocation@@[61]
+
+	Insert	SimpleName@@jobId[62]
+]

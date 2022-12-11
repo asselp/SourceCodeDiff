@@ -1,0 +1,38 @@
+[Update	QualifiedName@@com.facebook.react.bridge.UiThreadUtil[10]	TO	androidx.annotation.UiThread
+, Insert	SimpleType@@ViewFactory[16]
+
+	Insert	SimpleName@@ViewFactory[16]
+, Insert	MarkerAnnotation@@[27]
+
+	Insert	SimpleName@@Override[27]
+, Insert	Modifier@@public[28]
+, Insert	MarkerAnnotation@@[33]
+
+	Insert	SimpleName@@Override[33]
+, Insert	Modifier@@public[33]
+, Update	SimpleName@@returnToPool[35]	TO	recycle
+, Delete	ImportDeclaration@@[7]
+
+	Delete	QualifiedName@@androidx.annotation.UiThread[8]
+, Delete	ExpressionStatement@@[27]
+
+	Delete	MethodInvocation@@[27]
+
+	Delete	SimpleName@@UiThreadUtil[27]
+
+	Delete	SimpleName@@assertOnUiThread[27]
+, Delete	ExpressionStatement@@[33]
+
+	Delete	MethodInvocation@@[33]
+
+	Delete	SimpleName@@UiThreadUtil[33]
+
+	Delete	SimpleName@@assertOnUiThread[33]
+, Delete	ExpressionStatement@@[39]
+
+	Delete	MethodInvocation@@[39]
+
+	Delete	SimpleName@@UiThreadUtil[39]
+
+	Delete	SimpleName@@assertOnUiThread[39]
+]

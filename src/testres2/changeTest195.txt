@@ -1,0 +1,4 @@
+[Delete	MethodInvocation@@[50]
+
+	Delete	SimpleName@@getClass[50]
+]

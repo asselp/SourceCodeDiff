@@ -1,0 +1,13 @@
+[Insert	ImportDeclaration@@[33]
+
+	Insert	QualifiedName@@com.facebook.react.module.annotations.ReactModule[33]
+, Insert	NormalAnnotation@@[37]
+
+	Insert	SimpleName@@ReactModule[37]
+
+	Insert	MemberValuePair@@[38]
+
+	Insert	SimpleName@@name[38]
+
+	Insert	StringLiteral@@"DatePickerAndroid"[38]
+]

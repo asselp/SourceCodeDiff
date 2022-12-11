@@ -1,0 +1,76 @@
+[Insert	IfStatement@@[440]
+
+	Insert	PrefixExpression@@![440]
+
+	Insert	MethodInvocation@@[440]
+
+	Insert	FieldAccess@@[440]
+
+	Insert	ThisExpression@@[440]
+
+	Insert	SimpleName@@schema[440]
+
+	Insert	SimpleName@@since[440]
+
+	Insert	QualifiedName@@JGroupsSchema.VERSION_5_0[440]
+
+	Insert	Block@@[441]
+
+	Insert	VariableDeclarationStatement@@[441]
+
+	Insert	SimpleType@@String[441]
+
+	Insert	SimpleName@@String[441]
+
+	Insert	VariableDeclarationFragment@@[441]
+
+	Insert	SimpleName@@portRangeProperty[441]
+
+	Insert	StringLiteral@@"port_range"[441]
+
+	Insert	IfStatement@@[441]
+
+	Insert	PrefixExpression@@![441]
+
+	Insert	MethodInvocation@@[441]
+
+	Insert	SimpleName@@operation[441]
+
+	Insert	SimpleName@@hasDefined[441]
+
+	Insert	MethodInvocation@@[441]
+
+	Insert	QualifiedName@@AbstractProtocolResourceDefinition.Attribute.PROPERTIES[441]
+
+	Insert	SimpleName@@getName[443]
+
+	Insert	SimpleName@@portRangeProperty[443]
+
+	Insert	Block@@[444]
+
+	Insert	ExpressionStatement@@[445]
+
+	Insert	MethodInvocation@@[445]
+
+	Insert	MethodInvocation@@[445]
+
+	Insert	MethodInvocation@@[445]
+
+	Insert	SimpleName@@operation[445]
+
+	Insert	SimpleName@@get[445]
+
+	Insert	MethodInvocation@@[446]
+
+	Insert	QualifiedName@@AbstractProtocolResourceDefinition.Attribute.PROPERTIES[446]
+
+	Insert	SimpleName@@getName[446]
+
+	Insert	SimpleName@@get[446]
+
+	Insert	SimpleName@@portRangeProperty[446]
+
+	Insert	SimpleName@@set[447]
+
+	Insert	StringLiteral@@"50"[447]
+]

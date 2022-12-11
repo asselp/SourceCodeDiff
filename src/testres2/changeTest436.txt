@@ -1,0 +1,36 @@
+[Update	QualifiedName@@com.yahoo.vespa.model.admin.clustercontroller.ClusterControllerClusterVerifier[17]	TO	com.yahoo.vespa.model.admin.clustercontroller.ClusterControllerContainerCluster
+, Update	SimpleType@@ContainerCluster[83]	TO	ClusterControllerContainerCluster
+
+	Update	SimpleName@@ContainerCluster[83]	TO	ClusterControllerContainerCluster
+, Update	SimpleType@@ContainerCluster[94]	TO	var
+
+	Update	SimpleName@@ContainerCluster[94]	TO	var
+, Update	ParameterizedType@@List<Container>[100]	TO	List<ClusterControllerContainer>
+
+	Update	SimpleType@@Container[100]	TO	ClusterControllerContainer
+
+	Update	SimpleName@@Container[100]	TO	ClusterControllerContainer
+, Update	SimpleType@@ContainerCluster[95]	TO	ClusterControllerContainerCluster
+
+	Update	SimpleName@@ContainerCluster[95]	TO	ClusterControllerContainerCluster
+, Delete	ImportDeclaration@@[19]
+
+	Delete	QualifiedName@@com.yahoo.vespa.model.container.Container[19]
+, Delete	ImportDeclaration@@[20]
+
+	Delete	QualifiedName@@com.yahoo.vespa.model.container.ContainerCluster[20]
+, Delete	ClassInstanceCreation@@[99]
+
+	Delete	SimpleType@@ClusterControllerClusterVerifier[99]
+
+	Delete	SimpleName@@ClusterControllerClusterVerifier[99]
+, Delete	ExpressionStatement@@[100]
+
+	Delete	MethodInvocation@@[100]
+
+	Delete	SimpleName@@ContainerModelBuilder[100]
+
+	Delete	SimpleName@@addDefaultHandler_legacyBuilder[100]
+
+	Delete	SimpleName@@cluster[100]
+]

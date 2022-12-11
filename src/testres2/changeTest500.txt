@@ -1,0 +1,40 @@
+[Delete	MethodDeclaration@@[56]
+
+	Delete	Modifier@@public[56]
+
+	Delete	Modifier@@static[57]
+
+	Delete	SimpleType@@XMLValue[58]
+
+	Delete	SimpleName@@XMLValue[58]
+
+	Delete	SimpleName@@children_bstring[58]
+
+	Delete	SingleVariableDeclaration@@[58]
+
+	Delete	SimpleType@@Strand[58]
+
+	Delete	SimpleName@@Strand[58]
+
+	Delete	SimpleName@@strand[58]
+
+	Delete	SingleVariableDeclaration@@[60]
+
+	Delete	SimpleType@@XMLValue[60]
+
+	Delete	SimpleName@@XMLValue[60]
+
+	Delete	SimpleName@@xmlVal[60]
+
+	Delete	Block@@[60]
+
+	Delete	ReturnStatement@@[60]
+
+	Delete	MethodInvocation@@[60]
+
+	Delete	SimpleName@@children[60]
+
+	Delete	SimpleName@@strand[60]
+
+	Delete	SimpleName@@xmlVal[60]
+]

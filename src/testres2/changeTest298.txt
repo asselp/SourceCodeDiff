@@ -1,0 +1,152 @@
+[Move	VariableDeclarationStatement@@[94]	TO	Block@@[94]
+, Insert	IfStatement@@[94]
+
+	Insert	SimpleName@@tableExists[94]
+
+	Insert	Block@@[95]
+
+	Insert	VariableDeclarationStatement@@[99]
+
+	Insert	VariableDeclarationFragment@@[99]
+
+	Insert	SimpleName@@tableInfo[99]
+
+	Insert	MethodInvocation@@[99]
+
+	Insert	VariableDeclarationStatement@@[105]
+
+	Insert	SimpleType@@DocTableInfo[105]
+
+	Insert	VariableDeclarationFragment@@[105]
+
+	Insert	SimpleName@@docTableInfo[105]
+
+	Insert	ParenthesizedExpression@@[105]
+, Insert	PrimitiveType@@boolean[94]
+, Insert	VariableDeclarationFragment@@[94]
+
+	Insert	SimpleName@@tableExists[94]
+
+	Insert	MethodInvocation@@[94]
+
+	Insert	SimpleName@@schemas[94]
+
+	Insert	SimpleName@@tableExists[94]
+
+	Insert	SimpleName@@tableIdent[94]
+, Move	Block@@[105]	TO	IfStatement@@[94]
+, Move	IfStatement@@[112]	TO	Block@@[95]
+, Move	IfStatement@@[99]	TO	Block@@[95]
+, Move	VariableDeclarationStatement@@[116]	TO	Block@@[95]
+, Move	IfStatement@@[122]	TO	Block@@[95]
+, Move	ExpressionStatement@@[125]	TO	Block@@[95]
+, Update	SimpleType@@DocTableInfo[97]	TO	TableInfo
+
+	Update	SimpleName@@DocTableInfo[97]	TO	TableInfo
+, Move	SimpleType@@DocTableInfo[97]	TO	VariableDeclarationStatement@@[99]
+, Move	MethodInvocation@@[123]	TO	IfStatement@@[121]
+, Insert	Block@@[122]
+
+	Insert	ExpressionStatement@@[122]
+
+	Insert	MethodInvocation@@[122]
+
+	Insert	SimpleName@@restoreIndices[122]
+
+	Insert	SimpleName@@add[123]
+
+	Insert	MethodInvocation@@[123]
+
+	Insert	MethodInvocation@@[123]
+
+	Insert	SimpleName@@PartitionPropertiesAnalyzer[123]
+
+	Insert	SimpleName@@toPartitionName[123]
+
+	Insert	SimpleName@@tableIdent[124]
+
+	Insert	NullLiteral@@[125]
+
+	Insert	MethodInvocation@@[125]
+
+	Insert	SimpleName@@table[125]
+
+	Insert	SimpleName@@partitionProperties[125]
+
+	Insert	MethodInvocation@@[127]
+
+	Insert	MethodInvocation@@[127]
+
+	Insert	SimpleName@@analysis[127]
+
+	Insert	SimpleName@@parameterContext[127]
+
+	Insert	SimpleName@@parameters[127]
+
+	Insert	SimpleName@@asIndexName[128]
+, Update	SimpleName@@TableUnknownException[105]	TO	DocTableInfo
+, Move	SimpleName@@TableUnknownException[105]	TO	SimpleType@@DocTableInfo[105]
+, Move	SimpleName@@schemas[98]	TO	MethodInvocation@@[99]
+, Move	SimpleName@@getTableInfo[98]	TO	MethodInvocation@@[99]
+, Move	SimpleName@@tableIdent[98]	TO	MethodInvocation@@[99]
+, Move	CastExpression@@[103]	TO	ParenthesizedExpression@@[105]
+, Delete	ImportDeclaration@@[27]
+
+	Delete	QualifiedName@@io.crate.exceptions.SchemaUnknownException[27]
+, Delete	ImportDeclaration@@[29]
+
+	Delete	QualifiedName@@io.crate.exceptions.TableUnknownException[29]
+, Delete	SimpleType@@TableInfo[94]
+
+	Delete	SimpleName@@TableInfo[94]
+, Delete	VariableDeclarationFragment@@[94]
+
+	Delete	SimpleName@@tableInfo[94]
+, Delete	InfixExpression@@&&[122]
+
+	Delete	InfixExpression@@!=[122]
+
+	Delete	SimpleName@@docTableInfo[122]
+
+	Delete	NullLiteral@@[122]
+, Delete	Block@@[125]
+, Delete	ContinueStatement@@[111]
+, Delete	VariableDeclarationStatement@@[97]
+
+	Delete	VariableDeclarationFragment@@[97]
+
+	Delete	SimpleName@@docTableInfo[97]
+
+	Delete	NullLiteral@@[97]
+, Delete	TryStatement@@[97]
+
+	Delete	Block@@[97]
+
+	Delete	ExpressionStatement@@[97]
+
+	Delete	Assignment@@=[97]
+
+	Delete	SimpleName@@tableInfo[97]
+
+	Delete	MethodInvocation@@[98]
+
+	Delete	ExpressionStatement@@[103]
+
+	Delete	Assignment@@=[103]
+
+	Delete	SimpleName@@docTableInfo[103]
+
+	Delete	CatchClause@@[103]
+
+	Delete	SingleVariableDeclaration@@[104]
+
+	Delete	UnionType@@SchemaUnknownException|TableUnknownException[104]
+
+	Delete	SimpleType@@SchemaUnknownException[104]
+
+	Delete	SimpleName@@SchemaUnknownException[104]
+
+	Delete	SimpleType@@TableUnknownException[105]
+
+	Delete	SimpleName@@e[105]
+]

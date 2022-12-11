@@ -1,0 +1,11 @@
+[Delete	ImportDeclaration@@[28]
+
+	Delete	QualifiedName@@org.ballerinalang.jvm.MapUtils.validateRecord[28]
+, Delete	ExpressionStatement@@[44]
+
+	Delete	MethodInvocation@@[44]
+
+	Delete	SimpleName@@validateRecord[44]
+
+	Delete	SimpleName@@m[44]
+]

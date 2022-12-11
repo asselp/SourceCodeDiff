@@ -1,0 +1,27 @@
+[Insert	MethodInvocation@@[229]
+
+	Insert	MethodInvocation@@[229]
+
+	Insert	SimpleName@@delivery[229]
+
+	Insert	SimpleName@@getFeedbackComponent[229]
+
+	Insert	SimpleName@@getShowItemLevel[230]
+, Delete	ExpressionStatement@@[132]
+
+	Delete	MethodInvocation@@[132]
+
+	Delete	SimpleName@@log[132]
+
+	Delete	SimpleName@@debug[132]
+
+	Delete	InfixExpression@@+[132]
+
+	Delete	StringLiteral@@"**** MacNetscape="[132]
+
+	Delete	MethodInvocation@@[132]
+
+	Delete	SimpleName@@person[132]
+
+	Delete	SimpleName@@getIsMacNetscapeBrowser[132]
+]

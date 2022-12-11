@@ -1,0 +1,70 @@
+[Move	MethodDeclaration@@[34]	TO	TypeDeclaration@@[23]
+, Delete	FieldDeclaration@@[33]
+
+	Delete	Modifier@@protected[33]
+
+	Delete	SimpleType@@Version[33]
+
+	Delete	SimpleName@@Version[33]
+
+	Delete	VariableDeclarationFragment@@[33]
+
+	Delete	SimpleName@@wanProtocolVersion[33]
+
+	Delete	QualifiedName@@Version.UNKNOWN[34]
+, Delete	MarkerAnnotation@@[52]
+
+	Delete	SimpleName@@Override[52]
+, Delete	MethodDeclaration@@[56]
+
+	Delete	MarkerAnnotation@@[56]
+
+	Delete	SimpleName@@Override[56]
+
+	Delete	Modifier@@public[57]
+
+	Delete	PrimitiveType@@void[57]
+
+	Delete	SimpleName@@setWanProtocolVersion[57]
+
+	Delete	SingleVariableDeclaration@@[58]
+
+	Delete	SimpleType@@Version[58]
+
+	Delete	SimpleName@@Version[58]
+
+	Delete	SimpleName@@version[60]
+
+	Delete	Block@@[60]
+
+	Delete	ExpressionStatement@@[61]
+
+	Delete	Assignment@@=[61]
+
+	Delete	FieldAccess@@[61]
+
+	Delete	ThisExpression@@[61]
+
+	Delete	SimpleName@@wanProtocolVersion[61]
+
+	Delete	SimpleName@@version[61]
+, Delete	MethodDeclaration@@[61]
+
+	Delete	MarkerAnnotation@@[61]
+
+	Delete	SimpleName@@Override[61]
+
+	Delete	Modifier@@public[62]
+
+	Delete	SimpleType@@Version[62]
+
+	Delete	SimpleName@@Version[62]
+
+	Delete	SimpleName@@getWanProtocolVersion[62]
+
+	Delete	Block@@[63]
+
+	Delete	ReturnStatement@@[65]
+
+	Delete	SimpleName@@wanProtocolVersion[65]
+]

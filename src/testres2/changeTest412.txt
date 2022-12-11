@@ -1,0 +1,122 @@
+[Delete	ImportDeclaration@@[6]
+
+	Delete	QualifiedName@@com.yahoo.application.container.handler.Response[7]
+, Delete	ImportDeclaration@@[15]
+
+	Delete	QualifiedName@@java.io.UncheckedIOException[15]
+, Delete	ImportDeclaration@@[17]
+
+	Delete	QualifiedName@@java.nio.charset.CharacterCodingException[17]
+, Delete	ImportDeclaration@@[22]
+
+	Delete	QualifiedName@@org.junit.Assert.assertEquals[22]
+, Delete	MethodDeclaration@@[147]
+
+	Delete	Modifier@@protected[147]
+
+	Delete	PrimitiveType@@void[147]
+
+	Delete	SimpleName@@assertResponse[147]
+
+	Delete	SingleVariableDeclaration@@[148]
+
+	Delete	SimpleType@@Request[148]
+
+	Delete	SimpleName@@Request[148]
+
+	Delete	SimpleName@@request[148]
+
+	Delete	SingleVariableDeclaration@@[148]
+
+	Delete	PrimitiveType@@int[148]
+
+	Delete	SimpleName@@responseStatus[148]
+
+	Delete	SingleVariableDeclaration@@[148]
+
+	Delete	SimpleType@@String[148]
+
+	Delete	SimpleName@@String[148]
+
+	Delete	SimpleName@@responseMessage[149]
+
+	Delete	Block@@[149]
+
+	Delete	VariableDeclarationStatement@@[149]
+
+	Delete	SimpleType@@Response[149]
+
+	Delete	SimpleName@@Response[149]
+
+	Delete	VariableDeclarationFragment@@[150]
+
+	Delete	SimpleName@@response[150]
+
+	Delete	MethodInvocation@@[150]
+
+	Delete	SimpleName@@container[150]
+
+	Delete	SimpleName@@handleRequest[150]
+
+	Delete	SimpleName@@request[151]
+
+	Delete	TryStatement@@[153]
+
+	Delete	Block@@[153]
+
+	Delete	ExpressionStatement@@[154]
+
+	Delete	MethodInvocation@@[154]
+
+	Delete	SimpleName@@assertEquals[154]
+
+	Delete	InfixExpression@@+[154]
+
+	Delete	StringLiteral@@"status: "[154]
+
+	Delete	SimpleName@@responseStatus[154]
+
+	Delete	StringLiteral@@"\nmessage: "[154]
+
+	Delete	SimpleName@@responseMessage[155]
+
+	Delete	InfixExpression@@+[155]
+
+	Delete	StringLiteral@@"status: "[155]
+
+	Delete	MethodInvocation@@[155]
+
+	Delete	SimpleName@@response[155]
+
+	Delete	SimpleName@@getStatus[155]
+
+	Delete	StringLiteral@@"\nmessage: "[156]
+
+	Delete	MethodInvocation@@[157]
+
+	Delete	SimpleName@@response[157]
+
+	Delete	SimpleName@@getBodyAsString[157]
+
+	Delete	CatchClause@@[157]
+
+	Delete	SingleVariableDeclaration@@[157]
+
+	Delete	SimpleType@@CharacterCodingException[157]
+
+	Delete	SimpleName@@CharacterCodingException[157]
+
+	Delete	SimpleName@@e[157]
+
+	Delete	Block@@[157]
+
+	Delete	ThrowStatement@@[158]
+
+	Delete	ClassInstanceCreation@@[158]
+
+	Delete	SimpleType@@UncheckedIOException[158]
+
+	Delete	SimpleName@@UncheckedIOException[158]
+
+	Delete	SimpleName@@e[158]
+]

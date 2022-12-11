@@ -1,0 +1,6 @@
+[Update	QualifiedName@@org.slf4j.Logger[18]	TO	org.apache.log4j.Logger
+, Update	SimpleName@@LoggerFactory[35]	TO	Logger
+, Delete	ImportDeclaration@@[19]
+
+	Delete	QualifiedName@@org.slf4j.LoggerFactory[19]
+]

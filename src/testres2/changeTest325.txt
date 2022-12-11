@@ -1,0 +1,85 @@
+[Delete	ImportDeclaration@@[52]
+
+	Delete	QualifiedName@@org.sakaiproject.component.cover.ServerConfigurationService[53]
+, Delete	FieldDeclaration@@[150]
+
+	Delete	Modifier@@private[150]
+
+	Delete	SimpleType@@Boolean[150]
+
+	Delete	SimpleName@@Boolean[150]
+
+	Delete	VariableDeclarationFragment@@[151]
+
+	Delete	SimpleName@@allowMinScore[151]
+, Delete	MethodDeclaration@@[1516]
+
+	Delete	Modifier@@public[1516]
+
+	Delete	SimpleType@@Boolean[1516]
+
+	Delete	SimpleName@@Boolean[1516]
+
+	Delete	SimpleName@@getAllowMinScore[1516]
+
+	Delete	Block@@[1516]
+
+	Delete	IfStatement@@[1516]
+
+	Delete	InfixExpression@@==[1516]
+
+	Delete	SimpleName@@allowMinScore[1516]
+
+	Delete	NullLiteral@@[1517]
+
+	Delete	Block@@[1517]
+
+	Delete	ExpressionStatement@@[1517]
+
+	Delete	Assignment@@=[1517]
+
+	Delete	SimpleName@@allowMinScore[1517]
+
+	Delete	MethodInvocation@@[1517]
+
+	Delete	SimpleName@@ServerConfigurationService[1517]
+
+	Delete	SimpleName@@getBoolean[1518]
+
+	Delete	StringLiteral@@"samigo.allowMinScore"[1518]
+
+	Delete	QualifiedName@@Boolean.FALSE[1518]
+
+	Delete	ReturnStatement@@[1518]
+
+	Delete	SimpleName@@allowMinScore[1519]
+, Delete	MethodDeclaration@@[1519]
+
+	Delete	Modifier@@public[1519]
+
+	Delete	PrimitiveType@@void[1520]
+
+	Delete	SimpleName@@setAllowMinScore[1520]
+
+	Delete	SingleVariableDeclaration@@[1520]
+
+	Delete	SimpleType@@Boolean[1520]
+
+	Delete	SimpleName@@Boolean[1520]
+
+	Delete	SimpleName@@allowMinScore[1520]
+
+	Delete	Block@@[1520]
+
+	Delete	ExpressionStatement@@[1520]
+
+	Delete	Assignment@@=[1520]
+
+	Delete	FieldAccess@@[1520]
+
+	Delete	ThisExpression@@[1520]
+
+	Delete	SimpleName@@allowMinScore[1521]
+
+	Delete	SimpleName@@allowMinScore[1521]
+]

@@ -1,0 +1,3 @@
+[Update	QualifiedName@@org.cratedb.SQLTransportIntegrationTest[10]	TO	io.crate.integrationtests.SQLTransportIntegrationTest
+, Update	QualifiedName@@org.cratedb.test.integration.CrateIntegrationTest[11]	TO	io.crate.test.integration.CrateIntegrationTest
+]

@@ -1,0 +1,6 @@
+[Update	QualifiedName@@org.ballerinalang.test.BCompileUtil[25]	TO	org.ballerinalang.test.util.BCompileUtil
+, Update	QualifiedName@@org.ballerinalang.test.BRunUtil[26]	TO	org.ballerinalang.test.util.BRunUtil
+, Update	QualifiedName@@org.ballerinalang.test.CompileResult[27]	TO	org.ballerinalang.test.util.CompileResult
+, Insert	ThisExpression@@[122]
+, Insert	StringLiteral@@"a.b"[126]
+]

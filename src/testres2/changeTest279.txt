@@ -1,0 +1,22 @@
+[Update	QualifiedName@@io.crate.metadata.TableIdent[23]	TO	io.crate.metadata.RelationName
+, Update	SimpleType@@TableIdent[35]	TO	RelationName
+
+	Update	SimpleName@@TableIdent[35]	TO	RelationName
+, Update	SimpleType@@TableIdent[45]	TO	RelationName
+
+	Update	SimpleName@@TableIdent[45]	TO	RelationName
+, Update	SimpleName@@tableIdent[35]	TO	relationName
+, Update	SimpleType@@TableIdent[40]	TO	RelationName
+
+	Update	SimpleName@@TableIdent[40]	TO	RelationName
+, Update	SimpleName@@tableIdent[41]	TO	relationName
+, Update	SimpleName@@tableIdent[48]	TO	relationName
+, Update	SimpleName@@tableIdent[43]	TO	relationName
+, Update	SimpleName@@tableIdent[58]	TO	relationName
+, Update	SimpleName@@tableIdent[66]	TO	relationName
+, Update	SimpleName@@tableIdent[73]	TO	relationName
+, Update	SimpleName@@tableIdent[43]	TO	relationName
+, Update	SimpleType@@TableIdent[66]	TO	RelationName
+
+	Update	SimpleName@@TableIdent[66]	TO	RelationName
+]

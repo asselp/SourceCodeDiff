@@ -1,0 +1,21 @@
+[Delete	ImportDeclaration@@[17]
+
+	Delete	QualifiedName@@com.hazelcast.internal.cluster.impl.ClusterDataSerializerHook[17]
+, Delete	MethodDeclaration@@[33]
+
+	Delete	MarkerAnnotation@@[33]
+
+	Delete	SimpleName@@Override[33]
+
+	Delete	Modifier@@public[33]
+
+	Delete	PrimitiveType@@int[33]
+
+	Delete	SimpleName@@getId[34]
+
+	Delete	Block@@[36]
+
+	Delete	ReturnStatement@@[36]
+
+	Delete	QualifiedName@@ClusterDataSerializerHook.TRIGGER_MEMBER_LIST_PUBLISH[37]
+]

@@ -1,0 +1,150 @@
+[Insert	ImportDeclaration@@[19]
+
+	Insert	QualifiedName@@org.ballerinalang.jvm.BRuntime[19]
+, Insert	ImportDeclaration@@[28]
+
+	Insert	QualifiedName@@java.util.concurrent.atomic.AtomicInteger[28]
+, Insert	ImportDeclaration@@[30]
+
+	Insert	QualifiedName@@java.util.concurrent.atomic.AtomicReference[30]
+, Insert	VariableDeclarationStatement@@[47]
+
+	Insert	PrimitiveType@@int[47]
+
+	Insert	VariableDeclarationFragment@@[47]
+
+	Insert	SimpleName@@size[47]
+
+	Insert	MethodInvocation@@[47]
+
+	Insert	MethodInvocation@@[47]
+
+	Insert	SimpleName@@m[47]
+
+	Insert	SimpleName@@values[47]
+
+	Insert	SimpleName@@size[47]
+, Insert	VariableDeclarationStatement@@[49]
+
+	Insert	SimpleType@@AtomicInteger[49]
+
+	Insert	VariableDeclarationFragment@@[49]
+
+	Insert	SimpleName@@index[49]
+
+	Insert	ClassInstanceCreation@@[49]
+
+	Insert	SimpleType@@AtomicInteger[49]
+
+	Insert	SimpleName@@AtomicInteger[49]
+
+	Insert	PrefixExpression@@-[49]
+
+	Insert	NumberLiteral@@1[50]
+, Insert	ExpressionStatement@@[50]
+
+	Insert	MethodInvocation@@[50]
+
+	Insert	MethodInvocation@@[50]
+
+	Insert	SimpleName@@invokeFunctionPointerAsyncIteratively[51]
+
+	Insert	LambdaExpression@@[53]
+
+	Insert	ArrayCreation@@[53]
+
+	Insert	ExpressionMethodReference@@[55]
+
+	Insert	SimpleName@@accum[55]
+
+	Insert	SimpleName@@set[55]
+
+	Insert	ExpressionMethodReference@@[55]
+
+	Insert	SimpleName@@accum[55]
+
+	Insert	SimpleName@@get[55]
+, Insert	ParameterizedType@@AtomicReference<Object>[47]
+
+	Insert	SimpleType@@AtomicReference[47]
+
+	Insert	SimpleName@@AtomicReference[47]
+
+	Insert	SimpleType@@Object[48]
+, Insert	MethodInvocation@@[55]
+
+	Insert	SimpleName@@accum[55]
+
+	Insert	SimpleName@@get[55]
+, Insert	ClassInstanceCreation@@[48]
+
+	Insert	ParameterizedType@@AtomicReference<>[48]
+
+	Insert	SimpleType@@AtomicReference[48]
+
+	Insert	SimpleName@@AtomicReference[48]
+
+	Insert	SimpleName@@initial[49]
+, Update	SimpleName@@Object[44]	TO	AtomicInteger
+, Move	SimpleName@@Object[44]	TO	SimpleType@@AtomicInteger[49]
+, Move	SimpleName@@func[45]	TO	MethodInvocation@@[50]
+, Update	SimpleName@@apply[45]	TO	size
+, Move	SimpleName@@apply[45]	TO	MethodInvocation@@[50]
+, Move	SimpleName@@Object[43]	TO	SimpleType@@Object[48]
+, Update	SimpleName@@m[44]	TO	BRuntime
+, Move	SimpleName@@m[44]	TO	MethodInvocation@@[50]
+, Update	SimpleName@@values[44]	TO	getCurrentRuntime
+, Move	SimpleName@@values[44]	TO	MethodInvocation@@[50]
+, Move	ArrayType@@Object[][45]	TO	ArrayCreation@@[53]
+, Move	ArrayInitializer@@[45]	TO	ArrayCreation@@[53]
+, Insert	MethodInvocation@@[53]
+
+	Insert	SimpleName@@accum[53]
+
+	Insert	SimpleName@@get[53]
+, Insert	MethodInvocation@@[54]
+
+	Insert	SimpleName@@m[54]
+
+	Insert	SimpleName@@get[54]
+
+	Insert	ArrayAccess@@[54]
+
+	Insert	MethodInvocation@@[54]
+
+	Insert	SimpleName@@m[54]
+
+	Insert	SimpleName@@getKeys[54]
+
+	Insert	MethodInvocation@@[54]
+
+	Insert	SimpleName@@index[54]
+
+	Insert	SimpleName@@incrementAndGet[54]
+, Delete	SimpleType@@Object[43]
+, Delete	SimpleName@@initial[43]
+, Delete	SimpleName@@accum[46]
+, Delete	SimpleName@@value[46]
+, Delete	EnhancedForStatement@@[43]
+
+	Delete	SingleVariableDeclaration@@[44]
+
+	Delete	SimpleType@@Object[44]
+
+	Delete	SimpleName@@value[44]
+
+	Delete	MethodInvocation@@[44]
+
+	Delete	Block@@[44]
+
+	Delete	ExpressionStatement@@[45]
+
+	Delete	Assignment@@=[45]
+
+	Delete	SimpleName@@accum[45]
+
+	Delete	MethodInvocation@@[45]
+
+	Delete	ArrayCreation@@[45]
+, Delete	SimpleName@@accum[46]
+]

@@ -1,0 +1,6 @@
+[Update	QualifiedName@@com.facebook.react.common.annotations.VisibleForTesting[8]	TO	androidx.annotation.Nullable
+, Update	QualifiedName@@com.facebook.react.uimanager.ReactShadowNode[9]	TO	com.facebook.react.common.annotations.VisibleForTesting
+, Update	QualifiedName@@com.facebook.react.uimanager.ReactShadowNodeImpl[10]	TO	com.facebook.react.uimanager.ReactShadowNode
+, Update	QualifiedName@@com.facebook.react.uimanager.annotations.ReactProp[11]	TO	com.facebook.react.uimanager.ReactShadowNodeImpl
+, Update	QualifiedName@@javax.annotation.Nullable[12]	TO	com.facebook.react.uimanager.annotations.ReactProp
+]

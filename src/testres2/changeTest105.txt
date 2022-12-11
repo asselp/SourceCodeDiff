@@ -1,0 +1,31 @@
+[Delete	ImportDeclaration@@[17]
+
+	Delete	QualifiedName@@com.hazelcast.test.HazelcastSerialClassRunner[17]
+, Delete	ImportDeclaration@@[19]
+
+	Delete	QualifiedName@@com.hazelcast.test.annotation.QuickTest[19]
+, Delete	ImportDeclaration@@[22]
+
+	Delete	QualifiedName@@org.junit.experimental.categories.Category[22]
+, Delete	ImportDeclaration@@[23]
+
+	Delete	QualifiedName@@org.junit.runner.RunWith[23]
+, Delete	SingleMemberAnnotation@@[32]
+
+	Delete	SimpleName@@RunWith[32]
+
+	Delete	TypeLiteral@@[33]
+
+	Delete	SimpleType@@HazelcastSerialClassRunner[33]
+
+	Delete	SimpleName@@HazelcastSerialClassRunner[33]
+, Delete	SingleMemberAnnotation@@[35]
+
+	Delete	SimpleName@@Category[35]
+
+	Delete	TypeLiteral@@[35]
+
+	Delete	SimpleType@@QuickTest[35]
+
+	Delete	SimpleName@@QuickTest[35]
+]

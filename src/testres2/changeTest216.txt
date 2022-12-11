@@ -1,0 +1,18 @@
+[Insert	FieldDeclaration@@[17]
+
+	Insert	Modifier@@static[17]
+
+	Insert	Modifier@@final[17]
+
+	Insert	SimpleType@@String[17]
+
+	Insert	SimpleName@@String[17]
+
+	Insert	VariableDeclarationFragment@@[17]
+
+	Insert	SimpleName@@REACT_CLASS[17]
+
+	Insert	StringLiteral@@"RCTText"[17]
+, Insert	SimpleName@@REACT_CLASS[20]
+, Delete	StringLiteral@@"RCTText"[18]
+]

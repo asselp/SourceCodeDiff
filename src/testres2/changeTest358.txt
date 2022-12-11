@@ -1,0 +1,6 @@
+[Insert	NumberLiteral@@0[45]
+, Delete	PrefixExpression@@-[45]
+
+	Delete	NumberLiteral@@1[46]
+, Delete	NullLiteral@@[94]
+]

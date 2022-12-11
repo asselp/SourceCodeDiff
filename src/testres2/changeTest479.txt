@@ -1,0 +1,3 @@
+[Update	QualifiedName@@io.ballerina.runtime.observability.ObservabilityConstants[17]	TO	org.ballerinalang.config.ConfigRegistry
+, Update	QualifiedName@@org.ballerinalang.config.ConfigRegistry[19]	TO	org.ballerinalang.jvm.observability.ObservabilityConstants
+]

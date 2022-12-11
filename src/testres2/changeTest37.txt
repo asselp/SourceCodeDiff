@@ -1,0 +1,74 @@
+[Insert	ImportDeclaration@@[10]
+
+	Insert	QualifiedName@@org.elasticsearch.common.Nullable[10]
+, Insert	SingleVariableDeclaration@@[249]
+
+	Insert	MarkerAnnotation@@[249]
+
+	Insert	SimpleName@@Nullable[249]
+
+	Insert	ParameterizedType@@Set<String>[249]
+
+	Insert	SimpleType@@Set[249]
+
+	Insert	SimpleName@@Set[249]
+
+	Insert	SimpleType@@String[249]
+
+	Insert	SimpleName@@String[249]
+
+	Insert	SimpleName@@specificIndices[249]
+, Insert	SingleVariableDeclaration@@[268]
+
+	Insert	MarkerAnnotation@@[268]
+
+	Insert	SimpleName@@Nullable[268]
+
+	Insert	ParameterizedType@@Set<String>[268]
+
+	Insert	SimpleType@@Set[268]
+
+	Insert	SimpleName@@Set[268]
+
+	Insert	SimpleType@@String[268]
+
+	Insert	SimpleName@@String[268]
+
+	Insert	SimpleName@@specificIndices[268]
+, Insert	ConditionalExpression@@[258]
+
+	Insert	InfixExpression@@==[258]
+
+	Insert	SimpleName@@specificIndices[258]
+
+	Insert	NullLiteral@@[258]
+
+	Insert	MethodInvocation@@[258]
+
+	Insert	MethodInvocation@@[258]
+
+	Insert	SimpleName@@collectionToCommaDelimitedString[258]
+
+	Insert	SimpleName@@specificIndices[258]
+, Insert	ConditionalExpression@@[269]
+
+	Insert	InfixExpression@@==[269]
+
+	Insert	SimpleName@@specificIndices[269]
+
+	Insert	NullLiteral@@[269]
+
+	Insert	MethodInvocation@@[269]
+
+	Insert	MethodInvocation@@[271]
+
+	Insert	SimpleName@@collectionToCommaDelimitedString[271]
+
+	Insert	SimpleName@@specificIndices[275]
+, Move	SimpleName@@indicesString[257]	TO	MethodInvocation@@[258]
+, Move	SimpleName@@message[257]	TO	MethodInvocation@@[258]
+, Move	SimpleName@@indicesString[267]	TO	MethodInvocation@@[269]
+, Move	SimpleName@@message[268]	TO	MethodInvocation@@[269]
+, Delete	MethodInvocation@@[257]
+, Delete	MethodInvocation@@[267]
+]

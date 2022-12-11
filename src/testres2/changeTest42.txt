@@ -1,0 +1,99 @@
+[Insert	ImportDeclaration@@[24]
+
+	Insert	QualifiedName@@org.elasticsearch.client.watcher.DeactivateWatchRequest[24]
+, Insert	MethodDeclaration@@[83]
+
+	Insert	Modifier@@public[83]
+
+	Insert	PrimitiveType@@void[83]
+
+	Insert	SimpleName@@testDeactivateWatch[83]
+
+	Insert	Block@@[84]
+
+	Insert	VariableDeclarationStatement@@[84]
+
+	Insert	SimpleType@@String[84]
+
+	Insert	SimpleName@@String[84]
+
+	Insert	VariableDeclarationFragment@@[84]
+
+	Insert	SimpleName@@watchId[84]
+
+	Insert	MethodInvocation@@[84]
+
+	Insert	SimpleName@@randomAlphaOfLength[84]
+
+	Insert	NumberLiteral@@10[86]
+
+	Insert	VariableDeclarationStatement@@[87]
+
+	Insert	SimpleType@@DeactivateWatchRequest[87]
+
+	Insert	SimpleName@@DeactivateWatchRequest[87]
+
+	Insert	VariableDeclarationFragment@@[87]
+
+	Insert	SimpleName@@deactivateWatchRequest[87]
+
+	Insert	ClassInstanceCreation@@[88]
+
+	Insert	SimpleType@@DeactivateWatchRequest[88]
+
+	Insert	SimpleName@@DeactivateWatchRequest[88]
+
+	Insert	SimpleName@@watchId[88]
+
+	Insert	VariableDeclarationStatement@@[89]
+
+	Insert	SimpleType@@Request[89]
+
+	Insert	SimpleName@@Request[89]
+
+	Insert	VariableDeclarationFragment@@[89]
+
+	Insert	SimpleName@@request[89]
+
+	Insert	MethodInvocation@@[89]
+
+	Insert	SimpleName@@WatcherRequestConverters[89]
+
+	Insert	SimpleName@@deactivateWatch[89]
+
+	Insert	SimpleName@@deactivateWatchRequest[89]
+
+	Insert	ExpressionStatement@@[90]
+
+	Insert	MethodInvocation@@[90]
+
+	Insert	SimpleName@@assertEquals[90]
+
+	Insert	QualifiedName@@HttpPut.METHOD_NAME[90]
+
+	Insert	MethodInvocation@@[90]
+
+	Insert	SimpleName@@request[90]
+
+	Insert	SimpleName@@getMethod[90]
+
+	Insert	ExpressionStatement@@[90]
+
+	Insert	MethodInvocation@@[90]
+
+	Insert	SimpleName@@assertEquals[90]
+
+	Insert	InfixExpression@@+[90]
+
+	Insert	StringLiteral@@"/_xpack/watcher/watch/"[90]
+
+	Insert	SimpleName@@watchId[92]
+
+	Insert	StringLiteral@@"/_deactivate"[92]
+
+	Insert	MethodInvocation@@[92]
+
+	Insert	SimpleName@@request[92]
+
+	Insert	SimpleName@@getEndpoint[92]
+]

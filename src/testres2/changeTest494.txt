@@ -1,0 +1,31 @@
+[Insert	ImportDeclaration@@[30]
+
+	Insert	QualifiedName@@org.ballerinalang.jvm.values.api.BString[30]
+, Insert	MethodInvocation@@[66]
+
+	Insert	MethodInvocation@@[66]
+
+	Insert	SimpleName@@getValue[67]
+, Insert	MethodInvocation@@[67]
+
+	Insert	MethodInvocation@@[67]
+
+	Insert	SimpleName@@getValue[68]
+, Move	SimpleName@@consumerObject[65]	TO	MethodInvocation@@[66]
+, Move	SimpleName@@getStringValue[65]	TO	MethodInvocation@@[66]
+, Move	SimpleName@@CONSUMER_KEY_DESERIALIZER_TYPE_CONFIG[65]	TO	MethodInvocation@@[66]
+, Move	SimpleName@@consumerObject[66]	TO	MethodInvocation@@[67]
+, Move	SimpleName@@getStringValue[66]	TO	MethodInvocation@@[67]
+, Move	SimpleName@@CONSUMER_VALUE_DESERIALIZER_TYPE_CONFIG[66]	TO	MethodInvocation@@[67]
+, Update	ParameterizedType@@MapValue<String,Object>[73]	TO	MapValue<BString,Object>
+
+	Update	SimpleType@@String[73]	TO	BString
+
+	Update	SimpleName@@String[73]	TO	BString
+, Insert	MethodInvocation@@[77]
+
+	Insert	SimpleName@@getValue[78]
+, Move	MethodInvocation@@[76]	TO	MethodInvocation@@[77]
+, Delete	MethodInvocation@@[65]
+, Delete	MethodInvocation@@[66]
+]

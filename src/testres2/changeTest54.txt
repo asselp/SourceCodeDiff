@@ -1,0 +1,161 @@
+[Insert	SimpleType@@NonTxRemoteEJBForwardingTestCase[32]
+, Update	SimpleName@@NonTxClientEJBForwardingTestCase[38]	TO	NonTxRemoteEJBForwardingTestCase
+, Move	SimpleName@@NonTxClientEJBForwardingTestCase[38]	TO	SimpleType@@NonTxRemoteEJBForwardingTestCase[32]
+, Delete	ImportDeclaration@@[23]
+
+	Delete	QualifiedName@@org.jboss.arquillian.container.test.api.Deployment[23]
+, Delete	ImportDeclaration@@[25]
+
+	Delete	QualifiedName@@org.jboss.arquillian.container.test.api.TargetsContainer[25]
+, Delete	ImportDeclaration@@[26]
+
+	Delete	QualifiedName@@org.jboss.as.test.clustering.cluster.ejb.forwarding.bean.forwarding.NonTxForwardingStatefulSBImpl[26]
+, Delete	ImportDeclaration@@[28]
+
+	Delete	QualifiedName@@org.jboss.shrinkwrap.api.Archive[28]
+, Delete	SimpleType@@AbstractRemoteEJBForwardingTestCase[36]
+
+	Delete	SimpleName@@AbstractRemoteEJBForwardingTestCase[36]
+, Delete	FieldDeclaration@@[36]
+
+	Delete	Modifier@@public[36]
+
+	Delete	Modifier@@static[36]
+
+	Delete	Modifier@@final[36]
+
+	Delete	SimpleType@@String[36]
+
+	Delete	SimpleName@@String[36]
+
+	Delete	VariableDeclarationFragment@@[36]
+
+	Delete	SimpleName@@MODULE_NAME[36]
+
+	Delete	MethodInvocation@@[38]
+
+	Delete	TypeLiteral@@[38]
+
+	Delete	SimpleType@@NonTxClientEJBForwardingTestCase[38]
+
+	Delete	SimpleName@@getSimpleName[38]
+, Delete	MethodInvocation@@[41]
+
+	Delete	TypeLiteral@@[41]
+
+	Delete	SimpleType@@NonTxForwardingStatefulSBImpl[41]
+
+	Delete	SimpleName@@NonTxForwardingStatefulSBImpl[41]
+
+	Delete	SimpleName@@getSimpleName[41]
+, Delete	MethodDeclaration@@[41]
+
+	Delete	NormalAnnotation@@[41]
+
+	Delete	SimpleName@@Deployment[41]
+
+	Delete	MemberValuePair@@[41]
+
+	Delete	SimpleName@@name[41]
+
+	Delete	SimpleName@@DEPLOYMENT_1[41]
+
+	Delete	MemberValuePair@@[42]
+
+	Delete	SimpleName@@managed[42]
+
+	Delete	BooleanLiteral@@false[44]
+
+	Delete	MemberValuePair@@[44]
+
+	Delete	SimpleName@@testable[44]
+
+	Delete	BooleanLiteral@@false[44]
+
+	Delete	SingleMemberAnnotation@@[44]
+
+	Delete	SimpleName@@TargetsContainer[44]
+
+	Delete	SimpleName@@NODE_1[44]
+
+	Delete	Modifier@@public[44]
+
+	Delete	Modifier@@static[44]
+
+	Delete	ParameterizedType@@Archive<?>[45]
+
+	Delete	SimpleType@@Archive[45]
+
+	Delete	SimpleName@@Archive[45]
+
+	Delete	WildcardType@@?[45]
+
+	Delete	SimpleName@@deployment1[45]
+
+	Delete	Block@@[45]
+
+	Delete	ReturnStatement@@[46]
+
+	Delete	MethodInvocation@@[46]
+
+	Delete	SimpleName@@createForwardingDeployment[46]
+
+	Delete	SimpleName@@MODULE_NAME[46]
+
+	Delete	BooleanLiteral@@false[47]
+, Delete	MethodDeclaration@@[47]
+
+	Delete	NormalAnnotation@@[47]
+
+	Delete	SimpleName@@Deployment[47]
+
+	Delete	MemberValuePair@@[47]
+
+	Delete	SimpleName@@name[47]
+
+	Delete	SimpleName@@DEPLOYMENT_2[47]
+
+	Delete	MemberValuePair@@[47]
+
+	Delete	SimpleName@@managed[47]
+
+	Delete	BooleanLiteral@@false[49]
+
+	Delete	MemberValuePair@@[50]
+
+	Delete	SimpleName@@testable[50]
+
+	Delete	BooleanLiteral@@false[50]
+
+	Delete	SingleMemberAnnotation@@[50]
+
+	Delete	SimpleName@@TargetsContainer[50]
+
+	Delete	SimpleName@@NODE_2[50]
+
+	Delete	Modifier@@public[50]
+
+	Delete	Modifier@@static[50]
+
+	Delete	ParameterizedType@@Archive<?>[50]
+
+	Delete	SimpleType@@Archive[50]
+
+	Delete	SimpleName@@Archive[50]
+
+	Delete	WildcardType@@?[51]
+
+	Delete	SimpleName@@deployment2[51]
+
+	Delete	Block@@[51]
+
+	Delete	ReturnStatement@@[52]
+
+	Delete	MethodInvocation@@[52]
+
+	Delete	SimpleName@@createForwardingDeployment[52]
+
+	Delete	SimpleName@@MODULE_NAME[52]
+
+	Delete	BooleanLiteral@@false[53]
+]

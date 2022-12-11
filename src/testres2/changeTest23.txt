@@ -1,0 +1,7 @@
+[Insert	ImportDeclaration@@[26]
+
+	Insert	QualifiedName@@org.elasticsearch.test.rest.yaml.parser.ClientYamlTestParseException[26]
+, Insert	SimpleType@@ClientYamlTestParseException[37]
+
+	Insert	SimpleName@@ClientYamlTestParseException[37]
+]

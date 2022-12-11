@@ -1,0 +1,5 @@
+[Update	QualifiedName@@tachyon.thrift.ClientBlockInfo[29]	TO	tachyon.thrift.FileBlockInfo
+, Update	SimpleType@@ClientBlockInfo[220]	TO	FileBlockInfo
+
+	Update	SimpleName@@ClientBlockInfo[220]	TO	FileBlockInfo
+]

@@ -1,0 +1,82 @@
+[Move	ExpressionStatement@@[84]	TO	Block@@[83]
+, Update	SimpleName@@tracer[86]	TO	logger
+, Insert	SimpleName@@getUri[84]
+, Insert	SimpleName@@getUri[101]
+, Insert	SimpleName@@getUri[58]
+, Delete	ImportDeclaration@@[28]
+
+	Delete	QualifiedName@@org.apache.http.RequestLine[28]
+, Delete	SimpleName@@getUri[59]
+, Delete	SimpleName@@getUri[85]
+, Delete	IfStatement@@[84]
+
+	Delete	MethodInvocation@@[84]
+
+	Delete	SimpleName@@logger[84]
+
+	Delete	SimpleName@@isDebugEnabled[84]
+
+	Delete	Block@@[84]
+, Delete	SimpleName@@getUri[103]
+, Delete	MethodDeclaration@@[142]
+
+	Delete	Modifier@@private[142]
+
+	Delete	Modifier@@static[142]
+
+	Delete	SimpleType@@String[143]
+
+	Delete	SimpleName@@String[143]
+
+	Delete	SimpleName@@getUri[143]
+
+	Delete	SingleVariableDeclaration@@[143]
+
+	Delete	SimpleType@@RequestLine[143]
+
+	Delete	SimpleName@@RequestLine[143]
+
+	Delete	SimpleName@@requestLine[143]
+
+	Delete	Block@@[143]
+
+	Delete	IfStatement@@[144]
+
+	Delete	InfixExpression@@!=[144]
+
+	Delete	MethodInvocation@@[144]
+
+	Delete	MethodInvocation@@[144]
+
+	Delete	SimpleName@@requestLine[144]
+
+	Delete	SimpleName@@getUri[145]
+
+	Delete	SimpleName@@charAt[145]
+
+	Delete	NumberLiteral@@0[146]
+
+	Delete	CharacterLiteral@@'/'[146]
+
+	Delete	Block@@[147]
+
+	Delete	ReturnStatement@@[147]
+
+	Delete	InfixExpression@@+[147]
+
+	Delete	StringLiteral@@"/"[147]
+
+	Delete	MethodInvocation@@[147]
+
+	Delete	SimpleName@@requestLine[147]
+
+	Delete	SimpleName@@getUri[150]
+
+	Delete	ReturnStatement@@[150]
+
+	Delete	MethodInvocation@@[150]
+
+	Delete	SimpleName@@requestLine[150]
+
+	Delete	SimpleName@@getUri[150]
+]

@@ -1,0 +1,2 @@
+[Move	MethodDeclaration@@[71]	TO	TypeDeclaration@@[30]
+]

@@ -1,0 +1,14 @@
+[Insert	InfixExpression@@&&[439]
+
+	Insert	InfixExpression@@!=[439]
+
+	Insert	QualifiedName@@bLangImportPackage.symbol[439]
+
+	Insert	NullLiteral@@[439]
+
+	Insert	MethodInvocation@@[440]
+, Move	QualifiedName@@bLangImportPackage.symbol.pkgID[439]	TO	MethodInvocation@@[440]
+, Move	SimpleName@@equals[439]	TO	MethodInvocation@@[440]
+, Move	SimpleName@@packageID[439]	TO	MethodInvocation@@[440]
+, Delete	MethodInvocation@@[439]
+]

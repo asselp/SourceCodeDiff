@@ -1,0 +1,8 @@
+[Update	QualifiedName@@io.crate.types.FixedWithType[34]	TO	io.crate.types.FixedWidthType
+, Update	SimpleType@@FixedWithType[46]	TO	FixedWidthType
+
+	Update	SimpleName@@FixedWithType[46]	TO	FixedWidthType
+, Update	SimpleType@@FixedWithType[93]	TO	FixedWidthType
+
+	Update	SimpleName@@FixedWithType[93]	TO	FixedWidthType
+]

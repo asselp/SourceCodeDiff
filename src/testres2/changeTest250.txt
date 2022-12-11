@@ -1,0 +1,21 @@
+[Insert	ImportDeclaration@@[10]
+
+	Insert	QualifiedName@@com.facebook.react.common.SystemClock[10]
+, Insert	MethodInvocation@@[41]
+
+	Insert	SimpleName@@SystemClock[41]
+
+	Insert	SimpleName@@nanoTime[41]
+, Delete	SingleVariableDeclaration@@[31]
+
+	Delete	PrimitiveType@@long[31]
+
+	Delete	SimpleName@@timestampMs[31]
+, Delete	SimpleName@@timestampMs[31]
+, Delete	SingleVariableDeclaration@@[37]
+
+	Delete	PrimitiveType@@long[37]
+
+	Delete	SimpleName@@timestampMs[38]
+, Delete	SimpleName@@timestampMs[39]
+]

@@ -1,0 +1,18 @@
+[Insert	FieldDeclaration@@[55]
+
+	Insert	Modifier@@private[55]
+
+	Insert	Modifier@@final[55]
+
+	Insert	SimpleType@@String[55]
+
+	Insert	SimpleName@@String[55]
+
+	Insert	VariableDeclarationFragment@@[55]
+
+	Insert	SimpleName@@sourceDir[55]
+
+	Insert	StringLiteral@@"source"[55]
+, Delete	Modifier@@final[55]
+, Delete	Modifier@@final[57]
+]

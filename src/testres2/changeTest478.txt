@@ -1,0 +1,184 @@
+[Insert	MethodDeclaration@@[80]
+
+	Insert	MarkerAnnotation@@[80]
+
+	Insert	SimpleName@@NotNull[80]
+
+	Insert	Modifier@@private[81]
+
+	Insert	SimpleType@@String[81]
+
+	Insert	SimpleName@@String[81]
+
+	Insert	SimpleName@@getMajorVersion[82]
+
+	Insert	SingleVariableDeclaration@@[83]
+
+	Insert	MarkerAnnotation@@[83]
+
+	Insert	SimpleName@@NotNull[83]
+
+	Insert	SimpleType@@String[84]
+
+	Insert	SimpleName@@String[84]
+
+	Insert	SimpleName@@version[84]
+
+	Insert	Block@@[84]
+
+	Insert	ReturnStatement@@[86]
+
+	Insert	ConditionalExpression@@[88]
+
+	Insert	MethodInvocation@@[88]
+
+	Insert	SimpleName@@version[88]
+
+	Insert	SimpleName@@contains[88]
+
+	Insert	StringLiteral@@"."[89]
+
+	Insert	ArrayAccess@@[89]
+
+	Insert	MethodInvocation@@[89]
+
+	Insert	MethodInvocation@@[89]
+
+	Insert	SimpleName@@version[89]
+
+	Insert	SimpleName@@replace[89]
+
+	Insert	CharacterLiteral@@'-'[89]
+
+	Insert	CharacterLiteral@@'.'[89]
+
+	Insert	SimpleName@@split[89]
+
+	Insert	StringLiteral@@"[.]"[89]
+
+	Insert	NumberLiteral@@0[89]
+
+	Insert	StringLiteral@@""[89]
+, Insert	MethodDeclaration@@[90]
+
+	Insert	MarkerAnnotation@@[90]
+
+	Insert	SimpleName@@NotNull[90]
+
+	Insert	Modifier@@private[90]
+
+	Insert	SimpleType@@String[90]
+
+	Insert	SimpleName@@String[90]
+
+	Insert	SimpleName@@getMinorVersion[90]
+
+	Insert	SingleVariableDeclaration@@[90]
+
+	Insert	MarkerAnnotation@@[90]
+
+	Insert	SimpleName@@NotNull[90]
+
+	Insert	SimpleType@@String[90]
+
+	Insert	SimpleName@@String[90]
+
+	Insert	SimpleName@@version[90]
+
+	Insert	Block@@[90]
+
+	Insert	ReturnStatement@@[91]
+
+	Insert	ConditionalExpression@@[92]
+
+	Insert	MethodInvocation@@[92]
+
+	Insert	SimpleName@@version[92]
+
+	Insert	SimpleName@@contains[93]
+
+	Insert	StringLiteral@@"."[94]
+
+	Insert	ArrayAccess@@[94]
+
+	Insert	MethodInvocation@@[94]
+
+	Insert	MethodInvocation@@[94]
+
+	Insert	SimpleName@@version[94]
+
+	Insert	SimpleName@@replace[94]
+
+	Insert	CharacterLiteral@@'-'[94]
+
+	Insert	CharacterLiteral@@'.'[94]
+
+	Insert	SimpleName@@split[94]
+
+	Insert	StringLiteral@@"[.]"[94]
+
+	Insert	NumberLiteral@@1[94]
+
+	Insert	StringLiteral@@""[94]
+, Insert	PrefixExpression@@![68]
+, Move	MethodInvocation@@[71]	TO	PrefixExpression@@![68]
+, Update	SimpleName@@getMajorVersion[71]	TO	sdkVersion
+, Update	SimpleName@@sdkVersion[71]	TO	trim
+, Update	SimpleName@@getMajorVersion[71]	TO	pluginVersion
+, Update	SimpleName@@pluginVersion[71]	TO	trim
+, Update	BooleanLiteral@@true[73]	TO	false
+, Insert	PrefixExpression@@![77]
+, Move	MethodInvocation@@[81]	TO	PrefixExpression@@![77]
+, Update	SimpleName@@getMajorVersion[81]	TO	sdkVersion
+, Update	SimpleName@@sdkVersion[81]	TO	trim
+, Update	SimpleName@@getMajorVersion[82]	TO	pluginVersion
+, Update	SimpleName@@pluginVersion[82]	TO	trim
+, Delete	ImportDeclaration@@[33]
+
+	Delete	QualifiedName@@io.ballerina.plugins.idea.sdk.BallerinaSdkUtils.getMajorVersion[33]
+, Delete	ImportDeclaration@@[35]
+
+	Delete	QualifiedName@@io.ballerina.plugins.idea.sdk.BallerinaSdkUtils.getMinorVersion[35]
+, Delete	InfixExpression@@||[71]
+
+	Delete	PrefixExpression@@![71]
+
+	Delete	PrefixExpression@@![72]
+
+	Delete	MethodInvocation@@[72]
+
+	Delete	MethodInvocation@@[72]
+
+	Delete	SimpleName@@getMinorVersion[72]
+
+	Delete	SimpleName@@sdkVersion[72]
+
+	Delete	SimpleName@@equals[72]
+
+	Delete	MethodInvocation@@[72]
+
+	Delete	SimpleName@@getMinorVersion[72]
+
+	Delete	SimpleName@@pluginVersion[73]
+, Delete	InfixExpression@@||[81]
+
+	Delete	PrefixExpression@@![81]
+
+	Delete	PrefixExpression@@![83]
+
+	Delete	MethodInvocation@@[83]
+
+	Delete	MethodInvocation@@[83]
+
+	Delete	SimpleName@@getMinorVersion[83]
+
+	Delete	SimpleName@@sdkVersion[83]
+
+	Delete	SimpleName@@equals[83]
+
+	Delete	MethodInvocation@@[83]
+
+	Delete	SimpleName@@getMinorVersion[83]
+
+	Delete	SimpleName@@pluginVersion[83]
+]

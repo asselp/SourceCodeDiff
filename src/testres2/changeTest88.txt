@@ -1,0 +1,11 @@
+[Insert	SimpleName@@cancelled[92]
+, Delete	InfixExpression@@||[92]
+
+	Delete	InfixExpression@@==[92]
+
+	Delete	SimpleName@@timer[92]
+
+	Delete	NullLiteral@@[92]
+
+	Delete	SimpleName@@cancelled[92]
+]

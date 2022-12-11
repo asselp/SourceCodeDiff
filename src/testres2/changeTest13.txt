@@ -1,0 +1,19 @@
+[Delete	ImportDeclaration@@[23]
+
+	Delete	QualifiedName@@org.elasticsearch.common.inject.Inject[23]
+, Delete	ImportDeclaration@@[24]
+
+	Delete	QualifiedName@@org.elasticsearch.common.inject.assistedinject.Assisted[24]
+, Delete	MarkerAnnotation@@[28]
+
+	Delete	SimpleName@@AnalysisSettingsRequired[29]
+, Delete	MarkerAnnotation@@[37]
+
+	Delete	SimpleName@@Inject[37]
+, Delete	MarkerAnnotation@@[40]
+
+	Delete	SimpleName@@Assisted[40]
+, Delete	MarkerAnnotation@@[40]
+
+	Delete	SimpleName@@Assisted[40]
+]

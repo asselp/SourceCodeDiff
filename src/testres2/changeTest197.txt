@@ -1,0 +1,132 @@
+[Insert	ImportDeclaration@@[26]
+
+	Insert	QualifiedName@@java.util.stream.Collectors[27]
+, Insert	MethodDeclaration@@[54]
+
+	Insert	Modifier@@default[54]
+
+	Insert	ParameterizedType@@Map<MemberId,T>[54]
+
+	Insert	SimpleType@@Map[54]
+
+	Insert	SimpleName@@Map[54]
+
+	Insert	SimpleType@@MemberId[54]
+
+	Insert	SimpleName@@MemberId[54]
+
+	Insert	SimpleType@@T[54]
+
+	Insert	SimpleName@@T[54]
+
+	Insert	SimpleName@@filterHostsByDb[54]
+
+	Insert	SingleVariableDeclaration@@[54]
+
+	Insert	ParameterizedType@@Map<MemberId,T>[54]
+
+	Insert	SimpleType@@Map[54]
+
+	Insert	SimpleName@@Map[54]
+
+	Insert	SimpleType@@MemberId[55]
+
+	Insert	SimpleName@@MemberId[55]
+
+	Insert	SimpleType@@T[57]
+
+	Insert	SimpleName@@T[57]
+
+	Insert	SimpleName@@s[57]
+
+	Insert	SingleVariableDeclaration@@[57]
+
+	Insert	SimpleType@@String[57]
+
+	Insert	SimpleName@@String[57]
+
+	Insert	SimpleName@@dbName[57]
+
+	Insert	Block@@[57]
+
+	Insert	ReturnStatement@@[57]
+
+	Insert	MethodInvocation@@[57]
+
+	Insert	MethodInvocation@@[57]
+
+	Insert	MethodInvocation@@[57]
+
+	Insert	MethodInvocation@@[57]
+
+	Insert	SimpleName@@s[57]
+
+	Insert	SimpleName@@entrySet[57]
+
+	Insert	SimpleName@@stream[57]
+
+	Insert	SimpleName@@filter[57]
+
+	Insert	LambdaExpression@@[57]
+
+	Insert	VariableDeclarationFragment@@[57]
+
+	Insert	SimpleName@@e[57]
+
+	Insert	MethodInvocation@@[57]
+
+	Insert	MethodInvocation@@[57]
+
+	Insert	MethodInvocation@@[57]
+
+	Insert	SimpleName@@e[57]
+
+	Insert	SimpleName@@getValue[58]
+
+	Insert	SimpleName@@getDatabaseName[59]
+
+	Insert	SimpleName@@equals[59]
+
+	Insert	SimpleName@@dbName[59]
+
+	Insert	SimpleName@@collect[59]
+
+	Insert	MethodInvocation@@[59]
+
+	Insert	SimpleName@@Collectors[59]
+
+	Insert	SimpleName@@toMap[59]
+
+	Insert	ExpressionMethodReference@@[59]
+
+	Insert	QualifiedName@@Map.Entry[59]
+
+	Insert	SimpleName@@getKey[59]
+
+	Insert	ExpressionMethodReference@@[60]
+
+	Insert	QualifiedName@@Map.Entry[60]
+
+	Insert	SimpleName@@getValue[60]
+, Insert	MethodDeclaration@@[60]
+
+	Insert	ParameterizedType@@Topology<T>[60]
+
+	Insert	SimpleType@@Topology[60]
+
+	Insert	SimpleName@@Topology[60]
+
+	Insert	SimpleType@@T[60]
+
+	Insert	SimpleName@@T[60]
+
+	Insert	SimpleName@@filterTopologyByDb[60]
+
+	Insert	SingleVariableDeclaration@@[60]
+
+	Insert	SimpleType@@String[60]
+
+	Insert	SimpleName@@String[60]
+
+	Insert	SimpleName@@dbName[60]
+]

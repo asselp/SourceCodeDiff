@@ -1,0 +1,5 @@
+[Delete	ImportDeclaration@@[23]
+
+	Delete	QualifiedName@@io.crate.action.sql.Option[23]
+, Delete	QualifiedName@@Option.NONE[78]
+]

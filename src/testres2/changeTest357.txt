@@ -1,0 +1,20 @@
+[Insert	ImportDeclaration@@[14]
+
+	Insert	QualifiedName@@alluxio.PropertyKey[14]
+, Insert	ImportDeclaration@@[18]
+
+	Insert	QualifiedName@@alluxio.metrics.MetricsSystem[18]
+, Update	SimpleType@@AlluxioWorker[60]	TO	AlluxioWorkerService
+
+	Update	SimpleName@@AlluxioWorker[60]	TO	AlluxioWorkerService
+, Insert	QualifiedName@@AlluxioWorkerService.Factory[62]
+, Update	SimpleName@@key[80]	TO	PropertyKey
+, Update	SimpleName@@startsWith[80]	TO	isValid
+, Update	SimpleName@@ALLUXIO_CONF_PREFIX[80]	TO	key
+, Update	SimpleName@@getWorkerAddress[95]	TO	getRpcAddress
+, Insert	SimpleName@@MetricsSystem[234]
+, Insert	SimpleName@@buildSourceRegistryName[234]
+, Insert	QualifiedName@@MetricsSystem.WORKER_INSTANCE[234]
+, Delete	SimpleName@@AlluxioWorker[60]
+, Delete	SimpleName@@getName[232]
+]

@@ -1,0 +1,3 @@
+[Update	QualifiedName@@org.ballerinalang.model.values.BString[19]	TO	org.ballerinalang.core.model.values.BString
+, Update	QualifiedName@@org.ballerinalang.model.values.BValue[21]	TO	org.ballerinalang.core.model.values.BValue
+]

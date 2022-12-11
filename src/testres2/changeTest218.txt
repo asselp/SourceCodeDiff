@@ -1,0 +1,251 @@
+[Insert	ImportDeclaration@@[22]
+
+	Insert	QualifiedName@@com.facebook.imagepipeline.core.ImagePipeline[22]
+, Insert	ImportDeclaration@@[27]
+
+	Insert	QualifiedName@@com.facebook.react.bridge.GuardedAsyncTask[27]
+, Insert	ImportDeclaration@@[33]
+
+	Insert	QualifiedName@@com.facebook.react.bridge.ReadableArray[33]
+, Insert	MethodDeclaration@@[173]
+
+	Insert	MarkerAnnotation@@[173]
+
+	Insert	SimpleName@@ReactMethod[173]
+
+	Insert	Modifier@@public[174]
+
+	Insert	PrimitiveType@@void[174]
+
+	Insert	SimpleName@@queryCache[174]
+
+	Insert	SingleVariableDeclaration@@[174]
+
+	Insert	Modifier@@final[174]
+
+	Insert	SimpleType@@ReadableArray[174]
+
+	Insert	SimpleName@@ReadableArray[174]
+
+	Insert	SimpleName@@uris[175]
+
+	Insert	SingleVariableDeclaration@@[175]
+
+	Insert	Modifier@@final[175]
+
+	Insert	SimpleType@@Promise[175]
+
+	Insert	SimpleName@@Promise[175]
+
+	Insert	SimpleName@@promise[175]
+
+	Insert	Block@@[175]
+
+	Insert	ExpressionStatement@@[180]
+
+	Insert	MethodInvocation@@[180]
+
+	Insert	ClassInstanceCreation@@[180]
+
+	Insert	ParameterizedType@@GuardedAsyncTask<Void,Void>[181]
+
+	Insert	SimpleType@@GuardedAsyncTask[181]
+
+	Insert	SimpleName@@GuardedAsyncTask[181]
+
+	Insert	SimpleType@@Void[182]
+
+	Insert	SimpleName@@Void[182]
+
+	Insert	SimpleType@@Void[182]
+
+	Insert	SimpleName@@Void[182]
+
+	Insert	MethodInvocation@@[182]
+
+	Insert	SimpleName@@getReactApplicationContext[182]
+
+	Insert	AnonymousClassDeclaration@@[182]
+
+	Insert	MethodDeclaration@@[182]
+
+	Insert	MarkerAnnotation@@[182]
+
+	Insert	SimpleName@@Override[182]
+
+	Insert	Modifier@@protected[182]
+
+	Insert	PrimitiveType@@void[183]
+
+	Insert	SimpleName@@doInBackgroundGuarded[183]
+
+	Insert	SingleVariableDeclaration@@[183]
+
+	Insert	SimpleType@@Void[183]
+
+	Insert	SimpleName@@Void[183]
+
+	Insert	SimpleName@@params[183]
+
+	Insert	Block@@[183]
+
+	Insert	VariableDeclarationStatement@@[183]
+
+	Insert	SimpleType@@WritableMap[183]
+
+	Insert	SimpleName@@WritableMap[183]
+
+	Insert	VariableDeclarationFragment@@[183]
+
+	Insert	SimpleName@@result[183]
+
+	Insert	MethodInvocation@@[183]
+
+	Insert	SimpleName@@Arguments[183]
+
+	Insert	SimpleName@@createMap[184]
+
+	Insert	VariableDeclarationStatement@@[184]
+
+	Insert	SimpleType@@ImagePipeline[184]
+
+	Insert	SimpleName@@ImagePipeline[184]
+
+	Insert	VariableDeclarationFragment@@[184]
+
+	Insert	SimpleName@@imagePipeline[184]
+
+	Insert	MethodInvocation@@[184]
+
+	Insert	SimpleName@@Fresco[184]
+
+	Insert	SimpleName@@getImagePipeline[184]
+
+	Insert	ForStatement@@[186]
+
+	Insert	VariableDeclarationExpression@@[186]
+
+	Insert	PrimitiveType@@int[186]
+
+	Insert	VariableDeclarationFragment@@[186]
+
+	Insert	SimpleName@@i[186]
+
+	Insert	NumberLiteral@@0[186]
+
+	Insert	InfixExpression@@<[186]
+
+	Insert	SimpleName@@i[186]
+
+	Insert	MethodInvocation@@[186]
+
+	Insert	SimpleName@@uris[186]
+
+	Insert	SimpleName@@size[186]
+
+	Insert	PostfixExpression@@++[186]
+
+	Insert	SimpleName@@i[186]
+
+	Insert	Block@@[186]
+
+	Insert	VariableDeclarationStatement@@[186]
+
+	Insert	SimpleType@@String[186]
+
+	Insert	SimpleName@@String[186]
+
+	Insert	VariableDeclarationFragment@@[186]
+
+	Insert	SimpleName@@uriString[186]
+
+	Insert	MethodInvocation@@[187]
+
+	Insert	SimpleName@@uris[187]
+
+	Insert	SimpleName@@getString[187]
+
+	Insert	SimpleName@@i[187]
+
+	Insert	VariableDeclarationStatement@@[187]
+
+	Insert	Modifier@@final[187]
+
+	Insert	SimpleType@@Uri[187]
+
+	Insert	SimpleName@@Uri[187]
+
+	Insert	VariableDeclarationFragment@@[187]
+
+	Insert	SimpleName@@uri[187]
+
+	Insert	MethodInvocation@@[188]
+
+	Insert	SimpleName@@Uri[188]
+
+	Insert	SimpleName@@parse[188]
+
+	Insert	SimpleName@@uriString[188]
+
+	Insert	IfStatement@@[188]
+
+	Insert	MethodInvocation@@[188]
+
+	Insert	SimpleName@@imagePipeline[188]
+
+	Insert	SimpleName@@isInBitmapMemoryCache[188]
+
+	Insert	SimpleName@@uri[189]
+
+	Insert	Block@@[189]
+
+	Insert	ExpressionStatement@@[189]
+
+	Insert	MethodInvocation@@[189]
+
+	Insert	SimpleName@@result[189]
+
+	Insert	SimpleName@@putString[189]
+
+	Insert	SimpleName@@uriString[189]
+
+	Insert	StringLiteral@@"memory"[190]
+
+	Insert	IfStatement@@[190]
+
+	Insert	MethodInvocation@@[190]
+
+	Insert	SimpleName@@imagePipeline[190]
+
+	Insert	SimpleName@@isInDiskCacheSync[191]
+
+	Insert	SimpleName@@uri[191]
+
+	Insert	Block@@[191]
+
+	Insert	ExpressionStatement@@[191]
+
+	Insert	MethodInvocation@@[191]
+
+	Insert	SimpleName@@result[191]
+
+	Insert	SimpleName@@putString[191]
+
+	Insert	SimpleName@@uriString[192]
+
+	Insert	StringLiteral@@"disk"[192]
+
+	Insert	ExpressionStatement@@[192]
+
+	Insert	MethodInvocation@@[192]
+
+	Insert	SimpleName@@promise[192]
+
+	Insert	SimpleName@@resolve[193]
+
+	Insert	SimpleName@@result[193]
+
+	Insert	SimpleName@@executeOnExecutor[193]
+
+	Insert	QualifiedName@@GuardedAsyncTask.THREAD_POOL_EXECUTOR[194]
+]

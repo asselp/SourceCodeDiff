@@ -1,0 +1,12 @@
+[Delete	InfixExpression@@+[271]
+
+	Delete	StringLiteral@@"https://*/"[271]
+
+	Delete	SimpleName@@name[271]
+, Delete	StringLiteral@@"https://*/search/*"[701]
+, Delete	InfixExpression@@+[711]
+
+	Delete	StringLiteral@@"https://"[711]
+
+	Delete	QualifiedName@@GUIHandler.BINDING[711]
+]

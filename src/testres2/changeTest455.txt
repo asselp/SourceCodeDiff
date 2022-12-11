@@ -1,0 +1,8 @@
+[Move	MethodInvocation@@[46]	TO	ReturnStatement@@[46]
+, Update	SimpleName@@getChildOfType[46]	TO	findNotNullChildByClass
+, Delete	SimpleName@@PsiTreeUtil[46]
+, Delete	ThisExpression@@[47]
+, Delete	MethodInvocation@@[46]
+
+	Delete	SimpleName@@notNullChild[46]
+]

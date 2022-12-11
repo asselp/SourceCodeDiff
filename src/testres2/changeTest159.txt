@@ -1,0 +1,113 @@
+[Insert	ImportDeclaration@@[20]
+
+	Insert	QualifiedName@@java.util.Map[20]
+, Insert	ImportDeclaration@@[27]
+
+	Insert	QualifiedName@@org.neo4j.kernel.impl.query.clientconnection.ClientConnectionInfo[27]
+, Insert	MethodDeclaration@@[45]
+
+	Insert	MarkerAnnotation@@[45]
+
+	Insert	SimpleName@@Override[45]
+
+	Insert	Modifier@@public[46]
+
+	Insert	PrimitiveType@@void[48]
+
+	Insert	SimpleName@@setMetaData[48]
+
+	Insert	SingleVariableDeclaration@@[48]
+
+	Insert	ParameterizedType@@Map<String,Object>[48]
+
+	Insert	SimpleType@@Map[48]
+
+	Insert	SimpleName@@Map[48]
+
+	Insert	SimpleType@@String[49]
+
+	Insert	SimpleName@@String[49]
+
+	Insert	SimpleType@@Object[50]
+
+	Insert	SimpleName@@Object[50]
+
+	Insert	SimpleName@@data[50]
+
+	Insert	Block@@[51]
+
+	Insert	ExpressionStatement@@[51]
+
+	Insert	MethodInvocation@@[51]
+
+	Insert	SimpleName@@statement[51]
+
+	Insert	SimpleName@@assertOpen[51]
+
+	Insert	ExpressionStatement@@[51]
+
+	Insert	MethodInvocation@@[51]
+
+	Insert	MethodInvocation@@[51]
+
+	Insert	SimpleName@@statement[51]
+
+	Insert	SimpleName@@getTransaction[52]
+
+	Insert	SimpleName@@setMetaData[53]
+
+	Insert	SimpleName@@data[53]
+, Insert	MethodDeclaration@@[54]
+
+	Insert	MarkerAnnotation@@[54]
+
+	Insert	SimpleName@@Override[54]
+
+	Insert	Modifier@@public[54]
+
+	Insert	ParameterizedType@@Map<String,Object>[54]
+
+	Insert	SimpleType@@Map[54]
+
+	Insert	SimpleName@@Map[54]
+
+	Insert	SimpleType@@String[54]
+
+	Insert	SimpleName@@String[54]
+
+	Insert	SimpleType@@Object[54]
+
+	Insert	SimpleName@@Object[54]
+
+	Insert	SimpleName@@getMetaData[54]
+
+	Insert	Block@@[57]
+
+	Insert	ReturnStatement@@[58]
+
+	Insert	MethodInvocation@@[58]
+
+	Insert	MethodInvocation@@[58]
+
+	Insert	SimpleName@@statement[58]
+
+	Insert	SimpleName@@getTransaction[59]
+
+	Insert	SimpleName@@getMetaData[60]
+, Insert	SingleVariableDeclaration@@[70]
+
+	Insert	SimpleType@@ClientConnectionInfo[70]
+
+	Insert	SimpleName@@ClientConnectionInfo[70]
+
+	Insert	SimpleName@@descriptor[72]
+, Move	ExpressionStatement@@[56]	TO	Block@@[57]
+, Insert	ExpressionStatement@@[74]
+
+	Insert	MethodInvocation@@[74]
+
+	Insert	SimpleName@@statement[74]
+
+	Insert	SimpleName@@assertOpen[74]
+, Insert	SimpleName@@descriptor[78]
+]

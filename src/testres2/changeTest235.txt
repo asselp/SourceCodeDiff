@@ -1,0 +1,18 @@
+[Update	SimpleName@@drawerWidthInPx[54]	TO	drawerWidth
+, Insert	CastExpression@@[57]
+
+	Insert	PrimitiveType@@int[57]
+
+	Insert	MethodInvocation@@[57]
+
+	Insert	SimpleName@@PixelUtil[57]
+
+	Insert	SimpleName@@toPixelFromDIP[57]
+
+	Insert	CastExpression@@[57]
+
+	Insert	PrimitiveType@@float[57]
+
+	Insert	SimpleName@@drawerWidth[58]
+, Delete	SimpleName@@drawerWidthInPx[57]
+]

@@ -1,0 +1,4 @@
+[Update	Modifier@@public[32]	TO	private
+, Update	SimpleName@@leadingTrivia[50]	TO	leadingMinutiae
+, Update	SimpleName@@trailingTrivia[51]	TO	trailingMinutiae
+]

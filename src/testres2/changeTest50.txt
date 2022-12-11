@@ -1,0 +1,9 @@
+[Update	SimpleType@@Translog.Create[76]	TO	Translog.Index
+
+	Update	QualifiedName@@Translog.Create[76]	TO	Translog.Index
+, Update	QualifiedName@@Translog.Operation.Type.SAVE[48]	TO	Translog.Operation.Type.INDEX
+, Update	QualifiedName@@Translog.Operation.Type.CREATE[76]	TO	Translog.Operation.Type.INDEX
+, Update	SimpleType@@Translog.Create[76]	TO	Translog.Index
+
+	Update	QualifiedName@@Translog.Create[76]	TO	Translog.Index
+]

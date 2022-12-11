@@ -1,0 +1,4 @@
+[Delete	ImportDeclaration@@[20]
+
+	Delete	QualifiedName@@org.neo4j.kernel.impl.api.legacyindex.AbstractIndexHits[20]
+]

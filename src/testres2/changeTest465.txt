@@ -1,0 +1,14 @@
+[Delete	ExpressionStatement@@[56]
+
+	Delete	MethodInvocation@@[56]
+
+	Delete	SimpleName@@StringUtils[56]
+
+	Delete	SimpleName@@checkForNull[56]
+
+	Delete	SimpleName@@value[56]
+
+	Delete	SimpleName@@regex[56]
+
+	Delete	SimpleName@@replaceWith[56]
+]

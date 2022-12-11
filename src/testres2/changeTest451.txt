@@ -1,0 +1,10 @@
+[Update	QualifiedName@@org.ballerinalang.jvm.types.BTupleType[18]	TO	org.ballerinalang.core.model.values.BFloat
+, Update	QualifiedName@@org.ballerinalang.jvm.types.BTypes[20]	TO	org.ballerinalang.core.model.values.BInteger
+, Update	QualifiedName@@org.ballerinalang.jvm.values.ArrayValue[21]	TO	org.ballerinalang.core.model.values.BString
+, Update	QualifiedName@@org.ballerinalang.jvm.values.TupleValueImpl[22]	TO	org.ballerinalang.core.model.values.BValue
+, Update	QualifiedName@@org.ballerinalang.model.values.BFloat[23]	TO	org.ballerinalang.core.model.values.BValueArray
+, Update	QualifiedName@@org.ballerinalang.model.values.BInteger[24]	TO	org.ballerinalang.jvm.types.BTupleType
+, Update	QualifiedName@@org.ballerinalang.model.values.BString[25]	TO	org.ballerinalang.jvm.types.BTypes
+, Update	QualifiedName@@org.ballerinalang.model.values.BValue[26]	TO	org.ballerinalang.jvm.values.ArrayValue
+, Update	QualifiedName@@org.ballerinalang.model.values.BValueArray[27]	TO	org.ballerinalang.jvm.values.TupleValueImpl
+]

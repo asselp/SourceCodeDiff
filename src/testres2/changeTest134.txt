@@ -1,0 +1,28 @@
+[Insert	ImportDeclaration@@[39]
+
+	Insert	QualifiedName@@com.hazelcast.util.StringUtil.getterIntoProperty[39]
+, Move	MethodInvocation@@[65]	TO	IfStatement@@[63]
+, Insert	Block@@[66]
+
+	Insert	ExpressionStatement@@[67]
+
+	Insert	Assignment@@=[67]
+
+	Insert	SimpleName@@name[67]
+
+	Insert	MethodInvocation@@[67]
+
+	Insert	SimpleName@@getterIntoProperty[67]
+
+	Insert	MethodInvocation@@[68]
+
+	Insert	SimpleName@@method[68]
+
+	Insert	SimpleName@@getName[68]
+, Delete	MethodInvocation@@[65]
+
+	Delete	SimpleName@@method[65]
+
+	Delete	SimpleName@@getName[65]
+, Delete	PrefixExpression@@![65]
+]

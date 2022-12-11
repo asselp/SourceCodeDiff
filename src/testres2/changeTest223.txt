@@ -1,0 +1,52 @@
+[Update	QualifiedName@@com.facebook.react.bridge.Callback[23]	TO	com.facebook.infer.annotation.Assertions
+, Update	QualifiedName@@com.facebook.react.bridge.LifecycleEventListener[24]	TO	com.facebook.react.bridge.Callback
+, Update	QualifiedName@@com.facebook.react.bridge.ReactApplicationContext[25]	TO	com.facebook.react.bridge.LifecycleEventListener
+, Update	QualifiedName@@com.facebook.react.bridge.ReactContextBaseJavaModule[26]	TO	com.facebook.react.bridge.ReactApplicationContext
+, Update	QualifiedName@@com.facebook.react.bridge.ReactMethod[27]	TO	com.facebook.react.bridge.ReactContextBaseJavaModule
+, Update	QualifiedName@@com.facebook.react.bridge.ReadableArray[28]	TO	com.facebook.react.bridge.ReactMethod
+, Update	QualifiedName@@com.facebook.react.bridge.ReadableMap[29]	TO	com.facebook.react.bridge.ReadableArray
+, Update	QualifiedName@@com.facebook.react.bridge.annotations.ReactModule[30]	TO	com.facebook.react.bridge.ReadableMap
+, Insert	FieldDeclaration@@[37]
+
+	Insert	Modifier@@static[37]
+
+	Insert	Modifier@@final[37]
+
+	Insert	SimpleType@@String[37]
+
+	Insert	SimpleName@@String[37]
+
+	Insert	VariableDeclarationFragment@@[38]
+
+	Insert	SimpleName@@NAME[38]
+
+	Insert	StringLiteral@@"DialogManagerAndroid"[39]
+, Insert	MethodDeclaration@@[60]
+
+	Insert	MarkerAnnotation@@[60]
+
+	Insert	SimpleName@@Override[60]
+
+	Insert	Modifier@@public[60]
+
+	Insert	SimpleType@@String[60]
+
+	Insert	SimpleName@@String[60]
+
+	Insert	SimpleName@@getName[60]
+
+	Insert	Block@@[61]
+
+	Insert	ReturnStatement@@[61]
+
+	Insert	SimpleName@@NAME[61]
+, Delete	NormalAnnotation@@[32]
+
+	Delete	SimpleName@@ReactModule[32]
+
+	Delete	MemberValuePair@@[32]
+
+	Delete	SimpleName@@name[32]
+
+	Delete	StringLiteral@@"DialogManagerAndroid"[32]
+]

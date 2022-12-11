@@ -1,0 +1,295 @@
+[Insert	ImportDeclaration@@[22]
+
+	Insert	QualifiedName@@com.hazelcast.core.IBiFunction[22]
+, Insert	ImportDeclaration@@[23]
+
+	Insert	QualifiedName@@com.hazelcast.core.Member[23]
+, Insert	ImportDeclaration@@[24]
+
+	Insert	QualifiedName@@com.hazelcast.internal.cluster.Versions[24]
+, Insert	ImportDeclaration@@[28]
+
+	Insert	QualifiedName@@com.hazelcast.nio.Address[28]
+, Insert	ImportDeclaration@@[31]
+
+	Insert	QualifiedName@@com.hazelcast.spi.partition.IPartition[31]
+, Update	QualifiedName@@com.hazelcast.spi.impl.operationservice.Operation[26]	TO	com.hazelcast.spi.Operation
+, Insert	MethodDeclaration@@[135]
+
+	Insert	MarkerAnnotation@@[135]
+
+	Insert	SimpleName@@Override[135]
+
+	Insert	Modifier@@protected[135]
+
+	Insert	ParameterizedType@@IBiFunction<Integer,Integer,Boolean>[135]
+
+	Insert	SimpleType@@IBiFunction[135]
+
+	Insert	SimpleName@@IBiFunction[135]
+
+	Insert	SimpleType@@Integer[136]
+
+	Insert	SimpleName@@Integer[136]
+
+	Insert	SimpleType@@Integer[136]
+
+	Insert	SimpleName@@Integer[136]
+
+	Insert	SimpleType@@Boolean[136]
+
+	Insert	SimpleName@@Boolean[136]
+
+	Insert	SimpleName@@newBackupExpiryOpFilter[136]
+
+	Insert	Block@@[136]
+
+	Insert	ReturnStatement@@[136]
+
+	Insert	ClassInstanceCreation@@[136]
+
+	Insert	ParameterizedType@@IBiFunction<Integer,Integer,Boolean>[136]
+
+	Insert	SimpleType@@IBiFunction[136]
+
+	Insert	SimpleName@@IBiFunction[136]
+
+	Insert	SimpleType@@Integer[136]
+
+	Insert	SimpleName@@Integer[136]
+
+	Insert	SimpleType@@Integer[137]
+
+	Insert	SimpleName@@Integer[137]
+
+	Insert	SimpleType@@Boolean[139]
+
+	Insert	SimpleName@@Boolean[139]
+
+	Insert	AnonymousClassDeclaration@@[140]
+
+	Insert	MethodDeclaration@@[140]
+
+	Insert	MarkerAnnotation@@[140]
+
+	Insert	SimpleName@@Override[140]
+
+	Insert	Modifier@@public[140]
+
+	Insert	SimpleType@@Boolean[140]
+
+	Insert	SimpleName@@Boolean[140]
+
+	Insert	SimpleName@@apply[140]
+
+	Insert	SingleVariableDeclaration@@[140]
+
+	Insert	SimpleType@@Integer[140]
+
+	Insert	SimpleName@@Integer[140]
+
+	Insert	SimpleName@@partitionId[140]
+
+	Insert	SingleVariableDeclaration@@[140]
+
+	Insert	SimpleType@@Integer[140]
+
+	Insert	SimpleName@@Integer[140]
+
+	Insert	SimpleName@@replicaIndex[141]
+
+	Insert	Block@@[141]
+
+	Insert	VariableDeclarationStatement@@[141]
+
+	Insert	ParameterizedType@@IBiFunction<Integer,Integer,Boolean>[141]
+
+	Insert	SimpleType@@IBiFunction[141]
+
+	Insert	SimpleName@@IBiFunction[141]
+
+	Insert	SimpleType@@Integer[141]
+
+	Insert	SimpleName@@Integer[141]
+
+	Insert	SimpleType@@Integer[141]
+
+	Insert	SimpleName@@Integer[141]
+
+	Insert	SimpleType@@Boolean[142]
+
+	Insert	SimpleName@@Boolean[142]
+
+	Insert	VariableDeclarationFragment@@[142]
+
+	Insert	SimpleName@@filter[142]
+
+	Insert	SuperMethodInvocation@@[143]
+
+	Insert	SimpleName@@CacheClearExpiredRecordsTask[143]
+
+	Insert	SimpleName@@newBackupExpiryOpFilter[143]
+
+	Insert	IfStatement@@[144]
+
+	Insert	PrefixExpression@@![144]
+
+	Insert	MethodInvocation@@[144]
+
+	Insert	SimpleName@@filter[144]
+
+	Insert	SimpleName@@apply[144]
+
+	Insert	SimpleName@@partitionId[144]
+
+	Insert	SimpleName@@replicaIndex[144]
+
+	Insert	Block@@[145]
+
+	Insert	ReturnStatement@@[145]
+
+	Insert	BooleanLiteral@@false[145]
+
+	Insert	VariableDeclarationStatement@@[150]
+
+	Insert	SimpleType@@IPartition[150]
+
+	Insert	SimpleName@@IPartition[150]
+
+	Insert	VariableDeclarationFragment@@[150]
+
+	Insert	SimpleName@@partition[150]
+
+	Insert	MethodInvocation@@[151]
+
+	Insert	SimpleName@@partitionService[151]
+
+	Insert	SimpleName@@getPartition[151]
+
+	Insert	SimpleName@@partitionId[151]
+
+	Insert	VariableDeclarationStatement@@[152]
+
+	Insert	SimpleType@@Address[152]
+
+	Insert	SimpleName@@Address[152]
+
+	Insert	VariableDeclarationFragment@@[152]
+
+	Insert	SimpleName@@replicaAddress[152]
+
+	Insert	MethodInvocation@@[153]
+
+	Insert	SimpleName@@partition[153]
+
+	Insert	SimpleName@@getReplicaAddress[153]
+
+	Insert	SimpleName@@replicaIndex[153]
+
+	Insert	VariableDeclarationStatement@@[154]
+
+	Insert	SimpleType@@Member[154]
+
+	Insert	SimpleName@@Member[154]
+
+	Insert	VariableDeclarationFragment@@[154]
+
+	Insert	SimpleName@@member[154]
+
+	Insert	MethodInvocation@@[154]
+
+	Insert	MethodInvocation@@[154]
+
+	Insert	SimpleName@@nodeEngine[154]
+
+	Insert	SimpleName@@getClusterService[154]
+
+	Insert	SimpleName@@getMember[154]
+
+	Insert	SimpleName@@replicaAddress[155]
+
+	Insert	IfStatement@@[155]
+
+	Insert	InfixExpression@@==[155]
+
+	Insert	SimpleName@@member[155]
+
+	Insert	NullLiteral@@[155]
+
+	Insert	Block@@[155]
+
+	Insert	ReturnStatement@@[155]
+
+	Insert	BooleanLiteral@@false[156]
+
+	Insert	ReturnStatement@@[156]
+
+	Insert	MethodInvocation@@[156]
+
+	Insert	MethodInvocation@@[156]
+
+	Insert	MethodInvocation@@[156]
+
+	Insert	SimpleName@@member[156]
+
+	Insert	SimpleName@@getVersion[156]
+
+	Insert	SimpleName@@asVersion[156]
+
+	Insert	SimpleName@@isGreaterOrEqual[156]
+
+	Insert	QualifiedName@@Versions.V3_11[157]
+, Insert	ClassInstanceCreation@@[94]
+
+	Insert	ParameterizedType@@Comparator<CachePartitionSegment>[94]
+
+	Insert	SimpleType@@Comparator[94]
+
+	Insert	SimpleName@@Comparator[94]
+
+	Insert	SimpleType@@CachePartitionSegment[96]
+
+	Insert	SimpleName@@CachePartitionSegment[96]
+
+	Insert	AnonymousClassDeclaration@@[96]
+
+	Insert	MethodDeclaration@@[96]
+
+	Insert	MarkerAnnotation@@[96]
+
+	Insert	SimpleName@@Override[96]
+
+	Insert	Modifier@@public[96]
+
+	Insert	PrimitiveType@@int[96]
+
+	Insert	SimpleName@@compare[96]
+
+	Insert	SingleVariableDeclaration@@[96]
+
+	Insert	SimpleType@@CachePartitionSegment[96]
+
+	Insert	SimpleName@@CachePartitionSegment[96]
+
+	Insert	SimpleName@@o1[96]
+
+	Insert	SingleVariableDeclaration@@[96]
+
+	Insert	SimpleType@@CachePartitionSegment[96]
+
+	Insert	SimpleName@@CachePartitionSegment[96]
+
+	Insert	SimpleName@@o2[96]
+, Move	Block@@[95]	TO	MethodDeclaration@@[96]
+, Insert	Modifier@@final[97]
+, Insert	Modifier@@final[98]
+, Delete	LambdaExpression@@[95]
+
+	Delete	VariableDeclarationFragment@@[95]
+
+	Delete	SimpleName@@o1[95]
+
+	Delete	VariableDeclarationFragment@@[95]
+
+	Delete	SimpleName@@o2[95]
+]

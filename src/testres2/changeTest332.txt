@@ -1,0 +1,6 @@
+[Insert	ImportDeclaration@@[27]
+
+	Insert	QualifiedName@@org.slf4j.LoggerFactory[29]
+, Update	QualifiedName@@org.apache.log4j.Logger[27]	TO	org.slf4j.Logger
+, Update	SimpleName@@Logger[72]	TO	LoggerFactory
+]

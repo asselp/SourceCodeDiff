@@ -1,0 +1,84 @@
+[Insert	PrimitiveType@@long[87]
+, Insert	InfixExpression@@>[92]
+
+	Insert	SimpleName@@timeout[92]
+
+	Insert	NumberLiteral@@0[92]
+, Update	SimpleName@@maxInactiveInterval[90]	TO	timeout
+, Insert	QualifiedName@@TimeUnit.MILLISECONDS[91]
+, Insert	PrimitiveType@@long[92]
+, Insert	PrimitiveType@@long[94]
+, Insert	MethodInvocation@@[92]
+
+	Insert	SimpleName@@getTime[93]
+, Update	StringLiteral@@"Session %s will expire in %d sec"[99]	TO	"Session %s will expire in %d ms"
+, Update	SimpleName@@maxInactiveInterval[99]	TO	timeout
+, Move	SimpleName@@maxInactiveInterval[99]	TO	MethodInvocation@@[97]
+, Move	MethodInvocation@@[94]	TO	MethodInvocation@@[92]
+, Update	SimpleName@@Duration[96]	TO	Math
+, Update	SimpleName@@between[96]	TO	max
+, Insert	InfixExpression@@-[94]
+
+	Insert	InfixExpression@@+[94]
+
+	Insert	SimpleName@@lastAccessed[94]
+
+	Insert	SimpleName@@timeout[94]
+
+	Insert	MethodInvocation@@[94]
+, Insert	NumberLiteral@@0[94]
+, Update	SimpleName@@lastAccessed[96]	TO	System
+, Move	SimpleName@@lastAccessed[96]	TO	MethodInvocation@@[94]
+, Update	SimpleName@@plus[96]	TO	currentTimeMillis
+, Move	SimpleName@@plus[96]	TO	MethodInvocation@@[94]
+, Move	SimpleName@@delay[101]	TO	MethodInvocation@@[100]
+, Update	QualifiedName@@TimeUnit.SECONDS[102]	TO	TimeUnit.MILLISECONDS
+, Delete	ImportDeclaration@@[25]
+
+	Delete	QualifiedName@@java.time.Duration[25]
+, Delete	ImportDeclaration@@[26]
+
+	Delete	QualifiedName@@java.time.Instant[26]
+, Delete	SimpleType@@Duration[89]
+
+	Delete	SimpleName@@Duration[89]
+, Delete	PrefixExpression@@![94]
+
+	Delete	MethodInvocation@@[94]
+
+	Delete	SimpleName@@maxInactiveInterval[94]
+
+	Delete	SimpleName@@isZero[94]
+, Delete	SimpleType@@Instant[94]
+
+	Delete	SimpleName@@Instant[94]
+, Delete	SimpleType@@Duration[95]
+
+	Delete	SimpleName@@Duration[95]
+, Delete	MethodInvocation@@[96]
+
+	Delete	SimpleName@@Instant[96]
+
+	Delete	SimpleName@@now[96]
+, Delete	MethodInvocation@@[96]
+
+	Delete	SimpleName@@maxInactiveInterval[96]
+, Delete	MethodInvocation@@[99]
+
+	Delete	SimpleName@@getSeconds[100]
+, Delete	ConditionalExpression@@[101]
+
+	Delete	PrefixExpression@@![101]
+
+	Delete	MethodInvocation@@[101]
+
+	Delete	SimpleName@@isNegative[101]
+
+	Delete	MethodInvocation@@[101]
+
+	Delete	SimpleName@@delay[101]
+
+	Delete	SimpleName@@getSeconds[102]
+
+	Delete	NumberLiteral@@0[102]
+]

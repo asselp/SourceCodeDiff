@@ -1,0 +1,21 @@
+[Delete	FieldDeclaration@@[59]
+
+	Delete	Modifier@@public[59]
+
+	Delete	Modifier@@static[59]
+
+	Delete	Modifier@@final[59]
+
+	Delete	PrimitiveType@@long[59]
+
+	Delete	VariableDeclarationFragment@@[59]
+
+	Delete	SimpleName@@ITEM_IMAGMQ[59]
+
+	Delete	MethodInvocation@@[59]
+
+	Delete	QualifiedName@@TypeIfc.IMAGEMAP_QUESTION[59]
+
+	Delete	SimpleName@@longValue[60]
+, Delete	StringLiteral@@"Image Map Question"[76]
+]

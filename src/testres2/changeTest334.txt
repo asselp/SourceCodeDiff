@@ -1,0 +1,29 @@
+[Insert	SingleVariableDeclaration@@[15]
+
+	Insert	SimpleType@@Integer[15]
+
+	Insert	SimpleName@@Integer[15]
+
+	Insert	SimpleName@@scaledFactor[15]
+, Insert	SingleVariableDeclaration@@[21]
+
+	Insert	SimpleType@@Integer[21]
+
+	Insert	SimpleName@@Integer[21]
+
+	Insert	SimpleName@@scaledFactor[21]
+, Insert	SingleVariableDeclaration@@[23]
+
+	Insert	SimpleType@@Integer[23]
+
+	Insert	SimpleName@@Integer[23]
+
+	Insert	SimpleName@@scaledFactor[23]
+, Insert	SingleVariableDeclaration@@[25]
+
+	Insert	SimpleType@@Integer[25]
+
+	Insert	SimpleName@@Integer[25]
+
+	Insert	SimpleName@@scaledFactor[25]
+]

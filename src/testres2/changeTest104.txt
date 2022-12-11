@@ -1,0 +1,5 @@
+[Update	QualifiedName@@com.hazelcast.cp.internal.datastructures.unsafe.atomiclong.AtomicLongService[21]	TO	com.hazelcast.concurrent.atomiclong.AtomicLongService
+, Update	QualifiedName@@com.hazelcast.cp.internal.datastructures.unsafe.atomiclong.operations.SetOperation[22]	TO	com.hazelcast.concurrent.atomiclong.operations.SetOperation
+, Update	QualifiedName@@com.hazelcast.instance.impl.Node[23]	TO	com.hazelcast.instance.Node
+, Update	QualifiedName@@com.hazelcast.spi.impl.operationservice.Operation[27]	TO	com.hazelcast.spi.Operation
+]

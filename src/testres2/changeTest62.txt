@@ -1,0 +1,11 @@
+[Insert	StringLiteral@@"javax.json.bind.api"[57]
+, Insert	StringLiteral@@"org.eclipse.yasson"[63]
+, Delete	ImportDeclaration@@[23]
+
+	Delete	QualifiedName@@org.jboss.as.ee.subsystem.EeSubsystemRootResource.ECLIPSE_YASSON[23]
+, Delete	ImportDeclaration@@[27]
+
+	Delete	QualifiedName@@org.jboss.as.ee.subsystem.EeSubsystemRootResource.JSON_BIND_API[27]
+, Delete	SimpleName@@JSON_BIND_API[59]
+, Delete	SimpleName@@ECLIPSE_YASSON[65]
+]

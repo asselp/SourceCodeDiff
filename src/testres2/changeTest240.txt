@@ -1,0 +1,8 @@
+[Update	QualifiedName@@com.facebook.react.devsupport.DevServerHelper[55]	TO	com.facebook.react.devsupport.interfaces.DevSupportManager
+, Update	QualifiedName@@com.facebook.react.devsupport.DevSupportManager[56]	TO	com.facebook.react.devsupport.interfaces.PackagerStatusCallback
+, Update	QualifiedName@@com.facebook.react.modules.debug.DeveloperSettings[62]	TO	com.facebook.react.modules.debug.interfaces.DeveloperSettings
+, Update	QualifiedName@@com.facebook.react.uimanager.AppRegistry[63]	TO	com.facebook.react.modules.appregistry.AppRegistry
+, Update	SimpleType@@DevServerHelper.PackagerStatusCallback[403]	TO	PackagerStatusCallback
+, Insert	SimpleName@@PackagerStatusCallback[403]
+, Delete	QualifiedName@@DevServerHelper.PackagerStatusCallback[403]
+]

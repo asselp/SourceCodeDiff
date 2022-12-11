@@ -1,0 +1,8 @@
+[Update	QualifiedName@@org.junit.Assert.assertEquals[14]	TO	alluxio.security.authentication.AuthenticatedClientUser
+, Update	QualifiedName@@alluxio.security.authentication.AuthenticatedClientUser[14]	TO	org.junit.After
+, Update	QualifiedName@@org.junit.After[16]	TO	org.junit.Assert
+, Insert	SimpleName@@Assert[46]
+, Insert	SimpleName@@Assert[53]
+, Insert	SimpleName@@Assert[31]
+, Insert	SimpleName@@Assert[33]
+]

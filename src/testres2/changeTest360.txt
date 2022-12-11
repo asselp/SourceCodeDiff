@@ -1,0 +1,142 @@
+[Insert	ImportDeclaration@@[18]
+
+	Insert	QualifiedName@@tachyon.conf.TachyonConf[18]
+, Insert	TypeDeclaration@@[25]
+
+	Insert	Javadoc@@[25]
+
+	Insert	Modifier@@public[28]
+
+	Insert	Modifier@@static[28]
+
+	Insert	SimpleName@@Builder[29]
+
+	Insert	ParameterizedType@@OptionsBuilder<MountOptions>[30]
+
+	Insert	SimpleType@@OptionsBuilder[30]
+
+	Insert	SimpleType@@MountOptions[30]
+
+	Insert	MethodDeclaration@@[33]
+
+	Insert	Javadoc@@[33]
+
+	Insert	Modifier@@public[39]
+
+	Insert	SimpleName@@Builder[39]
+
+	Insert	SingleVariableDeclaration@@[39]
+
+	Insert	SimpleType@@TachyonConf[39]
+
+	Insert	SimpleName@@TachyonConf[39]
+
+	Insert	SimpleName@@conf[40]
+
+	Insert	Block@@[40]
+, Insert	MethodDeclaration@@[57]
+
+	Insert	Modifier@@private[57]
+
+	Insert	SimpleName@@MountOptions[57]
+
+	Insert	SingleVariableDeclaration@@[58]
+
+	Insert	SimpleType@@MountOptions.Builder[58]
+
+	Insert	QualifiedName@@MountOptions.Builder[58]
+
+	Insert	SimpleName@@builder[58]
+
+	Insert	Block@@[59]
+, Move	MethodDeclaration@@[32]	TO	TypeDeclaration@@[25]
+, Move	MethodDeclaration@@[35]	TO	TypeDeclaration@@[25]
+, Insert	Modifier@@static[55]
+, Update	SimpleName@@setReadOnly[48]	TO	defaults
+, Insert	Javadoc@@[30]
+, Update	Modifier@@private[32]	TO	public
+, Update	SimpleName@@MountOptions[32]	TO	Builder
+, Insert	MarkerAnnotation@@[46]
+
+	Insert	SimpleName@@Override[46]
+, Insert	SimpleType@@MountOptions[46]
+
+	Insert	SimpleName@@MountOptions[46]
+, Insert	SimpleName@@build[47]
+, Insert	ReturnStatement@@[55]
+
+	Insert	MethodInvocation@@[56]
+
+	Insert	ClassInstanceCreation@@[56]
+
+	Insert	SimpleType@@Builder[57]
+
+	Insert	SimpleName@@Builder[57]
+
+	Insert	SimpleName@@build[57]
+, Update	SimpleName@@MountOptions[29]	TO	OptionsBuilder
+, Move	SimpleName@@MountOptions[29]	TO	SimpleType@@OptionsBuilder[30]
+, Move	SimpleName@@MountOptions[31]	TO	SimpleType@@MountOptions[30]
+, Insert	ClassInstanceCreation@@[48]
+
+	Insert	SimpleType@@MountOptions[49]
+
+	Insert	SimpleName@@MountOptions[49]
+
+	Insert	ThisExpression@@[49]
+, Delete	ExpressionStatement@@[33]
+
+	Delete	Assignment@@=[33]
+
+	Delete	SimpleName@@mReadOnly[33]
+
+	Delete	BooleanLiteral@@false[35]
+, Delete	PrimitiveType@@boolean[40]
+, Delete	SimpleName@@isReadOnly[40]
+, Delete	SimpleName@@mReadOnly[42]
+, Delete	FieldDeclaration@@[24]
+
+	Delete	Javadoc@@[24]
+
+	Delete	Modifier@@private[25]
+
+	Delete	PrimitiveType@@boolean[25]
+
+	Delete	VariableDeclarationFragment@@[25]
+
+	Delete	SimpleName@@mReadOnly[25]
+, Delete	MethodDeclaration@@[26]
+
+	Delete	Javadoc@@[26]
+
+	Delete	Modifier@@public[29]
+
+	Delete	Modifier@@static[29]
+
+	Delete	SimpleType@@MountOptions[29]
+
+	Delete	SimpleName@@defaults[30]
+
+	Delete	Block@@[31]
+
+	Delete	ReturnStatement@@[31]
+
+	Delete	ClassInstanceCreation@@[31]
+
+	Delete	SimpleType@@MountOptions[31]
+, Delete	SingleVariableDeclaration@@[48]
+
+	Delete	PrimitiveType@@boolean[48]
+
+	Delete	SimpleName@@readOnly[49]
+, Delete	ExpressionStatement@@[50]
+
+	Delete	Assignment@@=[50]
+
+	Delete	SimpleName@@mReadOnly[50]
+
+	Delete	SimpleName@@readOnly[50]
+, Delete	ReturnStatement@@[50]
+
+	Delete	ThisExpression@@[50]
+]

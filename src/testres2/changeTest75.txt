@@ -1,0 +1,56 @@
+[Delete	ImportDeclaration@@[25]
+
+	Delete	QualifiedName@@org.jboss.as.controller.capability.RuntimeCapability[25]
+, Delete	FieldDeclaration@@[33]
+
+	Delete	Modifier@@static[33]
+
+	Delete	Modifier@@final[33]
+
+	Delete	SimpleType@@String[33]
+
+	Delete	SimpleName@@String[33]
+
+	Delete	VariableDeclarationFragment@@[33]
+
+	Delete	SimpleName@@JMX_CAPABILITY[33]
+
+	Delete	StringLiteral@@"org.wildfly.management.jmx"[35]
+, Delete	FieldDeclaration@@[35]
+
+	Delete	Modifier@@static[35]
+
+	Delete	Modifier@@final[35]
+
+	Delete	ParameterizedType@@RuntimeCapability<Void>[35]
+
+	Delete	SimpleType@@RuntimeCapability[35]
+
+	Delete	SimpleName@@RuntimeCapability[35]
+
+	Delete	SimpleType@@Void[36]
+
+	Delete	SimpleName@@Void[36]
+
+	Delete	VariableDeclarationFragment@@[36]
+
+	Delete	SimpleName@@JSR77_CAPABILITY[36]
+
+	Delete	MethodInvocation@@[36]
+
+	Delete	MethodInvocation@@[36]
+
+	Delete	MethodInvocation@@[36]
+
+	Delete	QualifiedName@@RuntimeCapability.Builder[36]
+
+	Delete	SimpleName@@of[36]
+
+	Delete	StringLiteral@@"org.wildfly.jsr77"[36]
+
+	Delete	SimpleName@@addRequirements[36]
+
+	Delete	SimpleName@@JMX_CAPABILITY[36]
+
+	Delete	SimpleName@@build[37]
+]

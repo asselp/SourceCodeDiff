@@ -1,0 +1,231 @@
+[Insert	ImportDeclaration@@[35]
+
+	Insert	QualifiedName@@org.neo4j.helpers.collection.MapUtil[35]
+, Insert	MethodDeclaration@@[130]
+
+	Insert	MarkerAnnotation@@[130]
+
+	Insert	SimpleName@@Test[130]
+
+	Insert	Modifier@@public[130]
+
+	Insert	PrimitiveType@@void[130]
+
+	Insert	SimpleName@@shouldReportNodeIndexedMultipleTimes[130]
+
+	Insert	SimpleType@@Exception[131]
+
+	Insert	SimpleName@@Exception[131]
+
+	Insert	Block@@[131]
+
+	Insert	VariableDeclarationStatement@@[131]
+
+	Insert	SimpleType@@IndexRule[131]
+
+	Insert	SimpleName@@IndexRule[131]
+
+	Insert	VariableDeclarationFragment@@[131]
+
+	Insert	SimpleName@@indexRule[131]
+
+	Insert	MethodInvocation@@[134]
+
+	Insert	SimpleName@@indexRule[134]
+
+	Insert	SimpleName@@indexId[135]
+
+	Insert	SimpleName@@labelId[135]
+
+	Insert	SimpleName@@propertyKeyId[135]
+
+	Insert	ClassInstanceCreation@@[135]
+
+	Insert	SimpleType@@Descriptor[135]
+
+	Insert	SimpleName@@Descriptor[135]
+
+	Insert	StringLiteral@@"provider1"[135]
+
+	Insert	StringLiteral@@"version1"[135]
+
+	Insert	VariableDeclarationStatement@@[137]
+
+	Insert	SimpleType@@NodeRecord[137]
+
+	Insert	SimpleName@@NodeRecord[137]
+
+	Insert	VariableDeclarationFragment@@[138]
+
+	Insert	SimpleName@@nodeRecord[138]
+
+	Insert	MethodInvocation@@[138]
+
+	Insert	SimpleName@@nodeWithLabels[138]
+
+	Insert	SimpleName@@labelId[138]
+
+	Insert	VariableDeclarationStatement@@[138]
+
+	Insert	PrimitiveType@@long[138]
+
+	Insert	VariableDeclarationFragment@@[138]
+
+	Insert	SimpleName@@nodeId[138]
+
+	Insert	MethodInvocation@@[138]
+
+	Insert	SimpleName@@nodeRecord[138]
+
+	Insert	SimpleName@@getId[138]
+
+	Insert	VariableDeclarationStatement@@[138]
+
+	Insert	SimpleType@@NodeCorrectlyIndexedCheck[138]
+
+	Insert	SimpleName@@NodeCorrectlyIndexedCheck[138]
+
+	Insert	VariableDeclarationFragment@@[138]
+
+	Insert	SimpleName@@check[138]
+
+	Insert	ClassInstanceCreation@@[139]
+
+	Insert	SimpleType@@NodeCorrectlyIndexedCheck[139]
+
+	Insert	SimpleName@@NodeCorrectlyIndexedCheck[139]
+
+	Insert	MethodInvocation@@[139]
+
+	Insert	SimpleName@@indexContaining[139]
+
+	Insert	SimpleName@@indexRule[141]
+
+	Insert	MethodInvocation@@[141]
+
+	Insert	SimpleName@@MapUtil[141]
+
+	Insert	SimpleType@@Object[141]
+
+	Insert	SimpleName@@Object[141]
+
+	Insert	ArrayType@@long[][141]
+
+	Insert	PrimitiveType@@long[141]
+
+	Insert	Dimension@@[141]
+
+	Insert	SimpleName@@genericMap[141]
+
+	Insert	StringLiteral@@"propertyValue"[142]
+
+	Insert	ArrayCreation@@[142]
+
+	Insert	ArrayType@@long[][142]
+
+	Insert	PrimitiveType@@long[142]
+
+	Insert	Dimension@@[142]
+
+	Insert	ArrayInitializer@@[142]
+
+	Insert	SimpleName@@nodeId[142]
+
+	Insert	SimpleName@@nodeId[142]
+
+	Insert	SimpleName@@nodeId[143]
+
+	Insert	MethodInvocation@@[143]
+
+	Insert	SimpleName@@nodeHasProperty[143]
+
+	Insert	SimpleName@@nodeRecord[143]
+
+	Insert	StringLiteral@@"propertyValue"[143]
+
+	Insert	VariableDeclarationStatement@@[144]
+
+	Insert	SimpleType@@ConsistencyReport.NodeConsistencyReport[144]
+
+	Insert	QualifiedName@@ConsistencyReport.NodeConsistencyReport[144]
+
+	Insert	VariableDeclarationFragment@@[144]
+
+	Insert	SimpleName@@report[144]
+
+	Insert	MethodInvocation@@[144]
+
+	Insert	SimpleName@@mock[144]
+
+	Insert	TypeLiteral@@[144]
+
+	Insert	SimpleType@@ConsistencyReport.NodeConsistencyReport[144]
+
+	Insert	QualifiedName@@ConsistencyReport.NodeConsistencyReport[144]
+
+	Insert	ExpressionStatement@@[145]
+
+	Insert	MethodInvocation@@[145]
+
+	Insert	SimpleName@@check[145]
+
+	Insert	SimpleName@@check[145]
+
+	Insert	SimpleName@@nodeRecord[147]
+
+	Insert	MethodInvocation@@[147]
+
+	Insert	SimpleName@@engineFor[147]
+
+	Insert	SimpleName@@report[147]
+
+	Insert	NullLiteral@@[147]
+
+	Insert	ExpressionStatement@@[147]
+
+	Insert	MethodInvocation@@[147]
+
+	Insert	MethodInvocation@@[147]
+
+	Insert	SimpleName@@verify[147]
+
+	Insert	SimpleName@@report[147]
+
+	Insert	SimpleName@@indexedMultipleTimes[147]
+
+	Insert	SimpleName@@indexRule[147]
+
+	Insert	StringLiteral@@"propertyValue"[149]
+
+	Insert	NumberLiteral@@3[150]
+, Update	PrimitiveType@@boolean[193]	TO	int
+, Update	SimpleName@@hasIndexed[193]	TO	getIndexedCount
+, Insert	VariableDeclarationStatement@@[223]
+
+	Insert	PrimitiveType@@int[223]
+
+	Insert	VariableDeclarationFragment@@[223]
+
+	Insert	SimpleName@@count[223]
+
+	Insert	NumberLiteral@@0[224]
+, Insert	SimpleName@@count[230]
+, Update	SimpleName@@canidates[195]	TO	candidates
+, Update	SimpleName@@canidates[198]	TO	candidates
+, Update	QualifiedName@@canidates.length[201]	TO	candidates.length
+, Insert	NumberLiteral@@0[222]
+, Insert	ExpressionStatement@@[229]
+
+	Insert	PostfixExpression@@++[229]
+
+	Insert	SimpleName@@count[229]
+, Update	SimpleName@@canidates[202]	TO	candidates
+, Delete	SimpleType@@IOException[130]
+
+	Delete	SimpleName@@IOException[130]
+, Delete	BooleanLiteral@@false[199]
+, Delete	ReturnStatement@@[205]
+
+	Delete	BooleanLiteral@@true[205]
+, Delete	BooleanLiteral@@false[207]
+]

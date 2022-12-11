@@ -1,0 +1,12 @@
+[Insert	ImportDeclaration@@[16]
+
+	Insert	QualifiedName@@com.facebook.react.uimanager.events.EventDispatcher[16]
+, Insert	SingleVariableDeclaration@@[26]
+
+	Insert	SimpleType@@EventDispatcher[26]
+
+	Insert	SimpleName@@EventDispatcher[26]
+
+	Insert	SimpleName@@eventDispatcher[26]
+, Insert	SimpleName@@eventDispatcher[28]
+]

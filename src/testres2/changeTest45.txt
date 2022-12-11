@@ -1,0 +1,11 @@
+[Update	SimpleName@@numberOfShards[129]	TO	getNumberOfShards
+, Update	SimpleName@@numberOfShards[417]	TO	getNumberOfShards
+, Update	SimpleName@@numberOfShards[438]	TO	getNumberOfShards
+, Update	SimpleName@@numberOfShards[133]	TO	getNumberOfShards
+, Update	SimpleName@@numberOfReplicas[144]	TO	getNumberOfReplicas
+, Update	SimpleName@@numberOfReplicas[420]	TO	getNumberOfReplicas
+, Update	SimpleName@@numberOfReplicas[442]	TO	getNumberOfReplicas
+, Update	SimpleName@@numberOfReplicas[147]	TO	getNumberOfReplicas
+, Update	SimpleName@@index[418]	TO	getIndex
+, Update	SimpleName@@index[440]	TO	getIndex
+]

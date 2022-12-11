@@ -1,0 +1,16 @@
+[Move	MethodInvocation@@[359]	TO	ClassInstanceCreation@@[357]
+, Insert	QualifiedName@@org.jboss.as.arquillian.container.NetworkUtils[357]
+, Update	SimpleName@@InetAddress[359]	TO	formatPossibleIpv6Address
+, Delete	ImportDeclaration@@[37]
+
+	Delete	QualifiedName@@java.net.InetAddress[38]
+, Delete	ImportDeclaration@@[45]
+
+	Delete	QualifiedName@@org.jboss.as.network.NetworkUtils[45]
+, Delete	SimpleName@@getByName[359]
+, Delete	MethodInvocation@@[358]
+
+	Delete	SimpleName@@NetworkUtils[358]
+
+	Delete	SimpleName@@formatAddress[359]
+]

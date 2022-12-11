@@ -1,0 +1,7 @@
+[Update	SimpleType@@RandomBlockJUnit4ClassRunner[39]	TO	com.hazelcast.util.RandomBlockJUnit4ClassRunner
+, Insert	QualifiedName@@com.hazelcast.util.RandomBlockJUnit4ClassRunner[38]
+, Delete	ImportDeclaration@@[25]
+
+	Delete	QualifiedName@@com.hazelcast.test.RandomBlockJUnit4ClassRunner[25]
+, Delete	SimpleName@@RandomBlockJUnit4ClassRunner[39]
+]

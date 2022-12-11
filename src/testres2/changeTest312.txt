@@ -1,0 +1,89 @@
+[Insert	ImportDeclaration@@[34]
+
+	Insert	QualifiedName@@lombok.Setter[34]
+, Update	QualifiedName@@org.sakaiproject.util.Validator[35]	TO	org.sakaiproject.util.api.FormattedText
+, Insert	FieldDeclaration@@[50]
+
+	Insert	MarkerAnnotation@@[50]
+
+	Insert	SimpleName@@Setter[50]
+
+	Insert	Modifier@@private[50]
+
+	Insert	SimpleType@@FormattedText[50]
+
+	Insert	VariableDeclarationFragment@@[50]
+
+	Insert	SimpleName@@formattedText[50]
+, Insert	MarkerAnnotation@@[47]
+
+	Insert	SimpleName@@Setter[47]
+, Insert	MarkerAnnotation@@[49]
+
+	Insert	SimpleName@@Setter[49]
+, Update	SimpleName@@ServerConfigurationService[79]	TO	FormattedText
+, Move	SimpleName@@ServerConfigurationService[79]	TO	SimpleType@@FormattedText[50]
+, Update	SimpleName@@Validator[138]	TO	formattedText
+, Delete	ImportDeclaration@@[23]
+
+	Delete	QualifiedName@@org.apache.commons.lang3.ArrayUtils[23]
+, Delete	ImportDeclaration@@[25]
+
+	Delete	QualifiedName@@org.apache.commons.lang3.StringUtils[25]
+, Delete	MethodDeclaration@@[75]
+
+	Delete	Modifier@@public[75]
+
+	Delete	PrimitiveType@@void[75]
+
+	Delete	SimpleName@@setEntityManager[76]
+
+	Delete	SingleVariableDeclaration@@[76]
+
+	Delete	SimpleType@@EntityManager[76]
+
+	Delete	SimpleName@@EntityManager[76]
+
+	Delete	SimpleName@@entityManager[76]
+
+	Delete	Block@@[76]
+
+	Delete	ExpressionStatement@@[76]
+
+	Delete	Assignment@@=[76]
+
+	Delete	FieldAccess@@[76]
+
+	Delete	ThisExpression@@[76]
+
+	Delete	SimpleName@@entityManager[76]
+
+	Delete	SimpleName@@entityManager[78]
+, Delete	MethodDeclaration@@[78]
+
+	Delete	Modifier@@public[78]
+
+	Delete	PrimitiveType@@void[78]
+
+	Delete	SimpleName@@setServerConfigurationService[78]
+
+	Delete	SingleVariableDeclaration@@[79]
+
+	Delete	SimpleType@@ServerConfigurationService[79]
+
+	Delete	SimpleName@@serverConfigurationService[79]
+
+	Delete	Block@@[82]
+
+	Delete	ExpressionStatement@@[82]
+
+	Delete	Assignment@@=[82]
+
+	Delete	FieldAccess@@[82]
+
+	Delete	ThisExpression@@[82]
+
+	Delete	SimpleName@@serverConfigurationService[82]
+
+	Delete	SimpleName@@serverConfigurationService[82]
+]

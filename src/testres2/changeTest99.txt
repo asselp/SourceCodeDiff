@@ -1,0 +1,7 @@
+[Insert	ImportDeclaration@@[48]
+
+	Insert	QualifiedName@@org.junit.FixMethodOrder[48]
+, Insert	MarkerAnnotation@@[79]
+
+	Insert	SimpleName@@FixMethodOrder[79]
+]

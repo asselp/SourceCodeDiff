@@ -1,0 +1,15 @@
+[Update	QualifiedName@@org.ballerinalang.connector.api.Annotation[3]	TO	org.ballerinalang.jvm.types.AttachedFunction
+, Update	QualifiedName@@org.ballerinalang.connector.api.Resource[4]	TO	org.ballerinalang.jvm.util.exceptions.BallerinaException
+, Update	QualifiedName@@org.ballerinalang.net.http.HttpResource[5]	TO	org.ballerinalang.jvm.values.MapValue
+, Update	QualifiedName@@org.ballerinalang.net.http.HttpService[6]	TO	org.ballerinalang.net.http.HttpResource
+, Update	QualifiedName@@org.ballerinalang.util.exceptions.BallerinaException[7]	TO	org.ballerinalang.net.http.HttpService
+, Update	SimpleType@@Resource[16]	TO	AttachedFunction
+
+	Update	SimpleName@@Resource[16]	TO	AttachedFunction
+, Update	SimpleType@@Resource[27]	TO	AttachedFunction
+
+	Update	SimpleName@@Resource[27]	TO	AttachedFunction
+, Update	SimpleType@@Annotation[28]	TO	MapValue
+
+	Update	SimpleName@@Annotation[28]	TO	MapValue
+]

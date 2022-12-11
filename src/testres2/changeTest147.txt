@@ -1,0 +1,13 @@
+[Update	SimpleName@@getId[99]	TO	getClassId
+, Update	ParameterizedType@@ArrayList<W>[89]	TO	ArrayList<>
+, Update	ParameterizedType@@ArrayList<W>[120]	TO	ArrayList<>
+, Delete	SimpleType@@W[63]
+
+	Delete	SimpleName@@W[63]
+, Delete	SimpleType@@W[89]
+
+	Delete	SimpleName@@W[89]
+, Delete	SimpleType@@W[120]
+
+	Delete	SimpleName@@W[120]
+]

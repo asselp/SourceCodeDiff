@@ -1,0 +1,404 @@
+[Delete	MethodDeclaration@@[131]
+
+	Delete	Modifier@@public[131]
+
+	Delete	PrimitiveType@@void[131]
+
+	Delete	SimpleName@@testReplicationWithShadowIndex[131]
+
+	Delete	SimpleType@@Exception[132]
+
+	Delete	SimpleName@@Exception[132]
+
+	Delete	Block@@[132]
+
+	Delete	VariableDeclarationStatement@@[132]
+
+	Delete	Modifier@@final[132]
+
+	Delete	SimpleType@@String[132]
+
+	Delete	SimpleName@@String[132]
+
+	Delete	VariableDeclarationFragment@@[132]
+
+	Delete	SimpleName@@index[132]
+
+	Delete	StringLiteral@@"test"[132]
+
+	Delete	VariableDeclarationStatement@@[132]
+
+	Delete	Modifier@@final[132]
+
+	Delete	SimpleType@@ShardId[132]
+
+	Delete	SimpleName@@ShardId[132]
+
+	Delete	VariableDeclarationFragment@@[133]
+
+	Delete	SimpleName@@shardId[133]
+
+	Delete	ClassInstanceCreation@@[136]
+
+	Delete	SimpleType@@ShardId[136]
+
+	Delete	SimpleName@@ShardId[136]
+
+	Delete	SimpleName@@index[136]
+
+	Delete	StringLiteral@@"_na_"[136]
+
+	Delete	NumberLiteral@@0[136]
+
+	Delete	VariableDeclarationStatement@@[136]
+
+	Delete	Modifier@@final[136]
+
+	Delete	SimpleType@@ClusterState[136]
+
+	Delete	SimpleName@@ClusterState[136]
+
+	Delete	VariableDeclarationFragment@@[136]
+
+	Delete	SimpleName@@state[136]
+
+	Delete	MethodInvocation@@[137]
+
+	Delete	SimpleName@@stateWithActivePrimary[137]
+
+	Delete	SimpleName@@index[137]
+
+	Delete	BooleanLiteral@@true[137]
+
+	Delete	MethodInvocation@@[137]
+
+	Delete	SimpleName@@randomInt[137]
+
+	Delete	NumberLiteral@@5[138]
+
+	Delete	VariableDeclarationStatement@@[138]
+
+	Delete	Modifier@@final[138]
+
+	Delete	PrimitiveType@@long[138]
+
+	Delete	VariableDeclarationFragment@@[138]
+
+	Delete	SimpleName@@primaryTerm[138]
+
+	Delete	MethodInvocation@@[138]
+
+	Delete	MethodInvocation@@[138]
+
+	Delete	MethodInvocation@@[138]
+
+	Delete	SimpleName@@state[138]
+
+	Delete	SimpleName@@getMetaData[138]
+
+	Delete	SimpleName@@index[140]
+
+	Delete	SimpleName@@index[140]
+
+	Delete	SimpleName@@primaryTerm[140]
+
+	Delete	NumberLiteral@@0[140]
+
+	Delete	VariableDeclarationStatement@@[140]
+
+	Delete	Modifier@@final[140]
+
+	Delete	SimpleType@@IndexShardRoutingTable[140]
+
+	Delete	SimpleName@@IndexShardRoutingTable[140]
+
+	Delete	VariableDeclarationFragment@@[140]
+
+	Delete	SimpleName@@indexShardRoutingTable[140]
+
+	Delete	MethodInvocation@@[141]
+
+	Delete	MethodInvocation@@[141]
+
+	Delete	SimpleName@@state[141]
+
+	Delete	SimpleName@@getRoutingTable[141]
+
+	Delete	SimpleName@@shardRoutingTable[141]
+
+	Delete	SimpleName@@shardId[141]
+
+	Delete	VariableDeclarationStatement@@[141]
+
+	Delete	Modifier@@final[141]
+
+	Delete	SimpleType@@ShardRouting[141]
+
+	Delete	SimpleName@@ShardRouting[141]
+
+	Delete	VariableDeclarationFragment@@[142]
+
+	Delete	SimpleName@@primaryShard[142]
+
+	Delete	MethodInvocation@@[142]
+
+	Delete	SimpleName@@indexShardRoutingTable[142]
+
+	Delete	SimpleName@@primaryShard[142]
+
+	Delete	VariableDeclarationStatement@@[142]
+
+	Delete	SimpleType@@Request[142]
+
+	Delete	SimpleName@@Request[142]
+
+	Delete	VariableDeclarationFragment@@[142]
+
+	Delete	SimpleName@@request[142]
+
+	Delete	ClassInstanceCreation@@[142]
+
+	Delete	SimpleType@@Request[142]
+
+	Delete	SimpleName@@Request[142]
+
+	Delete	SimpleName@@shardId[142]
+
+	Delete	VariableDeclarationStatement@@[142]
+
+	Delete	ParameterizedType@@PlainActionFuture<TestPrimary.Result>[142]
+
+	Delete	SimpleType@@PlainActionFuture[142]
+
+	Delete	SimpleName@@PlainActionFuture[142]
+
+	Delete	SimpleType@@TestPrimary.Result[143]
+
+	Delete	QualifiedName@@TestPrimary.Result[143]
+
+	Delete	VariableDeclarationFragment@@[143]
+
+	Delete	SimpleName@@listener[143]
+
+	Delete	ClassInstanceCreation@@[143]
+
+	Delete	ParameterizedType@@PlainActionFuture<>[143]
+
+	Delete	SimpleType@@PlainActionFuture[143]
+
+	Delete	SimpleName@@PlainActionFuture[143]
+
+	Delete	VariableDeclarationStatement@@[143]
+
+	Delete	Modifier@@final[143]
+
+	Delete	SimpleType@@TestReplicationOperation[145]
+
+	Delete	SimpleName@@TestReplicationOperation[145]
+
+	Delete	VariableDeclarationFragment@@[145]
+
+	Delete	SimpleName@@op[145]
+
+	Delete	ClassInstanceCreation@@[145]
+
+	Delete	SimpleType@@TestReplicationOperation[145]
+
+	Delete	SimpleName@@TestReplicationOperation[145]
+
+	Delete	SimpleName@@request[146]
+
+	Delete	ClassInstanceCreation@@[146]
+
+	Delete	SimpleType@@TestPrimary[146]
+
+	Delete	SimpleName@@TestPrimary[146]
+
+	Delete	SimpleName@@primaryShard[146]
+
+	Delete	SimpleName@@primaryTerm[146]
+
+	Delete	SimpleName@@listener[146]
+
+	Delete	BooleanLiteral@@false[147]
+
+	Delete	ClassInstanceCreation@@[147]
+
+	Delete	SimpleType@@TestReplicaProxy[147]
+
+	Delete	SimpleName@@TestReplicaProxy[147]
+
+	Delete	LambdaExpression@@[147]
+
+	Delete	SimpleName@@state[147]
+
+	Delete	SimpleName@@logger[147]
+
+	Delete	StringLiteral@@"test"[147]
+
+	Delete	ExpressionStatement@@[148]
+
+	Delete	MethodInvocation@@[148]
+
+	Delete	SimpleName@@op[148]
+
+	Delete	SimpleName@@execute[148]
+
+	Delete	ExpressionStatement@@[148]
+
+	Delete	MethodInvocation@@[148]
+
+	Delete	SimpleName@@assertThat[148]
+
+	Delete	StringLiteral@@"request was not processed on primary"[148]
+
+	Delete	MethodInvocation@@[148]
+
+	Delete	QualifiedName@@request.processedOnPrimary[148]
+
+	Delete	SimpleName@@get[149]
+
+	Delete	MethodInvocation@@[149]
+
+	Delete	SimpleName@@equalTo[149]
+
+	Delete	BooleanLiteral@@true[149]
+
+	Delete	ExpressionStatement@@[149]
+
+	Delete	MethodInvocation@@[149]
+
+	Delete	SimpleName@@assertThat[149]
+
+	Delete	QualifiedName@@request.processedOnReplicas[150]
+
+	Delete	MethodInvocation@@[151]
+
+	Delete	SimpleName@@equalTo[151]
+
+	Delete	MethodInvocation@@[151]
+
+	Delete	SimpleName@@Collections[151]
+
+	Delete	SimpleName@@emptySet[151]
+
+	Delete	ExpressionStatement@@[151]
+
+	Delete	MethodInvocation@@[151]
+
+	Delete	SimpleName@@assertTrue[151]
+
+	Delete	StringLiteral@@"listener is not marked as done"[151]
+
+	Delete	MethodInvocation@@[151]
+
+	Delete	SimpleName@@listener[151]
+
+	Delete	SimpleName@@isDone[151]
+
+	Delete	VariableDeclarationStatement@@[152]
+
+	Delete	SimpleType@@ShardInfo[152]
+
+	Delete	SimpleName@@ShardInfo[152]
+
+	Delete	VariableDeclarationFragment@@[152]
+
+	Delete	SimpleName@@shardInfo[152]
+
+	Delete	MethodInvocation@@[152]
+
+	Delete	MethodInvocation@@[152]
+
+	Delete	SimpleName@@listener[152]
+
+	Delete	SimpleName@@actionGet[152]
+
+	Delete	SimpleName@@getShardInfo[152]
+
+	Delete	ExpressionStatement@@[152]
+
+	Delete	MethodInvocation@@[152]
+
+	Delete	SimpleName@@assertThat[152]
+
+	Delete	MethodInvocation@@[153]
+
+	Delete	SimpleName@@shardInfo[153]
+
+	Delete	SimpleName@@getFailed[153]
+
+	Delete	MethodInvocation@@[153]
+
+	Delete	SimpleName@@equalTo[153]
+
+	Delete	NumberLiteral@@0[153]
+
+	Delete	ExpressionStatement@@[153]
+
+	Delete	MethodInvocation@@[153]
+
+	Delete	SimpleName@@assertThat[153]
+
+	Delete	MethodInvocation@@[153]
+
+	Delete	SimpleName@@shardInfo[153]
+
+	Delete	SimpleName@@getFailures[153]
+
+	Delete	MethodInvocation@@[154]
+
+	Delete	SimpleName@@arrayWithSize[154]
+
+	Delete	NumberLiteral@@0[154]
+
+	Delete	ExpressionStatement@@[154]
+
+	Delete	MethodInvocation@@[154]
+
+	Delete	SimpleName@@assertThat[154]
+
+	Delete	MethodInvocation@@[154]
+
+	Delete	SimpleName@@shardInfo[154]
+
+	Delete	SimpleName@@getSuccessful[154]
+
+	Delete	MethodInvocation@@[155]
+
+	Delete	SimpleName@@equalTo[155]
+
+	Delete	NumberLiteral@@1[155]
+
+	Delete	ExpressionStatement@@[155]
+
+	Delete	MethodInvocation@@[155]
+
+	Delete	SimpleName@@assertThat[155]
+
+	Delete	MethodInvocation@@[155]
+
+	Delete	SimpleName@@shardInfo[155]
+
+	Delete	SimpleName@@getTotal[155]
+
+	Delete	MethodInvocation@@[156]
+
+	Delete	SimpleName@@equalTo[156]
+
+	Delete	MethodInvocation@@[156]
+
+	Delete	SimpleName@@indexShardRoutingTable[156]
+
+	Delete	SimpleName@@getSize[156]
+, Delete	MethodInvocation@@[309]
+
+	Delete	SimpleName@@randomBoolean[309]
+, Delete	BooleanLiteral@@true[513]
+, Delete	SingleVariableDeclaration@@[520]
+
+	Delete	PrimitiveType@@boolean[520]
+
+	Delete	SimpleName@@executeOnReplicas[520]
+, Delete	SimpleName@@executeOnReplicas[521]
+]

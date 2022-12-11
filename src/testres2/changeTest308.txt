@@ -1,0 +1,14 @@
+[Insert	ExpressionStatement@@[2813]
+
+	Insert	MethodInvocation@@[2813]
+
+	Insert	SimpleName@@pipe[2813]
+
+	Insert	SimpleName@@setRevisedMimeType[2813]
+
+	Insert	MethodInvocation@@[2814]
+
+	Insert	SimpleName@@pipe[2814]
+
+	Insert	SimpleName@@getMimeType[2814]
+]

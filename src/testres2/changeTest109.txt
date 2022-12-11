@@ -1,0 +1,22 @@
+[Insert	MethodDeclaration@@[58]
+
+	Insert	Javadoc@@[58]
+
+	Insert	Modifier@@protected[64]
+
+	Insert	Modifier@@abstract[64]
+
+	Insert	PrimitiveType@@int[64]
+
+	Insert	SimpleName@@getPartitionId[64]
+
+	Insert	SingleVariableDeclaration@@[64]
+
+	Insert	SimpleType@@Collection[64]
+
+	Insert	SimpleName@@Collection[64]
+
+	Insert	SimpleName@@collection[64]
+, Update	SimpleName@@getPartitionIdViaReflection[68]	TO	getPartitionId
+, Update	SimpleName@@getPartitionIdViaReflection[102]	TO	getPartitionId
+]

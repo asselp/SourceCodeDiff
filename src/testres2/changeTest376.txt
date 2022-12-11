@@ -1,0 +1,24 @@
+[Insert	ImportDeclaration@@[51]
+
+	Insert	QualifiedName@@java.util.concurrent.TimeUnit[51]
+, Insert	VariableDeclarationStatement@@[279]
+
+	Insert	SimpleType@@String[279]
+
+	Insert	SimpleName@@String[279]
+
+	Insert	VariableDeclarationFragment@@[279]
+
+	Insert	SimpleName@@serverName[279]
+
+	Insert	MethodInvocation@@[279]
+
+	Insert	SimpleName@@NetworkAddressUtils[279]
+
+	Insert	SimpleName@@getConnectHost[280]
+
+	Insert	QualifiedName@@ServiceType.WORKER_RPC[281]
+, Insert	NumberLiteral@@10[113]
+, Insert	QualifiedName@@TimeUnit.SECONDS[114]
+, Insert	SimpleName@@serverName[283]
+]

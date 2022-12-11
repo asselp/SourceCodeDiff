@@ -1,0 +1,424 @@
+[Insert	ImportDeclaration@@[7]
+
+	Insert	QualifiedName@@com.yahoo.vespa.hosted.controller.integration.ZoneApiMock[8]
+, Insert	ImportDeclaration@@[8]
+
+	Insert	QualifiedName@@com.yahoo.vespa.hosted.controller.integration.ZoneRegistryMock[8]
+, Insert	MethodDeclaration@@[36]
+
+	Insert	MarkerAnnotation@@[36]
+
+	Insert	SimpleName@@Test[36]
+
+	Insert	Modifier@@public[36]
+
+	Insert	PrimitiveType@@void[36]
+
+	Insert	SimpleName@@identical_errors_and_changes_from_multiple_targets_are_merged[36]
+
+	Insert	Block@@[40]
+
+	Insert	VariableDeclarationStatement@@[40]
+
+	Insert	SimpleType@@ZoneApiMock[40]
+
+	Insert	SimpleName@@ZoneApiMock[40]
+
+	Insert	VariableDeclarationFragment@@[40]
+
+	Insert	SimpleName@@prodUsWest1Zone[40]
+
+	Insert	MethodInvocation@@[40]
+
+	Insert	SimpleName@@ZoneApiMock[40]
+
+	Insert	SimpleName@@fromId[41]
+
+	Insert	StringLiteral@@"prod.us-west-1"[41]
+
+	Insert	VariableDeclarationStatement@@[41]
+
+	Insert	SimpleType@@ZoneRegistryMock[41]
+
+	Insert	SimpleName@@ZoneRegistryMock[41]
+
+	Insert	VariableDeclarationFragment@@[41]
+
+	Insert	SimpleName@@registry[41]
+
+	Insert	MethodInvocation@@[41]
+
+	Insert	ClassInstanceCreation@@[41]
+
+	Insert	SimpleType@@ZoneRegistryMock[41]
+
+	Insert	SimpleName@@ZoneRegistryMock[41]
+
+	Insert	QualifiedName@@SystemName.cd[42]
+
+	Insert	SimpleName@@setZones[42]
+
+	Insert	SimpleName@@prodUsWest1Zone[42]
+
+	Insert	VariableDeclarationStatement@@[42]
+
+	Insert	SimpleType@@FlagsTarget[42]
+
+	Insert	SimpleName@@FlagsTarget[42]
+
+	Insert	VariableDeclarationFragment@@[42]
+
+	Insert	SimpleName@@prodUsWest1Target[42]
+
+	Insert	MethodInvocation@@[42]
+
+	Insert	SimpleName@@FlagsTarget[42]
+
+	Insert	SimpleName@@forConfigServer[43]
+
+	Insert	SimpleName@@registry[43]
+
+	Insert	MethodInvocation@@[43]
+
+	Insert	SimpleName@@prodUsWest1Zone[43]
+
+	Insert	SimpleName@@getId[43]
+
+	Insert	VariableDeclarationStatement@@[43]
+
+	Insert	SimpleType@@FlagsTarget[43]
+
+	Insert	SimpleName@@FlagsTarget[43]
+
+	Insert	VariableDeclarationFragment@@[43]
+
+	Insert	SimpleName@@controllerTarget[43]
+
+	Insert	MethodInvocation@@[43]
+
+	Insert	SimpleName@@FlagsTarget[43]
+
+	Insert	SimpleName@@forController[44]
+
+	Insert	QualifiedName@@SystemName.cd[44]
+
+	Insert	VariableDeclarationStatement@@[44]
+
+	Insert	SimpleType@@FlagId[44]
+
+	Insert	SimpleName@@FlagId[44]
+
+	Insert	VariableDeclarationFragment@@[44]
+
+	Insert	SimpleName@@flagOne[44]
+
+	Insert	ClassInstanceCreation@@[44]
+
+	Insert	SimpleType@@FlagId[44]
+
+	Insert	SimpleName@@FlagId[44]
+
+	Insert	StringLiteral@@"flagone"[44]
+
+	Insert	VariableDeclarationStatement@@[46]
+
+	Insert	SimpleType@@FlagId[46]
+
+	Insert	SimpleName@@FlagId[46]
+
+	Insert	VariableDeclarationFragment@@[46]
+
+	Insert	SimpleName@@flagTwo[46]
+
+	Insert	ClassInstanceCreation@@[46]
+
+	Insert	SimpleType@@FlagId[46]
+
+	Insert	SimpleName@@FlagId[46]
+
+	Insert	StringLiteral@@"flagtwo"[46]
+
+	Insert	VariableDeclarationStatement@@[47]
+
+	Insert	SimpleType@@SystemFlagsDeployResult[47]
+
+	Insert	SimpleName@@SystemFlagsDeployResult[47]
+
+	Insert	VariableDeclarationFragment@@[47]
+
+	Insert	SimpleName@@resultController[47]
+
+	Insert	ClassInstanceCreation@@[49]
+
+	Insert	SimpleType@@SystemFlagsDeployResult[49]
+
+	Insert	SimpleName@@SystemFlagsDeployResult[49]
+
+	Insert	MethodInvocation@@[50]
+
+	Insert	SimpleName@@List[50]
+
+	Insert	SimpleName@@of[50]
+
+	Insert	MethodInvocation@@[50]
+
+	Insert	SimpleName@@FlagDataChange[50]
+
+	Insert	SimpleName@@deleted[50]
+
+	Insert	SimpleName@@flagOne[51]
+
+	Insert	SimpleName@@controllerTarget[51]
+
+	Insert	MethodInvocation@@[51]
+
+	Insert	SimpleName@@List[51]
+
+	Insert	SimpleName@@of[51]
+
+	Insert	MethodInvocation@@[51]
+
+	Insert	SimpleName@@OperationError[51]
+
+	Insert	SimpleName@@deleteFailed[51]
+
+	Insert	StringLiteral@@"message"[52]
+
+	Insert	SimpleName@@controllerTarget[52]
+
+	Insert	SimpleName@@flagTwo[52]
+
+	Insert	VariableDeclarationStatement@@[52]
+
+	Insert	SimpleType@@SystemFlagsDeployResult[52]
+
+	Insert	SimpleName@@SystemFlagsDeployResult[52]
+
+	Insert	VariableDeclarationFragment@@[52]
+
+	Insert	SimpleName@@resultProdUsWest1[52]
+
+	Insert	ClassInstanceCreation@@[53]
+
+	Insert	SimpleType@@SystemFlagsDeployResult[53]
+
+	Insert	SimpleName@@SystemFlagsDeployResult[53]
+
+	Insert	MethodInvocation@@[54]
+
+	Insert	SimpleName@@List[54]
+
+	Insert	SimpleName@@of[54]
+
+	Insert	MethodInvocation@@[54]
+
+	Insert	SimpleName@@FlagDataChange[54]
+
+	Insert	SimpleName@@deleted[54]
+
+	Insert	SimpleName@@flagOne[55]
+
+	Insert	SimpleName@@prodUsWest1Target[55]
+
+	Insert	MethodInvocation@@[55]
+
+	Insert	SimpleName@@List[55]
+
+	Insert	SimpleName@@of[55]
+
+	Insert	MethodInvocation@@[55]
+
+	Insert	SimpleName@@OperationError[55]
+
+	Insert	SimpleName@@deleteFailed[55]
+
+	Insert	StringLiteral@@"message"[56]
+
+	Insert	SimpleName@@prodUsWest1Target[56]
+
+	Insert	SimpleName@@flagTwo[56]
+
+	Insert	VariableDeclarationStatement@@[56]
+
+	Insert	SimpleType@@var[56]
+
+	Insert	SimpleName@@var[56]
+
+	Insert	VariableDeclarationFragment@@[56]
+
+	Insert	SimpleName@@results[56]
+
+	Insert	MethodInvocation@@[56]
+
+	Insert	SimpleName@@List[56]
+
+	Insert	SimpleName@@of[56]
+
+	Insert	SimpleName@@resultController[56]
+
+	Insert	SimpleName@@resultProdUsWest1[56]
+
+	Insert	VariableDeclarationStatement@@[58]
+
+	Insert	SimpleType@@SystemFlagsDeployResult[58]
+
+	Insert	SimpleName@@SystemFlagsDeployResult[58]
+
+	Insert	VariableDeclarationFragment@@[58]
+
+	Insert	SimpleName@@mergedResult[58]
+
+	Insert	MethodInvocation@@[58]
+
+	Insert	SimpleName@@merge[58]
+
+	Insert	SimpleName@@results[58]
+
+	Insert	VariableDeclarationStatement@@[59]
+
+	Insert	ParameterizedType@@List<FlagDataChange>[59]
+
+	Insert	SimpleType@@List[59]
+
+	Insert	SimpleName@@List[59]
+
+	Insert	SimpleType@@FlagDataChange[59]
+
+	Insert	SimpleName@@FlagDataChange[59]
+
+	Insert	VariableDeclarationFragment@@[59]
+
+	Insert	SimpleName@@changes[59]
+
+	Insert	MethodInvocation@@[59]
+
+	Insert	SimpleName@@mergedResult[59]
+
+	Insert	SimpleName@@flagChanges[59]
+
+	Insert	ExpressionStatement@@[61]
+
+	Insert	MethodInvocation@@[61]
+
+	Insert	MethodInvocation@@[61]
+
+	Insert	SimpleName@@assertThat[61]
+
+	Insert	SimpleName@@changes[61]
+
+	Insert	SimpleName@@hasSize[61]
+
+	Insert	NumberLiteral@@1[61]
+
+	Insert	VariableDeclarationStatement@@[61]
+
+	Insert	SimpleType@@FlagDataChange[61]
+
+	Insert	SimpleName@@FlagDataChange[61]
+
+	Insert	VariableDeclarationFragment@@[62]
+
+	Insert	SimpleName@@change[62]
+
+	Insert	MethodInvocation@@[62]
+
+	Insert	SimpleName@@changes[62]
+
+	Insert	SimpleName@@get[62]
+
+	Insert	NumberLiteral@@0[62]
+
+	Insert	ExpressionStatement@@[62]
+
+	Insert	MethodInvocation@@[62]
+
+	Insert	MethodInvocation@@[62]
+
+	Insert	SimpleName@@assertThat[62]
+
+	Insert	MethodInvocation@@[63]
+
+	Insert	SimpleName@@change[63]
+
+	Insert	SimpleName@@targets[63]
+
+	Insert	SimpleName@@containsOnly[63]
+
+	Insert	SimpleName@@controllerTarget[63]
+
+	Insert	SimpleName@@prodUsWest1Target[64]
+
+	Insert	VariableDeclarationStatement@@[64]
+
+	Insert	ParameterizedType@@List<OperationError>[64]
+
+	Insert	SimpleType@@List[64]
+
+	Insert	SimpleName@@List[64]
+
+	Insert	SimpleType@@OperationError[64]
+
+	Insert	SimpleName@@OperationError[64]
+
+	Insert	VariableDeclarationFragment@@[64]
+
+	Insert	SimpleName@@errors[64]
+
+	Insert	MethodInvocation@@[64]
+
+	Insert	SimpleName@@mergedResult[64]
+
+	Insert	SimpleName@@errors[64]
+
+	Insert	ExpressionStatement@@[66]
+
+	Insert	MethodInvocation@@[66]
+
+	Insert	MethodInvocation@@[66]
+
+	Insert	SimpleName@@assertThat[66]
+
+	Insert	SimpleName@@errors[66]
+
+	Insert	SimpleName@@hasSize[66]
+
+	Insert	NumberLiteral@@1[66]
+
+	Insert	VariableDeclarationStatement@@[66]
+
+	Insert	SimpleType@@OperationError[66]
+
+	Insert	SimpleName@@OperationError[66]
+
+	Insert	VariableDeclarationFragment@@[66]
+
+	Insert	SimpleName@@error[66]
+
+	Insert	MethodInvocation@@[67]
+
+	Insert	SimpleName@@errors[67]
+
+	Insert	SimpleName@@get[67]
+
+	Insert	NumberLiteral@@0[67]
+
+	Insert	ExpressionStatement@@[67]
+
+	Insert	MethodInvocation@@[67]
+
+	Insert	MethodInvocation@@[67]
+
+	Insert	SimpleName@@assertThat[67]
+
+	Insert	MethodInvocation@@[67]
+
+	Insert	SimpleName@@error[67]
+
+	Insert	SimpleName@@targets[68]
+
+	Insert	SimpleName@@containsOnly[68]
+
+	Insert	SimpleName@@controllerTarget[68]
+
+	Insert	SimpleName@@prodUsWest1Target[68]
+]

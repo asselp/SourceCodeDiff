@@ -1,0 +1,56 @@
+[Insert	ImportDeclaration@@[29]
+
+	Insert	QualifiedName@@org.jboss.msc.service.StartContext[29]
+, Update	QualifiedName@@org.jboss.msc.service.AbstractService[24]	TO	org.jboss.msc.service.Service
+, Update	QualifiedName@@org.jboss.msc.service.Service[26]	TO	org.jboss.msc.service.ServiceBuilder
+, Update	QualifiedName@@org.jboss.msc.service.ServiceBuilder[27]	TO	org.jboss.msc.service.ServiceName
+, Update	QualifiedName@@org.jboss.msc.service.ServiceName[28]	TO	org.jboss.msc.service.ServiceTarget
+, Update	QualifiedName@@org.jboss.msc.service.ServiceTarget[29]	TO	org.jboss.msc.service.StopContext
+, Update	ParameterizedType@@AbstractService<SingletonServiceBuilderFactory>[39]	TO	Service<SingletonServiceBuilderFactory>
+
+	Update	SimpleType@@AbstractService[39]	TO	Service
+
+	Update	SimpleName@@AbstractService[39]	TO	Service
+, Insert	MethodDeclaration@@[51]
+
+	Insert	MarkerAnnotation@@[51]
+
+	Insert	SimpleName@@Override[51]
+
+	Insert	Modifier@@public[51]
+
+	Insert	PrimitiveType@@void[52]
+
+	Insert	SimpleName@@start[52]
+
+	Insert	SingleVariableDeclaration@@[52]
+
+	Insert	SimpleType@@StartContext[52]
+
+	Insert	SimpleName@@StartContext[52]
+
+	Insert	SimpleName@@context[53]
+
+	Insert	Block@@[55]
+, Insert	MethodDeclaration@@[56]
+
+	Insert	MarkerAnnotation@@[56]
+
+	Insert	SimpleName@@Override[56]
+
+	Insert	Modifier@@public[56]
+
+	Insert	PrimitiveType@@void[56]
+
+	Insert	SimpleName@@stop[57]
+
+	Insert	SingleVariableDeclaration@@[57]
+
+	Insert	SimpleType@@StopContext[57]
+
+	Insert	SimpleName@@StopContext[57]
+
+	Insert	SimpleName@@context[57]
+
+	Insert	Block@@[58]
+]

@@ -1,0 +1,22 @@
+[Insert	MethodDeclaration@@[52]
+
+	Insert	MarkerAnnotation@@[52]
+
+	Insert	SimpleName@@Override[52]
+
+	Insert	Modifier@@public[52]
+
+	Insert	PrimitiveType@@void[52]
+
+	Insert	SimpleName@@addMenuItem[52]
+
+	Insert	SingleVariableDeclaration@@[53]
+
+	Insert	SimpleType@@String[53]
+
+	Insert	SimpleName@@String[53]
+
+	Insert	SimpleName@@title[53]
+
+	Insert	Block@@[54]
+]

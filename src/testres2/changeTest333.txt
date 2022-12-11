@@ -1,0 +1,15 @@
+[Move	VariableDeclarationStatement@@[187]	TO	Block@@[45]
+, Insert	IfStatement@@[70]
+
+	Insert	PrefixExpression@@![70]
+
+	Insert	MethodInvocation@@[70]
+
+	Insert	SimpleName@@gradebook[70]
+
+	Insert	SimpleName@@isAssignmentsDisplayed[72]
+
+	Insert	Block@@[72]
+, Move	EnhancedForStatement@@[68]	TO	Block@@[72]
+, Move	ExpressionStatement@@[87]	TO	Block@@[72]
+]

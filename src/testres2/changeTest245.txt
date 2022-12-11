@@ -1,0 +1,154 @@
+[Move	Block@@[79]	TO	MethodDeclaration@@[74]
+, Update	SimpleName@@offset[95]	TO	setProgressViewOffset
+, Move	SimpleName@@offset[95]	TO	MethodInvocation@@[91]
+, Insert	SimpleName@@offset[79]
+, Delete	ImportDeclaration@@[22]
+
+	Delete	QualifiedName@@com.facebook.react.uimanager.PixelUtil[22]
+, Delete	FieldDeclaration@@[34]
+
+	Delete	Modifier@@public[34]
+
+	Delete	Modifier@@static[34]
+
+	Delete	Modifier@@final[34]
+
+	Delete	PrimitiveType@@float[34]
+
+	Delete	VariableDeclarationFragment@@[34]
+
+	Delete	SimpleName@@REFRESH_TRIGGER_DISTANCE[34]
+
+	Delete	NumberLiteral@@48[36]
+, Delete	Modifier@@final[73]
+, Delete	Modifier@@final[76]
+, Delete	Block@@[77]
+
+	Delete	ExpressionStatement@@[78]
+
+	Delete	MethodInvocation@@[78]
+
+	Delete	SimpleName@@view[78]
+
+	Delete	SimpleName@@post[78]
+
+	Delete	ClassInstanceCreation@@[78]
+
+	Delete	SimpleType@@Runnable[78]
+
+	Delete	SimpleName@@Runnable[78]
+
+	Delete	AnonymousClassDeclaration@@[78]
+
+	Delete	MethodDeclaration@@[78]
+
+	Delete	MarkerAnnotation@@[78]
+
+	Delete	SimpleName@@Override[78]
+
+	Delete	Modifier@@public[79]
+
+	Delete	PrimitiveType@@void[79]
+
+	Delete	SimpleName@@run[79]
+, Delete	SimpleName@@post[90]
+, Delete	ClassInstanceCreation@@[90]
+
+	Delete	SimpleType@@Runnable[90]
+
+	Delete	SimpleName@@Runnable[90]
+
+	Delete	AnonymousClassDeclaration@@[90]
+
+	Delete	MethodDeclaration@@[90]
+
+	Delete	MarkerAnnotation@@[90]
+
+	Delete	SimpleName@@Override[90]
+
+	Delete	Modifier@@public[90]
+
+	Delete	PrimitiveType@@void[90]
+
+	Delete	SimpleName@@run[91]
+
+	Delete	Block@@[91]
+
+	Delete	VariableDeclarationStatement@@[91]
+
+	Delete	PrimitiveType@@int[91]
+
+	Delete	VariableDeclarationFragment@@[91]
+
+	Delete	SimpleName@@diameter[91]
+
+	Delete	MethodInvocation@@[92]
+
+	Delete	SimpleName@@view[92]
+
+	Delete	SimpleName@@getProgressCircleDiameter[92]
+
+	Delete	VariableDeclarationStatement@@[93]
+
+	Delete	PrimitiveType@@int[93]
+
+	Delete	VariableDeclarationFragment@@[94]
+
+	Delete	SimpleName@@start[94]
+
+	Delete	InfixExpression@@-[94]
+
+	Delete	MethodInvocation@@[94]
+
+	Delete	SimpleName@@Math[94]
+
+	Delete	SimpleName@@round[94]
+
+	Delete	MethodInvocation@@[94]
+
+	Delete	SimpleName@@PixelUtil[94]
+
+	Delete	SimpleName@@toPixelFromDIP[95]
+
+	Delete	SimpleName@@diameter[95]
+
+	Delete	VariableDeclarationStatement@@[95]
+
+	Delete	PrimitiveType@@int[95]
+
+	Delete	VariableDeclarationFragment@@[95]
+
+	Delete	SimpleName@@end[95]
+
+	Delete	MethodInvocation@@[96]
+
+	Delete	SimpleName@@Math[96]
+
+	Delete	SimpleName@@round[96]
+
+	Delete	MethodInvocation@@[96]
+
+	Delete	SimpleName@@PixelUtil[96]
+
+	Delete	SimpleName@@toPixelFromDIP[96]
+
+	Delete	InfixExpression@@+[96]
+
+	Delete	SimpleName@@offset[96]
+
+	Delete	SimpleName@@REFRESH_TRIGGER_DISTANCE[96]
+
+	Delete	ExpressionStatement@@[97]
+
+	Delete	MethodInvocation@@[97]
+
+	Delete	SimpleName@@view[97]
+
+	Delete	SimpleName@@setProgressViewOffset[97]
+
+	Delete	BooleanLiteral@@false[97]
+
+	Delete	SimpleName@@start[97]
+
+	Delete	SimpleName@@end[97]
+]

@@ -1,0 +1,143 @@
+[Insert	ImportDeclaration@@[2]
+
+	Insert	QualifiedName@@com.google.common.collect.ImmutableList[4]
+, Insert	ImportDeclaration@@[8]
+
+	Insert	QualifiedName@@java.util.Objects[8]
+, Insert	MethodDeclaration@@[17]
+
+	Insert	Modifier@@public[17]
+
+	Insert	SimpleName@@Argmin[17]
+
+	Insert	SingleVariableDeclaration@@[19]
+
+	Insert	ParameterizedType@@TensorFunction<NAMETYPE>[19]
+
+	Insert	SimpleType@@TensorFunction[19]
+
+	Insert	SimpleName@@TensorFunction[19]
+
+	Insert	SimpleType@@NAMETYPE[19]
+
+	Insert	SimpleName@@NAMETYPE[19]
+
+	Insert	SimpleName@@argument[19]
+
+	Insert	Block@@[19]
+
+	Insert	ConstructorInvocation@@[19]
+
+	Insert	SimpleName@@argument[19]
+
+	Insert	MethodInvocation@@[20]
+
+	Insert	SimpleName@@Collections[20]
+
+	Insert	SimpleName@@emptyList[20]
+, Insert	MethodDeclaration@@[20]
+
+	Insert	Modifier@@public[20]
+
+	Insert	SimpleName@@Argmin[20]
+
+	Insert	SingleVariableDeclaration@@[21]
+
+	Insert	ParameterizedType@@TensorFunction<NAMETYPE>[21]
+
+	Insert	SimpleType@@TensorFunction[21]
+
+	Insert	SimpleName@@TensorFunction[21]
+
+	Insert	SimpleType@@NAMETYPE[23]
+
+	Insert	SimpleName@@NAMETYPE[23]
+
+	Insert	SimpleName@@argument[23]
+
+	Insert	Block@@[23]
+
+	Insert	ConstructorInvocation@@[23]
+
+	Insert	SimpleName@@argument[23]
+
+	Insert	MethodInvocation@@[24]
+
+	Insert	SimpleName@@Collections[24]
+
+	Insert	SimpleName@@singletonList[24]
+
+	Insert	SimpleName@@dimension[24]
+, Insert	ParameterizedType@@List<String>[17]
+
+	Insert	SimpleType@@List[17]
+
+	Insert	SimpleName@@List[17]
+
+	Insert	SimpleType@@String[17]
+, Move	SingleVariableDeclaration@@[17]	TO	MethodDeclaration@@[20]
+, Insert	SingleVariableDeclaration@@[27]
+
+	Insert	ParameterizedType@@List<String>[27]
+
+	Insert	SimpleType@@List[27]
+
+	Insert	SimpleName@@List[27]
+
+	Insert	SimpleType@@String[27]
+
+	Insert	SimpleName@@String[27]
+
+	Insert	SimpleName@@dimensions[27]
+, Update	SimpleName@@dimension[15]	TO	dimensions
+, Insert	ExpressionStatement@@[27]
+
+	Insert	MethodInvocation@@[27]
+
+	Insert	SimpleName@@Objects[27]
+
+	Insert	SimpleName@@requireNonNull[27]
+
+	Insert	SimpleName@@dimensions[28]
+
+	Insert	StringLiteral@@"The dimensions cannot be null"[28]
+, Insert	VariableDeclarationStatement@@[45]
+
+	Insert	ParameterizedType@@TensorFunction<NAMETYPE>[45]
+
+	Insert	SimpleType@@TensorFunction[45]
+
+	Insert	SimpleName@@TensorFunction[45]
+
+	Insert	SimpleType@@NAMETYPE[45]
+
+	Insert	SimpleName@@NAMETYPE[45]
+
+	Insert	VariableDeclarationFragment@@[45]
+
+	Insert	SimpleName@@reduce[45]
+, Move	SimpleName@@String[15]	TO	SimpleType@@String[17]
+, Insert	MethodInvocation@@[29]
+
+	Insert	SimpleName@@ImmutableList[29]
+
+	Insert	SimpleName@@copyOf[30]
+
+	Insert	SimpleName@@dimensions[30]
+, Update	SimpleName@@dimension[29]	TO	dimensions
+, Move	ClassInstanceCreation@@[35]	TO	VariableDeclarationFragment@@[45]
+, Insert	SimpleName@@reduce[46]
+, Insert	MethodInvocation@@[52]
+
+	Insert	SimpleName@@Reduce[52]
+
+	Insert	SimpleName@@commaSeparated[52]
+
+	Insert	SimpleName@@dimensions[52]
+, Update	SimpleName@@dimension[18]	TO	dimensions
+, Update	SimpleName@@dimension[36]	TO	dimensions
+, Delete	SimpleType@@String[15]
+, Delete	SimpleName@@dimension[19]
+, Delete	StringLiteral@@", "[42]
+, Delete	SimpleName@@dimension[42]
+]

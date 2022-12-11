@@ -1,0 +1,21 @@
+[Move	ClassInstanceCreation@@[63]	TO	ReturnStatement@@[66]
+, Delete	VariableDeclarationStatement@@[62]
+
+	Delete	SimpleType@@ExplainAnalyzedStatement[62]
+
+	Delete	SimpleName@@ExplainAnalyzedStatement[62]
+
+	Delete	VariableDeclarationFragment@@[62]
+
+	Delete	SimpleName@@explainAnalyzedStatement[62]
+, Delete	ExpressionStatement@@[64]
+
+	Delete	MethodInvocation@@[64]
+
+	Delete	SimpleName@@analysis[64]
+
+	Delete	SimpleName@@rootRelation[64]
+
+	Delete	SimpleName@@explainAnalyzedStatement[64]
+, Delete	SimpleName@@explainAnalyzedStatement[65]
+]

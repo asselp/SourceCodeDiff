@@ -1,0 +1,28 @@
+[Insert	MethodDeclaration@@[65]
+
+	Insert	Modifier@@public[65]
+
+	Insert	PrimitiveType@@void[65]
+
+	Insert	SimpleName@@destroy[65]
+
+	Insert	Block@@[65]
+
+	Insert	IfStatement@@[65]
+
+	Insert	InfixExpression@@!=[65]
+
+	Insert	SimpleName@@mHybridData[65]
+
+	Insert	NullLiteral@@[65]
+
+	Insert	Block@@[65]
+
+	Insert	ExpressionStatement@@[66]
+
+	Insert	MethodInvocation@@[66]
+
+	Insert	SimpleName@@mHybridData[66]
+
+	Insert	SimpleName@@resetNative[68]
+]

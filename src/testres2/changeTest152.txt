@@ -1,0 +1,47 @@
+[Insert	VariableDeclarationStatement@@[111]
+
+	Insert	ParameterizedType@@Iterable<Relationship>[111]
+
+	Insert	SimpleType@@Iterable[111]
+
+	Insert	SimpleName@@Iterable[111]
+
+	Insert	SimpleType@@Relationship[112]
+
+	Insert	SimpleName@@Relationship[112]
+
+	Insert	VariableDeclarationFragment@@[112]
+
+	Insert	SimpleName@@iterable[112]
+
+	Insert	MethodInvocation@@[112]
+, Insert	ReturnStatement@@[112]
+
+	Insert	MethodInvocation@@[112]
+
+	Insert	SimpleName@@iterable[112]
+, Move	SimpleName@@iterator[112]	TO	MethodInvocation@@[112]
+, Move	SimpleName@@expander[112]	TO	MethodInvocation@@[112]
+, Move	SimpleName@@expand[112]	TO	MethodInvocation@@[112]
+, Move	ThisExpression@@[112]	TO	MethodInvocation@@[112]
+, Move	QualifiedName@@BranchState.NO_STATE[112]	TO	MethodInvocation@@[112]
+, Insert	ConditionalExpression@@[260]
+
+	Insert	InfixExpression@@!=[260]
+
+	Insert	SimpleName@@branch[260]
+
+	Insert	NullLiteral@@[260]
+
+	Insert	MethodInvocation@@[260]
+
+	Insert	NullLiteral@@[261]
+, Move	SimpleName@@branch[259]	TO	MethodInvocation@@[260]
+, Move	SimpleName@@parent[259]	TO	MethodInvocation@@[260]
+, Delete	ReturnStatement@@[111]
+
+	Delete	MethodInvocation@@[112]
+
+	Delete	MethodInvocation@@[112]
+, Delete	MethodInvocation@@[259]
+]

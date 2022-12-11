@@ -1,0 +1,6 @@
+[Move	QualifiedName@@PreconditionMessage.GCS_BUCKET_MUST_BE_SET[46]	TO	MethodInvocation@@[44]
+, Move	SimpleName@@INTEGRATION_GCS_BUCKET[47]	TO	MethodInvocation@@[44]
+, Delete	MethodInvocation@@[46]
+
+	Delete	SimpleName@@format[47]
+]

@@ -1,0 +1,42 @@
+[Move	Block@@[95]	TO	MethodDeclaration@@[90]
+, Move	ExpressionStatement@@[98]	TO	Block@@[95]
+, Move	ExpressionStatement@@[101]	TO	Block@@[95]
+, Delete	ImportDeclaration@@[45]
+
+	Delete	QualifiedName@@org.elasticsearch.tasks.TaskCancellationService[45]
+, Delete	ExpressionStatement@@[98]
+
+	Delete	Assignment@@=[98]
+
+	Delete	SimpleName@@testNodes[98]
+
+	Delete	NullLiteral@@[98]
+, Delete	Block@@[91]
+
+	Delete	IfStatement@@[92]
+
+	Delete	InfixExpression@@!=[92]
+
+	Delete	SimpleName@@testNodes[92]
+
+	Delete	NullLiteral@@[95]
+, Delete	ExpressionStatement@@[186]
+
+	Delete	MethodInvocation@@[186]
+
+	Delete	MethodInvocation@@[186]
+
+	Delete	SimpleName@@transportService[186]
+
+	Delete	SimpleName@@getTaskManager[186]
+
+	Delete	SimpleName@@setTaskCancellationService[187]
+
+	Delete	ClassInstanceCreation@@[187]
+
+	Delete	SimpleType@@TaskCancellationService[187]
+
+	Delete	SimpleName@@TaskCancellationService[187]
+
+	Delete	SimpleName@@transportService[187]
+]

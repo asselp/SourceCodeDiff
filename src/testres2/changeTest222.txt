@@ -1,0 +1,5 @@
+[Update	QualifiedName@@com.facebook.react.touch.CatalystInterceptingViewGroup[28]	TO	com.facebook.react.touch.ReactInterceptingViewGroup
+, Update	SimpleType@@CatalystInterceptingViewGroup[41]	TO	ReactInterceptingViewGroup
+
+	Update	SimpleName@@CatalystInterceptingViewGroup[41]	TO	ReactInterceptingViewGroup
+]

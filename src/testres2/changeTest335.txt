@@ -1,0 +1,29 @@
+[Delete	ImportDeclaration@@[26]
+
+	Delete	QualifiedName@@java.util.Locale[26]
+, Delete	ExpressionStatement@@[186]
+
+	Delete	MethodInvocation@@[186]
+
+	Delete	SimpleName@@vc[186]
+
+	Delete	SimpleName@@put[186]
+
+	Delete	StringLiteral@@"lang"[187]
+
+	Delete	MethodInvocation@@[187]
+
+	Delete	MethodInvocation@@[187]
+
+	Delete	ParenthesizedExpression@@[187]
+
+	Delete	ClassInstanceCreation@@[187]
+
+	Delete	SimpleType@@ResourceLoader[187]
+
+	Delete	SimpleName@@ResourceLoader[187]
+
+	Delete	SimpleName@@getLocale[187]
+
+	Delete	SimpleName@@toString[187]
+]

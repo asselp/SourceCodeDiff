@@ -1,0 +1,144 @@
+[Insert	MethodDeclaration@@[55]
+
+	Insert	Modifier@@public[55]
+
+	Insert	Modifier@@static[55]
+
+	Insert	SimpleType@@HazelcastInstance[55]
+
+	Insert	SimpleName@@HazelcastInstance[55]
+
+	Insert	SimpleName@@getOrCreateHazelcastInstance[55]
+
+	Insert	SingleVariableDeclaration@@[59]
+
+	Insert	SimpleType@@Config[59]
+
+	Insert	SimpleName@@Config[59]
+
+	Insert	SimpleName@@config[59]
+
+	Insert	Block@@[59]
+
+	Insert	IfStatement@@[59]
+
+	Insert	InfixExpression@@==[59]
+
+	Insert	SimpleName@@config[59]
+
+	Insert	NullLiteral@@[59]
+
+	Insert	Block@@[59]
+
+	Insert	ThrowStatement@@[59]
+
+	Insert	ClassInstanceCreation@@[59]
+
+	Insert	SimpleType@@NullPointerException[59]
+
+	Insert	SimpleName@@NullPointerException[59]
+
+	Insert	StringLiteral@@"config can't be null"[60]
+
+	Insert	VariableDeclarationStatement@@[61]
+
+	Insert	SimpleType@@String[61]
+
+	Insert	SimpleName@@String[61]
+
+	Insert	VariableDeclarationFragment@@[61]
+
+	Insert	SimpleName@@instanceName[61]
+
+	Insert	MethodInvocation@@[61]
+
+	Insert	SimpleName@@config[61]
+
+	Insert	SimpleName@@getInstanceName[61]
+
+	Insert	IfStatement@@[64]
+
+	Insert	InfixExpression@@||[64]
+
+	Insert	InfixExpression@@==[64]
+
+	Insert	SimpleName@@instanceName[64]
+
+	Insert	NullLiteral@@[64]
+
+	Insert	InfixExpression@@==[64]
+
+	Insert	MethodInvocation@@[64]
+
+	Insert	MethodInvocation@@[64]
+
+	Insert	SimpleName@@instanceName[64]
+
+	Insert	SimpleName@@trim[64]
+
+	Insert	SimpleName@@length[64]
+
+	Insert	NumberLiteral@@0[65]
+
+	Insert	Block@@[65]
+
+	Insert	ThrowStatement@@[65]
+
+	Insert	ClassInstanceCreation@@[65]
+
+	Insert	SimpleType@@IllegalArgumentException[65]
+
+	Insert	SimpleName@@IllegalArgumentException[65]
+
+	Insert	StringLiteral@@"instance name can't be null or empty"[65]
+
+	Insert	SynchronizedStatement@@[66]
+
+	Insert	SimpleName@@INSTANCE_NAME_LOCK[66]
+
+	Insert	Block@@[66]
+
+	Insert	VariableDeclarationStatement@@[67]
+
+	Insert	SimpleType@@HazelcastInstance[67]
+
+	Insert	SimpleName@@HazelcastInstance[67]
+
+	Insert	VariableDeclarationFragment@@[69]
+
+	Insert	SimpleName@@hz[69]
+
+	Insert	MethodInvocation@@[69]
+
+	Insert	SimpleName@@INSTANCE_MAP[69]
+
+	Insert	SimpleName@@get[69]
+
+	Insert	SimpleName@@instanceName[69]
+
+	Insert	IfStatement@@[70]
+
+	Insert	InfixExpression@@==[70]
+
+	Insert	SimpleName@@hz[70]
+
+	Insert	NullLiteral@@[70]
+
+	Insert	Block@@[70]
+
+	Insert	ExpressionStatement@@[70]
+
+	Insert	Assignment@@=[70]
+
+	Insert	SimpleName@@hz[70]
+
+	Insert	MethodInvocation@@[70]
+
+	Insert	SimpleName@@newHazelcastInstance[70]
+
+	Insert	SimpleName@@config[71]
+
+	Insert	ReturnStatement@@[72]
+
+	Insert	SimpleName@@hz[72]
+]

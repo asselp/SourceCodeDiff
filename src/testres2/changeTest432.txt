@@ -1,0 +1,198 @@
+[Update	ParameterizedType@@Set<String>[299]	TO	Set<NamedReader>
+
+	Update	SimpleType@@String[299]	TO	NamedReader
+
+	Update	SimpleName@@String[299]	TO	NamedReader
+, Insert	SimpleName@@ret[310]
+, Update	SimpleName@@fileSds[299]	TO	ret
+, Update	SimpleName@@put[308]	TO	add
+, Delete	VariableDeclarationStatement@@[298]
+
+	Delete	ParameterizedType@@Map<String,NamedReader>[298]
+
+	Delete	SimpleType@@Map[298]
+
+	Delete	SimpleName@@Map[298]
+
+	Delete	SimpleType@@String[298]
+
+	Delete	SimpleName@@String[298]
+
+	Delete	SimpleType@@NamedReader[298]
+
+	Delete	SimpleName@@NamedReader[298]
+
+	Delete	VariableDeclarationFragment@@[298]
+
+	Delete	SimpleName@@ret[298]
+
+	Delete	ClassInstanceCreation@@[298]
+
+	Delete	ParameterizedType@@LinkedHashMap<>[298]
+
+	Delete	SimpleType@@LinkedHashMap[298]
+
+	Delete	SimpleName@@LinkedHashMap[298]
+, Delete	VariableDeclarationStatement@@[303]
+
+	Delete	ParameterizedType@@Set<String>[303]
+
+	Delete	SimpleType@@Set[303]
+
+	Delete	SimpleName@@Set[303]
+
+	Delete	SimpleType@@String[303]
+
+	Delete	SimpleName@@String[303]
+
+	Delete	VariableDeclarationFragment@@[303]
+
+	Delete	SimpleName@@bundleSds[303]
+
+	Delete	ClassInstanceCreation@@[303]
+
+	Delete	ParameterizedType@@LinkedHashSet<>[303]
+
+	Delete	SimpleType@@LinkedHashSet[303]
+
+	Delete	SimpleName@@LinkedHashSet[303]
+, Delete	ExpressionStatement@@[308]
+
+	Delete	MethodInvocation@@[308]
+
+	Delete	SimpleName@@fileSds[308]
+
+	Delete	SimpleName@@add[308]
+
+	Delete	MethodInvocation@@[308]
+
+	Delete	SimpleName@@f[308]
+
+	Delete	SimpleName@@getName[308]
+, Delete	MethodInvocation@@[308]
+
+	Delete	SimpleName@@f[308]
+
+	Delete	SimpleName@@getName[309]
+, Delete	ExpressionStatement@@[313]
+
+	Delete	MethodInvocation@@[313]
+
+	Delete	SimpleName@@verifySdsDisjoint[313]
+
+	Delete	SimpleName@@fileSds[313]
+
+	Delete	SimpleName@@bundleSds[314]
+, Delete	MethodInvocation@@[314]
+
+	Delete	SimpleName@@ret[314]
+
+	Delete	SimpleName@@values[314]
+, Delete	MethodDeclaration@@[315]
+
+	Delete	Javadoc@@[315]
+
+	Delete	Modifier@@private[320]
+
+	Delete	PrimitiveType@@void[320]
+
+	Delete	SimpleName@@verifySdsDisjoint[320]
+
+	Delete	SingleVariableDeclaration@@[321]
+
+	Delete	ParameterizedType@@Set<String>[321]
+
+	Delete	SimpleType@@Set[321]
+
+	Delete	SimpleName@@Set[321]
+
+	Delete	SimpleType@@String[321]
+
+	Delete	SimpleName@@String[321]
+
+	Delete	SimpleName@@fileSds[321]
+
+	Delete	SingleVariableDeclaration@@[323]
+
+	Delete	ParameterizedType@@Set<String>[323]
+
+	Delete	SimpleType@@Set[323]
+
+	Delete	SimpleName@@Set[323]
+
+	Delete	SimpleType@@String[324]
+
+	Delete	SimpleName@@String[324]
+
+	Delete	SimpleName@@bundleSds[325]
+
+	Delete	Block@@[325]
+
+	Delete	IfStatement@@[325]
+
+	Delete	PrefixExpression@@![325]
+
+	Delete	MethodInvocation@@[325]
+
+	Delete	SimpleName@@Collections[325]
+
+	Delete	SimpleName@@disjoint[325]
+
+	Delete	SimpleName@@fileSds[325]
+
+	Delete	SimpleName@@bundleSds[325]
+
+	Delete	Block@@[325]
+
+	Delete	VariableDeclarationStatement@@[325]
+
+	Delete	ParameterizedType@@Collection<String>[325]
+
+	Delete	SimpleType@@Collection[325]
+
+	Delete	SimpleName@@Collection[325]
+
+	Delete	SimpleType@@String[325]
+
+	Delete	SimpleName@@String[325]
+
+	Delete	VariableDeclarationFragment@@[325]
+
+	Delete	SimpleName@@disjoint[325]
+
+	Delete	ClassInstanceCreation@@[325]
+
+	Delete	ParameterizedType@@ArrayList<>[325]
+
+	Delete	SimpleType@@ArrayList[325]
+
+	Delete	SimpleName@@ArrayList[325]
+
+	Delete	SimpleName@@fileSds[327]
+
+	Delete	ExpressionStatement@@[327]
+
+	Delete	MethodInvocation@@[327]
+
+	Delete	SimpleName@@disjoint[327]
+
+	Delete	SimpleName@@retainAll[327]
+
+	Delete	SimpleName@@bundleSds[327]
+
+	Delete	ThrowStatement@@[328]
+
+	Delete	ClassInstanceCreation@@[328]
+
+	Delete	SimpleType@@IllegalArgumentException[328]
+
+	Delete	SimpleName@@IllegalArgumentException[328]
+
+	Delete	InfixExpression@@+[328]
+
+	Delete	StringLiteral@@"For the following search definitions names there are collisions between those specified inside "[328]
+
+	Delete	StringLiteral@@"docproc bundles and those in searchdefinitions/ in application package: "[331]
+
+	Delete	SimpleName@@disjoint[332]
+]

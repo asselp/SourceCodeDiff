@@ -1,0 +1,195 @@
+[Update	QualifiedName@@org.jboss.as.controller.descriptions.ModelDescriptionConstants.OP_ADDR[27]	TO	org.jboss.as.controller.descriptions.ModelDescriptionConstants.SUBSYSTEM
+, Update	QualifiedName@@org.jboss.as.controller.descriptions.ModelDescriptionConstants.STEPS[28]	TO	org.jboss.as.security.Constants.CODE
+, Update	QualifiedName@@org.jboss.as.controller.descriptions.ModelDescriptionConstants.SUBSYSTEM[29]	TO	org.jboss.as.security.Constants.FLAG
+, Update	QualifiedName@@org.jboss.as.security.Constants.CODE[30]	TO	org.jboss.as.security.Constants.LOGIN_MODULE
+, Update	QualifiedName@@org.jboss.as.security.Constants.FLAG[31]	TO	org.jboss.as.security.Constants.SECURITY_DOMAIN
+, Update	QualifiedName@@org.jboss.as.security.Constants.LOGIN_MODULE[32]	TO	java.util.Arrays
+, Update	QualifiedName@@org.jboss.as.security.Constants.SECURITY_DOMAIN[33]	TO	org.jboss.as.arquillian.container.ManagementClient
+, Update	QualifiedName@@java.util.Arrays[34]	TO	org.jboss.as.clustering.controller.Operations
+, Update	QualifiedName@@org.jboss.as.arquillian.container.ManagementClient[35]	TO	org.jboss.as.controller.PathAddress
+, Update	QualifiedName@@org.jboss.as.controller.PathAddress[38]	TO	org.jboss.as.controller.PathElement
+, Insert	VariableDeclarationStatement@@[54]
+
+	Insert	SimpleType@@ModelNode[54]
+
+	Insert	SimpleName@@ModelNode[54]
+
+	Insert	VariableDeclarationFragment@@[54]
+
+	Insert	SimpleName@@addSecurityDomainOperation[54]
+
+	Insert	MethodInvocation@@[54]
+, Insert	VariableDeclarationStatement@@[56]
+
+	Insert	SimpleType@@PathAddress[56]
+
+	Insert	SimpleName@@PathAddress[56]
+
+	Insert	VariableDeclarationFragment@@[56]
+
+	Insert	SimpleName@@authenticationAddress[56]
+
+	Insert	MethodInvocation@@[56]
+, Insert	VariableDeclarationStatement@@[58]
+
+	Insert	SimpleType@@ModelNode[58]
+
+	Insert	SimpleName@@ModelNode[58]
+
+	Insert	VariableDeclarationFragment@@[58]
+
+	Insert	SimpleName@@addAuthenticationOperation[58]
+
+	Insert	MethodInvocation@@[58]
+, Update	SimpleName@@address[60]	TO	securityDomainAddress
+, Update	SimpleName@@loginModule[68]	TO	addLoginModuleOperation
+, Move	SimpleName@@PathAddress[60]	TO	MethodInvocation@@[59]
+, Move	SimpleName@@pathAddress[60]	TO	MethodInvocation@@[59]
+, Insert	MethodInvocation@@[54]
+
+	Insert	SimpleName@@pathElement[54]
+, Insert	MethodInvocation@@[54]
+
+	Insert	SimpleName@@pathElement[54]
+, Move	SimpleName@@Util[63]	TO	MethodInvocation@@[54]
+, Move	SimpleName@@createAddOperation[63]	TO	MethodInvocation@@[54]
+, Update	SimpleName@@address[63]	TO	securityDomainAddress
+, Move	SimpleName@@address[63]	TO	MethodInvocation@@[54]
+, Update	SimpleName@@address[66]	TO	securityDomainAddress
+, Move	SimpleName@@address[66]	TO	MethodInvocation@@[56]
+, Move	SimpleName@@append[66]	TO	MethodInvocation@@[56]
+, Move	QualifiedName@@Constants.AUTHENTICATION[66]	TO	MethodInvocation@@[56]
+, Move	QualifiedName@@Constants.CLASSIC[66]	TO	MethodInvocation@@[56]
+, Move	SimpleName@@Util[67]	TO	MethodInvocation@@[58]
+, Move	SimpleName@@createAddOperation[67]	TO	MethodInvocation@@[58]
+, Update	SimpleName@@address[67]	TO	authenticationAddress
+, Move	SimpleName@@address[67]	TO	MethodInvocation@@[58]
+, Update	SimpleName@@loginModule[69]	TO	addLoginModuleOperation
+, Update	SimpleName@@loginModule[69]	TO	addLoginModuleOperation
+, Insert	MethodInvocation@@[66]
+
+	Insert	SimpleName@@Operations[66]
+
+	Insert	SimpleName@@addSecurityDomainOperation[66]
+
+	Insert	SimpleName@@addAuthenticationOperation[66]
+
+	Insert	SimpleName@@addLoginModuleOperation[66]
+, Update	SimpleName@@append[61]	TO	PathElement
+, Move	SimpleName@@append[61]	TO	MethodInvocation@@[54]
+, Move	SimpleName@@SUBSYSTEM[61]	TO	MethodInvocation@@[54]
+, Move	StringLiteral@@"security"[61]	TO	MethodInvocation@@[54]
+, Update	SimpleName@@append[62]	TO	PathElement
+, Move	SimpleName@@append[62]	TO	MethodInvocation@@[54]
+, Move	SimpleName@@SECURITY_DOMAIN[62]	TO	MethodInvocation@@[54]
+, Move	MethodInvocation@@[62]	TO	MethodInvocation@@[54]
+, Update	SimpleName@@address[68]	TO	authenticationAddress
+, Update	SimpleName@@loginModule[71]	TO	addLoginModuleOperation
+, Update	SimpleName@@compositeOp[75]	TO	createCompositeOperation
+, Move	SimpleName@@compositeOp[75]	TO	MethodInvocation@@[66]
+, Delete	ImportDeclaration@@[24]
+
+	Delete	QualifiedName@@org.jboss.as.controller.descriptions.ModelDescriptionConstants.COMPOSITE[24]
+, Delete	ImportDeclaration@@[25]
+
+	Delete	QualifiedName@@org.jboss.as.controller.descriptions.ModelDescriptionConstants.OP[25]
+, Delete	VariableDeclarationStatement@@[54]
+
+	Delete	Modifier@@final[54]
+
+	Delete	SimpleType@@ModelNode[54]
+
+	Delete	SimpleName@@ModelNode[54]
+
+	Delete	VariableDeclarationFragment@@[54]
+
+	Delete	SimpleName@@compositeOp[54]
+
+	Delete	ClassInstanceCreation@@[54]
+
+	Delete	SimpleType@@ModelNode[54]
+
+	Delete	SimpleName@@ModelNode[54]
+, Delete	ExpressionStatement@@[56]
+
+	Delete	MethodInvocation@@[56]
+
+	Delete	MethodInvocation@@[56]
+
+	Delete	SimpleName@@compositeOp[56]
+
+	Delete	SimpleName@@get[56]
+
+	Delete	SimpleName@@OP[56]
+
+	Delete	SimpleName@@set[56]
+
+	Delete	SimpleName@@COMPOSITE[56]
+, Delete	ExpressionStatement@@[56]
+
+	Delete	MethodInvocation@@[56]
+
+	Delete	MethodInvocation@@[56]
+
+	Delete	SimpleName@@compositeOp[56]
+
+	Delete	SimpleName@@get[57]
+
+	Delete	SimpleName@@OP_ADDR[57]
+
+	Delete	SimpleName@@setEmptyList[57]
+, Delete	VariableDeclarationStatement@@[58]
+
+	Delete	SimpleType@@ModelNode[58]
+
+	Delete	SimpleName@@ModelNode[58]
+
+	Delete	VariableDeclarationFragment@@[58]
+
+	Delete	SimpleName@@steps[58]
+
+	Delete	MethodInvocation@@[58]
+
+	Delete	SimpleName@@compositeOp[58]
+
+	Delete	SimpleName@@get[58]
+
+	Delete	SimpleName@@STEPS[58]
+, Delete	MethodInvocation@@[60]
+
+	Delete	MethodInvocation@@[60]
+, Delete	ExpressionStatement@@[63]
+
+	Delete	MethodInvocation@@[63]
+
+	Delete	SimpleName@@steps[63]
+
+	Delete	SimpleName@@add[63]
+
+	Delete	MethodInvocation@@[63]
+, Delete	ExpressionStatement@@[64]
+
+	Delete	Assignment@@=[64]
+
+	Delete	SimpleName@@address[64]
+
+	Delete	MethodInvocation@@[66]
+, Delete	ExpressionStatement@@[67]
+
+	Delete	MethodInvocation@@[67]
+
+	Delete	SimpleName@@steps[67]
+
+	Delete	SimpleName@@add[67]
+
+	Delete	MethodInvocation@@[67]
+, Delete	ExpressionStatement@@[73]
+
+	Delete	MethodInvocation@@[73]
+
+	Delete	SimpleName@@steps[73]
+
+	Delete	SimpleName@@add[73]
+
+	Delete	SimpleName@@loginModule[73]
+]

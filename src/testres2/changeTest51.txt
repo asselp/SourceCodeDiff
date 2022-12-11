@@ -1,0 +1,1013 @@
+[Insert	ImportDeclaration@@[22]
+
+	Insert	QualifiedName@@org.jboss.as.controller.descriptions.ModelDescriptionConstants.SUBSYSTEM[22]
+, Insert	ImportDeclaration@@[24]
+
+	Insert	QualifiedName@@org.jboss.as.xts.XTSSubsystemDefinition.ASYNC_REGISTRATION[24]
+, Insert	ImportDeclaration@@[25]
+
+	Insert	QualifiedName@@org.jboss.as.xts.XTSSubsystemDefinition.DEFAULT_CONTEXT_PROPAGATION[25]
+, Insert	ImportDeclaration@@[26]
+
+	Insert	QualifiedName@@org.jboss.as.xts.XTSSubsystemDefinition.HOST_NAME[26]
+, Insert	ImportDeclaration@@[29]
+
+	Insert	QualifiedName@@java.util.List[29]
+, Insert	ImportDeclaration@@[34]
+
+	Insert	QualifiedName@@org.jboss.as.model.test.FailedOperationTransformationConfig.AttributesPathAddressConfig[34]
+, Update	QualifiedName@@org.jboss.as.controller.descriptions.ModelDescriptionConstants[27]	TO	org.jboss.as.model.test.FailedOperationTransformationConfig
+, Update	QualifiedName@@org.jboss.as.model.test.ModelTestControllerVersion[28]	TO	org.jboss.as.model.test.FailedOperationTransformationConfig.ChainedConfig
+, Update	QualifiedName@@org.jboss.as.model.test.OperationFixer[29]	TO	org.jboss.as.model.test.ModelTestControllerVersion
+, Update	QualifiedName@@org.jboss.as.subsystem.test.AbstractSubsystemBaseTest[30]	TO	org.jboss.as.model.test.ModelTestUtils
+, Update	QualifiedName@@org.jboss.as.subsystem.test.AdditionalInitialization[31]	TO	org.jboss.as.subsystem.test.AbstractSubsystemBaseTest
+, Insert	FieldDeclaration@@[50]
+
+	Insert	Modifier@@private[50]
+
+	Insert	Modifier@@static[50]
+
+	Insert	Modifier@@final[50]
+
+	Insert	SimpleType@@ModelVersion[50]
+
+	Insert	SimpleName@@ModelVersion[50]
+
+	Insert	VariableDeclarationFragment@@[50]
+
+	Insert	SimpleName@@EAP6_4_0[50]
+
+	Insert	MethodInvocation@@[50]
+
+	Insert	SimpleName@@ModelVersion[50]
+
+	Insert	SimpleName@@create[51]
+
+	Insert	NumberLiteral@@1[51]
+
+	Insert	NumberLiteral@@0[51]
+
+	Insert	NumberLiteral@@0[51]
+, Insert	FieldDeclaration@@[51]
+
+	Insert	Modifier@@private[51]
+
+	Insert	Modifier@@static[51]
+
+	Insert	Modifier@@final[51]
+
+	Insert	SimpleType@@ModelVersion[51]
+
+	Insert	SimpleName@@ModelVersion[51]
+
+	Insert	VariableDeclarationFragment@@[51]
+
+	Insert	SimpleName@@EAP7_1_0[51]
+
+	Insert	MethodInvocation@@[51]
+
+	Insert	SimpleName@@ModelVersion[51]
+
+	Insert	SimpleName@@create[52]
+
+	Insert	NumberLiteral@@2[52]
+
+	Insert	NumberLiteral@@0[52]
+
+	Insert	NumberLiteral@@0[52]
+, Insert	FieldDeclaration@@[52]
+
+	Insert	Modifier@@private[52]
+
+	Insert	Modifier@@static[52]
+
+	Insert	Modifier@@final[52]
+
+	Insert	SimpleType@@ModelVersion[52]
+
+	Insert	SimpleName@@ModelVersion[52]
+
+	Insert	VariableDeclarationFragment@@[52]
+
+	Insert	SimpleName@@EAP7_2_0[52]
+
+	Insert	MethodInvocation@@[52]
+
+	Insert	SimpleName@@ModelVersion[52]
+
+	Insert	SimpleName@@create[53]
+
+	Insert	NumberLiteral@@3[53]
+
+	Insert	NumberLiteral@@0[53]
+
+	Insert	NumberLiteral@@0[53]
+, Insert	MethodDeclaration@@[85]
+
+	Insert	MarkerAnnotation@@[85]
+
+	Insert	SimpleName@@Test[85]
+
+	Insert	SimpleName@@testTransformersEAP_7_0_0[85]
+
+	Insert	SimpleType@@Exception[85]
+
+	Insert	SimpleName@@Exception[85]
+
+	Insert	Block@@[85]
+
+	Insert	ExpressionStatement@@[86]
+
+	Insert	MethodInvocation@@[86]
+
+	Insert	SimpleName@@testTransformation[86]
+
+	Insert	QualifiedName@@ModelTestControllerVersion.EAP_7_0_0[89]
+
+	Insert	SimpleName@@EAP7_1_0[89]
+
+	Insert	StringLiteral@@"wildfly-xts"[89]
+, Insert	MethodDeclaration@@[90]
+
+	Insert	MarkerAnnotation@@[90]
+
+	Insert	SimpleName@@Test[90]
+
+	Insert	Modifier@@public[90]
+
+	Insert	PrimitiveType@@void[90]
+
+	Insert	Block@@[90]
+
+	Insert	ExpressionStatement@@[90]
+
+	Insert	MethodInvocation@@[90]
+
+	Insert	SimpleName@@testTransformation[90]
+
+	Insert	QualifiedName@@ModelTestControllerVersion.EAP_7_1_0[93]
+
+	Insert	SimpleName@@EAP7_1_0[94]
+
+	Insert	StringLiteral@@"wildfly-xts"[94]
+, Insert	MethodDeclaration@@[95]
+
+	Insert	MarkerAnnotation@@[95]
+
+	Insert	SimpleName@@Test[95]
+
+	Insert	Modifier@@public[95]
+
+	Insert	PrimitiveType@@void[95]
+
+	Insert	SimpleName@@testTransformersFailedEAP_6_4_0[95]
+
+	Insert	SimpleType@@Exception[95]
+
+	Insert	Block@@[95]
+
+	Insert	ExpressionStatement@@[96]
+
+	Insert	MethodInvocation@@[96]
+
+	Insert	SimpleName@@testRejectTransformation[96]
+
+	Insert	QualifiedName@@ModelTestControllerVersion.EAP_6_4_0[100]
+
+	Insert	SimpleName@@EAP6_4_0[100]
+
+	Insert	StringLiteral@@"jboss-as-xts"[100]
+, Insert	MethodDeclaration@@[101]
+
+	Insert	MarkerAnnotation@@[101]
+
+	Insert	SimpleName@@Test[101]
+
+	Insert	Modifier@@public[101]
+
+	Insert	PrimitiveType@@void[101]
+
+	Insert	SimpleName@@testTransformersFailedEAP_7_0_0[101]
+
+	Insert	SimpleType@@Exception[101]
+
+	Insert	SimpleName@@Exception[101]
+
+	Insert	Block@@[101]
+
+	Insert	ExpressionStatement@@[101]
+
+	Insert	MethodInvocation@@[101]
+
+	Insert	QualifiedName@@ModelTestControllerVersion.EAP_7_0_0[105]
+
+	Insert	SimpleName@@EAP7_1_0[106]
+, Insert	MethodDeclaration@@[107]
+
+	Insert	MarkerAnnotation@@[107]
+
+	Insert	SimpleName@@Test[107]
+
+	Insert	Modifier@@public[107]
+
+	Insert	PrimitiveType@@void[107]
+
+	Insert	SimpleName@@testTransformersFailedEAP_7_1_0[107]
+
+	Insert	SimpleType@@Exception[107]
+
+	Insert	SimpleName@@Exception[107]
+
+	Insert	Block@@[107]
+
+	Insert	ExpressionStatement@@[107]
+
+	Insert	MethodInvocation@@[107]
+
+	Insert	SimpleName@@testRejectTransformation[107]
+
+	Insert	QualifiedName@@ModelTestControllerVersion.EAP_7_1_0[110]
+
+	Insert	SimpleName@@EAP7_1_0[111]
+
+	Insert	StringLiteral@@"wildfly-xts"[111]
+, Insert	MethodDeclaration@@[111]
+
+	Insert	Modifier@@private[111]
+
+	Insert	PrimitiveType@@void[112]
+
+	Insert	SimpleName@@testTransformation[112]
+
+	Insert	SingleVariableDeclaration@@[112]
+
+	Insert	SimpleType@@ModelVersion[112]
+
+	Insert	SimpleName@@version[112]
+
+	Insert	SingleVariableDeclaration@@[113]
+
+	Insert	SimpleType@@String[113]
+
+	Insert	SimpleName@@String[113]
+
+	Insert	SimpleName@@artifact[114]
+
+	Insert	SimpleType@@Exception[116]
+
+	Insert	SimpleName@@Exception[116]
+
+	Insert	Block@@[116]
+
+	Insert	VariableDeclarationStatement@@[116]
+
+	Insert	SimpleType@@String[116]
+
+	Insert	SimpleName@@String[116]
+
+	Insert	ExpressionStatement@@[118]
+
+	Insert	MethodInvocation@@[118]
+
+	Insert	MethodInvocation@@[118]
+
+	Insert	MethodInvocation@@[118]
+
+	Insert	MethodInvocation@@[118]
+
+	Insert	SimpleName@@addMavenResourceURL[119]
+
+	Insert	MethodInvocation@@[119]
+
+	Insert	SimpleName@@String[119]
+
+	Insert	SimpleName@@format[121]
+
+	Insert	StringLiteral@@"%s:%s:%s"[121]
+
+	Insert	MethodInvocation@@[121]
+
+	Insert	SimpleName@@controllerVersion[121]
+
+	Insert	SimpleName@@getMavenGroupId[121]
+
+	Insert	SimpleName@@artifact[121]
+
+	Insert	MethodInvocation@@[122]
+
+	Insert	SimpleName@@controllerVersion[122]
+
+	Insert	SimpleName@@getMavenGavVersion[122]
+
+	Insert	SimpleName@@setExtensionClassName[122]
+
+	Insert	MethodInvocation@@[123]
+
+	Insert	TypeLiteral@@[123]
+
+	Insert	SimpleType@@XTSExtension[123]
+
+	Insert	SimpleName@@XTSExtension[123]
+
+	Insert	SimpleName@@getName[123]
+
+	Insert	MethodInvocation@@[123]
+
+	Insert	SimpleName@@createAdditionalInitialization[123]
+
+	Insert	SimpleName@@dontPersistXml[124]
+
+	Insert	VariableDeclarationStatement@@[125]
+
+	Insert	SimpleType@@KernelServices[125]
+
+	Insert	VariableDeclarationFragment@@[125]
+
+	Insert	SimpleName@@legacyServices[125]
+
+	Insert	MethodInvocation@@[126]
+
+	Insert	SimpleName@@mainServices[126]
+
+	Insert	SimpleName@@getLegacyServices[126]
+
+	Insert	SimpleName@@version[127]
+
+	Insert	ExpressionStatement@@[130]
+
+	Insert	MethodInvocation@@[130]
+
+	Insert	SimpleName@@checkSubsystemModelTransformation[130]
+
+	Insert	SimpleName@@mainServices[130]
+
+	Insert	SimpleName@@version[130]
+, Insert	MethodDeclaration@@[131]
+
+	Insert	PrimitiveType@@void[131]
+
+	Insert	SimpleName@@testRejectTransformation[131]
+
+	Insert	SingleVariableDeclaration@@[131]
+
+	Insert	SimpleType@@ModelTestControllerVersion[131]
+
+	Insert	SimpleName@@controllerVersion[133]
+
+	Insert	SingleVariableDeclaration@@[133]
+
+	Insert	SimpleType@@String[133]
+
+	Insert	SimpleName@@artifact[133]
+
+	Insert	SimpleType@@Exception[135]
+
+	Insert	SimpleName@@Exception[135]
+
+	Insert	Block@@[136]
+
+	Insert	VariableDeclarationStatement@@[136]
+
+	Insert	SimpleType@@FailedOperationTransformationConfig[136]
+
+	Insert	SimpleName@@FailedOperationTransformationConfig[136]
+
+	Insert	ExpressionStatement@@[137]
+
+	Insert	MethodInvocation@@[137]
+
+	Insert	MethodInvocation@@[137]
+
+	Insert	MethodInvocation@@[137]
+
+	Insert	NullLiteral@@[138]
+
+	Insert	SimpleName@@controllerVersion[138]
+
+	Insert	SimpleName@@version[138]
+
+	Insert	SimpleName@@addMavenResourceURL[138]
+
+	Insert	MethodInvocation@@[138]
+
+	Insert	SimpleName@@String[138]
+
+	Insert	SimpleName@@format[138]
+
+	Insert	StringLiteral@@"%s:%s:%s"[138]
+
+	Insert	MethodInvocation@@[140]
+
+	Insert	SimpleName@@controllerVersion[140]
+
+	Insert	SimpleName@@getMavenGroupId[140]
+
+	Insert	MethodInvocation@@[140]
+
+	Insert	SimpleName@@getMavenGavVersion[140]
+
+	Insert	SimpleName@@dontPersistXml[141]
+
+	Insert	VariableDeclarationStatement@@[141]
+
+	Insert	SimpleType@@KernelServices[141]
+
+	Insert	SimpleName@@KernelServices[141]
+
+	Insert	VariableDeclarationFragment@@[141]
+
+	Insert	SimpleName@@mainServices[141]
+
+	Insert	MethodInvocation@@[141]
+
+	Insert	VariableDeclarationStatement@@[141]
+
+	Insert	SimpleType@@KernelServices[141]
+
+	Insert	SimpleName@@KernelServices[141]
+
+	Insert	VariableDeclarationFragment@@[141]
+
+	Insert	SimpleName@@legacyServices[141]
+
+	Insert	MethodInvocation@@[141]
+
+	Insert	SimpleName@@getLegacyServices[141]
+
+	Insert	SimpleName@@version[142]
+
+	Insert	ExpressionStatement@@[145]
+
+	Insert	MethodInvocation@@[145]
+
+	Insert	VariableDeclarationStatement@@[145]
+
+	Insert	ParameterizedType@@List<ModelNode>[145]
+
+	Insert	SimpleType@@List[145]
+
+	Insert	SimpleName@@List[145]
+
+	Insert	SimpleType@@ModelNode[145]
+
+	Insert	SimpleName@@ModelNode[145]
+
+	Insert	VariableDeclarationFragment@@[146]
+
+	Insert	SimpleName@@ops[146]
+
+	Insert	MethodInvocation@@[146]
+
+	Insert	SimpleName@@builder[146]
+
+	Insert	StringLiteral@@"subsystem-3.0.0.xml"[146]
+
+	Insert	ExpressionStatement@@[147]
+
+	Insert	MethodInvocation@@[147]
+
+	Insert	SimpleName@@ModelTestUtils[147]
+
+	Insert	SimpleName@@mainServices[149]
+
+	Insert	SimpleName@@ops[149]
+
+	Insert	SimpleName@@config[149]
+, Insert	MethodDeclaration@@[149]
+
+	Insert	Modifier@@private[149]
+
+	Insert	SimpleType@@FailedOperationTransformationConfig[149]
+
+	Insert	SimpleName@@FailedOperationTransformationConfig[149]
+
+	Insert	SimpleName@@createFailedConfig[150]
+
+	Insert	SingleVariableDeclaration@@[150]
+
+	Insert	SimpleType@@ModelVersion[150]
+
+	Insert	SimpleName@@ModelVersion[150]
+
+	Insert	SimpleName@@version[150]
+
+	Insert	Block@@[150]
+
+	Insert	VariableDeclarationStatement@@[150]
+
+	Insert	SimpleType@@ChainedConfig[150]
+
+	Insert	SimpleName@@ChainedConfig[150]
+
+	Insert	VariableDeclarationFragment@@[150]
+
+	Insert	SimpleName@@chainedConfig[150]
+
+	Insert	IfStatement@@[150]
+
+	Insert	InfixExpression@@==[150]
+
+	Insert	SimpleName@@version[150]
+
+	Insert	SimpleName@@EAP6_4_0[153]
+
+	Insert	Block@@[153]
+
+	Insert	IfStatement@@[176]
+
+	Insert	InfixExpression@@==[176]
+
+	Insert	SimpleName@@version[176]
+
+	Insert	SimpleName@@EAP7_1_0[176]
+
+	Insert	Block@@[176]
+
+	Insert	ExpressionStatement@@[176]
+
+	Insert	Assignment@@=[176]
+
+	Insert	SimpleName@@chainedConfig[176]
+
+	Insert	MethodInvocation@@[176]
+
+	Insert	MethodInvocation@@[176]
+
+	Insert	MethodInvocation@@[176]
+
+	Insert	SimpleName@@ChainedConfig[176]
+
+	Insert	SimpleName@@createBuilder[176]
+
+	Insert	SimpleName@@ASYNC_REGISTRATION[176]
+
+	Insert	SimpleName@@addConfig[177]
+
+	Insert	ClassInstanceCreation@@[178]
+
+	Insert	SimpleType@@FailedOperationTransformationConfig.NewAttributesConfig[178]
+
+	Insert	QualifiedName@@FailedOperationTransformationConfig.NewAttributesConfig[178]
+
+	Insert	SimpleName@@ASYNC_REGISTRATION[180]
+
+	Insert	SimpleName@@build[181]
+
+	Insert	Block@@[181]
+
+	Insert	ThrowStatement@@[181]
+
+	Insert	ClassInstanceCreation@@[181]
+
+	Insert	SimpleType@@IllegalStateException[182]
+
+	Insert	SimpleName@@IllegalStateException[182]
+
+	Insert	ReturnStatement@@[182]
+
+	Insert	MethodInvocation@@[182]
+
+	Insert	ClassInstanceCreation@@[182]
+
+	Insert	SimpleType@@FailedOperationTransformationConfig[182]
+
+	Insert	SimpleName@@FailedOperationTransformationConfig[182]
+
+	Insert	SimpleName@@addFailedAttribute[182]
+
+	Insert	MethodInvocation@@[183]
+
+	Insert	SimpleName@@PathAddress[183]
+
+	Insert	SimpleName@@pathAddress[183]
+
+	Insert	SimpleName@@SUBSYSTEM[185]
+
+	Insert	QualifiedName@@XTSExtension.SUBSYSTEM_NAME[186]
+
+	Insert	SimpleName@@chainedConfig[186]
+, Update	SimpleName@@testBootEAP640[68]	TO	testTransformersEAP_6_4_0
+, Update	Modifier@@private[73]	TO	public
+, Move	Modifier@@private[73]	TO	MethodDeclaration@@[85]
+, Move	PrimitiveType@@void[73]	TO	MethodDeclaration@@[85]
+, Update	SimpleName@@testBoot1_1_0[73]	TO	testTransformersEAP_7_1_0
+, Move	SimpleName@@testBoot1_1_0[73]	TO	MethodDeclaration@@[90]
+, Move	SimpleType@@Exception[77]	TO	MethodDeclaration@@[90]
+, Move	SingleVariableDeclaration@@[73]	TO	MethodDeclaration@@[111]
+, Update	Modifier@@public[87]	TO	private
+, Move	Modifier@@public[87]	TO	MethodDeclaration@@[131]
+, Move	SingleVariableDeclaration@@[87]	TO	MethodDeclaration@@[131]
+, Update	SimpleName@@String[77]	TO	Exception
+, Move	SimpleName@@String[77]	TO	SimpleType@@Exception[95]
+, Move	VariableDeclarationStatement@@[81]	TO	Block@@[116]
+, Move	VariableDeclarationStatement@@[99]	TO	Block@@[116]
+, Move	ExpressionStatement@@[101]	TO	Block@@[116]
+, Move	ExpressionStatement@@[102]	TO	Block@@[116]
+, Update	SimpleType@@ModelNode[87]	TO	ModelVersion
+
+	Update	SimpleName@@ModelNode[87]	TO	ModelVersion
+, Update	SimpleName@@operation[88]	TO	version
+, Move	VariableDeclarationStatement@@[90]	TO	Block@@[136]
+, Move	ExpressionStatement@@[92]	TO	Block@@[136]
+, Update	StringLiteral@@"schema/jboss-as-xts_2_0.xsd"[54]	TO	"schema/jboss-as-xts_3_0.xsd"
+, Move	SimpleName@@ModelVersion[77]	TO	SimpleType@@ModelVersion[112]
+, Move	VariableDeclarationFragment@@[79]	TO	VariableDeclarationStatement@@[116]
+, Update	SimpleName@@ModelNode[87]	TO	ModelTestControllerVersion
+, Move	SimpleName@@ModelNode[87]	TO	SimpleType@@ModelTestControllerVersion[131]
+, Move	SimpleName@@String[89]	TO	SimpleType@@String[133]
+, Move	VariableDeclarationFragment@@[89]	TO	VariableDeclarationStatement@@[136]
+, Update	SimpleType@@PathAddress[90]	TO	KernelServicesBuilder
+
+	Update	SimpleName@@PathAddress[90]	TO	KernelServicesBuilder
+, Insert	MethodInvocation@@[60]
+
+	Insert	SimpleName@@String[60]
+
+	Insert	SimpleName@@format[60]
+
+	Insert	SimpleName@@EAP7_2_0[61]
+, Update	SimpleName@@testBoot1_1_0[71]	TO	testTransformation
+, Insert	SimpleName@@EAP6_4_0[84]
+, Insert	StringLiteral@@"jboss-as-xts"[84]
+, Update	SimpleName@@readResource[77]	TO	testRejectTransformation
+, Move	SimpleName@@readResource[77]	TO	MethodInvocation@@[101]
+, Update	StringLiteral@@"subsystem.xml"[77]	TO	"wildfly-xts"
+, Move	StringLiteral@@"subsystem.xml"[77]	TO	MethodInvocation@@[101]
+, Update	SimpleName@@modelVersion[79]	TO	subsystemXml
+, Insert	MethodInvocation@@[116]
+
+	Insert	SimpleName@@readResource[116]
+
+	Insert	MethodInvocation@@[116]
+
+	Insert	StringLiteral@@"subsystem-%s.xml"[116]
+
+	Insert	SimpleName@@version[116]
+, Update	SimpleName@@OperationFixer[87]	TO	KernelServices
+, Move	SimpleName@@OperationFixer[87]	TO	SimpleType@@KernelServices[125]
+, Update	SimpleName@@name[89]	TO	config
+, Insert	MethodInvocation@@[136]
+, Update	SimpleName@@addr[90]	TO	builder
+, Insert	SimpleName@@Assert[144]
+, Insert	SimpleName@@assertTrue[144]
+, Update	SimpleName@@operation[93]	TO	Assert
+, Move	SimpleName@@operation[93]	TO	MethodInvocation@@[145]
+, Update	SimpleName@@get[93]	TO	assertTrue
+, Move	SimpleName@@get[93]	TO	MethodInvocation@@[145]
+, Move	MethodInvocation@@[93]	TO	MethodInvocation@@[145]
+, Update	SimpleName@@controllerVersion[97]	TO	checkFailedTransformedBootOperations
+, Move	SimpleName@@controllerVersion[97]	TO	MethodInvocation@@[147]
+, Update	SimpleName@@getMavenGavVersion[98]	TO	version
+, Move	SimpleName@@getMavenGavVersion[98]	TO	MethodInvocation@@[147]
+, Move	VariableDeclarationStatement@@[99]	TO	Block@@[153]
+, Move	ExpressionStatement@@[103]	TO	Block@@[153]
+, Update	StringLiteral@@"subsystem.xml"[49]	TO	"subsystem-%s.xml"
+, Move	StringLiteral@@"subsystem.xml"[49]	TO	MethodInvocation@@[60]
+, Move	SimpleName@@configureReverseControllerCheck[86]	TO	MethodInvocation@@[118]
+, Move	NullLiteral@@[87]	TO	MethodInvocation@@[118]
+, Update	SimpleName@@operation[89]	TO	createFailedConfig
+, Move	SimpleName@@operation[89]	TO	MethodInvocation@@[136]
+, Update	SimpleName@@get[89]	TO	version
+, Move	SimpleName@@get[89]	TO	MethodInvocation@@[136]
+, Update	SimpleName@@PathAddress[90]	TO	createKernelServicesBuilder
+, Update	SimpleName@@addr[92]	TO	builder
+, Move	SimpleName@@addr[92]	TO	MethodInvocation@@[141]
+, Update	SimpleName@@getElement[92]	TO	build
+, Move	SimpleName@@getElement[92]	TO	MethodInvocation@@[141]
+, Update	SimpleName@@equals[92]	TO	mainServices
+, Move	SimpleName@@equals[92]	TO	MethodInvocation@@[141]
+, Update	SimpleName@@operation[92]	TO	mainServices
+, Update	SimpleName@@get[92]	TO	isSuccessfulBoot
+, Update	SimpleName@@getName[94]	TO	legacyServices
+, Insert	SimpleName@@isSuccessfulBoot[145]
+, Update	SimpleName@@addMavenResourceURL[96]	TO	parseXmlResource
+, Move	SimpleName@@addMavenResourceURL[96]	TO	MethodInvocation@@[146]
+, Insert	Modifier@@final[153]
+, Update	SimpleType@@KernelServices[99]	TO	AttributesPathAddressConfig
+
+	Update	SimpleName@@KernelServices[99]	TO	AttributesPathAddressConfig
+, Insert	Assignment@@=[171]
+
+	Insert	SimpleName@@chainedConfig[171]
+
+	Insert	MethodInvocation@@[171]
+
+	Insert	MethodInvocation@@[171]
+
+	Insert	MethodInvocation@@[171]
+
+	Insert	MethodInvocation@@[171]
+
+	Insert	SimpleName@@ChainedConfig[171]
+
+	Insert	SimpleName@@HOST_NAME[172]
+
+	Insert	SimpleName@@addConfig[172]
+
+	Insert	ClassInstanceCreation@@[173]
+
+	Insert	SimpleType@@FailedOperationTransformationConfig.NewAttributesConfig[173]
+
+	Insert	QualifiedName@@FailedOperationTransformationConfig.NewAttributesConfig[173]
+
+	Insert	SimpleName@@ASYNC_REGISTRATION[175]
+
+	Insert	SimpleName@@DEFAULT_CONTEXT_PROPAGATION[175]
+
+	Insert	SimpleName@@addConfig[175]
+
+	Insert	SimpleName@@hostConfig[175]
+
+	Insert	SimpleName@@build[176]
+, Update	SimpleName@@ModelVersion[79]	TO	String
+, Move	SimpleName@@ModelVersion[79]	TO	MethodInvocation@@[116]
+, Update	SimpleName@@create[79]	TO	format
+, Move	SimpleName@@create[79]	TO	MethodInvocation@@[116]
+, Insert	MethodInvocation@@[117]
+
+	Insert	SimpleName@@createAdditionalInitialization[117]
+, Update	SimpleName@@operation[90]	TO	createAdditionalInitialization
+, Update	SimpleName@@name[91]	TO	builder
+, Move	SimpleName@@name[91]	TO	MethodInvocation@@[137]
+, Update	SimpleName@@equals[91]	TO	createLegacyKernelServicesBuilder
+, Move	SimpleName@@equals[91]	TO	MethodInvocation@@[137]
+, Update	SimpleName@@addr[91]	TO	artifact
+, Move	SimpleName@@addr[91]	TO	MethodInvocation@@[138]
+, Update	SimpleName@@legacyServices[99]	TO	hostConfig
+, Insert	ClassInstanceCreation@@[153]
+
+	Insert	SimpleType@@AttributesPathAddressConfig[153]
+
+	Insert	SimpleName@@AttributesPathAddressConfig[153]
+
+	Insert	MethodInvocation@@[155]
+
+	Insert	SimpleName@@HOST_NAME[155]
+
+	Insert	SimpleName@@getName[155]
+
+	Insert	AnonymousClassDeclaration@@[155]
+
+	Insert	FieldDeclaration@@[156]
+
+	Insert	Modifier@@private[156]
+
+	Insert	Modifier@@static[156]
+
+	Insert	Modifier@@final[156]
+
+	Insert	SimpleType@@String[156]
+
+	Insert	SimpleName@@String[156]
+
+	Insert	VariableDeclarationFragment@@[157]
+
+	Insert	SimpleName@@DEFAULT_HOST[157]
+
+	Insert	StringLiteral@@"default-host"[157]
+
+	Insert	MethodDeclaration@@[157]
+
+	Insert	MarkerAnnotation@@[157]
+
+	Insert	SimpleName@@Override[157]
+
+	Insert	Modifier@@protected[157]
+
+	Insert	PrimitiveType@@boolean[157]
+
+	Insert	SimpleName@@isAttributeWritable[157]
+
+	Insert	SingleVariableDeclaration@@[157]
+
+	Insert	SimpleType@@String[157]
+
+	Insert	SimpleName@@String[157]
+
+	Insert	SimpleName@@attributeName[158]
+
+	Insert	Block@@[158]
+
+	Insert	ReturnStatement@@[158]
+
+	Insert	BooleanLiteral@@true[158]
+
+	Insert	MethodDeclaration@@[159]
+
+	Insert	MarkerAnnotation@@[159]
+
+	Insert	SimpleName@@Override[159]
+
+	Insert	Modifier@@protected[160]
+
+	Insert	PrimitiveType@@boolean[160]
+
+	Insert	SimpleName@@checkValue[160]
+
+	Insert	SingleVariableDeclaration@@[160]
+
+	Insert	SimpleType@@String[160]
+
+	Insert	SimpleName@@String[160]
+
+	Insert	SimpleName@@attrName[160]
+
+	Insert	SingleVariableDeclaration@@[160]
+
+	Insert	SimpleType@@ModelNode[160]
+
+	Insert	SimpleName@@ModelNode[160]
+
+	Insert	SimpleName@@attribute[160]
+
+	Insert	SingleVariableDeclaration@@[161]
+
+	Insert	PrimitiveType@@boolean[161]
+
+	Insert	SimpleName@@isGeneratedWriteAttribute[161]
+
+	Insert	Block@@[162]
+
+	Insert	ReturnStatement@@[165]
+
+	Insert	PrefixExpression@@![165]
+
+	Insert	MethodInvocation@@[165]
+
+	Insert	MethodInvocation@@[165]
+
+	Insert	SimpleName@@asString[165]
+
+	Insert	MethodDeclaration@@[166]
+
+	Insert	MarkerAnnotation@@[166]
+
+	Insert	SimpleName@@Override[166]
+
+	Insert	Modifier@@protected[166]
+
+	Insert	SimpleType@@ModelNode[166]
+
+	Insert	SimpleName@@ModelNode[166]
+
+	Insert	SimpleName@@correctValue[166]
+
+	Insert	SingleVariableDeclaration@@[166]
+
+	Insert	SimpleType@@ModelNode[166]
+
+	Insert	SimpleName@@ModelNode[166]
+
+	Insert	SimpleName@@toResolve[167]
+
+	Insert	SingleVariableDeclaration@@[167]
+
+	Insert	PrimitiveType@@boolean[167]
+
+	Insert	SimpleName@@isGeneratedWriteAttribute[167]
+
+	Insert	Block@@[167]
+
+	Insert	ReturnStatement@@[168]
+
+	Insert	ClassInstanceCreation@@[168]
+
+	Insert	SimpleType@@ModelNode[168]
+
+	Insert	SimpleName@@ModelNode[168]
+
+	Insert	SimpleName@@DEFAULT_HOST[170]
+, Move	MethodInvocation@@[82]	TO	MethodInvocation@@[118]
+, Update	SimpleName@@size[91]	TO	controllerVersion
+, Move	SimpleName@@size[91]	TO	MethodInvocation@@[140]
+, Update	SimpleName@@modelVersion[83]	TO	version
+, Update	SimpleName@@checkSubsystemModelTransformation[103]	TO	createBuilder
+, Move	SimpleName@@checkSubsystemModelTransformation[103]	TO	MethodInvocation@@[171]
+, Update	SimpleName@@mainServices[104]	TO	ASYNC_REGISTRATION
+, Move	SimpleName@@mainServices[104]	TO	MethodInvocation@@[171]
+, Update	SimpleName@@modelVersion[104]	TO	DEFAULT_CONTEXT_PROPAGATION
+, Move	SimpleName@@modelVersion[104]	TO	MethodInvocation@@[171]
+, Update	SimpleName@@getLegacyServices[101]	TO	equals
+, Move	SimpleName@@getLegacyServices[101]	TO	MethodInvocation@@[165]
+, Update	SimpleName@@modelVersion[101]	TO	DEFAULT_HOST
+, Move	SimpleName@@modelVersion[101]	TO	MethodInvocation@@[165]
+, Update	SimpleName@@mainServices[99]	TO	attribute
+, Move	SimpleName@@mainServices[99]	TO	MethodInvocation@@[165]
+, Delete	MethodInvocation@@[79]
+
+	Delete	NumberLiteral@@1[79]
+
+	Delete	NumberLiteral@@1[79]
+
+	Delete	NumberLiteral@@0[79]
+, Delete	QualifiedName@@AdditionalInitialization.MANAGEMENT[81]
+, Delete	MethodInvocation@@[89]
+
+	Delete	MethodInvocation@@[89]
+
+	Delete	QualifiedName@@ModelDescriptionConstants.OP[89]
+
+	Delete	SimpleName@@asString[89]
+, Delete	SimpleName@@pathAddress[90]
+, Delete	SimpleName@@require[90]
+, Delete	QualifiedName@@ModelDescriptionConstants.OP_ADDR[90]
+, Delete	QualifiedName@@ModelDescriptionConstants.HOST[92]
+, Delete	SimpleName@@set[92]
+, Delete	StringLiteral@@"default-host"[92]
+, Delete	QualifiedName@@XTSSubsystemDefinition.DEFAULT_CONTEXT_PROPAGATION[93]
+, Delete	MethodInvocation@@[99]
+, Delete	MethodInvocation@@[103]
+, Delete	MethodDeclaration@@[73]
+
+	Delete	Block@@[77]
+
+	Delete	VariableDeclarationStatement@@[77]
+
+	Delete	SimpleType@@String[77]
+
+	Delete	VariableDeclarationFragment@@[77]
+
+	Delete	SimpleName@@subsystemXml[77]
+
+	Delete	MethodInvocation@@[77]
+
+	Delete	VariableDeclarationStatement@@[77]
+
+	Delete	SimpleType@@ModelVersion[77]
+
+	Delete	ExpressionStatement@@[82]
+
+	Delete	MethodInvocation@@[82]
+
+	Delete	MethodInvocation@@[82]
+
+	Delete	QualifiedName@@AdditionalInitialization.MANAGEMENT[86]
+
+	Delete	ClassInstanceCreation@@[87]
+
+	Delete	SimpleType@@OperationFixer[87]
+
+	Delete	AnonymousClassDeclaration@@[87]
+
+	Delete	MethodDeclaration@@[87]
+
+	Delete	MarkerAnnotation@@[87]
+
+	Delete	SimpleName@@Override[87]
+
+	Delete	SimpleType@@ModelNode[87]
+
+	Delete	SimpleName@@fixOperation[87]
+
+	Delete	Block@@[88]
+
+	Delete	VariableDeclarationStatement@@[89]
+
+	Delete	SimpleType@@String[89]
+
+	Delete	IfStatement@@[91]
+
+	Delete	InfixExpression@@&&[91]
+
+	Delete	InfixExpression@@&&[91]
+
+	Delete	MethodInvocation@@[91]
+
+	Delete	QualifiedName@@ModelDescriptionConstants.ADD[91]
+
+	Delete	InfixExpression@@==[91]
+
+	Delete	MethodInvocation@@[91]
+
+	Delete	NumberLiteral@@1[91]
+
+	Delete	MethodInvocation@@[92]
+
+	Delete	MethodInvocation@@[92]
+
+	Delete	NumberLiteral@@0[92]
+
+	Delete	QualifiedName@@XTSExtension.SUBSYSTEM_PATH[92]
+
+	Delete	Block@@[92]
+
+	Delete	ExpressionStatement@@[93]
+
+	Delete	MethodInvocation@@[93]
+
+	Delete	MethodInvocation@@[93]
+
+	Delete	SimpleName@@set[94]
+
+	Delete	BooleanLiteral@@false[94]
+
+	Delete	ReturnStatement@@[94]
+
+	Delete	SimpleName@@operation[94]
+
+	Delete	InfixExpression@@+[96]
+
+	Delete	StringLiteral@@"org.jboss.as:jboss-as-xts:"[96]
+
+	Delete	MethodInvocation@@[97]
+]

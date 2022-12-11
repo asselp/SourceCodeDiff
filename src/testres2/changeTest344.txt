@@ -1,0 +1,8 @@
+[Update	QualifiedName@@org.apache.commons.logging.Log[24]	TO	org.slf4j.Logger
+, Update	QualifiedName@@org.apache.commons.logging.LogFactory[26]	TO	org.slf4j.LoggerFactory
+, Update	SimpleType@@Log[39]	TO	Logger
+
+	Update	SimpleName@@Log[39]	TO	Logger
+, Update	SimpleName@@LogFactory[39]	TO	LoggerFactory
+, Update	SimpleName@@getLog[40]	TO	getLogger
+]

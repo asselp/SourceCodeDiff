@@ -1,0 +1,7 @@
+[Delete	QualifiedName@@initialContainerNodeSpec.nodeType[58]
+, Delete	QualifiedName@@initialContainerNodeSpec.nodeFlavor[59]
+, Delete	QualifiedName@@initialContainerNodeSpec.nodeType[97]
+, Delete	QualifiedName@@initialContainerNodeSpec.nodeFlavor[98]
+, Delete	QualifiedName@@initialContainerNodeSpec.nodeType[117]
+, Delete	QualifiedName@@initialContainerNodeSpec.nodeFlavor[117]
+]

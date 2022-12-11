@@ -1,0 +1,42 @@
+[Insert	ExpressionStatement@@[379]
+
+	Insert	MethodInvocation@@[379]
+
+	Insert	SimpleName@@m[379]
+
+	Insert	SimpleName@@put[379]
+
+	Insert	StringLiteral@@"siteTitleNotTruncated"[379]
+
+	Insert	MethodInvocation@@[379]
+, Update	SimpleName@@siteTitleNotTruncated[380]	TO	siteTitle
+, Update	SimpleName@@siteTitleTruncated[383]	TO	siteTitle
+, Update	SimpleName@@siteTitleNotTruncated[383]	TO	siteTitle
+, Move	SimpleName@@getUserSpecificSiteTitle[379]	TO	MethodInvocation@@[379]
+, Move	SimpleName@@s[380]	TO	MethodInvocation@@[379]
+, Update	BooleanLiteral@@true[380]	TO	false
+, Move	BooleanLiteral@@true[380]	TO	MethodInvocation@@[379]
+, Delete	VariableDeclarationStatement@@[379]
+
+	Delete	SimpleType@@String[379]
+
+	Delete	SimpleName@@String[379]
+
+	Delete	VariableDeclarationFragment@@[379]
+
+	Delete	SimpleName@@siteTitleTruncated[379]
+
+	Delete	MethodInvocation@@[379]
+, Delete	BooleanLiteral@@false[381]
+, Delete	ExpressionStatement@@[382]
+
+	Delete	MethodInvocation@@[382]
+
+	Delete	SimpleName@@m[382]
+
+	Delete	SimpleName@@put[382]
+
+	Delete	StringLiteral@@"siteTitleNotTruncated"[382]
+
+	Delete	SimpleName@@siteTitleNotTruncated[382]
+]

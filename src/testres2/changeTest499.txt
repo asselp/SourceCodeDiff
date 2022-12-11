@@ -1,0 +1,6 @@
+[Update	QualifiedName@@org.ballerinalang.model.values.BString[18]	TO	org.ballerinalang.launcher.util.BCompileUtil
+, Update	QualifiedName@@org.ballerinalang.model.values.BValue[20]	TO	org.ballerinalang.launcher.util.BRunUtil
+, Update	QualifiedName@@org.ballerinalang.test.util.BCompileUtil[21]	TO	org.ballerinalang.launcher.util.CompileResult
+, Update	QualifiedName@@org.ballerinalang.test.util.BRunUtil[22]	TO	org.ballerinalang.model.values.BString
+, Update	QualifiedName@@org.ballerinalang.test.util.CompileResult[23]	TO	org.ballerinalang.model.values.BValue
+]

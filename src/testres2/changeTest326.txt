@@ -1,0 +1,41 @@
+[Move	Block@@[76]	TO	TryStatement@@[72]
+, Delete	Block@@[72]
+
+	Delete	IfStatement@@[72]
+
+	Delete	MethodInvocation@@[72]
+
+	Delete	SimpleName@@BasicLTIUtil[72]
+
+	Delete	SimpleName@@isNotBlank[73]
+
+	Delete	CastExpression@@[73]
+
+	Delete	SimpleType@@String[73]
+
+	Delete	SimpleName@@String[73]
+
+	Delete	MethodInvocation@@[73]
+
+	Delete	SimpleName@@payload[73]
+
+	Delete	SimpleName@@get[74]
+
+	Delete	QualifiedName@@BasicLTIConstants.EXT_SAKAI_PROVIDER_EID[74]
+
+	Delete	Block@@[75]
+
+	Delete	ExpressionStatement@@[75]
+
+	Delete	Assignment@@=[75]
+
+	Delete	SimpleName@@user[75]
+
+	Delete	MethodInvocation@@[75]
+
+	Delete	SimpleName@@userDirectoryService[75]
+
+	Delete	SimpleName@@getUserByEid[75]
+
+	Delete	SimpleName@@eid[75]
+]

@@ -1,0 +1,19 @@
+[Insert	ReturnStatement@@[83]
+
+	Insert	CastExpression@@[83]
+
+	Insert	SimpleType@@FloatFieldMapper[83]
+
+	Insert	SimpleName@@FloatFieldMapper[83]
+
+	Insert	MethodInvocation@@[83]
+, Move	SimpleName@@fieldMapper[83]	TO	MethodInvocation@@[83]
+, Move	SimpleName@@includeInAll[83]	TO	MethodInvocation@@[83]
+, Move	SimpleName@@includeInAll[83]	TO	MethodInvocation@@[83]
+, Delete	ExpressionStatement@@[83]
+
+	Delete	MethodInvocation@@[83]
+, Delete	ReturnStatement@@[83]
+
+	Delete	SimpleName@@fieldMapper[83]
+]

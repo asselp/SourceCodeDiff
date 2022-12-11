@@ -1,0 +1,17 @@
+[Insert	ImportDeclaration@@[25]
+
+	Insert	QualifiedName@@java.io.IOException[25]
+, Insert	SimpleType@@IOException[177]
+
+	Insert	SimpleName@@IOException[177]
+, Insert	NullLiteral@@[127]
+, Insert	CastExpression@@[181]
+
+	Insert	SimpleType@@ConfigDefinition[181]
+
+	Insert	SimpleName@@ConfigDefinition[181]
+
+	Insert	NullLiteral@@[181]
+, Insert	NullLiteral@@[181]
+, Delete	NullLiteral@@[179]
+]

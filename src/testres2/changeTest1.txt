@@ -1,0 +1,19 @@
+[Update	QualifiedName@@org.elasticsearch.common.io.stream.StreamInput[23]	TO	org.elasticsearch.common.io.stream.BytesStreamInput
+, Update	SimpleType@@StreamInput[54]	TO	BytesStreamInput
+
+	Update	SimpleName@@StreamInput[54]	TO	BytesStreamInput
+, Insert	ClassInstanceCreation@@[55]
+
+	Insert	SimpleType@@BytesStreamInput[55]
+
+	Insert	SimpleName@@BytesStreamInput[55]
+
+	Insert	SimpleName@@source[56]
+, Delete	MethodInvocation@@[55]
+
+	Delete	SimpleName@@StreamInput[55]
+
+	Delete	SimpleName@@wrap[55]
+
+	Delete	SimpleName@@source[55]
+]

@@ -1,0 +1,16 @@
+[Move	MethodInvocation@@[44]	TO	VariableDeclarationFragment@@[44]
+, Update	SimpleName@@endObject[50]	TO	string
+, Update	SimpleName@@field[48]	TO	endObject
+, Update	SimpleName@@startObject[48]	TO	field
+, Update	StringLiteral@@"fielddata"[48]	TO	"doc_values"
+, Insert	BooleanLiteral@@true[48]
+, Delete	StringLiteral@@"format"[49]
+, Delete	StringLiteral@@"doc_values"[49]
+, Delete	MethodInvocation@@[44]
+
+	Delete	MethodInvocation@@[44]
+
+	Delete	SimpleName@@endObject[51]
+
+	Delete	SimpleName@@string[51]
+]

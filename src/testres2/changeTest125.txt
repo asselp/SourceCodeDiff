@@ -1,0 +1,18 @@
+[Insert	MethodDeclaration@@[95]
+
+	Insert	MarkerAnnotation@@[95]
+
+	Insert	SimpleName@@Override[95]
+
+	Insert	Modifier@@public[95]
+
+	Insert	PrimitiveType@@int[95]
+
+	Insert	SimpleName@@getId[95]
+
+	Insert	Block@@[95]
+
+	Insert	ReturnStatement@@[95]
+
+	Insert	QualifiedName@@ConfigDataSerializerHook.MAP_PARTITION_LOST_LISTENER_CONFIG[95]
+]

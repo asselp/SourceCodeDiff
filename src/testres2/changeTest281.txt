@@ -1,0 +1,24 @@
+[Update	ParameterizedType@@Collection<T>[104]	TO	List<T>
+
+	Update	SimpleType@@Collection[104]	TO	List
+
+	Update	SimpleName@@Collection[104]	TO	List
+, Update	ParameterizedType@@Collection<T>[122]	TO	List<T>
+
+	Update	SimpleType@@Collection[122]	TO	List
+
+	Update	SimpleName@@Collection[122]	TO	List
+, Update	ParameterizedType@@Collection<T>[108]	TO	List<T>
+
+	Update	SimpleType@@Collection[108]	TO	List
+
+	Update	SimpleName@@Collection[108]	TO	List
+, Update	ParameterizedType@@Collection<T>[116]	TO	List<T>
+
+	Update	SimpleType@@Collection[116]	TO	List
+
+	Update	SimpleName@@Collection[116]	TO	List
+, Delete	ImportDeclaration@@[40]
+
+	Delete	QualifiedName@@java.util.Collection[40]
+]

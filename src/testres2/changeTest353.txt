@@ -1,0 +1,7 @@
+[Insert	NumberLiteral@@1000[44]
+, Update	SimpleName@@ClientTestUtils[103]	TO	ClientContext
+, Update	SimpleName@@resetClientContext[104]	TO	reset
+, Delete	ImportDeclaration@@[32]
+
+	Delete	QualifiedName@@tachyon.client.util.ClientTestUtils[32]
+]

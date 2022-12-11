@@ -1,0 +1,37 @@
+[Insert	ArrayCreation@@[1770]
+
+	Insert	ArrayType@@String[][1771]
+
+	Insert	SimpleType@@String[1771]
+
+	Insert	SimpleName@@String[1771]
+
+	Insert	Dimension@@[1771]
+
+	Insert	NumberLiteral@@0[1771]
+, Insert	ArrayCreation@@[1773]
+
+	Insert	ArrayType@@String[][1773]
+
+	Insert	SimpleType@@String[1773]
+
+	Insert	SimpleName@@String[1773]
+
+	Insert	Dimension@@[1773]
+
+	Insert	NumberLiteral@@0[1773]
+, Insert	ArrayCreation@@[1773]
+
+	Insert	ArrayType@@String[][1773]
+
+	Insert	SimpleType@@String[1773]
+
+	Insert	SimpleName@@String[1773]
+
+	Insert	Dimension@@[1773]
+
+	Insert	NumberLiteral@@0[1773]
+, Delete	NullLiteral@@[1770]
+, Delete	NullLiteral@@[1771]
+, Delete	NullLiteral@@[1773]
+]

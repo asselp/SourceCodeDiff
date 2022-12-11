@@ -1,0 +1,70 @@
+[Insert	SuperConstructorInvocation@@[258]
+
+	Insert	MethodInvocation@@[258]
+
+	Insert	MethodInvocation@@[258]
+, Move	SimpleName@@config[261]	TO	MethodInvocation@@[258]
+, Move	SimpleName@@getProperties[261]	TO	MethodInvocation@@[258]
+, Move	SimpleName@@GroupProperty[261]	TO	MethodInvocation@@[258]
+, Move	SimpleName@@values[261]	TO	MethodInvocation@@[258]
+, Delete	ImportDeclaration@@[19]
+
+	Delete	QualifiedName@@com.hazelcast.util.Preconditions.checkNotNull[19]
+, Delete	ExpressionStatement@@[260]
+
+	Delete	MethodInvocation@@[260]
+
+	Delete	SimpleName@@checkNotNull[260]
+
+	Delete	SimpleName@@config[260]
+, Delete	ExpressionStatement@@[260]
+
+	Delete	MethodInvocation@@[260]
+
+	Delete	SimpleName@@initProperties[260]
+
+	Delete	MethodInvocation@@[261]
+
+	Delete	MethodInvocation@@[261]
+, Delete	MethodDeclaration@@[261]
+
+	Delete	MarkerAnnotation@@[261]
+
+	Delete	SimpleName@@Override[262]
+
+	Delete	Modifier@@protected[263]
+
+	Delete	ArrayType@@String[][263]
+
+	Delete	SimpleType@@String[263]
+
+	Delete	SimpleName@@String[263]
+
+	Delete	Dimension@@[263]
+
+	Delete	SimpleName@@createProperties[263]
+
+	Delete	Block@@[263]
+
+	Delete	ReturnStatement@@[263]
+
+	Delete	ArrayCreation@@[263]
+
+	Delete	ArrayType@@String[][263]
+
+	Delete	SimpleType@@String[263]
+
+	Delete	SimpleName@@String[263]
+
+	Delete	Dimension@@[263]
+
+	Delete	FieldAccess@@[263]
+
+	Delete	MethodInvocation@@[263]
+
+	Delete	SimpleName@@GroupProperty[263]
+
+	Delete	SimpleName@@values[263]
+
+	Delete	SimpleName@@length[264]
+]

@@ -1,0 +1,8 @@
+[Insert	ImportDeclaration@@[23]
+
+	Insert	QualifiedName@@java.util.logging.Level[23]
+, Insert	Modifier@@final[31]
+, Update	SimpleName@@LOGGER[32]	TO	logger
+, Update	SimpleName@@LOGGER[92]	TO	logger
+, Delete	Modifier@@final[30]
+]

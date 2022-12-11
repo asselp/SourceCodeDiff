@@ -1,0 +1,30 @@
+[Insert	ExpressionStatement@@[114]
+
+	Insert	MethodInvocation@@[114]
+
+	Insert	SimpleName@@assessmentSettings[114]
+
+	Insert	SimpleName@@setUsername[114]
+
+	Insert	MethodInvocation@@[114]
+
+	Insert	SimpleName@@FormattedText[114]
+
+	Insert	SimpleName@@convertFormattedTextToPlaintext[114]
+
+	Insert	MethodInvocation@@[114]
+
+	Insert	SimpleName@@StringUtils[114]
+
+	Insert	SimpleName@@trim[114]
+
+	Insert	MethodInvocation@@[114]
+
+	Insert	MethodInvocation@@[114]
+
+	Insert	SimpleName@@assessment[114]
+
+	Insert	SimpleName@@getAssessmentAccessControl[114]
+
+	Insert	SimpleName@@getUsername[115]
+]

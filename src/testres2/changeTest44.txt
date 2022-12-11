@@ -1,0 +1,63 @@
+[Insert	IfStatement@@[147]
+
+	Insert	MethodInvocation@@[147]
+
+	Insert	QualifiedName@@IndexMetadata.INDEX_NUMBER_OF_REPLICAS_SETTING[147]
+
+	Insert	SimpleName@@exists[147]
+
+	Insert	SimpleName@@openSettings[147]
+
+	Insert	Block@@[147]
+, Move	VariableDeclarationStatement@@[147]	TO	Block@@[147]
+, Move	IfStatement@@[148]	TO	Block@@[147]
+, Insert	Modifier@@final[147]
+, Insert	InfixExpression@@==[150]
+, Move	SimpleName@@preserveExisting[150]	TO	InfixExpression@@==[150]
+, Move	BooleanLiteral@@false[150]	TO	InfixExpression@@==[150]
+, Insert	QualifiedName@@IndexMetadata.INDEX_NUMBER_OF_REPLICAS_SETTING[149]
+, Insert	SimpleName@@get[150]
+, Insert	IfStatement@@[228]
+
+	Insert	InfixExpression@@==[228]
+
+	Insert	MethodInvocation@@[228]
+
+	Insert	SimpleName@@indexSettings[228]
+
+	Insert	SimpleName@@get[228]
+
+	Insert	QualifiedName@@IndexMetadata.SETTING_NUMBER_OF_REPLICAS[228]
+
+	Insert	NullLiteral@@[229]
+
+	Insert	Block@@[229]
+
+	Insert	ExpressionStatement@@[229]
+
+	Insert	MethodInvocation@@[229]
+
+	Insert	SimpleName@@indexSettings[229]
+
+	Insert	SimpleName@@put[229]
+
+	Insert	QualifiedName@@IndexMetadata.SETTING_NUMBER_OF_REPLICAS[229]
+
+	Insert	NumberLiteral@@1[229]
+, Delete	SimpleName@@getAsInt[147]
+, Delete	QualifiedName@@IndexMetadata.SETTING_NUMBER_OF_REPLICAS[147]
+, Delete	PrefixExpression@@-[147]
+
+	Delete	NumberLiteral@@1[147]
+, Delete	InfixExpression@@&&[148]
+
+	Delete	InfixExpression@@!=[148]
+
+	Delete	SimpleName@@updatedNumberOfReplicas[148]
+
+	Delete	PrefixExpression@@-[150]
+
+	Delete	NumberLiteral@@1[150]
+
+	Delete	InfixExpression@@==[150]
+]

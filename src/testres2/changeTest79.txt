@@ -1,0 +1,52 @@
+[Insert	FieldDeclaration@@[62]
+
+	Insert	Modifier@@static[62]
+
+	Insert	Modifier@@final[62]
+
+	Insert	SimpleType@@JASPIAuthenticationResourceDefinitionAdd[62]
+
+	Insert	SimpleName@@JASPIAuthenticationResourceDefinitionAdd[62]
+
+	Insert	VariableDeclarationFragment@@[63]
+
+	Insert	SimpleName@@INSTANCE[63]
+, Insert	MethodDeclaration@@[63]
+
+	Insert	MarkerAnnotation@@[63]
+
+	Insert	SimpleName@@Override[63]
+
+	Insert	Modifier@@protected[63]
+
+	Insert	PrimitiveType@@void[63]
+
+	Insert	SimpleName@@populateModel[63]
+
+	Insert	SingleVariableDeclaration@@[63]
+
+	Insert	SimpleType@@ModelNode[63]
+
+	Insert	SimpleName@@ModelNode[63]
+
+	Insert	SimpleName@@operation[65]
+
+	Insert	SingleVariableDeclaration@@[65]
+
+	Insert	SimpleType@@ModelNode[65]
+
+	Insert	SimpleName@@ModelNode[65]
+
+	Insert	SimpleName@@model[66]
+
+	Insert	SimpleType@@OperationFailedException[66]
+
+	Insert	SimpleName@@OperationFailedException[66]
+
+	Insert	Block@@[66]
+, Insert	QualifiedName@@JASPIAuthenticationResourceDefinitionAdd.INSTANCE[46]
+, Move	ClassInstanceCreation@@[46]	TO	VariableDeclarationFragment@@[63]
+, Delete	MarkerAnnotation@@[48]
+
+	Delete	SimpleName@@Override[48]
+]

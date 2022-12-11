@@ -1,0 +1,239 @@
+[Insert	ImportDeclaration@@[5]
+
+	Insert	QualifiedName@@com.yahoo.container.QrSearchersConfig[6]
+, Insert	ImportDeclaration@@[6]
+
+	Insert	QualifiedName@@com.yahoo.container.handler.VipStatus[7]
+, Insert	ImportDeclaration@@[16]
+
+	Insert	QualifiedName@@com.yahoo.search.dispatch.Dispatcher[16]
+, Insert	ImportDeclaration@@[17]
+
+	Insert	QualifiedName@@com.yahoo.search.dispatch.rpc.RpcResourcePool[17]
+, Insert	ImportDeclaration@@[36]
+
+	Insert	QualifiedName@@org.junit.Assert.assertTrue[36]
+, Insert	MethodDeclaration@@[139]
+
+	Insert	MarkerAnnotation@@[139]
+
+	Insert	SimpleName@@Test[139]
+
+	Insert	Modifier@@public[140]
+
+	Insert	PrimitiveType@@void[140]
+
+	Insert	SimpleName@@testDispatchReconfig[140]
+
+	Insert	Block@@[140]
+
+	Insert	VariableDeclarationStatement@@[140]
+
+	Insert	SimpleType@@String[140]
+
+	Insert	SimpleName@@String[140]
+
+	Insert	VariableDeclarationFragment@@[140]
+
+	Insert	SimpleName@@clusterName[140]
+
+	Insert	StringLiteral@@"a"[141]
+
+	Insert	VariableDeclarationStatement@@[141]
+
+	Insert	SimpleType@@var[141]
+
+	Insert	SimpleName@@var[141]
+
+	Insert	VariableDeclarationFragment@@[141]
+
+	Insert	SimpleName@@b[141]
+
+	Insert	ClassInstanceCreation@@[141]
+
+	Insert	SimpleType@@QrSearchersConfig.Builder[141]
+
+	Insert	QualifiedName@@QrSearchersConfig.Builder[141]
+
+	Insert	VariableDeclarationStatement@@[143]
+
+	Insert	SimpleType@@var[143]
+
+	Insert	SimpleName@@var[143]
+
+	Insert	VariableDeclarationFragment@@[144]
+
+	Insert	SimpleName@@searchClusterB[144]
+
+	Insert	ClassInstanceCreation@@[145]
+
+	Insert	SimpleType@@QrSearchersConfig.Searchcluster.Builder[145]
+
+	Insert	QualifiedName@@QrSearchersConfig.Searchcluster.Builder[145]
+
+	Insert	ExpressionStatement@@[146]
+
+	Insert	MethodInvocation@@[146]
+
+	Insert	SimpleName@@searchClusterB[146]
+
+	Insert	SimpleName@@name[147]
+
+	Insert	SimpleName@@clusterName[147]
+
+	Insert	ExpressionStatement@@[147]
+
+	Insert	MethodInvocation@@[147]
+
+	Insert	SimpleName@@b[147]
+
+	Insert	SimpleName@@searchcluster[147]
+
+	Insert	SimpleName@@searchClusterB[147]
+
+	Insert	VariableDeclarationStatement@@[148]
+
+	Insert	SimpleType@@VipStatus[148]
+
+	Insert	SimpleName@@VipStatus[148]
+
+	Insert	VariableDeclarationFragment@@[148]
+
+	Insert	SimpleName@@vipStatus[148]
+
+	Insert	ClassInstanceCreation@@[148]
+
+	Insert	SimpleType@@VipStatus[148]
+
+	Insert	SimpleName@@VipStatus[148]
+
+	Insert	MethodInvocation@@[148]
+
+	Insert	SimpleName@@b[148]
+
+	Insert	SimpleName@@build[148]
+
+	Insert	VariableDeclarationStatement@@[148]
+
+	Insert	ParameterizedType@@List<Node>[148]
+
+	Insert	SimpleType@@List[148]
+
+	Insert	SimpleName@@List[148]
+
+	Insert	SimpleType@@Node[149]
+
+	Insert	SimpleName@@Node[149]
+
+	Insert	VariableDeclarationFragment@@[149]
+
+	Insert	SimpleName@@nodes_1[149]
+
+	Insert	MethodInvocation@@[149]
+
+	Insert	SimpleName@@ImmutableList[149]
+
+	Insert	SimpleName@@of[149]
+
+	Insert	ClassInstanceCreation@@[149]
+
+	Insert	SimpleType@@Node[149]
+
+	Insert	SimpleName@@Node[149]
+
+	Insert	NumberLiteral@@0[150]
+
+	Insert	StringLiteral@@"host0"[150]
+
+	Insert	NumberLiteral@@0[150]
+
+	Insert	VariableDeclarationStatement@@[150]
+
+	Insert	SimpleType@@RpcResourcePool[150]
+
+	Insert	SimpleName@@RpcResourcePool[150]
+
+	Insert	VariableDeclarationFragment@@[151]
+
+	Insert	SimpleName@@rpcPool_1[151]
+
+	Insert	ClassInstanceCreation@@[151]
+
+	Insert	SimpleType@@RpcResourcePool[151]
+
+	Insert	SimpleName@@RpcResourcePool[151]
+
+	Insert	MethodInvocation@@[151]
+
+	Insert	SimpleName@@MockDispatcher[151]
+
+	Insert	SimpleName@@toDispatchConfig[151]
+
+	Insert	SimpleName@@nodes_1[152]
+
+	Insert	VariableDeclarationStatement@@[152]
+
+	Insert	SimpleType@@Dispatcher[152]
+
+	Insert	SimpleName@@Dispatcher[152]
+
+	Insert	VariableDeclarationFragment@@[152]
+
+	Insert	SimpleName@@dispatch_1[152]
+
+	Insert	MethodInvocation@@[152]
+
+	Insert	SimpleName@@MockDispatcher[152]
+
+	Insert	SimpleName@@create[152]
+
+	Insert	SimpleName@@nodes_1[153]
+
+	Insert	SimpleName@@rpcPool_1[153]
+
+	Insert	NumberLiteral@@1[153]
+
+	Insert	SimpleName@@vipStatus[153]
+
+	Insert	ExpressionStatement@@[153]
+
+	Insert	MethodInvocation@@[153]
+
+	Insert	SimpleName@@vipStatus[153]
+
+	Insert	SimpleName@@addToRotation[153]
+
+	Insert	SimpleName@@clusterName[153]
+
+	Insert	ExpressionStatement@@[153]
+
+	Insert	MethodInvocation@@[153]
+
+	Insert	SimpleName@@assertTrue[153]
+
+	Insert	MethodInvocation@@[154]
+
+	Insert	SimpleName@@vipStatus[154]
+
+	Insert	SimpleName@@isInRotation[154]
+
+	Insert	ExpressionStatement@@[154]
+
+	Insert	MethodInvocation@@[154]
+
+	Insert	SimpleName@@dispatch_1[154]
+
+	Insert	SimpleName@@deconstruct[154]
+
+	Insert	ExpressionStatement@@[154]
+
+	Insert	MethodInvocation@@[154]
+
+	Insert	SimpleName@@assertTrue[154]
+
+	Insert	MethodInvocation@@[154]
+
+	Insert	SimpleName@@vipStatus[154]
+
+	Insert	SimpleName@@isInRotation[155]
+]

@@ -1,0 +1,9 @@
+[Update	QualifiedName@@org.ballerinalang.model.types.BArrayType[19]	TO	org.ballerinalang.core.model.types.BArrayType
+, Update	QualifiedName@@org.ballerinalang.model.types.TypeTags[21]	TO	org.ballerinalang.core.model.types.TypeTags
+, Update	QualifiedName@@org.ballerinalang.model.values.BBoolean[22]	TO	org.ballerinalang.core.model.values.BBoolean
+, Update	QualifiedName@@org.ballerinalang.model.values.BByte[23]	TO	org.ballerinalang.core.model.values.BByte
+, Update	QualifiedName@@org.ballerinalang.model.values.BFloat[24]	TO	org.ballerinalang.core.model.values.BFloat
+, Update	QualifiedName@@org.ballerinalang.model.values.BInteger[25]	TO	org.ballerinalang.core.model.values.BInteger
+, Update	QualifiedName@@org.ballerinalang.model.values.BValue[26]	TO	org.ballerinalang.core.model.values.BValue
+, Update	QualifiedName@@org.ballerinalang.model.values.BValueArray[27]	TO	org.ballerinalang.core.model.values.BValueArray
+]

@@ -1,0 +1,8 @@
+[Delete	ExpressionStatement@@[42]
+
+	Delete	MethodInvocation@@[42]
+
+	Delete	SimpleName@@BaloCreator[42]
+
+	Delete	SimpleName@@cleanCacheDirectories[43]
+]

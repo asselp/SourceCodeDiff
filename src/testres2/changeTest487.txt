@@ -1,0 +1,34 @@
+[Insert	ImportDeclaration@@[32]
+
+	Insert	QualifiedName@@org.ballerinalang.tool.LauncherUtils.createLauncherException[33]
+, Insert	MethodInvocation@@[51]
+
+	Insert	SimpleName@@createLauncherException[51]
+, Move	InfixExpression@@+[51]	TO	MethodInvocation@@[51]
+, Insert	MethodInvocation@@[61]
+
+	Insert	SimpleName@@createLauncherException[61]
+, Move	InfixExpression@@+[63]	TO	MethodInvocation@@[61]
+, Insert	MethodInvocation@@[74]
+
+	Insert	SimpleName@@createLauncherException[74]
+, Move	InfixExpression@@+[76]	TO	MethodInvocation@@[74]
+, Delete	ImportDeclaration@@[23]
+
+	Delete	QualifiedName@@org.ballerinalang.util.exceptions.BallerinaException[23]
+, Delete	ClassInstanceCreation@@[51]
+
+	Delete	SimpleType@@BallerinaException[51]
+
+	Delete	SimpleName@@BallerinaException[51]
+, Delete	ClassInstanceCreation@@[62]
+
+	Delete	SimpleType@@BallerinaException[63]
+
+	Delete	SimpleName@@BallerinaException[63]
+, Delete	ClassInstanceCreation@@[76]
+
+	Delete	SimpleType@@BallerinaException[76]
+
+	Delete	SimpleName@@BallerinaException[76]
+]

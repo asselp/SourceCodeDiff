@@ -1,0 +1,11 @@
+[Update	QualifiedName@@java.util.concurrent.TimeUnit[37]	TO	java.util.concurrent
+, Delete	ImportDeclaration@@[32]
+
+	Delete	QualifiedName@@java.util.concurrent.Executors[34]
+, Delete	ImportDeclaration@@[35]
+
+	Delete	QualifiedName@@java.util.concurrent.ScheduledFuture[35]
+, Delete	ImportDeclaration@@[36]
+
+	Delete	QualifiedName@@java.util.concurrent.ScheduledThreadPoolExecutor[36]
+]

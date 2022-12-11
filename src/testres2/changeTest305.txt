@@ -1,0 +1,28 @@
+[Insert	ExpressionStatement@@[840]
+
+	Insert	MethodInvocation@@[840]
+
+	Insert	SimpleName@@results[840]
+
+	Insert	SimpleName@@setForGrade[840]
+
+	Insert	QualifiedName@@Boolean.FALSE[840]
+, Insert	ExpressionStatement@@[603]
+
+	Insert	MethodInvocation@@[603]
+
+	Insert	SimpleName@@results[603]
+
+	Insert	SimpleName@@setForGrade[603]
+
+	Insert	QualifiedName@@Boolean.TRUE[603]
+, Insert	ExpressionStatement@@[605]
+
+	Insert	MethodInvocation@@[605]
+
+	Insert	SimpleName@@results[605]
+
+	Insert	SimpleName@@setForGrade[605]
+
+	Insert	QualifiedName@@Boolean.FALSE[606]
+]

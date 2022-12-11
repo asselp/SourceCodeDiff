@@ -1,0 +1,4 @@
+[Update	QualifiedName@@org.elasticsearch.painless.ScriptRoot[28]	TO	org.elasticsearch.painless.lookup.PainlessLookupUtility
+, Update	QualifiedName@@org.elasticsearch.painless.lookup.PainlessLookupUtility[29]	TO	org.elasticsearch.painless.lookup.def
+, Update	QualifiedName@@org.elasticsearch.painless.lookup.def[30]	TO	org.elasticsearch.painless.ScriptRoot
+]

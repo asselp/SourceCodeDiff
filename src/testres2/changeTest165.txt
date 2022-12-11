@@ -1,0 +1,14 @@
+[Insert	ImportDeclaration@@[23]
+
+	Insert	QualifiedName@@java.lang.Math.min[23]
+, Insert	ImportDeclaration@@[25]
+
+	Insert	QualifiedName@@java.lang.Runtime.getRuntime[25]
+, Delete	MethodDeclaration@@[28]
+
+	Delete	Modifier@@private[28]
+
+	Delete	SimpleName@@ExecutionSupervisors[28]
+
+	Delete	Block@@[30]
+]

@@ -1,0 +1,51 @@
+[Insert	Javadoc@@[29]
+, Insert	Javadoc@@[34]
+, Insert	VariableDeclarationStatement@@[43]
+
+	Insert	SimpleType@@String[43]
+
+	Insert	SimpleName@@String[43]
+
+	Insert	VariableDeclarationFragment@@[43]
+
+	Insert	SimpleName@@typeName[43]
+
+	Insert	MethodInvocation@@[43]
+, Insert	IfStatement@@[44]
+
+	Insert	InfixExpression@@==[44]
+
+	Insert	SimpleName@@typeName[44]
+
+	Insert	NullLiteral@@[44]
+
+	Insert	Block@@[44]
+
+	Insert	ExpressionStatement@@[45]
+
+	Insert	Assignment@@=[45]
+
+	Insert	SimpleName@@typeName[45]
+
+	Insert	StringLiteral@@""[45]
+, Insert	ReturnStatement@@[46]
+
+	Insert	MethodInvocation@@[46]
+
+	Insert	SimpleName@@StringUtils[46]
+
+	Insert	SimpleName@@fromString[46]
+
+	Insert	SimpleName@@typeName[47]
+, Move	SimpleName@@bType[35]	TO	MethodInvocation@@[43]
+, Move	SimpleName@@getName[35]	TO	MethodInvocation@@[43]
+, Delete	ReturnStatement@@[34]
+
+	Delete	MethodInvocation@@[34]
+
+	Delete	SimpleName@@StringUtils[34]
+
+	Delete	SimpleName@@fromString[34]
+
+	Delete	MethodInvocation@@[35]
+]

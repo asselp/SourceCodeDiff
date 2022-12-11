@@ -1,0 +1,16 @@
+[Insert	ImportDeclaration@@[6]
+
+	Insert	QualifiedName@@com.hazelcast.test.annotation.ParallelTest[7]
+, Update	QualifiedName@@com.hazelcast.concurrent.atomicreference.AtomicReferenceBasicTest[4]	TO	com.hazelcast.concurrent.atomicreference.AtomicReferenceAbstractTest
+, Update	SimpleType@@AtomicReferenceBasicTest[13]	TO	AtomicReferenceAbstractTest
+
+	Update	SimpleName@@AtomicReferenceBasicTest[13]	TO	AtomicReferenceAbstractTest
+, Insert	ArrayInitializer@@[12]
+
+	Insert	TypeLiteral@@[13]
+
+	Insert	SimpleType@@ParallelTest[13]
+
+	Insert	SimpleName@@ParallelTest[13]
+, Move	TypeLiteral@@[11]	TO	ArrayInitializer@@[12]
+]

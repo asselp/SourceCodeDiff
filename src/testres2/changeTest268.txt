@@ -1,0 +1,12 @@
+[Insert	ImportDeclaration@@[27]
+
+	Insert	QualifiedName@@io.crate.metadata.StmtCtx[27]
+, Insert	SingleVariableDeclaration@@[67]
+
+	Insert	SimpleType@@StmtCtx[67]
+
+	Insert	SimpleName@@StmtCtx[67]
+
+	Insert	SimpleName@@stmtCtx[69]
+, Insert	SimpleName@@stmtCtx[70]
+]

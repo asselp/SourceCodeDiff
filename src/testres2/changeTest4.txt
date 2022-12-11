@@ -1,0 +1,81 @@
+[Insert	ImportDeclaration@@[20]
+
+	Insert	QualifiedName@@org.apache.lucene.search.BooleanClause.Occur[20]
+, Insert	ImportDeclaration@@[22]
+
+	Insert	QualifiedName@@org.apache.lucene.search.BooleanQuery[22]
+, Update	QualifiedName@@org.apache.lucene.search.FilterCachingPolicy[22]	TO	org.apache.lucene.search.QueryCachingPolicy
+, Update	QualifiedName@@org.elasticsearch.common.lucene.search.OrFilter[25]	TO	org.elasticsearch.common.lucene.search.Queries
+, Insert	VariableDeclarationStatement@@[113]
+
+	Insert	SimpleType@@BooleanQuery[113]
+
+	Insert	SimpleName@@BooleanQuery[113]
+
+	Insert	VariableDeclarationFragment@@[113]
+
+	Insert	SimpleName@@boolQuery[113]
+
+	Insert	ClassInstanceCreation@@[113]
+
+	Insert	SimpleType@@BooleanQuery[113]
+
+	Insert	SimpleName@@BooleanQuery[113]
+, Insert	EnhancedForStatement@@[114]
+
+	Insert	SingleVariableDeclaration@@[115]
+
+	Insert	SimpleType@@Filter[115]
+
+	Insert	SimpleName@@filter[115]
+
+	Insert	SimpleName@@filters[117]
+
+	Insert	Block@@[117]
+
+	Insert	ExpressionStatement@@[117]
+
+	Insert	MethodInvocation@@[117]
+
+	Insert	SimpleName@@boolQuery[117]
+
+	Insert	SimpleName@@add[117]
+
+	Insert	SimpleName@@filter[118]
+
+	Insert	QualifiedName@@Occur.SHOULD[118]
+, Insert	VariableDeclarationStatement@@[118]
+
+	Insert	SimpleType@@Filter[118]
+
+	Insert	VariableDeclarationFragment@@[118]
+
+	Insert	SimpleName@@filter[118]
+
+	Insert	MethodInvocation@@[119]
+
+	Insert	SimpleName@@Queries[119]
+
+	Insert	SimpleName@@wrap[119]
+
+	Insert	SimpleName@@boolQuery[119]
+, Update	SimpleType@@FilterCachingPolicy[54]	TO	QueryCachingPolicy
+
+	Update	SimpleName@@FilterCachingPolicy[54]	TO	QueryCachingPolicy
+, Update	SimpleName@@OrFilter[111]	TO	Filter
+, Move	SimpleName@@OrFilter[111]	TO	SimpleType@@Filter[118]
+, Move	SimpleName@@Filter[111]	TO	SimpleType@@Filter[115]
+, Delete	VariableDeclarationStatement@@[111]
+
+	Delete	SimpleType@@Filter[111]
+
+	Delete	VariableDeclarationFragment@@[111]
+
+	Delete	SimpleName@@filter[111]
+
+	Delete	ClassInstanceCreation@@[111]
+
+	Delete	SimpleType@@OrFilter[111]
+
+	Delete	SimpleName@@filters[111]
+]

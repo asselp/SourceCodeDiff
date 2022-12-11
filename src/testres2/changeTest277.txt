@@ -1,0 +1,69 @@
+[Update	QualifiedName@@org.apache.lucene.document.InetAddressPoint[20]	TO	org.elasticsearch.common.xcontent.support.XContentMapValues.nodeBooleanValue
+, Update	QualifiedName@@org.apache.lucene.document.SortedSetDocValuesField[22]	TO	java.io.IOException
+, Update	QualifiedName@@org.apache.lucene.document.StoredField[23]	TO	java.net.InetAddress
+, Update	QualifiedName@@org.apache.lucene.index.IndexOptions[24]	TO	java.util.Iterator
+, Update	QualifiedName@@org.apache.lucene.index.IndexableField[25]	TO	java.util.List
+, Update	QualifiedName@@org.apache.lucene.index.Term[26]	TO	java.util.Map
+, Update	QualifiedName@@org.apache.lucene.search.DocValuesFieldExistsQuery[27]	TO	javax.annotation.Nullable
+, Update	QualifiedName@@org.apache.lucene.search.MatchNoDocsQuery[28]	TO	org.apache.lucene.document.InetAddressPoint
+, Update	QualifiedName@@org.apache.lucene.search.Query[29]	TO	org.apache.lucene.document.SortedSetDocValuesField
+, Update	QualifiedName@@org.apache.lucene.search.TermQuery[30]	TO	org.apache.lucene.document.StoredField
+, Update	QualifiedName@@org.apache.lucene.util.BytesRef[31]	TO	org.apache.lucene.index.IndexOptions
+, Update	QualifiedName@@org.elasticsearch.common.Explicit[32]	TO	org.apache.lucene.index.IndexableField
+, Update	QualifiedName@@javax.annotation.Nullable[33]	TO	org.apache.lucene.index.Term
+, Update	QualifiedName@@io.crate.common.collections.Tuple[34]	TO	org.apache.lucene.search.DocValuesFieldExistsQuery
+, Update	QualifiedName@@org.elasticsearch.common.network.InetAddresses[35]	TO	org.apache.lucene.search.MatchNoDocsQuery
+, Update	QualifiedName@@org.elasticsearch.common.settings.Settings[36]	TO	org.apache.lucene.search.Query
+, Update	QualifiedName@@org.elasticsearch.common.xcontent.XContentBuilder[37]	TO	org.apache.lucene.search.TermQuery
+, Update	QualifiedName@@org.elasticsearch.index.fielddata.IndexFieldData[38]	TO	org.apache.lucene.util.BytesRef
+, Update	QualifiedName@@org.elasticsearch.index.fielddata.plain.DocValuesIndexFieldData[39]	TO	org.elasticsearch.common.Explicit
+, Update	QualifiedName@@org.elasticsearch.index.query.QueryShardContext[40]	TO	org.elasticsearch.common.network.InetAddresses
+, Update	QualifiedName@@org.elasticsearch.search.DocValueFormat[41]	TO	org.elasticsearch.common.settings.Settings
+, Update	QualifiedName@@java.util.Iterator[44]	TO	org.elasticsearch.common.xcontent.XContentBuilder
+, Update	QualifiedName@@java.util.List[45]	TO	org.elasticsearch.index.query.QueryShardContext
+, Update	QualifiedName@@java.util.Map[46]	TO	org.elasticsearch.search.DocValueFormat
+, Update	QualifiedName@@org.elasticsearch.common.xcontent.support.XContentMapValues.nodeBooleanValue[47]	TO	io.crate.common.collections.Tuple
+, Delete	ImportDeclaration@@[42]
+
+	Delete	QualifiedName@@java.io.IOException[42]
+, Delete	ImportDeclaration@@[42]
+
+	Delete	QualifiedName@@java.net.InetAddress[42]
+, Delete	MethodDeclaration@@[239]
+
+	Delete	MarkerAnnotation@@[239]
+
+	Delete	SimpleName@@Override[239]
+
+	Delete	Modifier@@public[239]
+
+	Delete	SimpleType@@IndexFieldData.Builder[239]
+
+	Delete	QualifiedName@@IndexFieldData.Builder[239]
+
+	Delete	SimpleName@@fielddataBuilder[240]
+
+	Delete	SingleVariableDeclaration@@[241]
+
+	Delete	SimpleType@@String[241]
+
+	Delete	SimpleName@@String[241]
+
+	Delete	SimpleName@@fullyQualifiedIndexName[241]
+
+	Delete	Block@@[241]
+
+	Delete	ExpressionStatement@@[241]
+
+	Delete	MethodInvocation@@[241]
+
+	Delete	SimpleName@@failIfNoDocValues[241]
+
+	Delete	ReturnStatement@@[243]
+
+	Delete	ClassInstanceCreation@@[244]
+
+	Delete	SimpleType@@DocValuesIndexFieldData.Builder[245]
+
+	Delete	QualifiedName@@DocValuesIndexFieldData.Builder[245]
+]

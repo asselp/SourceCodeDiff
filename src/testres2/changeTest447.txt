@@ -1,0 +1,40 @@
+[Delete	ImportDeclaration@@[5]
+
+	Delete	QualifiedName@@com.yahoo.vespa.clustercontroller.core.ClusterStateBundle[6]
+, Delete	MethodDeclaration@@[85]
+
+	Delete	Modifier@@public[85]
+
+	Delete	Modifier@@abstract[85]
+
+	Delete	PrimitiveType@@boolean[85]
+
+	Delete	SimpleName@@storeLastPublishedStateBundle[85]
+
+	Delete	SingleVariableDeclaration@@[85]
+
+	Delete	SimpleType@@ClusterStateBundle[85]
+
+	Delete	SimpleName@@ClusterStateBundle[85]
+
+	Delete	SimpleName@@stateBundle[85]
+
+	Delete	SimpleType@@InterruptedException[87]
+
+	Delete	SimpleName@@InterruptedException[87]
+, Delete	MethodDeclaration@@[87]
+
+	Delete	Modifier@@public[87]
+
+	Delete	Modifier@@abstract[87]
+
+	Delete	SimpleType@@ClusterStateBundle[87]
+
+	Delete	SimpleName@@ClusterStateBundle[87]
+
+	Delete	SimpleName@@retrieveLastPublishedStateBundle[87]
+
+	Delete	SimpleType@@InterruptedException[87]
+
+	Delete	SimpleName@@InterruptedException[87]
+]

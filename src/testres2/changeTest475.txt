@@ -1,0 +1,9 @@
+[Update	QualifiedName@@io.ballerina.runtime.api.StringUtils[18]	TO	org.ballerinalang.jvm.api.BStringUtils
+, Update	QualifiedName@@io.ballerina.runtime.api.values.BXML[20]	TO	org.ballerinalang.jvm.values.XMLValue
+, Update	QualifiedName@@io.ballerina.runtime.api.ErrorCreator.createError[21]	TO	org.ballerinalang.jvm.api.BErrorCreator.createError
+, Update	QualifiedName@@io.ballerina.runtime.util.exceptions.BallerinaErrorReasons.XML_OPERATION_ERROR[23]	TO	org.ballerinalang.jvm.util.exceptions.BallerinaErrorReasons.XML_OPERATION_ERROR
+, Update	SimpleType@@BXML[33]	TO	XMLValue
+
+	Update	SimpleName@@BXML[33]	TO	XMLValue
+, Update	SimpleName@@StringUtils[42]	TO	BStringUtils
+]

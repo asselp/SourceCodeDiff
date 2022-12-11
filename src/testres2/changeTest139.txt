@@ -1,0 +1,26 @@
+[Insert	ImportDeclaration@@[27]
+
+	Insert	QualifiedName@@com.hazelcast.instance.TestUtil[27]
+, Insert	FieldAccess@@[82]
+
+	Insert	MethodInvocation@@[82]
+
+	Insert	SimpleName@@TestUtil[82]
+
+	Insert	SimpleName@@nodeEngine[82]
+, Insert	FieldAccess@@[84]
+
+	Insert	MethodInvocation@@[84]
+
+	Insert	SimpleName@@TestUtil[84]
+
+	Insert	SimpleName@@nodeEngine[84]
+, Update	SimpleName@@getNodeEngineImpl[81]	TO	getNode
+, Move	SimpleName@@getNodeEngineImpl[81]	TO	MethodInvocation@@[82]
+, Move	SimpleName@@instance1[81]	TO	MethodInvocation@@[82]
+, Update	SimpleName@@getNodeEngineImpl[83]	TO	getNode
+, Move	SimpleName@@getNodeEngineImpl[83]	TO	MethodInvocation@@[84]
+, Move	SimpleName@@instance2[83]	TO	MethodInvocation@@[84]
+, Delete	MethodInvocation@@[81]
+, Delete	MethodInvocation@@[83]
+]

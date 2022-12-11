@@ -1,0 +1,198 @@
+[Insert	ImportDeclaration@@[17]
+
+	Insert	QualifiedName@@com.yahoo.vespa.hosted.provision.NodeRepository[17]
+, Insert	ImportDeclaration@@[36]
+
+	Insert	QualifiedName@@java.util.logging.Level[36]
+, Insert	ImportDeclaration@@[36]
+
+	Insert	QualifiedName@@java.util.logging.Logger[37]
+, Insert	FieldDeclaration@@[54]
+
+	Insert	Modifier@@private[54]
+
+	Insert	Modifier@@static[54]
+
+	Insert	Modifier@@final[54]
+
+	Insert	SimpleType@@Logger[54]
+
+	Insert	SimpleName@@Logger[54]
+
+	Insert	VariableDeclarationFragment@@[55]
+
+	Insert	SimpleName@@log[55]
+
+	Insert	MethodInvocation@@[55]
+
+	Insert	SimpleName@@Logger[55]
+
+	Insert	SimpleName@@getLogger[55]
+
+	Insert	MethodInvocation@@[56]
+
+	Insert	TypeLiteral@@[56]
+
+	Insert	SimpleType@@Nodes[56]
+
+	Insert	SimpleName@@Nodes[56]
+
+	Insert	SimpleName@@getName[57]
+, Insert	MethodDeclaration@@[64]
+
+	Insert	Javadoc@@[64]
+
+	Insert	Modifier@@public[69]
+
+	Insert	PrimitiveType@@void[69]
+
+	Insert	SimpleName@@rewrite[69]
+
+	Insert	Block@@[69]
+
+	Insert	VariableDeclarationStatement@@[69]
+
+	Insert	SimpleType@@Instant[69]
+
+	Insert	SimpleName@@Instant[69]
+
+	Insert	VariableDeclarationFragment@@[69]
+
+	Insert	SimpleName@@start[69]
+
+	Insert	MethodInvocation@@[69]
+
+	Insert	SimpleName@@clock[69]
+
+	Insert	SimpleName@@instant[69]
+
+	Insert	VariableDeclarationStatement@@[70]
+
+	Insert	PrimitiveType@@int[70]
+
+	Insert	VariableDeclarationFragment@@[70]
+
+	Insert	SimpleName@@nodesWritten[70]
+
+	Insert	NumberLiteral@@0[70]
+
+	Insert	EnhancedForStatement@@[71]
+
+	Insert	SingleVariableDeclaration@@[71]
+
+	Insert	SimpleType@@Node.State[71]
+
+	Insert	QualifiedName@@Node.State[71]
+
+	Insert	SimpleName@@state[71]
+
+	Insert	MethodInvocation@@[71]
+
+	Insert	QualifiedName@@Node.State[71]
+
+	Insert	SimpleName@@values[72]
+
+	Insert	Block@@[72]
+
+	Insert	VariableDeclarationStatement@@[72]
+
+	Insert	ParameterizedType@@List<Node>[72]
+
+	Insert	SimpleType@@List[72]
+
+	Insert	SimpleName@@List[72]
+
+	Insert	SimpleType@@Node[73]
+
+	Insert	SimpleName@@Node[73]
+
+	Insert	VariableDeclarationFragment@@[73]
+
+	Insert	SimpleName@@nodes[73]
+
+	Insert	MethodInvocation@@[73]
+
+	Insert	SimpleName@@db[73]
+
+	Insert	SimpleName@@readNodes[73]
+
+	Insert	SimpleName@@state[73]
+
+	Insert	ExpressionStatement@@[75]
+
+	Insert	MethodInvocation@@[75]
+
+	Insert	SimpleName@@db[75]
+
+	Insert	SimpleName@@writeTo[75]
+
+	Insert	SimpleName@@state[75]
+
+	Insert	SimpleName@@nodes[75]
+
+	Insert	QualifiedName@@Agent.system[75]
+
+	Insert	MethodInvocation@@[75]
+
+	Insert	SimpleName@@Optional[75]
+
+	Insert	SimpleName@@empty[75]
+
+	Insert	ExpressionStatement@@[76]
+
+	Insert	Assignment@@+=[76]
+
+	Insert	SimpleName@@nodesWritten[76]
+
+	Insert	MethodInvocation@@[76]
+
+	Insert	SimpleName@@nodes[76]
+
+	Insert	SimpleName@@size[76]
+
+	Insert	VariableDeclarationStatement@@[76]
+
+	Insert	SimpleType@@Instant[76]
+
+	Insert	SimpleName@@Instant[76]
+
+	Insert	VariableDeclarationFragment@@[76]
+
+	Insert	SimpleName@@end[76]
+
+	Insert	MethodInvocation@@[76]
+
+	Insert	SimpleName@@clock[76]
+
+	Insert	SimpleName@@instant[77]
+
+	Insert	ExpressionStatement@@[77]
+
+	Insert	MethodInvocation@@[77]
+
+	Insert	SimpleName@@log[77]
+
+	Insert	SimpleName@@log[77]
+
+	Insert	QualifiedName@@Level.INFO[77]
+
+	Insert	MethodInvocation@@[78]
+
+	Insert	SimpleName@@String[78]
+
+	Insert	SimpleName@@format[78]
+
+	Insert	StringLiteral@@"Rewrote %d nodes in %s"[79]
+
+	Insert	SimpleName@@nodesWritten[79]
+
+	Insert	MethodInvocation@@[80]
+
+	Insert	SimpleName@@Duration[80]
+
+	Insert	SimpleName@@between[80]
+
+	Insert	SimpleName@@start[80]
+
+	Insert	SimpleName@@end[80]
+]

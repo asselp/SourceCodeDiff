@@ -1,0 +1,232 @@
+[Insert	MethodDeclaration@@[47]
+
+	Insert	Modifier@@private[47]
+
+	Insert	PrimitiveType@@void[47]
+
+	Insert	SimpleName@@doProcess[47]
+
+	Insert	SingleVariableDeclaration@@[47]
+
+	Insert	ParameterizedType@@EntryTaskScheduler<Data,Object>[47]
+
+	Insert	SimpleType@@EntryTaskScheduler[47]
+
+	Insert	SimpleName@@EntryTaskScheduler[47]
+
+	Insert	SimpleType@@Data[49]
+
+	Insert	SimpleName@@Data[49]
+
+	Insert	SimpleType@@Object[51]
+
+	Insert	SimpleName@@Object[51]
+
+	Insert	SimpleName@@scheduler[51]
+
+	Insert	SingleVariableDeclaration@@[51]
+
+	Insert	SimpleName@@entriesToProcess[51]
+
+	Insert	SingleVariableDeclaration@@[51]
+
+	Insert	SimpleType@@ProcessMode[51]
+
+	Insert	SimpleName@@ProcessMode[51]
+
+	Insert	SimpleName@@mode[51]
+
+	Insert	Block@@[51]
+
+	Insert	SwitchStatement@@[51]
+
+	Insert	SimpleName@@mode[51]
+
+	Insert	SwitchCase@@[51]
+
+	Insert	SimpleName@@DELETE[51]
+
+	Insert	ExpressionStatement@@[52]
+
+	Insert	MethodInvocation@@[52]
+
+	Insert	SimpleName@@deleteProcessor[52]
+
+	Insert	SimpleName@@process[53]
+
+	Insert	SimpleName@@scheduler[53]
+
+	Insert	SimpleName@@entriesToProcess[53]
+
+	Insert	BreakStatement@@[54]
+
+	Insert	SwitchCase@@[54]
+
+	Insert	SimpleName@@WRITE[54]
+
+	Insert	ExpressionStatement@@[55]
+
+	Insert	MethodInvocation@@[55]
+
+	Insert	SimpleName@@writeProcessor[55]
+
+	Insert	SimpleName@@process[56]
+
+	Insert	SimpleName@@scheduler[56]
+
+	Insert	SimpleName@@entriesToProcess[56]
+
+	Insert	BreakStatement@@[57]
+
+	Insert	SwitchCase@@[57]
+
+	Insert	ThrowStatement@@[58]
+
+	Insert	ClassInstanceCreation@@[58]
+
+	Insert	SimpleType@@IllegalArgumentException[58]
+
+	Insert	SimpleName@@IllegalArgumentException[58]
+
+	Insert	InfixExpression@@+[59]
+
+	Insert	StringLiteral@@"Not found any appropriate processor for mode ["[59]
+
+	Insert	SimpleName@@mode[60]
+
+	Insert	StringLiteral@@"]"[60]
+, Insert	EnumDeclaration@@[60]
+
+	Insert	Modifier@@private[60]
+
+	Insert	SimpleName@@ProcessMode[60]
+
+	Insert	EnumConstantDeclaration@@[60]
+
+	Insert	SimpleName@@DELETE[60]
+
+	Insert	EnumConstantDeclaration@@[62]
+
+	Insert	SimpleName@@WRITE[62]
+, Insert	VariableDeclarationStatement@@[27]
+
+	Insert	SimpleType@@ProcessMode[27]
+
+	Insert	VariableDeclarationFragment@@[27]
+
+	Insert	SimpleName@@mode[27]
+
+	Insert	NullLiteral@@[28]
+, Insert	VariableDeclarationStatement@@[29]
+
+	Insert	SimpleType@@ProcessMode[29]
+
+	Insert	VariableDeclarationFragment@@[29]
+
+	Insert	SimpleName@@previousMode[29]
+, Move	ParameterizedType@@List<ScheduledEntry<Data,Object>>[28]	TO	SingleVariableDeclaration@@[51]
+, Update	SimpleName@@writes[28]	TO	entriesToProcess
+, Update	SimpleName@@ArrayList[29]	TO	ProcessMode
+, Move	SimpleName@@ArrayList[29]	TO	SimpleType@@ProcessMode[27]
+, Update	SimpleName@@Data[29]	TO	ProcessMode
+, Move	SimpleName@@Data[29]	TO	SimpleType@@ProcessMode[29]
+, Insert	Modifier@@final[31]
+, Insert	ExpressionStatement@@[32]
+
+	Insert	Assignment@@=[32]
+
+	Insert	SimpleName@@previousMode[32]
+
+	Insert	SimpleName@@mode[32]
+, Insert	IfStatement@@[33]
+
+	Insert	Block@@[34]
+
+	Insert	ExpressionStatement@@[34]
+
+	Insert	Assignment@@=[34]
+
+	Insert	SimpleName@@mode[34]
+
+	Insert	QualifiedName@@ProcessMode.DELETE[34]
+
+	Insert	Block@@[35]
+
+	Insert	ExpressionStatement@@[36]
+
+	Insert	Assignment@@=[36]
+
+	Insert	SimpleName@@mode[36]
+
+	Insert	QualifiedName@@ProcessMode.WRITE[36]
+, Insert	IfStatement@@[37]
+
+	Insert	InfixExpression@@&&[37]
+
+	Insert	InfixExpression@@!=[37]
+
+	Insert	SimpleName@@previousMode[37]
+
+	Insert	NullLiteral@@[38]
+
+	Insert	PrefixExpression@@![39]
+
+	Insert	MethodInvocation@@[39]
+
+	Insert	SimpleName@@previousMode[39]
+
+	Insert	SimpleName@@equals[39]
+
+	Insert	SimpleName@@mode[39]
+, Move	ExpressionStatement@@[34]	TO	Block@@[32]
+, Update	SimpleName@@process[36]	TO	doProcess
+, Update	SimpleName@@writes[39]	TO	entriesToProcess
+, Insert	SimpleName@@mode[46]
+, Update	SimpleName@@process[39]	TO	entriesToProcess
+, Update	SimpleName@@scheduler[39]	TO	clear
+, Move	InfixExpression@@==[31]	TO	IfStatement@@[33]
+, Move	Block@@[32]	TO	IfStatement@@[37]
+, Insert	ExpressionStatement@@[40]
+
+	Insert	MethodInvocation@@[40]
+
+	Insert	SimpleName@@entriesToProcess[40]
+
+	Insert	SimpleName@@clear[40]
+, Update	SimpleName@@writes[34]	TO	entriesToProcess
+, Update	SimpleName@@deletes[32]	TO	doProcess
+, Update	SimpleName@@add[32]	TO	scheduler
+, Update	SimpleName@@entry[32]	TO	entriesToProcess
+, Insert	SimpleName@@previousMode[40]
+, Delete	VariableDeclarationStatement@@[28]
+
+	Delete	Modifier@@final[28]
+
+	Delete	VariableDeclarationFragment@@[29]
+
+	Delete	SimpleName@@deletes[29]
+
+	Delete	ClassInstanceCreation@@[29]
+
+	Delete	ParameterizedType@@ArrayList<ScheduledEntry<Data,Object>>[29]
+
+	Delete	SimpleType@@ArrayList[29]
+
+	Delete	ParameterizedType@@ScheduledEntry<Data,Object>[29]
+
+	Delete	SimpleType@@ScheduledEntry[29]
+
+	Delete	SimpleName@@ScheduledEntry[29]
+
+	Delete	SimpleType@@Data[29]
+
+	Delete	SimpleType@@Object[29]
+
+	Delete	SimpleName@@Object[29]
+, Delete	IfStatement@@[31]
+
+	Delete	Block@@[33]
+, Delete	SimpleName@@writeProcessor[35]
+, Delete	SimpleName@@deleteProcessor[39]
+, Delete	SimpleName@@deletes[40]
+]

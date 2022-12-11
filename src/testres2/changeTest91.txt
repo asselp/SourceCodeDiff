@@ -1,0 +1,4 @@
+[Delete	ImportDeclaration@@[28]
+
+	Delete	QualifiedName@@javax.ejb.Stateless[28]
+]

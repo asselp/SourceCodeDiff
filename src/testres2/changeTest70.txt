@@ -1,0 +1,21 @@
+[Insert	InfixExpression@@+[365]
+
+	Insert	StringLiteral@@"key="[365]
+
+	Insert	SimpleName@@key[365]
+
+	Insert	StringLiteral@@"\n with child1 \n"[365]
+
+	Insert	MethodInvocation@@[367]
+
+	Insert	StringLiteral@@"\n has child2 not defined\n node2 is:\n"[367]
+
+	Insert	MethodInvocation@@[368]
+
+	Insert	SimpleName@@node2[368]
+
+	Insert	SimpleName@@toString[368]
+, Move	SimpleName@@child1[365]	TO	MethodInvocation@@[367]
+, Move	SimpleName@@toString[365]	TO	MethodInvocation@@[367]
+, Delete	MethodInvocation@@[365]
+]

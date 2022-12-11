@@ -1,0 +1,25 @@
+[Insert	ImportDeclaration@@[26]
+
+	Insert	QualifiedName@@org.ballerinalang.packerina.model.ExecutableJar[26]
+, Insert	SimpleType@@ExecutableJar[62]
+, Insert	SimpleType@@ExecutableJar[54]
+, Update	SimpleName@@HashSet[62]	TO	ExecutableJar
+, Move	SimpleName@@HashSet[62]	TO	SimpleType@@ExecutableJar[62]
+, Update	SimpleName@@HashSet[54]	TO	ExecutableJar
+, Move	SimpleName@@HashSet[54]	TO	SimpleType@@ExecutableJar[54]
+, Insert	SimpleType@@ExecutableJar[71]
+, Update	SimpleName@@HashSet[71]	TO	ExecutableJar
+, Move	SimpleName@@HashSet[71]	TO	SimpleType@@ExecutableJar[71]
+, Delete	ImportDeclaration@@[29]
+
+	Delete	QualifiedName@@java.util.HashSet[31]
+, Delete	ParameterizedType@@HashSet<>[54]
+
+	Delete	SimpleType@@HashSet[54]
+, Delete	ParameterizedType@@HashSet<>[62]
+
+	Delete	SimpleType@@HashSet[62]
+, Delete	ParameterizedType@@HashSet<>[71]
+
+	Delete	SimpleType@@HashSet[71]
+]

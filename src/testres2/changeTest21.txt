@@ -1,0 +1,49 @@
+[Insert	FieldDeclaration@@[112]
+
+	Insert	Modifier@@static[112]
+
+	Insert	Modifier@@final[114]
+
+	Insert	SimpleType@@CumulativeSumPipelineAggregatorBuilder[114]
+
+	Insert	SimpleName@@CumulativeSumPipelineAggregatorBuilder[114]
+
+	Insert	VariableDeclarationFragment@@[114]
+
+	Insert	SimpleName@@PROTOTYPE[114]
+
+	Insert	ClassInstanceCreation@@[114]
+
+	Insert	SimpleType@@CumulativeSumPipelineAggregatorBuilder[114]
+
+	Insert	SimpleName@@CumulativeSumPipelineAggregatorBuilder[114]
+
+	Insert	StringLiteral@@""[116]
+
+	Insert	StringLiteral@@""[116]
+, Insert	IfStatement@@[129]
+
+	Insert	InfixExpression@@==[129]
+
+	Insert	SimpleName@@format[129]
+
+	Insert	NullLiteral@@[129]
+
+	Insert	Block@@[129]
+
+	Insert	ThrowStatement@@[130]
+
+	Insert	ClassInstanceCreation@@[131]
+
+	Insert	SimpleType@@IllegalArgumentException[131]
+
+	Insert	SimpleName@@IllegalArgumentException[131]
+
+	Insert	InfixExpression@@+[131]
+
+	Insert	StringLiteral@@"[format] must not be null: ["[131]
+
+	Insert	SimpleName@@name[131]
+
+	Insert	StringLiteral@@"]"[131]
+]

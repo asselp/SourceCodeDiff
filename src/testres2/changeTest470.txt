@@ -1,0 +1,51 @@
+[Move	Block@@[177]	TO	MethodDeclaration@@[164]
+
+	Move	VariableDeclarationStatement@@[177]	TO	Block@@[184]
+
+	Move	ExpressionStatement@@[191]	TO	Block@@[184]
+, Move	IfStatement@@[169]	TO	Block@@[177]
+, Move	IfStatement@@[176]	TO	Block@@[177]
+, Move	ExpressionStatement@@[176]	TO	Block@@[177]
+, Insert	InfixExpression@@!=[177]
+
+	Insert	SimpleName@@outboundMessage[177]
+
+	Insert	NullLiteral@@[177]
+, Delete	InstanceofExpression@@[179]
+
+	Delete	SimpleName@@cause[179]
+
+	Delete	SimpleType@@StatusRuntimeException[180]
+
+	Delete	SimpleName@@StatusRuntimeException[180]
+, Delete	Block@@[182]
+
+	Delete	ExpressionStatement@@[182]
+
+	Delete	Assignment@@=[182]
+
+	Delete	SimpleName@@status[182]
+
+	Delete	MethodInvocation@@[183]
+
+	Delete	ParenthesizedExpression@@[183]
+
+	Delete	CastExpression@@[183]
+
+	Delete	SimpleType@@StatusRuntimeException[183]
+
+	Delete	SimpleName@@StatusRuntimeException[183]
+
+	Delete	SimpleName@@cause[183]
+
+	Delete	SimpleName@@getStatus[183]
+, Delete	Block@@[169]
+
+	Delete	IfStatement@@[177]
+
+	Delete	InfixExpression@@!=[177]
+
+	Delete	SimpleName@@outboundMessage[177]
+
+	Delete	NullLiteral@@[177]
+]

@@ -1,0 +1,28 @@
+[Insert	VariableDeclarationStatement@@[92]
+
+	Insert	VariableDeclarationFragment@@[92]
+
+	Insert	ClassInstanceCreation@@[92]
+
+	Insert	SimpleType@@Data[92]
+
+	Insert	SimpleName@@Data[92]
+, Insert	ExpressionStatement@@[93]
+
+	Insert	MethodInvocation@@[93]
+
+	Insert	SimpleName@@in[93]
+, Move	Modifier@@final[94]	TO	VariableDeclarationStatement@@[92]
+, Move	SimpleType@@Data[94]	TO	VariableDeclarationStatement@@[92]
+, Update	SimpleName@@out[79]	TO	key
+, Update	SimpleName@@key[80]	TO	out
+, Move	SimpleName@@key[94]	TO	VariableDeclarationFragment@@[92]
+, Update	SimpleName@@in[94]	TO	key
+, Move	SimpleName@@in[94]	TO	MethodInvocation@@[93]
+, Move	SimpleName@@readData[94]	TO	MethodInvocation@@[93]
+, Delete	VariableDeclarationStatement@@[94]
+
+	Delete	VariableDeclarationFragment@@[94]
+
+	Delete	MethodInvocation@@[94]
+]

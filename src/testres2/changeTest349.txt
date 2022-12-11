@@ -1,0 +1,22 @@
+[Insert	FieldDeclaration@@[59]
+
+	Insert	Modifier@@public[59]
+
+	Insert	Modifier@@static[59]
+
+	Insert	Modifier@@final[59]
+
+	Insert	SimpleType@@String[59]
+
+	Insert	SimpleName@@String[59]
+
+	Insert	VariableDeclarationFragment@@[59]
+
+	Insert	SimpleName@@ROSTER_FUNCTION_VIEWSITEVISITS[59]
+
+	Insert	InfixExpression@@+[60]
+
+	Insert	SimpleName@@ROSTER_FUNCTION_PREFIX[60]
+
+	Insert	StringLiteral@@"viewsitevisits"[60]
+]

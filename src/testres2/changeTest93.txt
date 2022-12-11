@@ -1,0 +1,7 @@
+[Insert	ImportDeclaration@@[28]
+
+	Insert	QualifiedName@@org.junit.Assert[28]
+, Delete	ImportDeclaration@@[22]
+
+	Delete	QualifiedName@@junit.framework.Assert[22]
+]

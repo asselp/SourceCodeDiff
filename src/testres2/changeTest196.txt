@@ -1,0 +1,4 @@
+[Insert	SimpleType@@Exception[47]
+
+	Insert	SimpleName@@Exception[47]
+]

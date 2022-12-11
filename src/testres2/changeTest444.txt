@@ -1,0 +1,44 @@
+[Insert	ImportDeclaration@@[3]
+
+	Insert	QualifiedName@@org.junit.Test[5]
+, Insert	ImportDeclaration@@[5]
+
+	Insert	QualifiedName@@org.junit.Assert.assertEquals[7]
+, Insert	ImportDeclaration@@[7]
+
+	Insert	QualifiedName@@org.junit.Assert.fail[8]
+, Insert	MarkerAnnotation@@[16]
+
+	Insert	SimpleName@@Test[16]
+, Insert	MarkerAnnotation@@[31]
+
+	Insert	SimpleName@@Test[31]
+, Insert	MarkerAnnotation@@[47]
+
+	Insert	SimpleName@@Test[47]
+, Insert	MarkerAnnotation@@[64]
+
+	Insert	SimpleName@@Test[64]
+, Delete	SimpleType@@junit.framework.TestCase[13]
+
+	Delete	QualifiedName@@junit.framework.TestCase[13]
+, Delete	MethodDeclaration@@[13]
+
+	Delete	Modifier@@public[13]
+
+	Delete	SimpleName@@HistogramTestCase[13]
+
+	Delete	SingleVariableDeclaration@@[15]
+
+	Delete	SimpleType@@String[15]
+
+	Delete	SimpleName@@String[15]
+
+	Delete	SimpleName@@name[15]
+
+	Delete	Block@@[15]
+
+	Delete	SuperConstructorInvocation@@[15]
+
+	Delete	SimpleName@@name[15]
+]

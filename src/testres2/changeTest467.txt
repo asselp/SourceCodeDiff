@@ -1,0 +1,2 @@
+[Update	QualifiedName@@org.ballerinalang.jvm.api.values.BObject[19]	TO	io.ballerina.runtime.api.values.BObject
+]

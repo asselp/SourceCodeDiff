@@ -1,0 +1,37 @@
+[Update	QualifiedName@@org.apache.wicket.injection.Injector[21]	TO	org.apache.wicket.injection.web.InjectorHolder
+, Move	ExpressionStatement@@[50]	TO	Block@@[50]
+, Update	PrimitiveType@@long[70]	TO	int
+, Update	PrimitiveType@@long[53]	TO	int
+, Update	PrimitiveType@@long[53]	TO	int
+, Update	SimpleName@@Injector[50]	TO	InjectorHolder
+, Update	SimpleName@@get[50]	TO	getInjector
+, Update	SimpleName@@f[65]	TO	first
+, Update	SimpleName@@f[65]	TO	first
+, Update	SimpleName@@c[65]	TO	count
+, Delete	VariableDeclarationStatement@@[58]
+
+	Delete	PrimitiveType@@int[58]
+
+	Delete	VariableDeclarationFragment@@[58]
+
+	Delete	SimpleName@@f[58]
+
+	Delete	CastExpression@@[58]
+
+	Delete	PrimitiveType@@int[58]
+
+	Delete	SimpleName@@first[58]
+, Delete	VariableDeclarationStatement@@[59]
+
+	Delete	PrimitiveType@@int[59]
+
+	Delete	VariableDeclarationFragment@@[59]
+
+	Delete	SimpleName@@c[59]
+
+	Delete	CastExpression@@[59]
+
+	Delete	PrimitiveType@@int[59]
+
+	Delete	SimpleName@@count[59]
+]

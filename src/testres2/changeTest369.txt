@@ -1,0 +1,9 @@
+[Update	ParameterizedType@@ArrayList<FileBlockInfo>[127]	TO	ArrayList<>
+, Update	ParameterizedType@@ArrayList<FileInfo>[189]	TO	ArrayList<>
+, Delete	SimpleType@@FileBlockInfo[128]
+
+	Delete	SimpleName@@FileBlockInfo[128]
+, Delete	SimpleType@@FileInfo[189]
+
+	Delete	SimpleName@@FileInfo[189]
+]

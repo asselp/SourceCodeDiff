@@ -1,0 +1,2 @@
+[Update	SimpleName@@generateModuleDocsFromBLangPackages[65]	TO	generateModuleDocs
+]

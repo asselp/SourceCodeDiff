@@ -1,0 +1,10 @@
+[Insert	ImportDeclaration@@[21]
+
+	Insert	QualifiedName@@com.facebook.react.common.SystemClock[21]
+, Update	SimpleName@@uptimeMillis[92]	TO	nanoTime
+, Update	SimpleName@@uptimeMillis[119]	TO	nanoTime
+, Update	SimpleName@@uptimeMillis[99]	TO	nanoTime
+, Delete	ImportDeclaration@@[13]
+
+	Delete	QualifiedName@@android.os.SystemClock[13]
+]

@@ -1,0 +1,4 @@
+[Insert	StringLiteral@@""[189]
+, Update	SimpleName@@isIsCompleted[193]	TO	isIsComplete
+, Delete	NullLiteral@@[189]
+]

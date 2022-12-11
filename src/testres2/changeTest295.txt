@@ -1,0 +1,14 @@
+[Delete	ImportDeclaration@@[30]
+
+	Delete	QualifiedName@@java.util.UUID[32]
+, Delete	SingleVariableDeclaration@@[39]
+
+	Delete	SimpleType@@UUID[39]
+
+	Delete	SimpleName@@UUID[39]
+
+	Delete	SimpleName@@jobId[39]
+, Delete	SuperConstructorInvocation@@[43]
+
+	Delete	SimpleName@@jobId[43]
+]

@@ -1,0 +1,33 @@
+[Delete	ImportDeclaration@@[45]
+
+	Delete	QualifiedName@@com.facebook.react.views.picker.ReactDialogPickerManager[45]
+, Delete	ImportDeclaration@@[46]
+
+	Delete	QualifiedName@@com.facebook.react.views.picker.ReactDropdownPickerManager[46]
+, Delete	ExpressionStatement@@[159]
+
+	Delete	MethodInvocation@@[159]
+
+	Delete	SimpleName@@viewManagers[159]
+
+	Delete	SimpleName@@add[160]
+
+	Delete	ClassInstanceCreation@@[160]
+
+	Delete	SimpleType@@ReactDialogPickerManager[160]
+
+	Delete	SimpleName@@ReactDialogPickerManager[160]
+, Delete	ExpressionStatement@@[161]
+
+	Delete	MethodInvocation@@[161]
+
+	Delete	SimpleName@@viewManagers[161]
+
+	Delete	SimpleName@@add[161]
+
+	Delete	ClassInstanceCreation@@[161]
+
+	Delete	SimpleType@@ReactDropdownPickerManager[161]
+
+	Delete	SimpleName@@ReactDropdownPickerManager[161]
+]

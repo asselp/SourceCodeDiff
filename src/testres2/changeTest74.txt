@@ -1,0 +1,134 @@
+[Insert	ImportDeclaration@@[43]
+
+	Insert	QualifiedName@@org.wildfly.clustering.ejb.BeanManagerFactoryServiceConfiguratorConfiguration[43]
+, Move	FieldDeclaration@@[57]	TO	TypeDeclaration@@[51]
+, Move	FieldDeclaration@@[60]	TO	TypeDeclaration@@[51]
+, Update	QualifiedName@@org.wildfly.clustering.service.SimpleServiceNameProvider[48]	TO	org.wildfly.clustering.service.SupplierDependency
+, Update	QualifiedName@@org.wildfly.clustering.service.SupplierDependency[49]	TO	org.wildfly.clustering.spi.ClusteringCacheRequirement
+, Insert	MethodDeclaration@@[68]
+
+	Insert	MarkerAnnotation@@[68]
+
+	Insert	SimpleName@@Override[68]
+
+	Insert	Modifier@@public[68]
+
+	Insert	SimpleType@@ServiceName[68]
+
+	Insert	SimpleName@@ServiceName[68]
+
+	Insert	SimpleName@@getServiceName[68]
+
+	Insert	Block@@[68]
+
+	Insert	ReturnStatement@@[69]
+
+	Insert	FieldAccess@@[71]
+
+	Insert	ThisExpression@@[71]
+
+	Insert	SimpleName@@name[71]
+, Update	Modifier@@static[57]	TO	volatile
+, Update	SimpleType@@ServiceName[57]	TO	String
+
+	Update	SimpleName@@ServiceName[57]	TO	String
+, Update	Modifier@@final[60]	TO	volatile
+, Update	SimpleType@@String[60]	TO	ServiceName
+
+	Update	SimpleName@@String[60]	TO	ServiceName
+, Insert	SimpleName@@clientMappingsClusterName[62]
+, Update	SimpleName@@containerName[60]	TO	name
+, Update	SimpleName@@containerName[65]	TO	clientMappingsClusterName
+, Update	SimpleType@@String[65]	TO	ServiceName
+
+	Update	SimpleName@@String[65]	TO	ServiceName
+, Update	SimpleName@@connectorName[65]	TO	remotingConnectorInfoServiceName
+, Insert	ExpressionStatement@@[77]
+
+	Insert	Assignment@@=[77]
+
+	Insert	FieldAccess@@[77]
+
+	Insert	ThisExpression@@[77]
+
+	Insert	SimpleName@@name[77]
+
+	Insert	MethodInvocation@@[77]
+
+	Insert	QualifiedName@@ClusteringCacheRequirement.REGISTRY_ENTRY[77]
+
+	Insert	SimpleName@@getServiceName[77]
+
+	Insert	SimpleName@@context[78]
+
+	Insert	FieldAccess@@[78]
+
+	Insert	ThisExpression@@[78]
+
+	Insert	SimpleName@@clientMappingsClusterName[78]
+
+	Insert	QualifiedName@@BeanManagerFactoryServiceConfiguratorConfiguration.CLIENT_MAPPINGS_CACHE_NAME[78]
+, Update	SimpleName@@containerName[66]	TO	clientMappingsClusterName
+, Update	SimpleName@@containerName[65]	TO	clientMappingsClusterName
+, Insert	SimpleName@@remotingConnectorInfoServiceName[68]
+, Insert	FieldAccess@@[84]
+
+	Insert	ThisExpression@@[84]
+
+	Insert	SimpleName@@name[84]
+, Insert	FieldAccess@@[86]
+
+	Insert	ThisExpression@@[86]
+
+	Insert	SimpleName@@name[86]
+, Update	SimpleName@@containerName[73]	TO	clientMappingsClusterName
+, Delete	SimpleType@@SimpleServiceNameProvider[57]
+
+	Delete	SimpleName@@SimpleServiceNameProvider[57]
+, Delete	Modifier@@final[57]
+, Delete	SimpleName@@BASE_NAME[57]
+, Delete	MethodInvocation@@[57]
+
+	Delete	QualifiedName@@ServiceName.JBOSS[57]
+
+	Delete	SimpleName@@append[58]
+
+	Delete	StringLiteral@@"ejb"[58]
+
+	Delete	StringLiteral@@"remote"[58]
+
+	Delete	StringLiteral@@"client-mappings"[58]
+, Delete	SuperConstructorInvocation@@[65]
+
+	Delete	MethodInvocation@@[65]
+
+	Delete	SimpleName@@BASE_NAME[65]
+
+	Delete	SimpleName@@append[65]
+
+	Delete	SimpleName@@connectorName[65]
+, Delete	MethodInvocation@@[68]
+
+	Delete	SimpleName@@RemotingConnectorBindingInfoService[68]
+
+	Delete	SimpleName@@serviceName[68]
+
+	Delete	SimpleName@@connectorName[68]
+, Delete	VariableDeclarationStatement@@[77]
+
+	Delete	SimpleType@@ServiceName[77]
+
+	Delete	SimpleName@@ServiceName[77]
+
+	Delete	VariableDeclarationFragment@@[78]
+
+	Delete	SimpleName@@name[78]
+
+	Delete	MethodInvocation@@[78]
+
+	Delete	ThisExpression@@[78]
+
+	Delete	SimpleName@@getServiceName[78]
+, Delete	SimpleName@@name[79]
+, Delete	SimpleName@@name[81]
+]

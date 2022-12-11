@@ -1,0 +1,187 @@
+[Update	QualifiedName@@alluxio.master.file.meta.options.CreatePathOptions[25]	TO	alluxio.master.file.options.CreateFileOptions
+, Update	SimpleType@@CreatePathOptions[89]	TO	CreateFileOptions
+
+	Update	SimpleName@@CreatePathOptions[89]	TO	CreateFileOptions
+, Update	SimpleType@@CreatePathOptions[92]	TO	CreateFileOptions
+
+	Update	SimpleName@@CreatePathOptions[92]	TO	CreateFileOptions
+, Update	SimpleType@@CreatePathOptions[95]	TO	CreateFileOptions
+
+	Update	SimpleName@@CreatePathOptions[95]	TO	CreateFileOptions
+, Move	ExpressionStatement@@[143]	TO	Block@@[131]
+, Move	ExpressionStatement@@[149]	TO	Block@@[131]
+, Insert	SimpleName@@sFileOptions[89]
+, Insert	SimpleName@@sWeirdFileOptions[89]
+, Insert	SimpleName@@sNestedFileOptions[91]
+, Insert	ExpressionStatement@@[119]
+
+	Insert	Assignment@@=[119]
+
+	Insert	SimpleName@@sFileOptions[119]
+
+	Insert	MethodInvocation@@[120]
+
+	Insert	MethodInvocation@@[120]
+
+	Insert	MethodInvocation@@[120]
+
+	Insert	SimpleName@@CreateFileOptions[120]
+
+	Insert	SimpleName@@defaults[120]
+
+	Insert	SimpleName@@setBlockSizeBytes[122]
+
+	Insert	QualifiedName@@Constants.KB[124]
+
+	Insert	SimpleName@@setPermissionStatus[125]
+
+	Insert	SimpleName@@TEST_PERMISSION_STATUS_2[125]
+, Insert	ExpressionStatement@@[126]
+
+	Insert	Assignment@@=[126]
+
+	Insert	SimpleName@@sWeirdFileOptions[126]
+
+	Insert	MethodInvocation@@[126]
+
+	Insert	MethodInvocation@@[126]
+
+	Insert	MethodInvocation@@[126]
+
+	Insert	SimpleName@@CreateFileOptions[126]
+
+	Insert	SimpleName@@defaults[126]
+
+	Insert	SimpleName@@setBlockSizeBytes[126]
+
+	Insert	QualifiedName@@Constants.KB[127]
+
+	Insert	SimpleName@@setPermissionStatus[127]
+
+	Insert	SimpleName@@TEST_PERMISSION_STATUS_WEIRD[127]
+, Insert	ExpressionStatement@@[128]
+
+	Insert	Assignment@@=[128]
+
+	Insert	SimpleName@@sNestedFileOptions[128]
+
+	Insert	MethodInvocation@@[128]
+
+	Insert	MethodInvocation@@[128]
+
+	Insert	MethodInvocation@@[128]
+
+	Insert	MethodInvocation@@[128]
+
+	Insert	SimpleName@@CreateFileOptions[128]
+
+	Insert	SimpleName@@defaults[128]
+
+	Insert	SimpleName@@setBlockSizeBytes[128]
+
+	Insert	QualifiedName@@Constants.KB[129]
+
+	Insert	SimpleName@@setPermissionStatus[129]
+
+	Insert	SimpleName@@TEST_PERMISSION_STATUS_1[129]
+
+	Insert	SimpleName@@setRecursive[130]
+
+	Insert	BooleanLiteral@@true[130]
+, Update	SimpleName@@NESTED_FILE_OPTIONS[156]	TO	sNestedFileOptions
+, Update	SimpleName@@FILE_OPTIONS[160]	TO	sFileOptions
+, Update	SimpleName@@WEIRD_FILE_OPTIONS[161]	TO	sWeirdFileOptions
+, Delete	Modifier@@final[89]
+, Delete	SimpleName@@FILE_OPTIONS[89]
+, Delete	MethodInvocation@@[89]
+
+	Delete	MethodInvocation@@[89]
+
+	Delete	MethodInvocation@@[89]
+
+	Delete	ClassInstanceCreation@@[89]
+
+	Delete	SimpleType@@CreatePathOptions.Builder[89]
+
+	Delete	QualifiedName@@CreatePathOptions.Builder[89]
+
+	Delete	MethodInvocation@@[91]
+
+	Delete	SimpleName@@MasterContext[91]
+
+	Delete	SimpleName@@getConf[91]
+
+	Delete	SimpleName@@setBlockSizeBytes[91]
+
+	Delete	QualifiedName@@Constants.KB[91]
+
+	Delete	SimpleName@@setPermissionStatus[92]
+
+	Delete	SimpleName@@TEST_PERMISSION_STATUS_2[92]
+
+	Delete	SimpleName@@build[92]
+, Delete	Modifier@@final[92]
+, Delete	SimpleName@@WEIRD_FILE_OPTIONS[93]
+, Delete	MethodInvocation@@[93]
+
+	Delete	MethodInvocation@@[93]
+
+	Delete	MethodInvocation@@[93]
+
+	Delete	ClassInstanceCreation@@[93]
+
+	Delete	SimpleType@@CreatePathOptions.Builder[93]
+
+	Delete	QualifiedName@@CreatePathOptions.Builder[93]
+
+	Delete	MethodInvocation@@[94]
+
+	Delete	SimpleName@@MasterContext[94]
+
+	Delete	SimpleName@@getConf[94]
+
+	Delete	SimpleName@@setBlockSizeBytes[94]
+
+	Delete	QualifiedName@@Constants.KB[94]
+
+	Delete	SimpleName@@setPermissionStatus[95]
+
+	Delete	SimpleName@@TEST_PERMISSION_STATUS_WEIRD[95]
+
+	Delete	SimpleName@@build[95]
+, Delete	Modifier@@final[95]
+, Delete	SimpleName@@NESTED_FILE_OPTIONS[96]
+, Delete	MethodInvocation@@[96]
+
+	Delete	MethodInvocation@@[96]
+
+	Delete	MethodInvocation@@[96]
+
+	Delete	MethodInvocation@@[96]
+
+	Delete	ClassInstanceCreation@@[96]
+
+	Delete	SimpleType@@CreatePathOptions.Builder[96]
+
+	Delete	QualifiedName@@CreatePathOptions.Builder[96]
+
+	Delete	MethodInvocation@@[97]
+
+	Delete	SimpleName@@MasterContext[97]
+
+	Delete	SimpleName@@getConf[97]
+
+	Delete	SimpleName@@setBlockSizeBytes[97]
+
+	Delete	QualifiedName@@Constants.KB[97]
+
+	Delete	SimpleName@@setPermissionStatus[98]
+
+	Delete	SimpleName@@TEST_PERMISSION_STATUS_1[98]
+
+	Delete	SimpleName@@setRecursive[98]
+
+	Delete	BooleanLiteral@@true[98]
+
+	Delete	SimpleName@@build[98]
+]

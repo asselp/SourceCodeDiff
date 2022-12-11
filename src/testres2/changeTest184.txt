@@ -1,0 +1,4 @@
+[Update	QualifiedName@@Status.General.SchemaCorruptionDetected[30]	TO	Status.General.CorruptSchemaRule
+, Update	QualifiedName@@Status.General.SchemaCorruptionDetected[35]	TO	Status.General.CorruptSchemaRule
+, Update	QualifiedName@@Status.General.SchemaCorruptionDetected[40]	TO	Status.General.CorruptSchemaRule
+]

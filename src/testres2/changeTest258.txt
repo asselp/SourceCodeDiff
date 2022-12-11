@@ -1,0 +1,26 @@
+[Insert	FieldDeclaration@@[43]
+
+	Insert	Modifier@@private[43]
+
+	Insert	Modifier@@final[43]
+
+	Insert	SimpleType@@String[43]
+
+	Insert	SimpleName@@String[43]
+
+	Insert	VariableDeclarationFragment@@[43]
+
+	Insert	SimpleName@@functionName[43]
+
+	Insert	QualifiedName@@CastFunctionResolver.FunctionNames.TO_STRING[43]
+, Insert	SimpleName@@functionName[71]
+, Insert	SimpleName@@functionName[77]
+, Insert	SimpleName@@functionName[51]
+, Insert	SimpleName@@functionName[57]
+, Insert	SimpleName@@functionName[62]
+, Delete	QualifiedName@@ToStringFunction.NAME[49]
+, Delete	QualifiedName@@ToStringFunction.NAME[55]
+, Delete	QualifiedName@@ToStringFunction.NAME[60]
+, Delete	QualifiedName@@ToStringFunction.NAME[69]
+, Delete	QualifiedName@@ToStringFunction.NAME[75]
+]

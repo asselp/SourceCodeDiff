@@ -1,0 +1,43 @@
+[Update	QualifiedName@@org.sakaiproject.gradebookng.business.model.GbStudentSortType[11]	TO	org.sakaiproject.gradebookng.business.model.GbStudentNameSortOrder
+, Update	SimpleType@@GbStudentSortType[93]	TO	GbStudentNameSortOrder
+
+	Update	SimpleName@@GbStudentSortType[93]	TO	GbStudentNameSortOrder
+, Update	SimpleName@@sortType[94]	TO	sortOrder
+, Update	SimpleType@@GbStudentSortType[42]	TO	GbStudentNameSortOrder
+
+	Update	SimpleName@@GbStudentSortType[42]	TO	GbStudentNameSortOrder
+, Update	SimpleName@@sortType[42]	TO	nameSortOrder
+, Update	QualifiedName@@GbStudentSortType.LAST_NAME[95]	TO	GbStudentNameSortOrder.LAST_NAME
+, Update	SimpleName@@sortType[96]	TO	sortOrder
+, Update	QualifiedName@@GbStudentSortType.FIRST_NAME[98]	TO	GbStudentNameSortOrder.FIRST_NAME
+, Update	SimpleName@@sortType[99]	TO	sortOrder
+, Update	SimpleType@@GbStudentSortType[42]	TO	GbStudentNameSortOrder
+
+	Update	SimpleName@@GbStudentSortType[42]	TO	GbStudentNameSortOrder
+, Update	StringLiteral@@"sortType"[43]	TO	"nameSortOrder"
+, Update	SimpleName@@sortType[63]	TO	nameSortOrder
+, Update	SimpleName@@sortType[95]	TO	sortOrder
+, Delete	VariableDeclarationStatement@@[38]
+
+	Delete	SimpleType@@String[38]
+
+	Delete	SimpleName@@String[38]
+
+	Delete	VariableDeclarationFragment@@[38]
+
+	Delete	SimpleName@@userId[38]
+
+	Delete	CastExpression@@[38]
+
+	Delete	SimpleType@@String[38]
+
+	Delete	SimpleName@@String[38]
+
+	Delete	MethodInvocation@@[38]
+
+	Delete	SimpleName@@modelData[38]
+
+	Delete	SimpleName@@get[38]
+
+	Delete	StringLiteral@@"userId"[39]
+]

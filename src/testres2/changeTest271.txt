@@ -1,0 +1,48 @@
+[Insert	ImportDeclaration@@[27]
+
+	Insert	QualifiedName@@com.google.common.util.concurrent.SettableFuture[27]
+, Insert	ImportDeclaration@@[44]
+
+	Insert	QualifiedName@@io.crate.operation.QueryResultRowDownstream[45]
+, Insert	VariableDeclarationStatement@@[269]
+
+	Insert	ParameterizedType@@SettableFuture<TaskResult>[269]
+
+	Insert	SimpleType@@SettableFuture[269]
+
+	Insert	SimpleName@@SettableFuture[269]
+
+	Insert	SimpleType@@TaskResult[270]
+
+	Insert	SimpleName@@TaskResult[270]
+
+	Insert	VariableDeclarationFragment@@[270]
+
+	Insert	SimpleName@@future[270]
+
+	Insert	MethodInvocation@@[270]
+
+	Insert	SimpleName@@SettableFuture[270]
+
+	Insert	SimpleName@@create[270]
+, Insert	ExpressionStatement@@[273]
+
+	Insert	MethodInvocation@@[273]
+
+	Insert	ClassInstanceCreation@@[273]
+
+	Insert	SimpleType@@QueryResultRowDownstream[273]
+
+	Insert	SimpleName@@QueryResultRowDownstream[273]
+
+	Insert	SimpleName@@future[274]
+, Insert	ReturnStatement@@[274]
+
+	Insert	SimpleName@@future[274]
+, Move	SimpleName@@transportExecutor[268]	TO	MethodInvocation@@[273]
+, Move	SimpleName@@execute[268]	TO	MethodInvocation@@[273]
+, Move	QualifiedName@@planForNode.plan[268]	TO	MethodInvocation@@[273]
+, Delete	ReturnStatement@@[267]
+
+	Delete	MethodInvocation@@[268]
+]

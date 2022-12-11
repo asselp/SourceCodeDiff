@@ -1,0 +1,188 @@
+[Insert	ImportDeclaration@@[24]
+
+	Insert	QualifiedName@@org.ballerinalang.model.types.TypeTags[24]
+, Insert	EnumDeclaration@@[507]
+
+	Insert	SimpleName@@IterMode[508]
+
+	Insert	EnumConstantDeclaration@@[508]
+
+	Insert	SimpleName@@SEQUENCE[508]
+
+	Insert	EnumConstantDeclaration@@[508]
+
+	Insert	SimpleName@@CODE_POINT[508]
+, Update	PrimitiveType@@int[424]	TO	long
+, Update	SimpleName@@length[424]	TO	size
+, Insert	FieldDeclaration@@[468]
+
+	Insert	SimpleType@@IterMode[468]
+
+	Insert	SimpleName@@IterMode[468]
+
+	Insert	VariableDeclarationFragment@@[468]
+
+	Insert	SimpleName@@iterMode[468]
+
+	Insert	QualifiedName@@IterMode.SEQUENCE[468]
+, Insert	FieldDeclaration@@[471]
+
+	Insert	SimpleType@@BXMLCodePointIterator[471]
+
+	Insert	SimpleName@@BXMLCodePointIterator[471]
+
+	Insert	VariableDeclarationFragment@@[471]
+
+	Insert	SimpleName@@codePointIterator[471]
+, Insert	IfStatement@@[480]
+
+	Insert	InfixExpression@@==[480]
+
+	Insert	SimpleName@@iterMode[480]
+
+	Insert	QualifiedName@@IterMode.CODE_POINT[480]
+
+	Insert	Block@@[480]
+, Insert	VariableDeclarationStatement@@[489]
+
+	Insert	ParameterizedType@@BRefType<?>[489]
+
+	Insert	SimpleType@@BRefType[489]
+
+	Insert	SimpleName@@BRefType[489]
+
+	Insert	WildcardType@@?[489]
+
+	Insert	VariableDeclarationFragment@@[491]
+
+	Insert	SimpleName@@curVal[491]
+, Insert	IfStatement@@[492]
+
+	Insert	InfixExpression@@&&[492]
+
+	Insert	InfixExpression@@==[492]
+
+	Insert	MethodInvocation@@[492]
+
+	Insert	MethodInvocation@@[492]
+
+	Insert	SimpleName@@curVal[492]
+
+	Insert	SimpleName@@getType[492]
+
+	Insert	SimpleName@@getTag[492]
+
+	Insert	QualifiedName@@TypeTags.XML_TAG[492]
+
+	Insert	InfixExpression@@==[496]
+
+	Insert	MethodInvocation@@[496]
+
+	Insert	ParenthesizedExpression@@[496]
+
+	Insert	CastExpression@@[496]
+
+	Insert	SimpleType@@BXMLItem[496]
+
+	Insert	SimpleName@@BXMLItem[496]
+
+	Insert	SimpleName@@curVal[496]
+
+	Insert	SimpleName@@getNodeType[496]
+
+	Insert	QualifiedName@@XMLNodeType.TEXT[497]
+
+	Insert	Block@@[497]
+
+	Insert	ExpressionStatement@@[497]
+
+	Insert	Assignment@@=[497]
+
+	Insert	SimpleName@@iterMode[497]
+
+	Insert	QualifiedName@@IterMode.CODE_POINT[498]
+
+	Insert	ExpressionStatement@@[498]
+
+	Insert	Assignment@@=[498]
+
+	Insert	SimpleName@@codePointIterator[498]
+
+	Insert	MethodInvocation@@[499]
+
+	Insert	SimpleName@@BXMLCodePointIterator[499]
+
+	Insert	SimpleName@@from[499]
+
+	Insert	ParenthesizedExpression@@[499]
+
+	Insert	MethodInvocation@@[499]
+
+	Insert	SimpleName@@curVal[499]
+
+	Insert	SimpleName@@stringValue[499]
+, Insert	ReturnStatement@@[502]
+
+	Insert	SimpleName@@curVal[502]
+, Insert	VariableDeclarationStatement@@[505]
+
+	Insert	PrimitiveType@@boolean[505]
+
+	Insert	VariableDeclarationFragment@@[505]
+
+	Insert	SimpleName@@hasMoreXmlItems[505]
+, Insert	ConditionalExpression@@[506]
+
+	Insert	InfixExpression@@==[506]
+
+	Insert	SimpleName@@iterMode[506]
+
+	Insert	QualifiedName@@IterMode.SEQUENCE[506]
+
+	Insert	SimpleName@@hasMoreXmlItems[506]
+
+	Insert	ParenthesizedExpression@@[507]
+
+	Insert	InfixExpression@@||[507]
+
+	Insert	MethodInvocation@@[507]
+
+	Insert	SimpleName@@codePointIterator[507]
+
+	Insert	SimpleName@@hasNext[507]
+
+	Insert	SimpleName@@hasMoreXmlItems[507]
+, Move	IfStatement@@[472]	TO	Block@@[480]
+, Move	MethodInvocation@@[473]	TO	VariableDeclarationFragment@@[491]
+, Move	ReturnStatement@@[477]	TO	Block@@[497]
+, Move	InfixExpression@@<[481]	TO	VariableDeclarationFragment@@[505]
+, Insert	Block@@[486]
+
+	Insert	ExpressionStatement@@[486]
+
+	Insert	Assignment@@=[486]
+
+	Insert	SimpleName@@iterMode[486]
+
+	Insert	QualifiedName@@IterMode.SEQUENCE[487]
+
+	Insert	ExpressionStatement@@[488]
+
+	Insert	Assignment@@=[488]
+
+	Insert	SimpleName@@codePointIterator[488]
+
+	Insert	NullLiteral@@[488]
+, Insert	MethodInvocation@@[501]
+
+	Insert	SimpleName@@codePointIterator[501]
+
+	Insert	SimpleName@@getNext[501]
+, Insert	SimpleName@@codePointIterator[480]
+, Insert	MethodInvocation@@[484]
+
+	Insert	SimpleName@@codePointIterator[484]
+
+	Insert	SimpleName@@getNext[484]
+, Delete	NullLiteral@@[477]
+]

@@ -1,0 +1,411 @@
+[Insert	MethodInvocation@@[58]
+
+	Insert	SimpleName@@withEnvironment[66]
+
+	Insert	StringLiteral@@"CONFIG_SERVER_HOSTNAME"[66]
+
+	Insert	SimpleName@@CONFIG_SERVER_HOSTNAME[66]
+, Move	MethodInvocation@@[61]	TO	MethodInvocation@@[58]
+
+	Move	SimpleName@@CONFIG_SERVER_HOSTNAME[68]	TO	MethodInvocation@@[65]
+, Update	StringLiteral@@"CONFIG_SERVER_HOSTNAME"[68]	TO	"HOSTED_VESPA_REGION"
+, Insert	MethodInvocation@@[65]
+
+	Insert	SimpleName@@getRegion[66]
+, Update	StringLiteral@@"HOSTED_VESPA_REGION"[67]	TO	"HOSTED_VESPA_ENVIRONMENT"
+, Update	SimpleName@@CONFIG_SERVER_HOSTNAME[68]	TO	environment
+, Update	SimpleName@@withEnvironment[66]	TO	withVolume
+, Update	StringLiteral@@"HOSTED_VESPA_ENVIRONMENT"[66]	TO	"/etc/hosts"
+, Insert	StringLiteral@@"/etc/hosts"[63]
+, Update	SimpleName@@getRegion[68]	TO	getEnvironment
+, Delete	ImportDeclaration@@[14]
+
+	Delete	QualifiedName@@java.io.BufferedReader[14]
+, Delete	ImportDeclaration@@[17]
+
+	Delete	QualifiedName@@java.io.InputStream[17]
+, Delete	ImportDeclaration@@[18]
+
+	Delete	QualifiedName@@java.io.InputStreamReader[18]
+, Delete	MethodInvocation@@[66]
+
+	Delete	SimpleName@@environment[66]
+
+	Delete	SimpleName@@getEnvironment[67]
+, Delete	ExpressionStatement@@[178]
+
+	Delete	MethodInvocation@@[178]
+
+	Delete	SimpleName@@provisionNodeRequest[178]
+
+	Delete	SimpleName@@put[178]
+
+	Delete	StringLiteral@@"ipAddress"[178]
+
+	Delete	InfixExpression@@+[178]
+
+	Delete	StringLiteral@@"172.18.2."[178]
+
+	Delete	SimpleName@@i[179]
+, Delete	MethodDeclaration@@[230]
+
+	Delete	Modifier@@public[230]
+
+	Delete	Modifier@@static[230]
+
+	Delete	ParameterizedType@@Set<String>[230]
+
+	Delete	SimpleType@@Set[230]
+
+	Delete	SimpleName@@Set[230]
+
+	Delete	SimpleType@@String[230]
+
+	Delete	SimpleName@@String[230]
+
+	Delete	SimpleName@@getContainersForApp[230]
+
+	Delete	Block@@[231]
+
+	Delete	ReturnStatement@@[231]
+
+	Delete	MethodInvocation@@[231]
+
+	Delete	SimpleName@@getContainersForApp[231]
+
+	Delete	SimpleName@@TENANT_NAME[232]
+
+	Delete	SimpleName@@APPLICATION_NAME[232]
+
+	Delete	StringLiteral@@"default"[232]
+, Delete	MethodDeclaration@@[232]
+
+	Delete	Modifier@@public[232]
+
+	Delete	Modifier@@static[232]
+
+	Delete	ParameterizedType@@Set<String>[232]
+
+	Delete	SimpleType@@Set[232]
+
+	Delete	SimpleName@@Set[232]
+
+	Delete	SimpleType@@String[232]
+
+	Delete	SimpleName@@String[232]
+
+	Delete	SimpleName@@getContainersForApp[232]
+
+	Delete	SingleVariableDeclaration@@[232]
+
+	Delete	SimpleType@@String[232]
+
+	Delete	SimpleName@@String[232]
+
+	Delete	SimpleName@@tenant[232]
+
+	Delete	SingleVariableDeclaration@@[232]
+
+	Delete	SimpleType@@String[232]
+
+	Delete	SimpleName@@String[232]
+
+	Delete	SimpleName@@application[232]
+
+	Delete	SingleVariableDeclaration@@[233]
+
+	Delete	SimpleType@@String[233]
+
+	Delete	SimpleName@@String[233]
+
+	Delete	SimpleName@@instance[234]
+
+	Delete	Block@@[236]
+
+	Delete	VariableDeclarationStatement@@[236]
+
+	Delete	SimpleType@@String[236]
+
+	Delete	SimpleName@@String[236]
+
+	Delete	VariableDeclarationFragment@@[236]
+
+	Delete	SimpleName@@app[236]
+
+	Delete	MethodInvocation@@[236]
+
+	Delete	SimpleName@@String[236]
+
+	Delete	SimpleName@@join[236]
+
+	Delete	StringLiteral@@"."[236]
+
+	Delete	SimpleName@@tenant[236]
+
+	Delete	SimpleName@@application[236]
+
+	Delete	SimpleName@@instance[237]
+
+	Delete	VariableDeclarationStatement@@[237]
+
+	Delete	SimpleType@@Map[237]
+
+	Delete	SimpleName@@Map[237]
+
+	Delete	VariableDeclarationFragment@@[237]
+
+	Delete	SimpleName@@response[237]
+
+	Delete	MethodInvocation@@[237]
+
+	Delete	SimpleName@@requestExecutor[237]
+
+	Delete	SimpleName@@get[237]
+
+	Delete	InfixExpression@@+[237]
+
+	Delete	StringLiteral@@"/nodes/v2/node/?recursive=true&clusterType=container&application="[237]
+
+	Delete	SimpleName@@app[240]
+
+	Delete	SimpleName@@CONFIG_SERVER_WEB_SERVICE_PORT[240]
+
+	Delete	TypeLiteral@@[240]
+
+	Delete	SimpleType@@Map[240]
+
+	Delete	SimpleName@@Map[240]
+
+	Delete	VariableDeclarationStatement@@[241]
+
+	Delete	ParameterizedType@@List<Map>[241]
+
+	Delete	SimpleType@@List[241]
+
+	Delete	SimpleName@@List[241]
+
+	Delete	SimpleType@@Map[241]
+
+	Delete	SimpleName@@Map[241]
+
+	Delete	VariableDeclarationFragment@@[241]
+
+	Delete	SimpleName@@nodes[241]
+
+	Delete	CastExpression@@[241]
+
+	Delete	ParameterizedType@@List<Map>[241]
+
+	Delete	SimpleType@@List[241]
+
+	Delete	SimpleName@@List[241]
+
+	Delete	SimpleType@@Map[241]
+
+	Delete	SimpleName@@Map[241]
+
+	Delete	MethodInvocation@@[241]
+
+	Delete	SimpleName@@response[241]
+
+	Delete	SimpleName@@get[241]
+
+	Delete	StringLiteral@@"nodes"[241]
+
+	Delete	ReturnStatement@@[242]
+
+	Delete	MethodInvocation@@[242]
+
+	Delete	MethodInvocation@@[242]
+
+	Delete	MethodInvocation@@[242]
+
+	Delete	SimpleName@@nodes[242]
+
+	Delete	SimpleName@@stream[242]
+
+	Delete	SimpleName@@map[242]
+
+	Delete	LambdaExpression@@[242]
+
+	Delete	VariableDeclarationFragment@@[242]
+
+	Delete	SimpleName@@nodeMap[242]
+
+	Delete	CastExpression@@[242]
+
+	Delete	SimpleType@@String[242]
+
+	Delete	SimpleName@@String[242]
+
+	Delete	MethodInvocation@@[242]
+
+	Delete	SimpleName@@nodeMap[242]
+
+	Delete	SimpleName@@get[242]
+
+	Delete	StringLiteral@@"hostname"[242]
+
+	Delete	SimpleName@@collect[242]
+
+	Delete	MethodInvocation@@[242]
+
+	Delete	SimpleName@@Collectors[242]
+
+	Delete	SimpleName@@toSet[242]
+, Delete	MethodDeclaration@@[242]
+
+	Delete	Modifier@@public[242]
+
+	Delete	Modifier@@static[243]
+
+	Delete	PrimitiveType@@void[243]
+
+	Delete	SimpleName@@packageApp[243]
+
+	Delete	SingleVariableDeclaration@@[243]
+
+	Delete	SimpleType@@Path[243]
+
+	Delete	SimpleName@@Path[243]
+
+	Delete	SimpleName@@pathToApp[243]
+
+	Delete	Block@@[243]
+
+	Delete	TryStatement@@[243]
+
+	Delete	Block@@[243]
+
+	Delete	VariableDeclarationStatement@@[244]
+
+	Delete	SimpleType@@InputStream[244]
+
+	Delete	SimpleName@@InputStream[244]
+
+	Delete	VariableDeclarationFragment@@[244]
+
+	Delete	SimpleName@@is[244]
+
+	Delete	MethodInvocation@@[244]
+
+	Delete	MethodInvocation@@[244]
+
+	Delete	MethodInvocation@@[244]
+
+	Delete	SimpleName@@Runtime[244]
+
+	Delete	SimpleName@@getRuntime[244]
+
+	Delete	SimpleName@@exec[244]
+
+	Delete	StringLiteral@@"mvn package"[244]
+
+	Delete	NullLiteral@@[245]
+
+	Delete	MethodInvocation@@[245]
+
+	Delete	SimpleName@@pathToApp[245]
+
+	Delete	SimpleName@@toFile[245]
+
+	Delete	SimpleName@@getInputStream[245]
+
+	Delete	VariableDeclarationStatement@@[245]
+
+	Delete	SimpleType@@InputStreamReader[245]
+
+	Delete	SimpleName@@InputStreamReader[245]
+
+	Delete	VariableDeclarationFragment@@[245]
+
+	Delete	SimpleName@@isr[245]
+
+	Delete	ClassInstanceCreation@@[245]
+
+	Delete	SimpleType@@InputStreamReader[245]
+
+	Delete	SimpleName@@InputStreamReader[245]
+
+	Delete	SimpleName@@is[246]
+
+	Delete	VariableDeclarationStatement@@[248]
+
+	Delete	SimpleType@@BufferedReader[248]
+
+	Delete	SimpleName@@BufferedReader[248]
+
+	Delete	VariableDeclarationFragment@@[248]
+
+	Delete	SimpleName@@buff[248]
+
+	Delete	ClassInstanceCreation@@[248]
+
+	Delete	SimpleType@@BufferedReader[248]
+
+	Delete	SimpleName@@BufferedReader[248]
+
+	Delete	SimpleName@@isr[248]
+
+	Delete	VariableDeclarationStatement@@[250]
+
+	Delete	SimpleType@@String[250]
+
+	Delete	SimpleName@@String[250]
+
+	Delete	VariableDeclarationFragment@@[250]
+
+	Delete	SimpleName@@line[250]
+
+	Delete	WhileStatement@@[250]
+
+	Delete	InfixExpression@@!=[250]
+
+	Delete	ParenthesizedExpression@@[250]
+
+	Delete	Assignment@@=[250]
+
+	Delete	SimpleName@@line[250]
+
+	Delete	MethodInvocation@@[250]
+
+	Delete	SimpleName@@buff[250]
+
+	Delete	SimpleName@@readLine[250]
+
+	Delete	NullLiteral@@[250]
+
+	Delete	ExpressionStatement@@[250]
+
+	Delete	MethodInvocation@@[250]
+
+	Delete	QualifiedName@@System.out[250]
+
+	Delete	SimpleName@@println[250]
+
+	Delete	SimpleName@@line[250]
+
+	Delete	CatchClause@@[250]
+
+	Delete	SingleVariableDeclaration@@[250]
+
+	Delete	SimpleType@@IOException[250]
+
+	Delete	SimpleName@@IOException[250]
+
+	Delete	SimpleName@@e[252]
+
+	Delete	Block@@[252]
+
+	Delete	ThrowStatement@@[252]
+
+	Delete	ClassInstanceCreation@@[252]
+
+	Delete	SimpleType@@RuntimeException[252]
+
+	Delete	SimpleName@@RuntimeException[252]
+
+	Delete	StringLiteral@@"Failed to package application"[252]
+
+	Delete	SimpleName@@e[253]
+]

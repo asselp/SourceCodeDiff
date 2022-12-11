@@ -1,0 +1,20 @@
+[Insert	SimpleType@@IOException[121]
+
+	Insert	SimpleName@@IOException[121]
+, Insert	Block@@[121]
+
+	Insert	TryStatement@@[122]
+
+	Insert	VariableDeclarationExpression@@[122]
+
+	Insert	SimpleType@@FileSystemAbstraction[122]
+
+	Insert	SimpleName@@FileSystemAbstraction[122]
+
+	Insert	VariableDeclarationFragment@@[122]
+
+	Insert	SimpleName@@fs[122]
+, Move	Block@@[121]	TO	TryStatement@@[122]
+, Move	ClassInstanceCreation@@[122]	TO	VariableDeclarationFragment@@[122]
+, Insert	SimpleName@@fs[127]
+]

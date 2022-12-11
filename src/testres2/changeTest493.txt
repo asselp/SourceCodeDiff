@@ -1,0 +1,4 @@
+[Update	QualifiedName@@org.ballerinalang.jvm.api.BStringUtils[19]	TO	io.ballerina.jvm.api.BStringUtils
+, Update	QualifiedName@@org.ballerinalang.jvm.api.values.BString[21]	TO	io.ballerina.jvm.api.values.BString
+, Update	QualifiedName@@org.ballerinalang.jvm.internal.ErrorUtils[22]	TO	io.ballerina.jvm.internal.ErrorUtils
+]

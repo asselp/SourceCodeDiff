@@ -1,0 +1,80 @@
+[Move	ExpressionStatement@@[73]	TO	Block@@[40]
+, Insert	ExpressionStatement@@[78]
+
+	Insert	MethodInvocation@@[78]
+
+	Insert	SimpleName@@getTasksIndex[78]
+
+	Insert	SimpleName@@setOptions[78]
+
+	Insert	MethodInvocation@@[78]
+
+	Insert	SimpleName@@expectVersionSpecificWarnings[78]
+
+	Insert	LambdaExpression@@[78]
+
+	Insert	VariableDeclarationFragment@@[78]
+
+	Insert	SimpleName@@v[78]
+
+	Insert	Block@@[78]
+
+	Insert	ExpressionStatement@@[80]
+
+	Insert	MethodInvocation@@[80]
+
+	Insert	SimpleName@@v[80]
+
+	Insert	SimpleName@@current[80]
+
+	Insert	SimpleName@@systemIndexWarning[80]
+
+	Insert	ExpressionStatement@@[80]
+
+	Insert	MethodInvocation@@[80]
+
+	Insert	SimpleName@@v[80]
+
+	Insert	SimpleName@@compatible[80]
+
+	Insert	SimpleName@@systemIndexWarning[80]
+, Insert	ExpressionStatement@@[100]
+
+	Insert	MethodInvocation@@[100]
+
+	Insert	SimpleName@@putAliasRequest[100]
+
+	Insert	SimpleName@@setOptions[100]
+
+	Insert	MethodInvocation@@[100]
+
+	Insert	SimpleName@@expectVersionSpecificWarnings[100]
+
+	Insert	LambdaExpression@@[101]
+
+	Insert	VariableDeclarationFragment@@[101]
+
+	Insert	SimpleName@@v[101]
+
+	Insert	Block@@[102]
+
+	Insert	ExpressionStatement@@[102]
+
+	Insert	MethodInvocation@@[102]
+
+	Insert	SimpleName@@v[102]
+
+	Insert	SimpleName@@current[103]
+
+	Insert	SimpleName@@systemIndexWarning[103]
+
+	Insert	ExpressionStatement@@[103]
+
+	Insert	MethodInvocation@@[103]
+
+	Insert	SimpleName@@v[103]
+
+	Insert	SimpleName@@compatible[103]
+
+	Insert	SimpleName@@systemIndexWarning[103]
+]

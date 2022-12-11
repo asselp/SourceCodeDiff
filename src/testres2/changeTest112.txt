@@ -1,0 +1,16 @@
+[Delete	MarkerAnnotation@@[47]
+
+	Delete	SimpleName@@Override[47]
+, Delete	MarkerAnnotation@@[53]
+
+	Delete	SimpleName@@Override[53]
+, Delete	MarkerAnnotation@@[58]
+
+	Delete	SimpleName@@Override[58]
+, Delete	MarkerAnnotation@@[67]
+
+	Delete	SimpleName@@Override[67]
+, Delete	MarkerAnnotation@@[81]
+
+	Delete	SimpleName@@Override[81]
+]

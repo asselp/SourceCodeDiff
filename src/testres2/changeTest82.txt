@@ -1,0 +1,35 @@
+[Insert	MethodInvocation@@[187]
+
+	Insert	MethodInvocation@@[187]
+
+	Insert	SimpleName@@setInitialMode[190]
+
+	Insert	QualifiedName@@Mode.ACTIVE[190]
+
+	Insert	SimpleName@@install[190]
+, Move	MethodInvocation@@[189]	TO	MethodInvocation@@[187]
+, Move	MethodInvocation@@[187]	TO	MethodInvocation@@[189]
+, Delete	VariableDeclarationStatement@@[187]
+
+	Delete	ParameterizedType@@ServiceBuilder<?>[187]
+
+	Delete	SimpleType@@ServiceBuilder[187]
+
+	Delete	SimpleName@@ServiceBuilder[187]
+
+	Delete	WildcardType@@?[187]
+
+	Delete	VariableDeclarationFragment@@[187]
+
+	Delete	SimpleName@@serviceBuilder[187]
+, Delete	SimpleName@@serviceBuilder[189]
+, Delete	ExpressionStatement@@[190]
+
+	Delete	MethodInvocation@@[190]
+
+	Delete	SimpleName@@serviceBuilder[190]
+
+	Delete	SimpleName@@setInitialMode[190]
+
+	Delete	QualifiedName@@Mode.ACTIVE[190]
+]

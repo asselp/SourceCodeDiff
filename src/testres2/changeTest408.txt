@@ -1,0 +1,25 @@
+[Delete	ImportDeclaration@@[6]
+
+	Delete	QualifiedName@@com.yahoo.container.logging.ConnectionLog[7]
+, Delete	ExpressionStatement@@[761]
+
+	Delete	MethodInvocation@@[761]
+
+	Delete	MethodInvocation@@[761]
+
+	Delete	SimpleName@@bind[761]
+
+	Delete	TypeLiteral@@[761]
+
+	Delete	SimpleType@@ConnectionLog[761]
+
+	Delete	SimpleName@@ConnectionLog[761]
+
+	Delete	SimpleName@@toInstance[765]
+
+	Delete	ClassInstanceCreation@@[766]
+
+	Delete	SimpleType@@VoidConnectionLog[766]
+
+	Delete	SimpleName@@VoidConnectionLog[766]
+]
