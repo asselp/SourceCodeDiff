@@ -1,2 +1,0 @@
-[MOV	MethodDeclaration@@[108]	TO	TypeDeclaration@@[30]
-]

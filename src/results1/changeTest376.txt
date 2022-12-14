@@ -1,6 +1,0 @@
-Insert: ImportDeclaration
-Insert: MethodInvocation|#|invokeAll
-Insert: VariableDeclarationStatement
-Insert: Assignment|#|=
-Insert: ImportDeclaration
-Insert: MethodInvocation|#|invokeAll

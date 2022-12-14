@@ -1,4 +1,0 @@
-Update: QualifiedName|#|com.yahoo.vespa.config.server.MockTesterClient
-Insert: ClassInstanceCreation
-Insert: Modifier|#|public
-Delete: MethodInvocation|#|deploy

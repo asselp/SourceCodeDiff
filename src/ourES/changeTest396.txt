@@ -1,0 +1,4 @@
+Insert: CastExpression
+Delete: ImportDeclaration
+Delete: VariableDeclarationStatement
+Delete: CastExpression

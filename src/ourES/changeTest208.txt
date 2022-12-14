@@ -1,0 +1,15 @@
+Update: QualifiedName|#|com.facebook.react.bridge.annotations.ReactModule
+Insert: ImportDeclaration
+Insert: NormalAnnotation
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: MethodDeclaration
+Delete: Modifier|#|public
+Delete: ReturnStatement

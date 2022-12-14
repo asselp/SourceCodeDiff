@@ -1,5 +1,0 @@
-Insert: IfStatement
-Insert: MethodInvocation|#|setProperty
-Insert: VariableDeclarationStatement
-Insert: VariableDeclarationStatement
-Insert: IfStatement

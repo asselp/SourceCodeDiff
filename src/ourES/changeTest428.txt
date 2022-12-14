@@ -1,0 +1,4 @@
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: MethodInvocation|#|toSlime
+Delete: MethodInvocation|#|fromSlime

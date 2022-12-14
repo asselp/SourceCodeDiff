@@ -1,0 +1,16 @@
+Update: QualifiedName|#|org.elasticsearch.cluster.metadata.MetaDataService
+Insert: MethodInvocation|#|expectMessage
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: StringLiteral|#|".partitioned.ttt.04134"
+Insert: EnhancedForStatement
+Insert: MethodInvocation|#|acquire
+Insert: EnhancedForStatement
+Insert: MethodInvocation|#|release
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Delete: MethodInvocation|#|waitNoPendingTasksOnAll
+Delete: MethodInvocation|#|expectMessage

@@ -1,5 +1,0 @@
-Insert: ImportDeclaration
-Insert: MethodInvocation|#|info
-Insert: FieldDeclaration
-Insert: ImportDeclaration
-Insert: FieldDeclaration

@@ -1,8 +1,0 @@
-Insert: SimpleName|#|mEnableSplitPackage
-Insert: FieldDeclaration
-Insert: MethodDeclaration
-Insert: Assignment|#|=
-Insert: SimpleName|#|mEnableSplitPackage
-Insert: FieldDeclaration
-Insert: MethodDeclaration
-Insert: Assignment|#|=

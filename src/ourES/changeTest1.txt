@@ -1,0 +1,5 @@
+Update: QualifiedName|#|org.elasticsearch.common.io.stream.BytesStreamInput
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Delete: ImportDeclaration
+Delete: VariableDeclarationStatement

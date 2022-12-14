@@ -1,0 +1,9 @@
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: MethodDeclaration
+Delete: MethodDeclaration
+Delete: MethodDeclaration

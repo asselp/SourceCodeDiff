@@ -1,6 +1,0 @@
-[INS	MemberValuePair@@[37]
-
-	INS	SimpleName@@date[37]
-
-	INS	StringLiteral@@"2016-09-18"[37]
-]

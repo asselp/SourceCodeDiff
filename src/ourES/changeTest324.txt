@@ -1,0 +1,2 @@
+Insert: MethodInvocation|#|saveOrUpdateAll
+Delete: MethodInvocation|#|saveOrUpdate

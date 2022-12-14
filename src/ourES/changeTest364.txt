@@ -1,0 +1,6 @@
+Insert: MethodDeclaration
+Insert: MarkerAnnotation
+Insert: MethodDeclaration
+Insert: MarkerAnnotation
+Delete: MethodDeclaration
+Delete: MethodDeclaration

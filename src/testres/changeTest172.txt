@@ -1,4 +1,0 @@
-[INS	ImportDeclaration@@[20]
-
-	INS	QualifiedName@@org.neo4j.kernel.impl.api.legacyindex.AbstractIndexHits[20]
-]

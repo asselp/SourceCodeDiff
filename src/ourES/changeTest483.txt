@@ -1,0 +1,5 @@
+Update: Modifier|#|private
+Insert: FieldDeclaration
+Insert: ReturnStatement
+Delete: FieldDeclaration
+Delete: ReturnStatement

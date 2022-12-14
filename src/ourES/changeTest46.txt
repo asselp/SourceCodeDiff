@@ -1,0 +1,5 @@
+Update: QualifiedName|#|org.elasticsearch.search.internal.SearchContext
+Insert: ImportDeclaration
+Insert: Modifier|#|protected
+Delete: ImportDeclaration
+Delete: Modifier|#|protected

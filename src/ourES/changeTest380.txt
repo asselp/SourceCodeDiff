@@ -1,0 +1,5 @@
+Update: StringLiteral|#|""
+Insert: MethodInvocation|#|assertEquals
+Insert: MethodInvocation|#|assertTrue
+Delete: MethodInvocation|#|assertEquals
+Delete: MethodInvocation|#|assertTrue

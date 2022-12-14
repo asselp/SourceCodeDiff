@@ -1,0 +1,4 @@
+Insert: FieldDeclaration
+Insert: VariableDeclarationStatement
+Delete: FieldDeclaration
+Delete: VariableDeclarationStatement

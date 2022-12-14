@@ -1,0 +1,9 @@
+Update: QualifiedName|#|org.jboss.msc.service.StartContext
+Update: QualifiedName|#|org.jboss.msc.service.StopContext
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: Modifier|#|public
+Insert: Modifier|#|public
+Insert: Modifier|#|public
+Delete: ImportDeclaration
+Delete: Modifier|#|public

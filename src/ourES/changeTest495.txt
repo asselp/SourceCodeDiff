@@ -1,0 +1,6 @@
+Insert: MethodInvocation|#|forEach
+Insert: MethodInvocation|#|acceptNode
+Delete: ImportDeclaration
+Delete: MethodInvocation|#|forEach
+Delete: Modifier|#|public
+Delete: MethodInvocation|#|forEach

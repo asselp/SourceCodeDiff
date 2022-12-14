@@ -1,3 +1,0 @@
-[UPD	QualifiedName@@org.ballerinalang.jvm.api.values.BString[19]	TO	io.ballerina.runtime.api.values.BString
-, UPD	QualifiedName@@org.ballerinalang.jvm.scheduling.Scheduler[21]	TO	io.ballerina.runtime.scheduling.Scheduler
-]

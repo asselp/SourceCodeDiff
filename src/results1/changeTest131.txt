@@ -1,2 +1,0 @@
-Update: Modifier|#|public
-Insert: MethodDeclaration

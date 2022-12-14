@@ -1,0 +1,10 @@
+Update: QualifiedName|#|org.ballerinalang.jvm.values.api.BString
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|reportConsume
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|reportConsume

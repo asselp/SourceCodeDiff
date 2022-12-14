@@ -1,2 +1,0 @@
-Insert: VariableDeclarationStatement
-Insert: SimpleName|#|field

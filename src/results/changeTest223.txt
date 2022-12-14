@@ -1,7 +1,0 @@
-Update: QualifiedName|#|com.facebook.infer.annotation.Assertions
-Insert: FieldDeclaration
-Insert: Modifier|#|public
-Insert: ReturnStatement
-Delete: ImportDeclaration
-Delete: TypeDeclaration
-Delete: Modifier|#|public

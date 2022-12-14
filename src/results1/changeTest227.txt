@@ -1,5 +1,0 @@
-Update: QualifiedName|#|com.facebook.react.bridge.GuardedRunnable
-Insert: ImportDeclaration
-Insert: MethodInvocation|#|runOnNativeModulesQueueThread
-Insert: ClassInstanceCreation
-Insert: Modifier|#|public

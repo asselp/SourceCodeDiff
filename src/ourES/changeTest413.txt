@@ -1,0 +1,3 @@
+Insert: MethodInvocation|#|setApplyOnRestart
+Insert: MethodInvocation|#|setConfig
+Delete: MethodInvocation|#|setConfig

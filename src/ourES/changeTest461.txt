@@ -1,0 +1,3 @@
+Update: StringLiteral|#|"updating the version in the Ballerina.toml."
+Insert: StringLiteral|#|"updating the version in the Ballerina.toml."
+Delete: StringLiteral|#|"update the version in the Ballerina.toml."

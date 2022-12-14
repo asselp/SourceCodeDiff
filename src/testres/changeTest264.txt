@@ -1,5 +1,0 @@
-[INS	ImportDeclaration@@[23]
-
-	INS	QualifiedName@@io.crate.action.sql.Option[23]
-, INS	QualifiedName@@Option.NONE[78]
-]

@@ -1,2 +1,0 @@
-Insert: ReturnStatement
-Insert: Assignment|#|=

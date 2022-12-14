@@ -1,0 +1,13 @@
+Update: QualifiedName|#|org.neo4j.kernel.GraphDatabaseAPI
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: Assignment|#|=
+Insert: ClassInstanceCreation
+Insert: TryStatement
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: Assignment|#|=
+Delete: ClassInstanceCreation
+Delete: VariableDeclarationStatement
+Delete: TryStatement
+Delete: MethodInvocation|#|finish

@@ -1,4 +1,0 @@
-Update: StringLiteral|#|"No Alluxio User is found."
-Update: StringLiteral|#|"More than one Alluxio User is found"
-Insert: ThrowStatement
-Insert: ThrowStatement

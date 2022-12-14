@@ -1,0 +1,3 @@
+Update: QualifiedName|#|com.yahoo.vespa.hosted.node.admin.container.ContainerOperations
+Insert: ImportDeclaration
+Delete: ImportDeclaration

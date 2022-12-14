@@ -1,0 +1,15 @@
+Update: QualifiedName|#|com.facebook.react.bridge.WritableMap
+Update: QualifiedName|#|com.facebook.react.bridge.WritableNativeMap
+Update: QualifiedName|#|com.facebook.react.uimanager.StateWrapper
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: IfStatement
+Insert: IfStatement
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|putInt
+Insert: MethodInvocation|#|updateState
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|applyStyles
+Delete: VariableDeclarationStatement

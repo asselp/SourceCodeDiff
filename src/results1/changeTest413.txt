@@ -1,2 +1,0 @@
-Insert: MethodInvocation|#|setApplyOnRestart
-Insert: MethodInvocation|#|setConfig

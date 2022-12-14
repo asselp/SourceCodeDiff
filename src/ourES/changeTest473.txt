@@ -1,0 +1,5 @@
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|validateError

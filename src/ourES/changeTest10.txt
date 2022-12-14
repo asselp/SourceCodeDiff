@@ -1,0 +1,4 @@
+Insert: VariableDeclarationStatement
+Insert: SimpleName|#|field
+Delete: VariableDeclarationStatement
+Delete: SimpleName|#|startObject

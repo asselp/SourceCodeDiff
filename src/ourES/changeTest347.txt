@@ -1,0 +1,5 @@
+Insert: ReturnStatement
+Delete: ImportDeclaration
+Delete: Modifier|#|private
+Delete: ReturnStatement
+Delete: BooleanLiteral|#|true

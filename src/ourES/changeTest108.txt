@@ -1,0 +1,3 @@
+Insert: TypeDeclaration
+Delete: ImportDeclaration
+Delete: TypeDeclaration

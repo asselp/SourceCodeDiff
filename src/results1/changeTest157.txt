@@ -1,3 +1,0 @@
-Insert: SuperConstructorInvocation
-Insert: ConstructorInvocation
-Insert: MethodDeclaration

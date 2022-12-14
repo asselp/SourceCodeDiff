@@ -1,9 +1,0 @@
-Update: QualifiedName|#|java.io.BufferedInputStream
-Update: QualifiedName|#|java.io.InputStream
-Insert: Assignment|#|=
-Delete: ImportDeclaration
-Delete: ImportDeclaration
-Delete: VariableDeclarationStatement
-Delete: VariableDeclarationStatement
-Delete: MethodInvocation|#|resetToBufferStart
-Delete: MethodInvocation|#|resetToBufferStart

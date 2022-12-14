@@ -1,0 +1,12 @@
+Insert: MethodInvocation|#|debug
+Insert: MethodInvocation|#|debug
+Insert: IfStatement
+Insert: VariableDeclarationStatement
+Delete: MethodDeclaration
+Delete: IfStatement
+Delete: ReturnStatement
+Delete: ReturnStatement
+Delete: ImportDeclaration
+Delete: MethodInvocation|#|debug
+Delete: MethodInvocation|#|debug
+Delete: VariableDeclarationStatement

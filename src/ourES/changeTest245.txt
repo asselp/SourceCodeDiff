@@ -1,0 +1,13 @@
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|setProgressViewOffset
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: Modifier|#|public
+Delete: MethodInvocation|#|post
+Delete: Modifier|#|public
+Delete: MethodInvocation|#|post
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|setProgressViewOffset

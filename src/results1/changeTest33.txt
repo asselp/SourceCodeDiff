@@ -1,5 +1,0 @@
-Update: QualifiedName|#|org.elasticsearch.marvel.MonitoredSystem
-Insert: ImportDeclaration
-Insert: MethodDeclaration
-Insert: SuperConstructorInvocation
-Insert: MethodDeclaration

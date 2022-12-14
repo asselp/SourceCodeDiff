@@ -1,4 +1,0 @@
-Insert: Modifier|#|protected
-Insert: QualifiedName|#|JASPIAuthenticationResourceDefinitionAdd.INSTANCE
-Insert: MethodDeclaration
-Insert: FieldDeclaration

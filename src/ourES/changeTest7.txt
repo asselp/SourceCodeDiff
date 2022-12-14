@@ -1,0 +1,5 @@
+Insert: Modifier|#|public
+Insert: ReturnStatement
+Insert: Modifier|#|public
+Delete: ImportDeclaration
+Delete: Modifier|#|public

@@ -1,2 +1,0 @@
-Update: SimpleName|#|filter
-Insert: Modifier|#|public

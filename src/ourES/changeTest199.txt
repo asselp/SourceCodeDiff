@@ -1,0 +1,4 @@
+Insert: PrimitiveType|#|long
+Insert: ReturnStatement
+Insert: TypeDeclaration
+Delete: TypeDeclaration

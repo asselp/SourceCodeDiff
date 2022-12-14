@@ -1,5 +1,0 @@
-Update: QualifiedName|#|com.hazelcast.instance.TestUtil
-Insert: ImportDeclaration
-Insert: VariableDeclarationStatement
-Insert: VariableDeclarationStatement
-Insert: VariableDeclarationStatement

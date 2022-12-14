@@ -1,2 +1,0 @@
-[UPD	SimpleName@@getSize[70]	TO	size
-]

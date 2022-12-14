@@ -1,5 +1,0 @@
-Insert: VariableDeclarationStatement
-Insert: ReturnStatement
-Insert: Assignment|#|=
-Insert: ReturnStatement
-Insert: Assignment|#|=

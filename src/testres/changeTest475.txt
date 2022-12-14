@@ -1,9 +1,0 @@
-[UPD	QualifiedName@@org.ballerinalang.jvm.api.BStringUtils[18]	TO	io.ballerina.runtime.api.StringUtils
-, UPD	QualifiedName@@org.ballerinalang.jvm.values.XMLValue[20]	TO	io.ballerina.runtime.api.values.BXML
-, UPD	QualifiedName@@org.ballerinalang.jvm.api.BErrorCreator.createError[21]	TO	io.ballerina.runtime.api.ErrorCreator.createError
-, UPD	QualifiedName@@org.ballerinalang.jvm.util.exceptions.BallerinaErrorReasons.XML_OPERATION_ERROR[23]	TO	io.ballerina.runtime.util.exceptions.BallerinaErrorReasons.XML_OPERATION_ERROR
-, UPD	SimpleType@@XMLValue[33]	TO	BXML
-
-	UPD	SimpleName@@XMLValue[33]	TO	BXML
-, UPD	SimpleName@@BStringUtils[42]	TO	StringUtils
-]

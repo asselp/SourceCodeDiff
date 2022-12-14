@@ -1,0 +1,7 @@
+Insert: MethodDeclaration
+Insert: ClassInstanceCreation
+Delete: FieldDeclaration
+Delete: MethodDeclaration
+Delete: Assignment|#|=
+Delete: ClassInstanceCreation
+Delete: FieldDeclaration

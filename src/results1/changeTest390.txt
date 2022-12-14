@@ -1,7 +1,0 @@
-Update: QualifiedName|#|alluxio.IntegrationTestUtils
-Update: QualifiedName|#|org.junit.Assume
-Insert: ImportDeclaration
-Insert: ImportDeclaration
-Insert: MethodInvocation|#|assumeTrue
-Insert: MethodInvocation|#|assumeTrue
-Insert: MethodInvocation|#|assumeTrue

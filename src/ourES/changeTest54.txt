@@ -1,0 +1,17 @@
+Insert: Modifier|#|public
+Insert: SuperConstructorInvocation
+Delete: Modifier|#|public
+Delete: FieldDeclaration
+Delete: SuperConstructorInvocation
+Delete: MethodDeclaration
+Delete: SingleMemberAnnotation
+Delete: Modifier|#|public
+Delete: ReturnStatement
+Delete: MethodDeclaration
+Delete: SingleMemberAnnotation
+Delete: Modifier|#|public
+Delete: ReturnStatement
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration

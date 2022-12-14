@@ -1,9 +1,0 @@
-Update: QualifiedName|#|com.facebook.react.uimanager.common.UIManagerType
-Update: QualifiedName|#|com.facebook.react.uimanager.common.ViewUtil
-Insert: ImportDeclaration
-Insert: ImportDeclaration
-Insert: MethodDeclaration
-Insert: IfStatement
-Insert: InfixExpression|#|==
-Insert: IfStatement
-Insert: InfixExpression|#|==

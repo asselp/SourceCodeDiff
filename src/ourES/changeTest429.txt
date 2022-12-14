@@ -1,0 +1,6 @@
+Delete: QualifiedName|#|initialContainerNodeSpec.nodeType
+Delete: QualifiedName|#|initialContainerNodeSpec.nodeFlavor
+Delete: QualifiedName|#|initialContainerNodeSpec.nodeType
+Delete: QualifiedName|#|initialContainerNodeSpec.nodeFlavor
+Delete: QualifiedName|#|initialContainerNodeSpec.nodeType
+Delete: QualifiedName|#|initialContainerNodeSpec.nodeFlavor

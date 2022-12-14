@@ -1,3 +1,0 @@
-[DEL	Javadoc@@[30]
-, DEL	Javadoc@@[61]
-]

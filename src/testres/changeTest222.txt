@@ -1,5 +1,0 @@
-[UPD	QualifiedName@@com.facebook.react.touch.ReactInterceptingViewGroup[28]	TO	com.facebook.react.touch.CatalystInterceptingViewGroup
-, UPD	SimpleType@@ReactInterceptingViewGroup[41]	TO	CatalystInterceptingViewGroup
-
-	UPD	SimpleName@@ReactInterceptingViewGroup[41]	TO	CatalystInterceptingViewGroup
-]

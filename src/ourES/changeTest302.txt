@@ -1,0 +1,6 @@
+Update: QualifiedName|#|org.apache.log4j.Logger
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: FieldDeclaration

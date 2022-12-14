@@ -1,2 +1,0 @@
-Update: StringLiteral|#|""
-Delete: MethodInvocation|#|assertTrue

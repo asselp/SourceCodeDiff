@@ -1,0 +1,6 @@
+Insert: ImportDeclaration
+Insert: SingleVariableDeclaration
+Insert: SingleVariableDeclaration
+Insert: ReturnStatement
+Delete: SingleVariableDeclaration
+Delete: ReturnStatement

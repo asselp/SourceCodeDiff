@@ -1,0 +1,11 @@
+Update: QualifiedName|#|tachyon.thrift.FileInfo
+Update: SimpleName|#|fileInfo
+Update: SimpleName|#|fileInfo
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: MethodInvocation|#|downloadFile
+Delete: ImportDeclaration
+Delete: VariableDeclarationStatement
+Delete: IfStatement
+Delete: MethodInvocation|#|downloadFile

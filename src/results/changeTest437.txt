@@ -1,5 +1,0 @@
-Update: QualifiedName|#|java.io.IOException
-Insert: VariableDeclarationStatement
-Delete: VariableDeclarationStatement
-Delete: MethodDeclaration
-Delete: VariableDeclarationStatement

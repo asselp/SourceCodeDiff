@@ -1,0 +1,5 @@
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|put
+Insert: VariableDeclarationStatement
+Delete: MarkerAnnotation
+Delete: VariableDeclarationStatement

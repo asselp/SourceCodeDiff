@@ -1,8 +1,0 @@
-[INS	SimpleType@@ClassReflectionIndex[168]
-, MOV	SimpleName@@ClassReflectionIndex[168]	TO	SimpleType@@ClassReflectionIndex[168]
-, DEL	ParameterizedType@@ClassReflectionIndex<?>[168]
-
-	DEL	SimpleType@@ClassReflectionIndex[168]
-
-	DEL	WildcardType@@?[168]
-]

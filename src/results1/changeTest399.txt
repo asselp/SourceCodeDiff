@@ -1,8 +1,0 @@
-Update: SimpleName|#|mFileSystemWorker
-Update: QualifiedName|#|tachyon.worker.file.FileSystemWorker
-Insert: MethodInvocation|#|stop
-Insert: MethodInvocation|#|stop
-Insert: ImportDeclaration
-Insert: MethodDeclaration
-Insert: ReturnStatement
-Insert: MethodDeclaration

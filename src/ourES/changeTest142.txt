@@ -1,0 +1,8 @@
+Update: QualifiedName|#|com.hazelcast.nio.ConnectionListener
+Insert: PrimitiveType|#|void
+Insert: ImportDeclaration
+Insert: MethodDeclaration
+Insert: Modifier|#|public
+Delete: PrimitiveType|#|void
+Delete: ImportDeclaration
+Delete: Modifier|#|public

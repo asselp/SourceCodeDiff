@@ -1,0 +1,3 @@
+Update: QualifiedName|#|org.codehaus.jackson.map.ObjectMapper
+Insert: ImportDeclaration
+Delete: ImportDeclaration

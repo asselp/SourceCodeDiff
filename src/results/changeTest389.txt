@@ -1,4 +1,0 @@
-Update: QualifiedName|#|tachyon.worker.block.BlockWorkerClientServiceHandler
-Update: SimpleType|#|BlockWorkerClientServiceHandler
-Delete: ImportDeclaration
-Delete: FieldDeclaration

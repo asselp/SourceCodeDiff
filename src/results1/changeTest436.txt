@@ -1,8 +1,0 @@
-Update: QualifiedName|#|com.yahoo.vespa.model.admin.clustercontroller.ClusterControllerContainerCluster
-Update: SimpleName|#|deployState
-Insert: ImportDeclaration
-Insert: MethodDeclaration
-Insert: VariableDeclarationStatement
-Insert: SimpleName|#|deployState
-Insert: VariableDeclarationStatement
-Insert: MethodDeclaration

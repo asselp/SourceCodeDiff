@@ -1,0 +1,15 @@
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Delete: MethodDeclaration
+Delete: Modifier|#|protected
+Delete: MethodDeclaration
+Delete: Modifier|#|public
+Delete: MethodDeclaration
+Delete: Modifier|#|public
+Delete: MethodDeclaration
+Delete: Modifier|#|public
+Delete: MethodDeclaration
+Delete: Modifier|#|public

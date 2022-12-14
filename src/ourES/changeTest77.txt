@@ -1,0 +1,14 @@
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|tracef
+Insert: MethodInvocation|#|put
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: VariableDeclarationStatement
+Delete: IfStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|tracef
+Delete: MethodInvocation|#|put

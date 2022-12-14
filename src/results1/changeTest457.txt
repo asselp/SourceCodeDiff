@@ -1,4 +1,0 @@
-Insert: MethodDeclaration
-Insert: ReturnStatement
-Insert: MethodDeclaration
-Insert: ReturnStatement

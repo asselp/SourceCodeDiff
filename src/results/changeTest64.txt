@@ -1,3 +1,0 @@
-Update: QualifiedName|#|org.jboss.as.ejb3.iiop.RemoteObjectSubstitutionService
-Update: QualifiedName|#|org.jboss.com.sun.corba.se.impl.javax.rmi.RemoteObjectSubstitutionManager
-Insert: SimpleName|#|addDependency

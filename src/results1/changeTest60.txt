@@ -1,2 +1,0 @@
-Insert: MethodInvocation|#|formatPossibleIpv6Address
-Insert: MethodInvocation|#|formatPossibleIpv6Address

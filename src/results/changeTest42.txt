@@ -1,2 +1,0 @@
-Update: QualifiedName|#|org.elasticsearch.client.watcher.DeactivateWatchRequest
-Insert: VariableDeclarationStatement

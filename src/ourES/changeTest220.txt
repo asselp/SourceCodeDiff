@@ -1,0 +1,3 @@
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|restoreDefaultValues
+Delete: MethodInvocation|#|restoreDefaultValues

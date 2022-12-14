@@ -1,5 +1,0 @@
-Insert: root
-Insert: PackageDeclaration
-Insert: TypeDeclaration
-Insert: PackageDeclaration
-Insert: TypeDeclaration

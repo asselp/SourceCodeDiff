@@ -1,0 +1,11 @@
+Insert: EnhancedForStatement
+Insert: MethodInvocation|#|sendTo
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: EnhancedForStatement
+Delete: EnhancedForStatement
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|sendFileToServices
+Delete: MethodInvocation|#|sendUriToServices
+Delete: MethodInvocation|#|setFileReference

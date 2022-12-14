@@ -1,0 +1,8 @@
+Update: QualifiedName|#|com.google.common.util.concurrent.SettableFuture
+Update: QualifiedName|#|io.crate.operation.QueryResultRowDownstream
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|execute
+Insert: ReturnStatement
+Delete: ReturnStatement

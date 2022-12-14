@@ -1,8 +1,0 @@
-Insert: ImportDeclaration
-Insert: MethodDeclaration
-Insert: MethodInvocation|#|init
-Insert: Modifier|#|protected
-Insert: Assignment|#|=
-Insert: MethodDeclaration
-Insert: MethodInvocation|#|init
-Insert: Assignment|#|=

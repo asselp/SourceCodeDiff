@@ -1,4 +1,0 @@
-[INS	ImportDeclaration@@[8]
-
-	INS	QualifiedName@@java.nio.ByteBuffer[8]
-]

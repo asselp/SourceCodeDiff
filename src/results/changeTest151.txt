@@ -1,5 +1,0 @@
-Update: QualifiedName|#|org.neo4j.kernel.impl.enterprise.configuration.OnlineBackupSettings
-Insert: MethodDeclaration
-Insert: Modifier|#|public
-Delete: MethodDeclaration
-Delete: MethodDeclaration

@@ -1,7 +1,0 @@
-Update: QualifiedName|#|java.util.Collections
-Insert: ImportDeclaration
-Insert: FieldDeclaration
-Insert: MethodDeclaration
-Insert: Assignment|#|=
-Insert: ReturnStatement
-Insert: VariableDeclarationStatement

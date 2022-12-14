@@ -1,5 +1,0 @@
-Insert: ImportDeclaration
-Insert: MethodDeclaration
-Insert: SingleVariableDeclaration
-Insert: SuperConstructorInvocation
-Insert: ImportDeclaration

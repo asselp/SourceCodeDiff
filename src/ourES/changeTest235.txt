@@ -1,0 +1,5 @@
+Update: SimpleName|#|drawerWidth
+Insert: MethodDeclaration
+Insert: Assignment|#|=
+Delete: MethodDeclaration
+Delete: Assignment|#|=

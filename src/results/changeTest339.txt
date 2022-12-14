@@ -1,2 +1,0 @@
-Insert: MethodInvocation|#|debug
-Insert: IfStatement

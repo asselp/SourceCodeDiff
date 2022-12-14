@@ -1,0 +1,6 @@
+Update: QualifiedName|#|alluxio.PropertyKey
+Update: QualifiedName|#|PropertyKey.WORKER_ALLOCATOR_CLASS
+Insert: ImportDeclaration
+Insert: MethodInvocation|#|set
+Delete: ImportDeclaration
+Delete: MethodInvocation|#|set

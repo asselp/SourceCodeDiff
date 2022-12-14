@@ -1,0 +1,6 @@
+Update: QualifiedName|#|org.neo4j.cluster.protocol.LoggingContext
+Update: SimpleType|#|LoggingContext
+Insert: ImportDeclaration
+Insert: SimpleType|#|TimeoutsContext
+Delete: ImportDeclaration
+Delete: SimpleType|#|TimeoutsContext

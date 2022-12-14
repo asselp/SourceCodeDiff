@@ -1,6 +1,0 @@
-Update: QualifiedName|#|com.google.common.util.concurrent.SettableFuture
-Update: QualifiedName|#|io.crate.operation.QueryResultRowDownstream
-Insert: VariableDeclarationStatement
-Insert: ReturnStatement
-Delete: ReturnStatement
-Delete: ReturnStatement

@@ -1,5 +1,0 @@
-Insert: ImportDeclaration
-Insert: ThrowStatement
-Insert: ThrowStatement
-Insert: ThrowStatement
-Insert: ImportDeclaration

@@ -1,3 +1,0 @@
-[UPD	QualifiedName@@org.ballerinalang.core.model.values.BString[19]	TO	org.ballerinalang.model.values.BString
-, UPD	QualifiedName@@org.ballerinalang.core.model.values.BValue[21]	TO	org.ballerinalang.model.values.BValue
-]

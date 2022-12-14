@@ -1,4 +1,0 @@
-[DEL	ImportDeclaration@@[15]
-
-	DEL	QualifiedName@@com.yahoo.yolean.trace.TraceNode[15]
-]

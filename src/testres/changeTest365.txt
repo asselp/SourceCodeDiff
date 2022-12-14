@@ -1,8 +1,0 @@
-[UPD	QualifiedName@@alluxio.security.authentication.AuthenticatedClientUser[12]	TO	org.junit.Assert.assertEquals
-, UPD	QualifiedName@@org.junit.After[14]	TO	alluxio.security.authentication.AuthenticatedClientUser
-, UPD	QualifiedName@@org.junit.Assert[16]	TO	org.junit.After
-, DEL	SimpleName@@Assert[31]
-, DEL	SimpleName@@Assert[33]
-, DEL	SimpleName@@Assert[46]
-, DEL	SimpleName@@Assert[53]
-]

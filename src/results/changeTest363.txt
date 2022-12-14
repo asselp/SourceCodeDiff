@@ -1,9 +1,0 @@
-Update: QualifiedName|#|java.util.HashMap
-Insert: MethodInvocation|#|loadCommands
-Insert: MethodInvocation|#|format
-Insert: MethodInvocation|#|getDescription
-Delete: MethodInvocation|#|println
-Delete: FieldDeclaration
-Delete: Assignment|#|=
-Delete: MethodInvocation|#|println
-Delete: MethodInvocation|#|format

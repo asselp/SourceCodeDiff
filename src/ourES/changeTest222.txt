@@ -1,0 +1,6 @@
+Update: QualifiedName|#|com.facebook.react.touch.ReactInterceptingViewGroup
+Update: SimpleType|#|ReactInterceptingViewGroup
+Insert: ImportDeclaration
+Insert: SimpleType|#|ReactInterceptingViewGroup
+Delete: ImportDeclaration
+Delete: SimpleType|#|CatalystInterceptingViewGroup

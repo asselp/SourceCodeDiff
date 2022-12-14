@@ -1,0 +1,10 @@
+Insert: ImportDeclaration
+Insert: MethodInvocation|#|assertEquals
+Insert: MethodInvocation|#|assertEquals
+Insert: MethodInvocation|#|assertEquals
+Insert: MethodInvocation|#|assertEquals
+Delete: ImportDeclaration
+Delete: MethodInvocation|#|assertEquals
+Delete: MethodInvocation|#|assertEquals
+Delete: MethodInvocation|#|assertEquals
+Delete: MethodInvocation|#|assertEquals

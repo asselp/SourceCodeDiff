@@ -1,9 +1,0 @@
-Insert: IfStatement
-Insert: ReturnStatement
-Insert: IfStatement
-Insert: Modifier|#|private
-Insert: ReturnStatement
-Insert: Modifier|#|private
-Insert: ReturnStatement
-Insert: IfStatement
-Insert: ReturnStatement

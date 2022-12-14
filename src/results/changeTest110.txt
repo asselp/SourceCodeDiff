@@ -1,4 +1,0 @@
-Update: QualifiedName|#|com.hazelcast.spi.PartitionAwareOperation
-Update: QualifiedName|#|com.hazelcast.spi.impl.AbstractNamedOperation
-Delete: ImportDeclaration
-Delete: ImportDeclaration

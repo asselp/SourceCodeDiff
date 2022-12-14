@@ -1,6 +1,0 @@
-Update: QualifiedName|#|java.nio.file.Path
-Insert: ImportDeclaration
-Insert: Modifier|#|public
-Insert: ReturnStatement
-Insert: MethodDeclaration
-Insert: ReturnStatement

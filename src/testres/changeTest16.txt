@@ -1,2 +1,0 @@
-[UPD	SimpleName@@getMapperService[119]	TO	mapperService
-]

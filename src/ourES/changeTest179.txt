@@ -1,0 +1,17 @@
+Update: QualifiedName|#|org.neo4j.kernel.impl.util.monitoring.ProgressReporter
+Update: QualifiedName|#|org.neo4j.kernel.impl.util.monitoring.SilentProgressReporter
+Update: SimpleType|#|ProgressReporter
+Update: QualifiedName|#|SilentProgressReporter.INSTANCE
+Update: SimpleType|#|ProgressReporter
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: MethodInvocation|#|auto
+Insert: SimpleName|#|numberArrayFactory
+Insert: SingleVariableDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: MethodInvocation|#|auto
+Delete: SimpleName|#|numberArrayFactory
+Delete: SingleVariableDeclaration

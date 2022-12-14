@@ -1,8 +1,0 @@
-[INS	MethodDeclaration@@[25]
-
-	INS	Javadoc@@[25]
-
-	INS	PrimitiveType@@boolean[28]
-
-	INS	SimpleName@@isJSDevModeEnabled[28]
-]

@@ -1,2 +1,0 @@
-Update: SimpleName|#|startInternal
-Delete: Modifier|#|public

@@ -1,0 +1,8 @@
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: MethodDeclaration
+Delete: IfStatement
+Delete: Assignment|#|=
+Delete: ReturnStatement
+Delete: MethodDeclaration
+Delete: Assignment|#|=

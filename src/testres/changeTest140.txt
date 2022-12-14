@@ -1,8 +1,0 @@
-[UPD	PrimitiveType@@long[30]	TO	int
-, UPD	PrimitiveType@@long[33]	TO	int
-, UPD	SimpleName@@writeLong[56]	TO	writeInt
-, UPD	SimpleName@@readLong[63]	TO	readInt
-, UPD	StringLiteral@@"Lock is not owned by the transaction! Caller: "[44]	TO	"Lock is not owned by the transaction! Owner: "
-, DEL	SimpleName@@lockOwner[45]
-, DEL	StringLiteral@@", Owner: "[45]
-]

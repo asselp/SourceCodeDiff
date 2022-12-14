@@ -1,0 +1,9 @@
+Update: QualifiedName|#|org.neo4j.kernel.internal.GraphDatabaseAPI
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: MethodInvocation|#|count
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: EnhancedForStatement
+Delete: SimpleName|#|traverse
+Delete: MethodInvocation|#|ignore

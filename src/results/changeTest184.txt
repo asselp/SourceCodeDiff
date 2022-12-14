@@ -1,9 +1,0 @@
-Update: QualifiedName|#|Status.General.CorruptSchemaRule
-Update: QualifiedName|#|Status.General.CorruptSchemaRule
-Update: QualifiedName|#|Status.General.CorruptSchemaRule
-Delete: SuperConstructorInvocation
-Delete: SuperConstructorInvocation
-Delete: SuperConstructorInvocation
-Delete: SuperConstructorInvocation
-Delete: SuperConstructorInvocation
-Delete: SuperConstructorInvocation

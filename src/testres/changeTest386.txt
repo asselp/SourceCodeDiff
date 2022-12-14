@@ -1,3 +1,0 @@
-[UPD	QualifiedName@@alluxio.PropertyKey[15]	TO	alluxio.Constants
-, UPD	QualifiedName@@PropertyKey.WORKER_ALLOCATOR_CLASS[29]	TO	Constants.WORKER_ALLOCATOR_CLASS
-]

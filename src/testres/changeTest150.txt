@@ -1,2 +1,0 @@
-[UPD	QualifiedName@@com.hazelcast.cluster.impl.MemberSelectingCollection[17]	TO	com.hazelcast.internal.cluster.impl.MemberSelectingCollection
-]

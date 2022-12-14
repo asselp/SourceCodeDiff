@@ -1,7 +1,0 @@
-[INS	ImportDeclaration@@[25]
-
-	INS	QualifiedName@@com.hazelcast.test.RandomBlockJUnit4ClassRunner[25]
-, UPD	SimpleType@@com.hazelcast.util.RandomBlockJUnit4ClassRunner[38]	TO	RandomBlockJUnit4ClassRunner
-, INS	SimpleName@@RandomBlockJUnit4ClassRunner[39]
-, DEL	QualifiedName@@com.hazelcast.util.RandomBlockJUnit4ClassRunner[38]
-]

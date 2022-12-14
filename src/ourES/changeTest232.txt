@@ -1,0 +1,12 @@
+Insert: Modifier|#|public
+Insert: MarkerAnnotation
+Insert: Modifier|#|public
+Insert: MarkerAnnotation
+Insert: Modifier|#|public
+Delete: ImportDeclaration
+Delete: Modifier|#|public
+Delete: MethodInvocation|#|assertOnUiThread
+Delete: SimpleType|#|View
+Delete: MethodInvocation|#|assertOnUiThread
+Delete: PrimitiveType|#|void
+Delete: MethodInvocation|#|assertOnUiThread

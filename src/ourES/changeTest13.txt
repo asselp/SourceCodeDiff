@@ -1,0 +1,8 @@
+Insert: TypeDeclaration
+Insert: MethodDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: TypeDeclaration
+Delete: Modifier|#|public
+Delete: MethodDeclaration
+Delete: Modifier|#|public

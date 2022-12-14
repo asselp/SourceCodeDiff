@@ -1,0 +1,17 @@
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|updateRootView
+Insert: MethodInvocation|#|dispatchViewUpdates
+Insert: Modifier|#|public
+Insert: SingleVariableDeclaration
+Insert: MethodInvocation|#|registerRootView
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: IfStatement
+Delete: InfixExpression|#|>
+Delete: InfixExpression|#|>
+Delete: Assignment|#|=
+Delete: Assignment|#|=
+Delete: Assignment|#|=
+Delete: Assignment|#|=
+Delete: MethodInvocation|#|registerRootView

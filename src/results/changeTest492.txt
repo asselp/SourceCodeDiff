@@ -1,5 +1,0 @@
-Update: QualifiedName|#|org.ballerinalang.packerina.model.ExecutableJar
-Delete: ImportDeclaration
-Delete: MethodInvocation|#|put
-Delete: MethodInvocation|#|put
-Delete: MethodInvocation|#|put

@@ -1,0 +1,4 @@
+Insert: TypeDeclaration
+Delete: ImportDeclaration
+Delete: TypeDeclaration
+Delete: Modifier|#|public

@@ -1,0 +1,7 @@
+Delete: MethodDeclaration
+Delete: FieldDeclaration
+Delete: Modifier|#|public
+Delete: ReturnStatement
+Delete: MethodDeclaration
+Delete: Modifier|#|public
+Delete: Assignment|#|=

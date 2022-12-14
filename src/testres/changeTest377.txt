@@ -1,8 +1,0 @@
-[UPD	QualifiedName@@tachyon.thrift.FileInfo[38]	TO	tachyon.thrift.ClientFileInfo
-, UPD	SimpleType@@FileInfo[72]	TO	ClientFileInfo
-
-	UPD	SimpleName@@FileInfo[72]	TO	ClientFileInfo
-, UPD	SimpleName@@fileInfo[72]	TO	clientFileInfo
-, UPD	SimpleName@@fileInfo[74]	TO	clientFileInfo
-, UPD	SimpleName@@fileInfo[76]	TO	clientFileInfo
-]

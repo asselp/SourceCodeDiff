@@ -1,0 +1,3 @@
+Update: NumberLiteral|#|10
+Insert: MethodInvocation|#|assertThat
+Delete: MethodInvocation|#|assertThat

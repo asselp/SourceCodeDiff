@@ -1,5 +1,0 @@
-[UPD	QualifiedName@@com.hazelcast.concurrent.atomiclong.AtomicLongService[21]	TO	com.hazelcast.cp.internal.datastructures.unsafe.atomiclong.AtomicLongService
-, UPD	QualifiedName@@com.hazelcast.concurrent.atomiclong.operations.SetOperation[22]	TO	com.hazelcast.cp.internal.datastructures.unsafe.atomiclong.operations.SetOperation
-, UPD	QualifiedName@@com.hazelcast.instance.Node[23]	TO	com.hazelcast.instance.impl.Node
-, UPD	QualifiedName@@com.hazelcast.spi.Operation[27]	TO	com.hazelcast.spi.impl.operationservice.Operation
-]

@@ -1,0 +1,11 @@
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: MethodDeclaration
+Delete: VariableDeclarationStatement
+Delete: TryStatement
+Delete: MethodInvocation|#|assertEquals
+Delete: InfixExpression|#|+
+Delete: CatchClause
+Delete: ThrowStatement

@@ -1,3 +1,0 @@
-[INS	Javadoc@@[2]
-, DEL	Javadoc@@[1]
-]

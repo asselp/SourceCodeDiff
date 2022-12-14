@@ -1,5 +1,0 @@
-[UPD	SimpleName@@e[72]	TO	ignored
-, UPD	SimpleName@@e[126]	TO	ignored
-, UPD	SimpleName@@e[66]	TO	ignored
-, UPD	SimpleName@@e[120]	TO	ignored
-]

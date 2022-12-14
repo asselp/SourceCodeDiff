@@ -1,0 +1,4 @@
+Insert: FieldDeclaration
+Delete: FieldDeclaration
+Delete: Modifier|#|protected
+Delete: ReturnStatement

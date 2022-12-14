@@ -1,0 +1,11 @@
+Update: QualifiedName|#|org.ballerinalang.jvm.values.api.BString
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: MemberValuePair
+Insert: IfStatement
+Insert: ReturnStatement
+Delete: MethodDeclaration
+Delete: ReturnStatement
+Delete: MemberValuePair
+Delete: IfStatement
+Delete: ReturnStatement

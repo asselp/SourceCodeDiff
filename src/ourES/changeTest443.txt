@@ -1,0 +1,10 @@
+Update: StringLiteral|#|"controller-provision-lb"
+Update: StringLiteral|#|"mpolden"
+Update: StringLiteral|#|"Provision load balancer for controller cluster"
+Update: StringLiteral|#|"Takes effect when controller application is redeployed"
+Insert: FieldDeclaration
+Insert: StringLiteral|#|"controller-provision-lb"
+Insert: MethodInvocation|#|of
+Insert: StringLiteral|#|"Provision load balancer for controller cluster"
+Insert: StringLiteral|#|"Takes effect when controller application is redeployed"
+Insert: SimpleName|#|ZONE_ID

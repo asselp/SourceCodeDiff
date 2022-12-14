@@ -1,2 +1,0 @@
-Update: QualifiedName|#|com.hazelcast.test.annotation.ParallelTest
-Delete: SingleMemberAnnotation

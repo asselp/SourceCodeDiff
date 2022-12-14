@@ -1,7 +1,6 @@
 package src.gumtree;
 
 import src.element.GTAction;
-import src.parser.TreeBuilder;
 import src.parser.TreeDIff;
 
 import java.io.File;
@@ -11,23 +10,13 @@ import java.util.List;
 public class GumTreeTest {
 
     private static String nameFile(int i) {
-        return "src/testres2/changeTest" + String.valueOf(i) + ".txt";
+        return "src/gumtreeESfirst/changeTest" + String.valueOf(i) + ".txt";
     }
     public static void main(String[] args) throws Exception {
-
-
-//        File src = new File("changes/change001/old/PropertiesSettingsLoader.java");
-//        File dst = new File("changes/change001/new/PropertiesSettingsLoader.java");
-
-//        List<GTAction> actions = TreeDIff.diffGumTreeWithGrouping(src, dst);
-//        FileWriter myWriter = new FileWriter("src/testres/test1.txt");
-//        myWriter.write(actions.toString());
-//        myWriter.close();
 
         File path = new File("changes");
 
         File [] dirs = path.listFiles();
-        // change001, change002, ...
         int change = 1;
 
         for (File dir : dirs) {
@@ -50,7 +39,6 @@ public class GumTreeTest {
                 System.out.print("change passed ");
                 System.out.println(change);
                 change = change + 1;
-
             }
         }
     }

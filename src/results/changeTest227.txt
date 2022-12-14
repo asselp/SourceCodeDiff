@@ -1,4 +1,0 @@
-Update: QualifiedName|#|com.facebook.react.bridge.GuardedRunnable
-Delete: MethodInvocation|#|runOnNativeModulesQueueThread
-Delete: ClassInstanceCreation
-Delete: Modifier|#|public

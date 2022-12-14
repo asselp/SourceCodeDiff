@@ -1,0 +1,3 @@
+Delete: ImportDeclaration
+Delete: MethodDeclaration
+Delete: MethodDeclaration

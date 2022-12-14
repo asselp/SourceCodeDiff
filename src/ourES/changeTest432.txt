@@ -1,0 +1,16 @@
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|add
+Insert: ReturnStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|add
+Delete: MethodInvocation|#|put
+Delete: MethodInvocation|#|verifySdsDisjoint
+Delete: ReturnStatement
+Delete: Modifier|#|private
+Delete: IfStatement
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|retainAll
+Delete: ThrowStatement
+Delete: StringLiteral|#|"docproc bundles and those in searchdefinitions/ in application package: "

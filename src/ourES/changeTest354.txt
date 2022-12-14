@@ -1,0 +1,3 @@
+Update: StringLiteral|#|"2016-05-05"
+Insert: NormalAnnotation
+Delete: NormalAnnotation

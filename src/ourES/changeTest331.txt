@@ -1,0 +1,10 @@
+Update: QualifiedName|#|org.slf4j.Logger
+Update: QualifiedName|#|org.slf4j.LoggerFactory
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: FieldDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: FieldDeclaration

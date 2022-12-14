@@ -1,0 +1,8 @@
+Update: QualifiedName|#|java.io.IOException
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: MethodDeclaration
+Insert: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: MethodDeclaration
+Delete: VariableDeclarationStatement

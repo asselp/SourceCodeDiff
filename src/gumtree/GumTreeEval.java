@@ -4,12 +4,13 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class GumTreeEval {
+    /*
+    just to delete empty lines to make it easy to read
+     */
     private static String nameFile(String filename) {
-        return "src/testres4/" + filename;
+        return "src/gumtreeES/" + filename;
     }
 
     public static void main(String[] args) {
@@ -17,7 +18,7 @@ public class GumTreeEval {
         PrintWriter writer;
 
         try {
-            File path = new File("src/testres2");
+            File path = new File("src/gumtreeESfirst");
             File [] files = path.listFiles();
             for (File gtres : files) {
                 file = new Scanner(new File(gtres.getPath()));

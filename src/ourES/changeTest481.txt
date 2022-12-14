@@ -1,0 +1,11 @@
+Update: QualifiedName|#|org.ballerinalang.test.util.BCompileUtil
+Update: QualifiedName|#|org.ballerinalang.test.util.BRunUtil
+Update: QualifiedName|#|org.ballerinalang.test.util.CompileResult
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: VariableDeclarationStatement

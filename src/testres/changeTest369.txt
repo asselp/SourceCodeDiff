@@ -1,9 +1,0 @@
-[UPD	ParameterizedType@@ArrayList<>[127]	TO	ArrayList<FileBlockInfo>
-, UPD	ParameterizedType@@ArrayList<>[189]	TO	ArrayList<FileInfo>
-, INS	SimpleType@@FileBlockInfo[128]
-
-	INS	SimpleName@@FileBlockInfo[128]
-, INS	SimpleType@@FileInfo[189]
-
-	INS	SimpleName@@FileInfo[189]
-]

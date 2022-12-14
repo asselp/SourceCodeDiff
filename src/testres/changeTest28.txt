@@ -1,6 +1,0 @@
-[INS	ImportDeclaration@@[26]
-
-	INS	QualifiedName@@org.elasticsearch.common.xcontent.XContentType[26]
-, INS	QualifiedName@@XContentType.JSON[46]
-, DEL	NullLiteral@@[45]
-]

@@ -1,0 +1,7 @@
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|put
+Delete: MethodInvocation|#|assertTrue
+Delete: MethodInvocation|#|delete
+Delete: MethodInvocation|#|assertTrue

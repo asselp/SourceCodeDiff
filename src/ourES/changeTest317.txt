@@ -1,0 +1,6 @@
+Insert: root
+Insert: PackageDeclaration
+Insert: TypeDeclaration
+Delete: root
+Delete: TypeDeclaration
+Delete: Modifier|#|public

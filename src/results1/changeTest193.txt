@@ -1,6 +1,0 @@
-Insert: ReturnStatement
-Insert: ClassInstanceCreation
-Insert: VariableDeclarationStatement
-Insert: VariableDeclarationStatement
-Insert: VariableDeclarationStatement
-Insert: VariableDeclarationStatement

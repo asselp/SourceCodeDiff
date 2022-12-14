@@ -1,0 +1,3 @@
+Delete: ImportDeclaration
+Delete: Modifier|#|public
+Delete: ReturnStatement

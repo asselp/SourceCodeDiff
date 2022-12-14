@@ -1,3 +1,0 @@
-Insert: MethodDeclaration
-Insert: ClassInstanceCreation
-Insert: MethodDeclaration

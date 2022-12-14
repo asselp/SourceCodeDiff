@@ -1,5 +1,0 @@
-[UPD	QualifiedName@@android.app.Activity[8]	TO	javax.annotation.Nullable
-, UPD	QualifiedName@@android.content.Context[9]	TO	android.app.Activity
-, UPD	QualifiedName@@com.facebook.react.bridge.LifecycleEventListener[10]	TO	android.content.Context
-, UPD	QualifiedName@@javax.annotation.Nullable[13]	TO	com.facebook.react.bridge.LifecycleEventListener
-]

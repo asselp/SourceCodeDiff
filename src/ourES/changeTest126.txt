@@ -1,0 +1,3 @@
+Update: SimpleType|#|BaseCountDownLatchOperation
+Insert: TypeDeclaration
+Delete: TypeDeclaration

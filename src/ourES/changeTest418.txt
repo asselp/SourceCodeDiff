@@ -1,0 +1,5 @@
+Insert: SimpleName|#|config
+Delete: ImportDeclaration
+Delete: VariableDeclarationStatement
+Delete: SimpleName|#|config
+Delete: SimpleName|#|identityDocumentGenerator

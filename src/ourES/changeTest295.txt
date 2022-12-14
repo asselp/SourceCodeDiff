@@ -1,0 +1,5 @@
+Insert: MethodDeclaration
+Delete: ImportDeclaration
+Delete: MethodDeclaration
+Delete: SingleVariableDeclaration
+Delete: SuperConstructorInvocation

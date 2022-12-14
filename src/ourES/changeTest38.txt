@@ -1,0 +1,8 @@
+Delete: MethodDeclaration
+Delete: ReturnStatement
+Delete: SingleVariableDeclaration
+Delete: ReturnStatement
+Delete: MethodDeclaration
+Delete: VariableDeclarationStatement
+Delete: IfStatement
+Delete: IfStatement

@@ -1,6 +1,0 @@
-[INS	MethodInvocation@@[36]
-
-	INS	SimpleName@@indexSettings[36]
-
-	INS	SimpleName@@getIndexVersionCreated[36]
-]

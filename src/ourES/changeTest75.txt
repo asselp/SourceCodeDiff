@@ -1,0 +1,5 @@
+Delete: FieldDeclaration
+Delete: FieldDeclaration
+Delete: SimpleName|#|addRequirements
+Delete: SimpleName|#|build
+Delete: ImportDeclaration

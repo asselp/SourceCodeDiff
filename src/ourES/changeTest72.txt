@@ -1,0 +1,3 @@
+Insert: Assignment|#|=
+Insert: SimpleName|#|setAllowNull
+Delete: Assignment|#|=

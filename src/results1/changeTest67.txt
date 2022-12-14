@@ -1,4 +1,0 @@
-Update: QualifiedName|#|org.jboss.as.security.logging.SecurityLogger
-Insert: ImportDeclaration
-Insert: ThrowStatement
-Insert: ThrowStatement

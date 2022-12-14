@@ -1,0 +1,6 @@
+Delete: MethodDeclaration
+Delete: IfStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: EnhancedForStatement
+Delete: MethodInvocation|#|add

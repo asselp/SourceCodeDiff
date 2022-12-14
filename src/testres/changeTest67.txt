@@ -1,7 +1,0 @@
-[INS	ImportDeclaration@@[26]
-
-	INS	QualifiedName@@org.jboss.as.security.SecurityMessages[26]
-, UPD	QualifiedName@@org.jboss.as.security.logging.SecurityLogger[25]	TO	org.jboss.as.security.SecurityLogger
-, UPD	QualifiedName@@SecurityLogger.ROOT_LOGGER[64]	TO	SecurityMessages.MESSAGES
-, UPD	QualifiedName@@SecurityLogger.ROOT_LOGGER[72]	TO	SecurityMessages.MESSAGES
-]

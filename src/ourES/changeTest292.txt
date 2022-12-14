@@ -1,0 +1,3 @@
+Update: QualifiedName|#|io.crate.planner.node.dql.CollectNode
+Insert: ImportDeclaration
+Delete: ImportDeclaration

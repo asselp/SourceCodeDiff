@@ -1,0 +1,11 @@
+Insert: TypeDeclaration
+Delete: ImportDeclaration
+Delete: TypeDeclaration
+Delete: NormalAnnotation
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|add
+Delete: IfStatement
+Delete: MethodInvocation|#|add
+Delete: ReturnStatement

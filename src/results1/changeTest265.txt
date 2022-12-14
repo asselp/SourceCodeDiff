@@ -1,6 +1,0 @@
-Update: QualifiedName|#|io.crate.types.FixedWidthType
-Update: SimpleType|#|FixedWidthType
-Update: SimpleType|#|FixedWidthType
-Insert: ImportDeclaration
-Insert: IfStatement
-Insert: Assignment|#|=

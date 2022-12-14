@@ -1,0 +1,3 @@
+Update: QualifiedName|#|org.junit.Assert
+Insert: ImportDeclaration
+Delete: ImportDeclaration

@@ -1,0 +1,12 @@
+Insert: SimpleType|#|String
+Insert: MethodDeclaration
+Insert: TypeDeclaration
+Insert: SimpleType|#|String
+Insert: MethodDeclaration
+Insert: Modifier|#|public
+Insert: MethodDeclaration
+Insert: SimpleType|#|String
+Delete: TypeDeclaration
+Delete: MethodDeclaration
+Delete: MethodDeclaration
+Delete: MethodDeclaration

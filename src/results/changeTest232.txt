@@ -1,2 +1,0 @@
-Insert: MarkerAnnotation
-Insert: MarkerAnnotation

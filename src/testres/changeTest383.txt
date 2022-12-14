@@ -1,3 +1,0 @@
-[UPD	StringLiteral@@"No Alluxio User is found."[95]	TO	"No Tachyon User is found."
-, UPD	StringLiteral@@"More than one Alluxio User is found"[97]	TO	"More than one Tachyon User is found"
-]

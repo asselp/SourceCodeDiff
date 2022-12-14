@@ -1,0 +1,4 @@
+Delete: IfStatement
+Delete: VariableDeclarationStatement
+Delete: IfStatement
+Delete: ReturnStatement

@@ -1,0 +1,16 @@
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: VariableDeclarationStatement
+Insert: ParameterizedType
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|validate
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: Assignment|#|=
+Insert: Assignment|#|=
+Insert: ReturnStatement
+Delete: ImportDeclaration
+Delete: MethodDeclaration
+Delete: MethodDeclaration

@@ -1,3 +1,0 @@
-Insert: ImportDeclaration
-Insert: ReturnStatement
-Insert: MethodDeclaration

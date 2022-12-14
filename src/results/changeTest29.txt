@@ -1,2 +1,0 @@
-Update: QualifiedName|#|java.nio.file.Path
-Insert: ReturnStatement

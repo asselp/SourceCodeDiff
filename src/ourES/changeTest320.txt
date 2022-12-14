@@ -1,0 +1,17 @@
+Insert: Modifier|#|public
+Insert: MethodDeclaration
+Insert: MethodInvocation|#|debug
+Insert: MethodDeclaration
+Insert: MethodInvocation|#|debug
+Insert: MethodInvocation|#|putAll
+Delete: ImportDeclaration
+Delete: Modifier|#|public
+Delete: MethodDeclaration
+Delete: MethodInvocation|#|transferCopyEntitiesRefMigrator
+Delete: MethodDeclaration
+Delete: MethodInvocation|#|debug
+Delete: MethodDeclaration
+Delete: MethodInvocation|#|transferCopyEntitiesRefMigrator
+Delete: MethodDeclaration
+Delete: MethodInvocation|#|debug
+Delete: MethodInvocation|#|putAll

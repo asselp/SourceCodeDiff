@@ -1,8 +1,0 @@
-Update: QualifiedName|#|org.neo4j.kernel.GraphDatabaseAPI
-Delete: ImportDeclaration
-Delete: FieldDeclaration
-Delete: Assignment|#|=
-Delete: ClassInstanceCreation
-Delete: VariableDeclarationStatement
-Delete: TryStatement
-Delete: MethodInvocation|#|finish

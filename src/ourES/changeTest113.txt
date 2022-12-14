@@ -1,0 +1,6 @@
+Update: QualifiedName|#|com.hazelcast.transaction.impl.Transaction
+Update: SimpleType|#|Transaction
+Insert: ImportDeclaration
+Insert: MethodDeclaration
+Delete: ImportDeclaration
+Delete: MethodDeclaration

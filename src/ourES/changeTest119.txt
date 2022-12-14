@@ -1,0 +1,5 @@
+Insert: MethodInvocation|#|writeData
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|readData
+Delete: MethodInvocation|#|writeData
+Delete: VariableDeclarationStatement

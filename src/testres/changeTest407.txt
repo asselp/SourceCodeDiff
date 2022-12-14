@@ -1,2 +1,0 @@
-[UPD	QualifiedName@@com.yahoo.vespa.hosted.node.admin.container.ContainerOperations[5]	TO	com.yahoo.vespa.hosted.node.admin.docker.ContainerOperations
-]

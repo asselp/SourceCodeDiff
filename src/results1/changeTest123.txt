@@ -1,4 +1,0 @@
-Insert: Modifier|#|public
-Insert: MethodDeclaration
-Insert: SingleVariableDeclaration
-Insert: Modifier|#|public

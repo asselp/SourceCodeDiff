@@ -1,3 +1,0 @@
-Update: StringLiteral|#|""
-Insert: MethodInvocation|#|assertEquals
-Insert: MethodInvocation|#|assertTrue

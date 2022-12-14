@@ -1,0 +1,4 @@
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: IfStatement
+Delete: Assignment|#|=

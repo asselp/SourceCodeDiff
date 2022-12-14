@@ -1,4 +1,0 @@
-Update: QualifiedName|#|org.jboss.as.controller.access.DelegatingConfigurableAuthorizer
-Insert: MethodInvocation|#|build
-Insert: QualifiedName|#|AuditLogger.NO_OP_LOGGER
-Delete: MethodInvocation|#|build

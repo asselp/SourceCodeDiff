@@ -1,0 +1,7 @@
+Insert: ImportDeclaration
+Insert: MethodDeclaration
+Insert: ReturnStatement
+Insert: MethodDeclaration
+Delete: MethodDeclaration
+Delete: ReturnStatement
+Delete: MethodDeclaration

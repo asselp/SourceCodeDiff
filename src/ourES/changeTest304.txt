@@ -1,0 +1,14 @@
+Update: QualifiedName|#|org.apache.commons.logging.Log
+Update: QualifiedName|#|org.apache.commons.logging.LogFactory
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: SimpleName|#|getLog
+Insert: MethodInvocation|#|debug
+Insert: MethodInvocation|#|debug
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: MethodInvocation|#|debug
+Delete: MethodInvocation|#|debug
+Delete: MethodInvocation|#|error

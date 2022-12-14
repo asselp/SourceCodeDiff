@@ -1,5 +1,0 @@
-[UPD	QualifiedName@@io.crate.action.sql.ResultReceiver[23]	TO	com.google.common.annotations.VisibleForTesting
-, UPD	QualifiedName@@io.crate.action.sql.SQLOperations[25]	TO	io.crate.action.sql.ResultReceiver
-, UPD	QualifiedName@@io.crate.action.sql.Session[26]	TO	io.crate.action.sql.SQLOperations
-, UPD	QualifiedName@@io.crate.common.annotations.VisibleForTesting[27]	TO	io.crate.action.sql.Session
-]

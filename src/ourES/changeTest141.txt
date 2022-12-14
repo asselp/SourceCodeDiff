@@ -1,0 +1,7 @@
+Insert: SuperConstructorInvocation
+Delete: ImportDeclaration
+Delete: MethodInvocation|#|checkNotNull
+Delete: MethodInvocation|#|initProperties
+Delete: MethodDeclaration
+Delete: Modifier|#|protected
+Delete: ReturnStatement

@@ -1,5 +1,0 @@
-[DEL	StringLiteral@@"    flavor: d-2-8-50\n"[73]
-, DEL	StringLiteral@@"    canonicalFlavor: d-2-8-50\n"[73]
-, DEL	StringLiteral@@"    flavor: d-2-8-50\n"[104]
-, DEL	StringLiteral@@"    canonicalFlavor: d-2-8-50\n"[105]
-]

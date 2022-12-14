@@ -1,9 +1,0 @@
-Update: QualifiedName|#|org.mockito.Matchers.any
-Update: QualifiedName|#|org.mockito.Matchers.anyInt
-Update: QualifiedName|#|org.mockito.Matchers.anyLong
-Update: QualifiedName|#|org.mockito.Matchers.anyVararg
-Insert: ImportDeclaration
-Insert: ImportDeclaration
-Insert: ImportDeclaration
-Insert: ImportDeclaration
-Insert: MethodInvocation|#|thenReturn

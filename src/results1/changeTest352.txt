@@ -1,3 +1,0 @@
-Insert: ClassInstanceCreation
-Insert: ClassInstanceCreation
-Insert: ClassInstanceCreation

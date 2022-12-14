@@ -1,0 +1,6 @@
+Update: QualifiedName|#|tachyon.thrift.FileBlockInfo
+Update: SimpleType|#|FileBlockInfo
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Delete: ImportDeclaration
+Delete: VariableDeclarationStatement

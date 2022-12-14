@@ -1,5 +1,0 @@
-Update: QualifiedName|#|androidx.annotation.IntDef
-Insert: MethodDeclaration
-Insert: FieldDeclaration
-Insert: Modifier|#|public
-Insert: MethodInvocation|#|setDisplayModeNative

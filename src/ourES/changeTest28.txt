@@ -1,0 +1,3 @@
+Insert: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: ImportDeclaration

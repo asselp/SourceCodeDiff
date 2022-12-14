@@ -1,0 +1,16 @@
+Update: QualifiedName|#|org.ballerinalang.bre.Context
+Update: QualifiedName|#|org.ballerinalang.model.values.BMap
+Insert: MethodDeclaration
+Insert: ReturnStatement
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: FieldDeclaration
+Insert: SingleVariableDeclaration
+Insert: Assignment|#|=
+Insert: MethodDeclaration
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: SingleVariableDeclaration
+Delete: MethodDeclaration

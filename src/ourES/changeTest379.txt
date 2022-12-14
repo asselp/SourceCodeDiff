@@ -1,0 +1,9 @@
+Insert: IfStatement
+Insert: MethodInvocation|#|setProperty
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Delete: ImportDeclaration
+Delete: IfStatement
+Delete: MethodInvocation|#|setProperty
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement

@@ -1,5 +1,0 @@
-[UPD	ParameterizedType@@ArrayList<>[50]	TO	ArrayList<TestProtocolServer>
-, INS	SimpleType@@TestProtocolServer[52]
-
-	INS	SimpleName@@TestProtocolServer[52]
-]

@@ -1,2 +1,0 @@
-Insert: MethodInvocation|#|put
-Insert: VariableDeclarationStatement

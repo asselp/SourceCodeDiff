@@ -1,6 +1,0 @@
-[UPD	SimpleName@@relationshipTypeId[38]	TO	relTypeId
-, DEL	Javadoc@@[20]
-, DEL	Javadoc@@[26]
-, DEL	Javadoc@@[32]
-, DEL	Javadoc@@[38]
-]

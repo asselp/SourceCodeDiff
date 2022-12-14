@@ -1,2 +1,0 @@
-Update: SimpleType|#|Set
-Insert: MethodDeclaration

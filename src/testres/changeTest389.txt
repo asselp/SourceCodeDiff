@@ -1,5 +1,0 @@
-[UPD	QualifiedName@@tachyon.worker.block.BlockWorkerClientServiceHandler[52]	TO	tachyon.worker.block.BlockServiceHandler
-, UPD	SimpleType@@BlockWorkerClientServiceHandler[67]	TO	BlockServiceHandler
-
-	UPD	SimpleName@@BlockWorkerClientServiceHandler[67]	TO	BlockServiceHandler
-]

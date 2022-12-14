@@ -1,2 +1,0 @@
-[UPD	SimpleName@@sessionContext[84]	TO	parameterContext
-]

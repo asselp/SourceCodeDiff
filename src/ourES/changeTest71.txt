@@ -1,0 +1,4 @@
+Insert: Modifier|#|public
+Delete: ImportDeclaration
+Delete: Modifier|#|public
+Delete: FieldDeclaration

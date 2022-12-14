@@ -1,2 +1,0 @@
-Update: QualifiedName|#|io.ballerina.runtime.api.values.BObject
-Insert: ImportDeclaration

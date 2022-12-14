@@ -1,2 +1,0 @@
-Update: SimpleName|#|SlimeUtils
-Insert: MethodInvocation|#|instant

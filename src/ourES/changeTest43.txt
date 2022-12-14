@@ -1,0 +1,4 @@
+Delete: ImportDeclaration
+Delete: IfStatement
+Delete: Assignment|#|=
+Delete: MethodInvocation|#|setTaskCancellationService

@@ -1,4 +1,0 @@
-[DEL	SimpleType@@Exception[47]
-
-	DEL	SimpleName@@Exception[47]
-]

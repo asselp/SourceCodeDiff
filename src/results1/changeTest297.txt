@@ -1,2 +1,0 @@
-Update: QualifiedName|#|io.crate.common.annotations.VisibleForTesting
-Insert: ImportDeclaration

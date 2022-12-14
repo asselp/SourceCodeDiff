@@ -1,7 +1,0 @@
-[INS	SwitchCase@@[439]
-
-	INS	StringLiteral@@"endpointCertificateTimeout"[439]
-, INS	ReturnStatement@@[439]
-
-	INS	QualifiedName@@DeploymentLog.Status.endpointCertificateTimeout[439]
-]

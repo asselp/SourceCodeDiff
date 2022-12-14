@@ -1,2 +1,0 @@
-Insert: MethodDeclaration
-Insert: ReturnStatement

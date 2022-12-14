@@ -1,3 +1,0 @@
-Insert: EnhancedForStatement
-Insert: MethodInvocation|#|sendTo
-Insert: MethodInvocation|#|sendTo

@@ -1,0 +1,8 @@
+Delete: MethodDeclaration
+Delete: MethodInvocation|#|release
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration

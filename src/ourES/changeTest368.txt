@@ -1,0 +1,3 @@
+Insert: ImportDeclaration
+Insert: Modifier|#|public
+Delete: Modifier|#|public

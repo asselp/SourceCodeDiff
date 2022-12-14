@@ -1,0 +1,9 @@
+Insert: ImportDeclaration
+Insert: MethodDeclaration
+Insert: MethodInvocation|#|init
+Insert: Modifier|#|protected
+Insert: Assignment|#|=
+Delete: MethodDeclaration
+Delete: MethodInvocation|#|init
+Delete: Modifier|#|protected
+Delete: Assignment|#|=

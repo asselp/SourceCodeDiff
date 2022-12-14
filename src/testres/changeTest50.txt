@@ -1,9 +1,0 @@
-[UPD	SimpleType@@Translog.Index[76]	TO	Translog.Create
-
-	UPD	QualifiedName@@Translog.Index[76]	TO	Translog.Create
-, UPD	QualifiedName@@Translog.Operation.Type.INDEX[48]	TO	Translog.Operation.Type.SAVE
-, UPD	QualifiedName@@Translog.Operation.Type.INDEX[76]	TO	Translog.Operation.Type.CREATE
-, UPD	SimpleType@@Translog.Index[76]	TO	Translog.Create
-
-	UPD	QualifiedName@@Translog.Index[76]	TO	Translog.Create
-]

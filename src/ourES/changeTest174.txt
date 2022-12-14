@@ -1,0 +1,8 @@
+Insert: MethodDeclaration
+Insert: TryStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Delete: MethodDeclaration
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: LambdaExpression

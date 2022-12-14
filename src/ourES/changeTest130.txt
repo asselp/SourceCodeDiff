@@ -1,0 +1,16 @@
+Update: QualifiedName|#|com.hazelcast.instance.GroupProperties
+Insert: ImportDeclaration
+Insert: SingleMemberAnnotation
+Insert: MethodInvocation|#|setProperty
+Insert: MethodInvocation|#|setProperty
+Insert: MethodInvocation|#|setProperty
+Insert: MethodInvocation|#|setProperty
+Insert: MethodInvocation|#|setProperty
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: SingleMemberAnnotation
+Delete: MethodInvocation|#|setProperty
+Delete: MethodInvocation|#|setProperty
+Delete: MethodInvocation|#|setProperty
+Delete: MethodInvocation|#|setProperty
+Delete: MethodInvocation|#|setProperty

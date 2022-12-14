@@ -1,0 +1,12 @@
+Update: QualifiedName|#|alluxio.IntegrationTestUtils
+Update: QualifiedName|#|org.junit.Assume
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: MethodInvocation|#|assumeTrue
+Insert: MethodInvocation|#|assumeTrue
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: IfStatement
+Delete: ReturnStatement
+Delete: IfStatement
+Delete: ReturnStatement

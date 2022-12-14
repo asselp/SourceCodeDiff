@@ -1,0 +1,8 @@
+Update: QualifiedName|#|org.elasticsearch.common.Nullable
+Insert: ImportDeclaration
+Insert: Modifier|#|public
+Insert: VariableDeclarationStatement
+Insert: Modifier|#|public
+Insert: VariableDeclarationStatement
+Delete: Modifier|#|public
+Delete: Modifier|#|public

@@ -1,4 +1,0 @@
-Insert: MethodInvocation|#|set
-Insert: ImportDeclaration
-Insert: ImportDeclaration
-Insert: VariableDeclarationStatement

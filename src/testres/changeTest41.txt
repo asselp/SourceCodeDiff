@@ -1,2 +1,0 @@
-[UPD	StringLiteral@@"explicit index in multi search is not allowed"[158]	TO	"explicit index in multi percolate is not allowed"
-]

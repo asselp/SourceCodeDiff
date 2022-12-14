@@ -1,3 +1,0 @@
-Update: QualifiedName|#|org.ballerinalang.mime.util.MimeConstants.ENTITY_TRAILER_HEADERS
-Insert: VariableDeclarationStatement
-Insert: VariableDeclarationStatement

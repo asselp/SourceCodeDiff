@@ -1,2 +1,0 @@
-Update: NumberLiteral|#|10
-Insert: MethodInvocation|#|assertThat

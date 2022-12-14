@@ -1,0 +1,13 @@
+Update: QualifiedName|#|alluxio.PropertyKey
+Update: QualifiedName|#|alluxio.metrics.MetricsSystem
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: IfStatement
+Insert: ReturnStatement
+Insert: MethodInvocation|#|buildSourceRegistryName
+Insert: MethodInvocation|#|getWorkerSource
+Delete: FieldDeclaration
+Delete: IfStatement
+Delete: ReturnStatement
+Delete: MethodInvocation|#|getName

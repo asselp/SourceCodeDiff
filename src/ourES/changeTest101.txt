@@ -1,0 +1,9 @@
+Update: SimpleName|#|getOrCreateHazelcastInstance
+Insert: MethodDeclaration
+Insert: ThrowStatement
+Insert: VariableDeclarationStatement
+Insert: ThrowStatement
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: Assignment|#|=
+Insert: ReturnStatement

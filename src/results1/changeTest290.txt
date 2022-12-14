@@ -1,3 +1,0 @@
-Insert: MethodInvocation|#|simpleString
-Insert: MethodInvocation|#|simpleString
-Insert: MethodInvocation|#|simpleString

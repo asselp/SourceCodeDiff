@@ -1,3 +1,0 @@
-Insert: FieldDeclaration
-Insert: Modifier|#|public
-Insert: FieldDeclaration

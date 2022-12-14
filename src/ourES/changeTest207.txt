@@ -1,0 +1,12 @@
+Insert: FieldDeclaration
+Insert: FieldDeclaration
+Insert: MethodInvocation|#|enqueueDropViews
+Insert: MethodInvocation|#|clear
+Insert: MethodInvocation|#|add
+Insert: MethodInvocation|#|add
+Insert: MethodInvocation|#|add
+Insert: MethodInvocation|#|add
+Delete: FieldDeclaration
+Delete: MethodInvocation|#|enqueueDropViews
+Delete: MethodInvocation|#|put
+Delete: MethodInvocation|#|put

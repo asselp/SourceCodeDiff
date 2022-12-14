@@ -1,0 +1,6 @@
+Insert: MethodInvocation|#|simpleString
+Insert: MethodInvocation|#|simpleString
+Insert: MethodInvocation|#|simpleString
+Delete: MethodInvocation|#|simpleString
+Delete: MethodInvocation|#|simpleString
+Delete: MethodInvocation|#|simpleString

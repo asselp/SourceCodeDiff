@@ -1,6 +1,0 @@
-[UPD	QualifiedName@@org.ballerinalang.launcher.util.BCompileUtil[18]	TO	org.ballerinalang.model.values.BString
-, UPD	QualifiedName@@org.ballerinalang.launcher.util.BRunUtil[20]	TO	org.ballerinalang.model.values.BValue
-, UPD	QualifiedName@@org.ballerinalang.launcher.util.CompileResult[21]	TO	org.ballerinalang.test.util.BCompileUtil
-, UPD	QualifiedName@@org.ballerinalang.model.values.BString[22]	TO	org.ballerinalang.test.util.BRunUtil
-, UPD	QualifiedName@@org.ballerinalang.model.values.BValue[23]	TO	org.ballerinalang.test.util.CompileResult
-]

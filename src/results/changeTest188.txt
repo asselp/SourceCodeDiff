@@ -1,5 +1,0 @@
-Insert: SimpleType|#|String
-Insert: MethodDeclaration
-Insert: SimpleType|#|String
-Insert: MethodDeclaration
-Insert: SimpleType|#|String

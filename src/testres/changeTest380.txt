@@ -1,4 +1,0 @@
-[INS	NullLiteral@@[189]
-, UPD	SimpleName@@isIsComplete[193]	TO	isIsCompleted
-, DEL	StringLiteral@@""[189]
-]

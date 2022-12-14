@@ -1,2 +1,0 @@
-Insert: MethodInvocation|#|forEach
-Insert: MethodInvocation|#|acceptNode

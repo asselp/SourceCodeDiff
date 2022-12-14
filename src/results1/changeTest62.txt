@@ -1,4 +1,0 @@
-Update: StringLiteral|#|"javax.json.bind.api"
-Update: StringLiteral|#|"org.eclipse.yasson"
-Insert: MethodInvocation|#|create
-Insert: MethodInvocation|#|create

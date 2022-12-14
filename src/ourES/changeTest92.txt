@@ -1,0 +1,4 @@
+Update: SimpleName|#|deploymentUnit
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|removeAttachment
+Delete: Modifier|#|public

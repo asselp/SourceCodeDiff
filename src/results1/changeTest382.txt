@@ -1,9 +1,0 @@
-Update: QualifiedName|#|com.google.common.collect.ImmutableMap
-Insert: ImportDeclaration
-Insert: FieldDeclaration
-Insert: SimpleName|#|put
-Insert: SimpleName|#|put
-Insert: SimpleName|#|put
-Insert: SimpleName|#|put
-Insert: SimpleName|#|put
-Insert: SimpleName|#|build

@@ -1,4 +1,0 @@
-Update: QualifiedName|#|org.ballerinalang.core.model.values.BString
-Update: QualifiedName|#|org.ballerinalang.core.model.values.BValue
-Delete: ImportDeclaration
-Delete: ImportDeclaration

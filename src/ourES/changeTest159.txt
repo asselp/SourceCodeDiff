@@ -1,0 +1,14 @@
+Update: QualifiedName|#|java.util.Map
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|setMetaData
+Insert: Modifier|#|public
+Insert: ReturnStatement
+Insert: Modifier|#|public
+Insert: SingleVariableDeclaration
+Insert: SingleVariableDeclaration
+Insert: SingleVariableDeclaration
+Insert: ReturnStatement
+Delete: Modifier|#|public
+Delete: ReturnStatement

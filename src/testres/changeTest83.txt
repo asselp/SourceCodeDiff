@@ -1,3 +1,0 @@
-[UPD	SimpleName@@setRequired[57]	TO	setAllowNull
-, UPD	BooleanLiteral@@true[57]	TO	false
-]

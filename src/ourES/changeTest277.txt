@@ -1,0 +1,5 @@
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: Modifier|#|public
+Delete: MethodInvocation|#|failIfNoDocValues
+Delete: ReturnStatement

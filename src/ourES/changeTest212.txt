@@ -1,0 +1,6 @@
+Insert: MethodInvocation|#|invokeCallback
+Insert: MethodDeclaration
+Delete: MethodInvocation|#|invokeCallback
+Delete: FieldDeclaration
+Delete: MethodDeclaration
+Delete: Assignment|#|=

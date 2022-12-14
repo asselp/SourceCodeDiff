@@ -1,5 +1,0 @@
-Insert: Modifier|#|public
-Insert: MethodInvocation|#|put
-Insert: VariableDeclarationStatement
-Insert: MethodInvocation|#|put
-Insert: VariableDeclarationStatement

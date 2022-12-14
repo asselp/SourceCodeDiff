@@ -1,3 +1,0 @@
-Insert: MethodInvocation|#|writeData
-Insert: VariableDeclarationStatement
-Insert: MethodInvocation|#|readData

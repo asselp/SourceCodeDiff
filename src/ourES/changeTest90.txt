@@ -1,0 +1,6 @@
+Insert: SimpleName|#|welcomeFiles
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: SimpleName|#|welcomeFiles

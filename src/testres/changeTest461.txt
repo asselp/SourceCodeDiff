@@ -1,2 +1,0 @@
-[UPD	StringLiteral@@"updating the version in the Ballerina.toml."[253]	TO	"update the version in the Ballerina.toml."
-]

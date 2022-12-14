@@ -1,0 +1,4 @@
+Insert: MethodInvocation|#|trace
+Insert: MethodInvocation|#|trace
+Delete: MethodInvocation|#|info
+Delete: MethodInvocation|#|info

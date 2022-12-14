@@ -1,6 +1,0 @@
-Update: QualifiedName|#|org.slf4j.Logger
-Update: QualifiedName|#|org.slf4j.LoggerFactory
-Delete: ImportDeclaration
-Delete: ImportDeclaration
-Delete: Modifier|#|private
-Delete: Modifier|#|private

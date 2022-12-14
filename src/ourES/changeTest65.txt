@@ -1,0 +1,4 @@
+Insert: Assignment|#|=
+Delete: ImportDeclaration
+Delete: Assignment|#|=
+Delete: SimpleName|#|setAttributeParser

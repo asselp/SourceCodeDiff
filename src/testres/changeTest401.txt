@@ -1,7 +1,0 @@
-[UPD	NumberLiteral@@4[36]	TO	1
-, UPD	NumberLiteral@@10[36]	TO	1
-, UPD	NumberLiteral@@12[37]	TO	3
-, UPD	NumberLiteral@@12[37]	TO	3
-, UPD	NumberLiteral@@12[37]	TO	3
-, UPD	NumberLiteral@@12[37]	TO	3
-]

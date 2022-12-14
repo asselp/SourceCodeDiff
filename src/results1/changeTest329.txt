@@ -1,7 +1,0 @@
-Update: StringLiteral|#|" detected jQuery '+tver);\n"
-Update: StringLiteral|#|" found jQuery '+tver);\n"
-Update: StringLiteral|#|"jquery/jquery-1.9.1.min.js"
-Insert: StringLiteral|#|"               window.console && console.log
-Insert: StringLiteral|#|"               window.console && console.log
-Insert: MethodInvocation|#|getScriptPath
-Insert: StringLiteral|#|"       window.console && console.log

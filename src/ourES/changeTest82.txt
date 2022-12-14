@@ -1,0 +1,7 @@
+Insert: MethodInvocation|#|install
+Insert: SimpleName|#|addAliases
+Insert: SimpleName|#|setInitialMode
+Insert: SimpleName|#|install
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|addAliases
+Delete: MethodInvocation|#|setInitialMode

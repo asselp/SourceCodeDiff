@@ -1,8 +1,0 @@
-Update: QualifiedName|#|org.jboss.as.controller.ControllerMessages.MESSAGES
-Insert: ThrowStatement
-Insert: ThrowStatement
-Insert: ThrowStatement
-Delete: ImportDeclaration
-Delete: ThrowStatement
-Delete: ThrowStatement
-Delete: ThrowStatement

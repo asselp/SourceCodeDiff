@@ -1,4 +1,0 @@
-Update: QualifiedName|#|org.junit.jupiter.api.Assertions.assertThrows
-Insert: ImportDeclaration
-Insert: VariableDeclarationStatement
-Insert: MethodInvocation|#|assertTrue

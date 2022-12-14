@@ -1,7 +1,0 @@
-[INS	ImportDeclaration@@[22]
-
-	INS	QualifiedName@@junit.framework.Assert[22]
-, DEL	ImportDeclaration@@[28]
-
-	DEL	QualifiedName@@org.junit.Assert[28]
-]

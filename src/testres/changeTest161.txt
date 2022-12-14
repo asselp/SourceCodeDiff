@@ -1,4 +1,0 @@
-[DEL	SimpleType@@UpstreamDatabaseSelectionException[38]
-
-	DEL	SimpleName@@UpstreamDatabaseSelectionException[38]
-]

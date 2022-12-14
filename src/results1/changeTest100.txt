@@ -1,4 +1,0 @@
-Update: QualifiedName|#|org.jboss.as.jacorb.logging.JacORBLogger
-Insert: ImportDeclaration
-Insert: ThrowStatement
-Insert: ThrowStatement

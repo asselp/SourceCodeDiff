@@ -1,8 +1,0 @@
-[INS	ExpressionStatement@@[42]
-
-	INS	MethodInvocation@@[42]
-
-	INS	SimpleName@@BaloCreator[42]
-
-	INS	SimpleName@@cleanCacheDirectories[43]
-]

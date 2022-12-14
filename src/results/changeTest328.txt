@@ -1,8 +1,0 @@
-Update: QualifiedName|#|lombok.extern.slf4j.Slf4j
-Insert: MethodInvocation|#|error
-Delete: ImportDeclaration
-Delete: TypeDeclaration
-Delete: FieldDeclaration
-Delete: MethodInvocation|#|printStackTrace
-Delete: MethodInvocation|#|printStackTrace
-Delete: MethodInvocation|#|printStackTrace

@@ -1,0 +1,9 @@
+Insert: MethodDeclaration
+Insert: ReturnStatement
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|put
+Delete: ReturnStatement
+Delete: SimpleName|#|errorMap

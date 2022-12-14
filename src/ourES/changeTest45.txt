@@ -1,0 +1,20 @@
+Insert: IfStatement
+Insert: ForStatement
+Insert: IfStatement
+Insert: StringLiteral|#|"] routing table has wrong number of replicas, expected ["
+Insert: ForStatement
+Insert: VariableDeclarationStatement
+Insert: ForStatement
+Insert: ForStatement
+Insert: VariableDeclarationStatement
+Insert: ForStatement
+Delete: IfStatement
+Delete: ForStatement
+Delete: IfStatement
+Delete: StringLiteral|#|"] routing table has wrong number of replicas, expected ["
+Delete: ForStatement
+Delete: VariableDeclarationStatement
+Delete: ForStatement
+Delete: ForStatement
+Delete: VariableDeclarationStatement
+Delete: ForStatement

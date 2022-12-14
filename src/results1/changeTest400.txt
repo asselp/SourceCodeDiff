@@ -1,2 +1,0 @@
-Update: StringLiteral|#|"2015-11-2"
-Insert: NormalAnnotation

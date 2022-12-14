@@ -1,0 +1,3 @@
+Insert: ReturnStatement
+Delete: MethodInvocation|#|includeInAll
+Delete: ReturnStatement

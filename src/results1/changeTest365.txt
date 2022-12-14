@@ -1,6 +1,0 @@
-Insert: ImportDeclaration
-Insert: MethodInvocation|#|assertEquals
-Insert: MethodInvocation|#|assertEquals
-Insert: MethodInvocation|#|assertEquals
-Insert: MethodInvocation|#|assertEquals
-Insert: ImportDeclaration

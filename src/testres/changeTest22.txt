@@ -1,5 +1,0 @@
-[INS	SimpleName@@controller[46]
-, INS	SimpleName@@controller[111]
-, INS	SimpleName@@controller[125]
-, INS	SimpleName@@controller[138]
-]

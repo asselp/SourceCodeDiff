@@ -1,2 +1,0 @@
-Insert: PrimitiveType|#|long
-Insert: ReturnStatement

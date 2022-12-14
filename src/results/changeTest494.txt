@@ -1,5 +1,0 @@
-Update: QualifiedName|#|org.ballerinalang.jvm.values.api.BString
-Delete: VariableDeclarationStatement
-Delete: VariableDeclarationStatement
-Delete: VariableDeclarationStatement
-Delete: MethodInvocation|#|reportConsume

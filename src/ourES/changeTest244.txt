@@ -1,0 +1,2 @@
+Delete: MethodDeclaration
+Delete: SuperConstructorInvocation

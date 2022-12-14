@@ -1,3 +1,0 @@
-Update: Modifier|#|private
-Insert: FieldDeclaration
-Insert: ReturnStatement

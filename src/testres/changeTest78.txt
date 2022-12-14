@@ -1,7 +1,0 @@
-[MOV	SimpleName@@creationMetaDataCache[132]	TO	MethodInvocation@@[132]
-, DEL	MethodInvocation@@[132]
-
-	DEL	SimpleName@@withFlags[133]
-
-	DEL	QualifiedName@@Flag.SKIP_LISTENER_NOTIFICATION[133]
-]

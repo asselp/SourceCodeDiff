@@ -1,2 +1,0 @@
-[UPD	NumberLiteral@@10[65]	TO	3
-]

@@ -1,6 +1,0 @@
-Update: QualifiedName|#|org.sakaiproject.user.api.Preferences
-Update: QualifiedName|#|org.sakaiproject.user.api.PreferencesService
-Insert: VariableDeclarationStatement
-Insert: VariableDeclarationStatement
-Insert: Assignment|#|=
-Insert: MethodInvocation|#|put

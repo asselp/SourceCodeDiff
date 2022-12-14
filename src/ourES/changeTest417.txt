@@ -1,0 +1,6 @@
+Insert: InfixExpression|#|+
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|addServerBindings
+Delete: InfixExpression|#|+
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|addServerBindings

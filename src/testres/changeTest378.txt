@@ -1,3 +1,0 @@
-[DEL	StringLiteral@@"name"[73]
-, DEL	StringLiteral@@"absolutePath"[74]
-]

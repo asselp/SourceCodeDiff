@@ -1,0 +1,3 @@
+Update: QualifiedName|#|org.wildfly.naming.java.permission.JndiPermission
+Insert: ImportDeclaration
+Delete: ImportDeclaration

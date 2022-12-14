@@ -1,8 +1,0 @@
-[UPD	QualifiedName@@io.crate.types.FixedWidthType[34]	TO	io.crate.types.FixedWithType
-, UPD	SimpleType@@FixedWidthType[46]	TO	FixedWithType
-
-	UPD	SimpleName@@FixedWidthType[46]	TO	FixedWithType
-, UPD	SimpleType@@FixedWidthType[93]	TO	FixedWithType
-
-	UPD	SimpleName@@FixedWidthType[93]	TO	FixedWithType
-]

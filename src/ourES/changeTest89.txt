@@ -1,0 +1,5 @@
+Update: SimpleName|#|startInternal
+Insert: Modifier|#|protected
+Insert: SuperMethodInvocation
+Delete: Modifier|#|public
+Delete: SuperMethodInvocation

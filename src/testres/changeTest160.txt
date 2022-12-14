@@ -1,9 +1,0 @@
-[UPD	PrimitiveType@@long[36]	TO	int
-, UPD	PrimitiveType@@long[81]	TO	int
-, UPD	PrimitiveType@@long[40]	TO	int
-, UPD	PrimitiveType@@long[85]	TO	int
-, UPD	PrimitiveType@@long[56]	TO	int
-, UPD	PrimitiveType@@long[91]	TO	int
-, UPD	SimpleName@@Long[91]	TO	Integer
-, UPD	SimpleName@@parseLong[91]	TO	parseInt
-]

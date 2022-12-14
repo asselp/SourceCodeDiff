@@ -1,0 +1,3 @@
+Insert: MethodDeclaration
+Insert: SingleVariableDeclaration
+Delete: MethodDeclaration

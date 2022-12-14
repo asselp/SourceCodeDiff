@@ -1,6 +1,0 @@
-[UPD	QualifiedName@@org.elasticsearch.search.internal.SearchContext[27]	TO	org.elasticsearch.index.query.QueryShardContext
-, UPD	SimpleType@@SearchContext[65]	TO	QueryShardContext
-
-	UPD	SimpleName@@SearchContext[65]	TO	QueryShardContext
-, UPD	SimpleName@@context[65]	TO	queryShardContext
-]

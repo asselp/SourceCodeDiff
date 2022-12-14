@@ -1,0 +1,6 @@
+Update: QualifiedName|#|io.crate.integrationtests.SQLTransportIntegrationTest
+Update: QualifiedName|#|io.crate.test.integration.CrateIntegrationTest
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration

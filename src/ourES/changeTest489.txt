@@ -1,0 +1,9 @@
+Delete: MethodDeclaration
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: MethodDeclaration
+Delete: Modifier|#|public
+Delete: VariableDeclarationStatement
+Delete: StringLiteral|#|"fail_onBinary_failoverClient.bal"
+Delete: MethodInvocation|#|assertTrue
+Delete: StringLiteral|#|"in service : The first parameter should be a WebSocketFailoverClient"

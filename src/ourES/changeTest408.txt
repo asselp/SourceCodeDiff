@@ -1,0 +1,3 @@
+Delete: ImportDeclaration
+Delete: MethodInvocation|#|toInstance
+Delete: SimpleName|#|toInstance

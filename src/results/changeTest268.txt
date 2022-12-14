@@ -1,4 +1,0 @@
-Update: QualifiedName|#|io.crate.metadata.StmtCtx
-Insert: MethodInvocation|#|normalizeInplace
-Delete: MethodDeclaration
-Delete: MethodInvocation|#|normalizeInplace

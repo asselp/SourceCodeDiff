@@ -1,3 +1,0 @@
-[UPD	QualifiedName@@InodeTree.LockMode.WRITE[1230]	TO	InodeTree.LockMode.WRITE_PARENT
-, UPD	QualifiedName@@InodeTree.LockMode.WRITE[1278]	TO	InodeTree.LockMode.WRITE_PARENT
-]

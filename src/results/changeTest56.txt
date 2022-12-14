@@ -1,3 +1,0 @@
-Update: QualifiedName|#|org.wildfly.clustering.marshalling.spi.IndexExternalizer
-Delete: MethodInvocation|#|writeInt
-Delete: VariableDeclarationStatement

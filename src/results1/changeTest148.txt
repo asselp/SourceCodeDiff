@@ -1,3 +1,0 @@
-Insert: TypeDeclaration
-Insert: Modifier|#|public
-Insert: Modifier|#|public

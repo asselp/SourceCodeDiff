@@ -1,4 +1,0 @@
-[INS	ImportDeclaration@@[20]
-
-	INS	QualifiedName@@com.yahoo.search.Query[20]
-]

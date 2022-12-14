@@ -1,0 +1,4 @@
+Insert: VariableDeclarationStatement
+Insert: ReturnStatement
+Insert: Assignment|#|=
+Delete: ReturnStatement

@@ -1,0 +1,7 @@
+Update: QualifiedName|#|com.hazelcast.util.StringUtil.getterIntoProperty
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: Assignment|#|=
+Delete: VariableDeclarationStatement
+Delete: IfStatement

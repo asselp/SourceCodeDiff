@@ -1,7 +1,0 @@
-[INS	SimpleName@@helperId[145]
-, INS	MethodInvocation@@[145]
-
-	INS	SimpleName@@localizer[145]
-
-	INS	StringLiteral@@"action.makesitepage"[145]
-]

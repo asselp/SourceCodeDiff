@@ -1,0 +1,12 @@
+Update: PrimitiveType|#|long
+Update: PrimitiveType|#|long
+Insert: Assignment|#|=
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: ThrowStatement
+Insert: MethodInvocation|#|writeLong
+Delete: Assignment|#|=
+Delete: FieldDeclaration
+Delete: MethodDeclaration
+Delete: ThrowStatement
+Delete: MethodInvocation|#|writeInt

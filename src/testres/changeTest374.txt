@@ -1,2 +1,0 @@
-[UPD	QualifiedName@@org.codehaus.jackson.map.ObjectMapper[14]	TO	com.fasterxml.jackson.databind.ObjectMapper
-]

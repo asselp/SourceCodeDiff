@@ -1,0 +1,6 @@
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: IfStatement
+Insert: ThrowStatement
+Insert: ReturnStatement
+Delete: Modifier|#|private

@@ -1,0 +1,5 @@
+Insert: ReturnStatement
+Delete: ClassInstanceCreation
+Delete: MethodInvocation|#|rootRelation
+Delete: ReturnStatement
+Delete: VariableDeclarationStatement
