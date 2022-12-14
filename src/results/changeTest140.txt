@@ -1,0 +1,10 @@
+Update: PrimitiveType|#|long
+Update: PrimitiveType|#|long
+Delete: Assignment|#|=
+Delete: Assignment|#|=
+Delete: FieldDeclaration
+Delete: MethodDeclaration
+Delete: ThrowStatement
+Delete: ThrowStatement
+Delete: MethodInvocation|#|writeInt
+Delete: MethodInvocation|#|writeInt

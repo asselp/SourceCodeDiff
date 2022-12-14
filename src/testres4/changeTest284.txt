@@ -1,0 +1,24 @@
+[Insert	ImportDeclaration@@[54]
+	Insert	QualifiedName@@io.crate.data.SentinelRow.SENTINEL[55]
+, Update	QualifiedName@@io.crate.data.Row[26]	TO	io.crate.data.InMemoryBatchIterator
+, Update	QualifiedName@@io.crate.data.RowN[27]	TO	io.crate.data.Row
+, Update	QualifiedName@@io.crate.data.RowsBatchIterator[28]	TO	io.crate.data.RowN
+, Update	QualifiedName@@io.crate.testing.TestingBatchConsumer[39]	TO	io.crate.testing.TestingHelpers
+, Update	QualifiedName@@io.crate.testing.TestingHelpers[40]	TO	io.crate.testing.TestingRowConsumer
+, Insert	ParameterizedType@@BatchIterator<Row>[97]
+	Insert	SimpleType@@BatchIterator[97]
+	Insert	SimpleType@@Row[99]
+	Insert	SimpleName@@Row[99]
+, Update	SimpleType@@TestingBatchConsumer[99]	TO	TestingRowConsumer
+	Update	SimpleName@@TestingBatchConsumer[99]	TO	TestingRowConsumer
+, Move	SimpleName@@BatchIterator[96]	TO	SimpleType@@BatchIterator[97]
+, Update	SimpleName@@RowsBatchIterator[98]	TO	InMemoryBatchIterator
+, Update	SimpleName@@newInstance[98]	TO	of
+, Update	SimpleName@@rowN[99]	TO	SENTINEL
+, Move	SimpleName@@rowN[99]	TO	MethodInvocation@@[97]
+, Update	SimpleType@@TestingBatchConsumer[100]	TO	TestingRowConsumer
+	Update	SimpleName@@TestingBatchConsumer[100]	TO	TestingRowConsumer
+, Delete	SimpleType@@BatchIterator[96]
+, Delete	MethodInvocation@@[99]
+	Delete	SimpleName@@numColumns[99]
+]

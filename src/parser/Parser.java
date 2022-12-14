@@ -1,14 +1,9 @@
 package src.parser;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-import java.util.Stack;
-import java.io.File;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.*;
 
 import org.eclipse.jdt.core.dom.ASTNode;
 import org.eclipse.jdt.core.dom.ASTVisitor;
@@ -30,6 +25,7 @@ import org.eclipse.jdt.core.dom.SimpleType;
 import org.eclipse.jdt.core.dom.StringLiteral;
 import org.eclipse.jdt.core.dom.VariableDeclarationFragment;
 import src.element.GTAction;
+import src.matcher.Matcher;
 import src.parser.TreeBuilder;
 import src.parser.JavaCodeVisitor;
 import src.parser.TreeDIff;
@@ -50,68 +46,50 @@ public class Parser {
         return stringBuilder.toString();
     }
 
-//    private TreeNode getTreeNode(ASTNode node) {
-//        TreeNode treeNode = new TreeNode(getLabel(node), node);
-//        if(!nodeStack.isEmpty()){
-//            nodeStack.peek().addChild(treeNode);
-//        }
-//        return treeNode;
-//    }
+    public static void treeString(TreeNode treeNode, StringBuffer stringBuffer) {
+        stringBuffer.append(treeNode.toString());
+        stringBuffer.append("\n");
+        for(TreeNode c : treeNode.children) {
+            treeString(c, stringBuffer);
+        }
+    }
 
-//    public String getLabel(ASTNode astNode) {
-//        String label = astNode.getClass().getSimpleName();
-//        if (astNode instanceof Assignment) {
-//            label += "|#|" + ((Assignment)astNode).getOperator().toString();
-//        }
-//        if (astNode instanceof BooleanLiteral
-//                || astNode instanceof Modifier
-//                || astNode instanceof SimpleType
-//                || astNode instanceof QualifiedType
-//                || astNode instanceof PrimitiveType) {
-//            label += "|#|" + astNode.toString();
-//        }
-//        if(astNode instanceof CharacterLiteral)
-//            label += "|#|" + ((CharacterLiteral)astNode).getEscapedValue();
-//        if(astNode instanceof NumberLiteral)
-//            label += "|#|"  + ((NumberLiteral)astNode).getToken();
-//        if(astNode instanceof StringLiteral)
-//            label += "|#|"  + ((StringLiteral)astNode).getEscapedValue();
-//        if(astNode instanceof InfixExpression)
-//            label += "|#|"  + ((InfixExpression)astNode).getOperator().toString();
-//        if(astNode instanceof PrefixExpression)
-//            label += "|#|"  + ((PrefixExpression)astNode).getOperator().toString();
-//        if(astNode instanceof PostfixExpression)
-//            label += "|#|"  + ((PostfixExpression)astNode).getOperator().toString();
-//        if(astNode instanceof SimpleName)
-//            label += "|#|"  + ((SimpleName)astNode).getIdentifier();
-//        if(astNode instanceof QualifiedName)
-//            label += "|#|"  + ((QualifiedName)astNode).getFullyQualifiedName();
-//        if(astNode instanceof MethodInvocation)
-//            label += "|#|"  + ((MethodInvocation)astNode).getName().toString();
-//        if(astNode instanceof VariableDeclarationFragment)
-//            label += "|#|"  + ((VariableDeclarationFragment)astNode).getName().toString();
-//        return label;
-//    }
+    private static String nameFile(int i) {
+        return "src/results/changeTest" + String.valueOf(i) + ".txt";
+    }
 
     public static void main(final String[] args) throws Exception {
 
-        String filePath = "src/Example.java";
-        TreeNode treeNode = TreeBuilder.buildTreeFromFile(filePath);
+//        Matcher matcher = new Matcher(srcFile, dstFile);
+//        StringBuffer editScript = matcher.match();
+//        System.out.println(editScript);
+//        System.out.println(matcher.sizeEditScript());
+        File path = new File("changes");
 
+        File [] dirs = path.listFiles();
+        int change = 1;
 
-        File srcFile = new File("src/Example.java");
-        File dstFile = new File("src/Example1.java");
+        for (File dir : dirs) {
+            if (dir.isDirectory()) {
+                File [] oldNewDir = dir.listFiles();
 
-        List<GTAction> actions = TreeDIff.diffGumTreeWithGrouping(srcFile, dstFile);
-        System.out.println(actions);
+                File [] newDir = oldNewDir[1].listFiles();
 
-//        parser.setSource(fileContent);
-//        final CompilationUnit compilationUnit = (CompilationUnit) parser.createAST(null);
-//        PackageDeclaration imports = compilationUnit.getPackage();
-//        System.out.println(imports);
-//        compilationUnit.accept(new ASTVisitor() {
+                File src = new File(newDir[0].getPath());
 
-//        });
+                File [] oldDir = oldNewDir[0].listFiles();
 
+                File dst = new File(oldDir[0].getPath());
+
+                Matcher matcher = new Matcher(src, dst);
+                StringBuffer editScript = matcher.match();
+                FileWriter fileWriter = new FileWriter(nameFile(change));
+                fileWriter.write(editScript.toString());
+                fileWriter.close();
+                System.out.print("change passed ");
+                System.out.println(change);
+                change = change + 1;
+            }
+        }
     }
 }

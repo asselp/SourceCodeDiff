@@ -1,0 +1,8 @@
+[Insert	MethodInvocation@@[28]
+	Insert	SimpleName@@motionEventToCopy[28]
+	Insert	SimpleName@@getEventTime[29]
+, Delete	SingleVariableDeclaration@@[28]
+	Delete	PrimitiveType@@long[28]
+	Delete	SimpleName@@timestampMs[29]
+, Delete	SimpleName@@timestampMs[32]
+]

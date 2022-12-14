@@ -1,0 +1,17 @@
+[Update	ParameterizedType@@Externalizer<AuthenticationEntry<A,D,L>>[38]	TO	Externalizer<AuthenticationEntry<A,L>>
+	Update	ParameterizedType@@AuthenticationEntry<A,D,L>[38]	TO	AuthenticationEntry<A,L>
+, Update	ParameterizedType@@AuthenticationEntry<A,D,L>[45]	TO	AuthenticationEntry<A,L>
+, Update	ParameterizedType@@Class<AuthenticationEntry<A,D,L>>[53]	TO	Class<AuthenticationEntry<A,L>>
+	Update	ParameterizedType@@AuthenticationEntry<A,D,L>[53]	TO	AuthenticationEntry<A,L>
+, Update	ParameterizedType@@AuthenticationEntry<A,D,L>[43]	TO	AuthenticationEntry<A,L>
+, Delete	TypeParameter@@[38]
+	Delete	SimpleName@@D[38]
+, Delete	SimpleType@@D[38]
+	Delete	SimpleName@@D[38]
+, Delete	SimpleType@@D[43]
+	Delete	SimpleName@@D[43]
+, Delete	SimpleType@@D[48]
+	Delete	SimpleName@@D[48]
+, Delete	SimpleType@@D[54]
+	Delete	SimpleName@@D[54]
+]

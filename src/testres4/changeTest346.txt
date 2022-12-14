@@ -1,0 +1,3 @@
+[Update	QualifiedName@@org.apache.wicket.markup.html.IHeaderContributor[19]	TO	org.apache.wicket.markup.head.IHeaderResponse
+, Update	QualifiedName@@org.apache.wicket.markup.html.IHeaderResponse[20]	TO	org.apache.wicket.markup.html.IHeaderContributor
+]

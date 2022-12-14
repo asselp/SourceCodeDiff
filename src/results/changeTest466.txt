@@ -1,0 +1,11 @@
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: MethodDeclaration
+Insert: SingleVariableDeclaration
+Insert: MethodInvocation|#|put
+Insert: MethodInvocation|#|put
+Insert: MethodInvocation|#|put
+Insert: ReturnStatement

@@ -1,0 +1,3 @@
+[Move	FieldDeclaration@@[305]	TO	EnumDeclaration@@[23]
+, Update	SimpleName@@PARSE_EJB_DEFAULT_SECURITY_DOMAIN[305]	TO	POST_MODULE_EJB_DEFAULT_SECURITY_DOMAIN
+]

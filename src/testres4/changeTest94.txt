@@ -1,0 +1,6 @@
+[Insert	ImportDeclaration@@[35]
+	Insert	QualifiedName@@org.jboss.as.controller.access.DelegatingConfigurableAuthorizer[35]
+, Insert	ClassInstanceCreation@@[71]
+	Insert	SimpleType@@DelegatingConfigurableAuthorizer[71]
+	Insert	SimpleName@@DelegatingConfigurableAuthorizer[71]
+]

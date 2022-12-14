@@ -28,6 +28,10 @@ public class TreeNode {
 		this.lineNumber = computeLineNumber();
 	}
 
+	public String mergeLabelType(String label, ASTNode astNode) {
+		return astNode + ": " + label;
+	}
+
 	public boolean isLeaf(){
 		return children.size() == 0;
 	}
@@ -90,6 +94,7 @@ public class TreeNode {
 	@Override
 	public String toString() {
 		return label + "(" + lineNumber + ")";
+//		return label;
 	}
 
 	public int getLineNumber(){

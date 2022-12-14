@@ -1,0 +1,25 @@
+[Update	QualifiedName@@java.io.File[20]	TO	org.apache.commons.io.FileUtils
+, Update	QualifiedName@@java.lang.management.ManagementFactory[22]	TO	org.apache.hadoop.conf.Configuration
+, Update	QualifiedName@@java.net.URL[23]	TO	org.apache.hadoop.fs.CommonConfigurationKeysPublic
+, Update	QualifiedName@@java.nio.charset.StandardCharsets[24]	TO	org.apache.hadoop.fs.FileSystem
+, Update	QualifiedName@@java.nio.file.Files[25]	TO	org.apache.hadoop.fs.FileUtil
+, Update	QualifiedName@@java.nio.file.Path[26]	TO	org.apache.hadoop.fs.permission.AclEntry
+, Update	QualifiedName@@java.nio.file.Paths[27]	TO	org.apache.hadoop.fs.permission.AclEntryType
+, Update	QualifiedName@@java.nio.file.StandardCopyOption[28]	TO	org.apache.hadoop.fs.permission.FsAction
+, Update	QualifiedName@@java.util.ArrayList[29]	TO	org.apache.hadoop.hdfs.DFSConfigKeys
+, Update	QualifiedName@@java.util.Arrays[30]	TO	org.apache.hadoop.hdfs.MiniDFSCluster
+, Update	QualifiedName@@java.util.List[31]	TO	org.apache.hadoop.hdfs.MiniDFSNNTopology
+, Update	QualifiedName@@org.apache.commons.io.FileUtils[32]	TO	org.apache.hadoop.hdfs.server.namenode.ha.HATestUtil
+, Update	QualifiedName@@org.apache.hadoop.conf.Configuration[34]	TO	org.apache.hadoop.security.UserGroupInformation
+, Update	QualifiedName@@org.apache.hadoop.fs.CommonConfigurationKeysPublic[35]	TO	java.io.File
+, Update	QualifiedName@@org.apache.hadoop.fs.FileSystem[36]	TO	java.lang.management.ManagementFactory
+, Update	QualifiedName@@org.apache.hadoop.fs.FileUtil[37]	TO	java.net.URL
+, Update	QualifiedName@@org.apache.hadoop.fs.permission.AclEntry[38]	TO	java.nio.charset.StandardCharsets
+, Update	QualifiedName@@org.apache.hadoop.fs.permission.AclEntryType[39]	TO	java.nio.file.Files
+, Update	QualifiedName@@org.apache.hadoop.fs.permission.FsAction[40]	TO	java.nio.file.Path
+, Update	QualifiedName@@org.apache.hadoop.hdfs.DFSConfigKeys[41]	TO	java.nio.file.Paths
+, Update	QualifiedName@@org.apache.hadoop.hdfs.MiniDFSCluster[42]	TO	java.nio.file.StandardCopyOption
+, Update	QualifiedName@@org.apache.hadoop.hdfs.MiniDFSNNTopology[43]	TO	java.util.ArrayList
+, Update	QualifiedName@@org.apache.hadoop.hdfs.server.namenode.ha.HATestUtil[44]	TO	java.util.Arrays
+, Update	QualifiedName@@org.apache.hadoop.security.UserGroupInformation[45]	TO	java.util.List
+]

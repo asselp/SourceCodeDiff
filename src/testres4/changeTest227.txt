@@ -1,0 +1,15 @@
+[Insert	ImportDeclaration@@[29]
+	Insert	QualifiedName@@com.facebook.react.bridge.GuardedRunnable[29]
+, Insert	VariableDeclarationStatement@@[297]
+	Insert	SimpleType@@ReactContext[297]
+	Insert	SimpleName@@ReactContext[297]
+	Insert	VariableDeclarationFragment@@[297]
+	Insert	SimpleName@@reactContext[297]
+, Move	CastExpression@@[296]	TO	VariableDeclarationFragment@@[297]
+, Insert	SimpleName@@reactContext[299]
+, Update	SimpleType@@Runnable[298]	TO	GuardedRunnable
+	Update	SimpleName@@Runnable[298]	TO	GuardedRunnable
+, Insert	SimpleName@@reactContext[304]
+, Update	SimpleName@@run[302]	TO	runGuarded
+, Delete	ParenthesizedExpression@@[296]
+]

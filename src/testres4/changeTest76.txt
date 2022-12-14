@@ -1,0 +1,4 @@
+[Delete	MethodInvocation@@[163]
+	Delete	SimpleName@@nodeAttribute[163]
+	Delete	SimpleName@@getConfigType[164]
+]

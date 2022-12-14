@@ -1,0 +1,8 @@
+[Insert	ImportDeclaration@@[31]
+	Insert	QualifiedName@@com.hazelcast.test.annotation.ParallelTest[31]
+, Insert	ArrayInitializer@@[55]
+	Insert	TypeLiteral@@[55]
+	Insert	SimpleType@@ParallelTest[55]
+	Insert	SimpleName@@ParallelTest[55]
+, Move	TypeLiteral@@[54]	TO	ArrayInitializer@@[55]
+]

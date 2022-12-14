@@ -1,0 +1,10 @@
+Update: StringLiteral|#|"javax.json.bind.api"
+Update: StringLiteral|#|"org.eclipse.yasson"
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: MethodInvocation|#|create
+Delete: MethodInvocation|#|create
+Delete: MethodInvocation|#|create
+Delete: MethodInvocation|#|create

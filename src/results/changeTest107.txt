@@ -1,0 +1,14 @@
+Update: QualifiedName|#|com.hazelcast.test.HazelcastParallelClassRunner
+Update: QualifiedName|#|com.hazelcast.test.HazelcastSerialClassRunner
+Update: QualifiedName|#|com.hazelcast.test.annotation.QuickTest
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: TypeDeclaration
+Delete: TypeDeclaration
+Delete: TypeDeclaration
+Delete: SingleMemberAnnotation
+Delete: SingleMemberAnnotation
+Delete: SingleMemberAnnotation

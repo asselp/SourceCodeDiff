@@ -1,0 +1,31 @@
+[Insert	ImportDeclaration@@[31]
+	Insert	QualifiedName@@org.neo4j.kernel.internal.GraphDatabaseAPI[31]
+, Update	QualifiedName@@org.junit.Assert.assertEquals[33]	TO	java.lang.Integer.MAX_VALUE
+, Update	QualifiedName@@org.junit.Assert.assertNotNull[35]	TO	java.lang.Thread.sleep
+, Update	QualifiedName@@org.junit.Assert.fail[36]	TO	org.junit.Assert.assertEquals
+, Update	QualifiedName@@java.lang.Integer.MAX_VALUE[37]	TO	org.junit.Assert.assertNotNull
+, Update	QualifiedName@@java.lang.Thread.sleep[39]	TO	org.junit.Assert.fail
+, Update	QualifiedName@@org.neo4j.helpers.SillyUtils.ignore[42]	TO	org.neo4j.helpers.collection.Iterables.count
+, Insert	ExpressionStatement@@[98]
+	Insert	MethodInvocation@@[98]
+	Insert	SimpleName@@count[98]
+	Insert	MethodInvocation@@[98]
+, Move	MethodInvocation@@[100]	TO	MethodInvocation@@[98]
+, Move	SimpleName@@traverse[103]	TO	MethodInvocation@@[98]
+, Move	SimpleName@@n0[103]	TO	MethodInvocation@@[98]
+, Update	SimpleName@@Traversal[100]	TO	db
+, Update	SimpleName@@description[102]	TO	traversalDescription
+, Delete	ImportDeclaration@@[24]
+	Delete	QualifiedName@@org.neo4j.graphdb.Path[24]
+, Delete	EnhancedForStatement@@[100]
+	Delete	SingleVariableDeclaration@@[100]
+	Delete	SimpleType@@Path[100]
+	Delete	SimpleName@@Path[100]
+	Delete	SimpleName@@position[100]
+	Delete	MethodInvocation@@[100]
+	Delete	Block@@[103]
+	Delete	ExpressionStatement@@[103]
+	Delete	MethodInvocation@@[103]
+	Delete	SimpleName@@ignore[103]
+	Delete	SimpleName@@position[103]
+]

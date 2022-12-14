@@ -1,0 +1,4 @@
+[Update	ParameterizedType@@ArrayList<TestProtocolServer>[50]	TO	ArrayList<>
+, Delete	SimpleType@@TestProtocolServer[52]
+	Delete	SimpleName@@TestProtocolServer[52]
+]

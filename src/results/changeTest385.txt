@@ -1,0 +1,10 @@
+Update: QualifiedName|#|tachyon.conf.TachyonConf
+Insert: FieldDeclaration
+Insert: Assignment|#|=
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Delete: ImportDeclaration
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|createRawTable
+Delete: CastExpression
+Delete: VariableDeclarationStatement

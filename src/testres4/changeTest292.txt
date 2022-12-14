@@ -1,0 +1,2 @@
+[Update	QualifiedName@@io.crate.planner.node.CollectNode[41]	TO	io.crate.planner.node.dql.CollectNode
+]

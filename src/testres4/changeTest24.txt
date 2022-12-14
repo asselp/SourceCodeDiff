@@ -1,0 +1,2 @@
+[Update	SimpleName@@size[70]	TO	getSize
+]

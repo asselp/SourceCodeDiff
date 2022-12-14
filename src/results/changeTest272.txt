@@ -1,0 +1,2 @@
+Update: QualifiedName|#|io.crate.metadata.information.MetaDataInformationModule
+Update: SimpleType|#|MetaDataInformationModule

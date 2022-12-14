@@ -1,0 +1,14 @@
+[Insert	InfixExpression@@!=[99]
+	Insert	MethodInvocation@@[99]
+	Insert	NullLiteral@@[100]
+, Move	SimpleName@@component[99]	TO	MethodInvocation@@[99]
+, Update	SimpleName@@hasFeedbackMessage[99]	TO	getFeedbackMessage
+, Move	SimpleName@@hasFeedbackMessage[99]	TO	MethodInvocation@@[99]
+, Update	SimpleName@@first[105]	TO	getMessage
+, Move	MethodInvocation@@[107]	TO	MethodInvocation@@[107]
+, Update	SimpleName@@getFeedbackMessages[105]	TO	getFeedbackMessage
+, Update	SimpleName@@getFeedbackMessages[108]	TO	getFeedbackMessage
+, Delete	MethodInvocation@@[99]
+, Delete	MethodInvocation@@[107]
+	Delete	SimpleName@@first[110]
+]

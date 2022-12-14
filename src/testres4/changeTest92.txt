@@ -1,0 +1,7 @@
+[Update	SimpleName@@context[75]	TO	deploymentUnit
+, Insert	ExpressionStatement@@[78]
+	Insert	MethodInvocation@@[78]
+	Insert	SimpleName@@deploymentUnit[78]
+	Insert	SimpleName@@removeAttachment[79]
+	Insert	QualifiedName@@Attachments.JNDI_DEPENDENCIES[79]
+]

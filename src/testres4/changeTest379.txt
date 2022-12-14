@@ -1,0 +1,13 @@
+[Update	QualifiedName@@PropertyKey.MASTER_RETRY[245]	TO	Constants.MASTER_RETRY_COUNT
+, Move	QualifiedName@@PropertyKey.MASTER_RETRY[245]	TO	MethodInvocation@@[244]
+, Update	QualifiedName@@PropertyKey.MASTER_RETRY[246]	TO	Constants.MASTER_RETRY_COUNT
+, Move	QualifiedName@@PropertyKey.MASTER_RETRY[246]	TO	MethodInvocation@@[245]
+, Update	QualifiedName@@PropertyKey.HOME[371]	TO	Constants.HOME
+, Update	QualifiedName@@PropertyKey.HOME[385]	TO	Constants.HOME
+, Delete	ImportDeclaration@@[16]
+	Delete	QualifiedName@@alluxio.PropertyKey[16]
+, Delete	MethodInvocation@@[245]
+	Delete	SimpleName@@toString[245]
+, Delete	MethodInvocation@@[246]
+	Delete	SimpleName@@toString[246]
+]

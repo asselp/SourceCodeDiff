@@ -1,0 +1,2 @@
+Insert: PackageDeclaration
+Insert: TypeDeclaration

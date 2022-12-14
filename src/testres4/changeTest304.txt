@@ -1,0 +1,29 @@
+[Update	QualifiedName@@org.slf4j.Logger[31]	TO	org.apache.commons.logging.Log
+, Update	QualifiedName@@org.slf4j.LoggerFactory[32]	TO	org.apache.commons.logging.LogFactory
+, Update	SimpleType@@Logger[84]	TO	Log
+	Update	SimpleName@@Logger[84]	TO	Log
+, Update	SimpleName@@LoggerFactory[85]	TO	LogFactory
+, Update	SimpleName@@getLogger[85]	TO	getLog
+, Insert	InfixExpression@@+[212]
+	Insert	StringLiteral@@"Message is "[212]
+	Insert	SimpleName@@message[212]
+, Insert	InfixExpression@@+[248]
+	Insert	StringLiteral@@"Message is "[248]
+	Insert	SimpleName@@message[249]
+, Delete	StringLiteral@@"Message is {}"[211]
+, Delete	MethodInvocation@@[211]
+	Delete	SimpleName@@message[211]
+	Delete	SimpleName@@toString[212]
+, Delete	StringLiteral@@"Message is {}"[247]
+, Delete	MethodInvocation@@[248]
+	Delete	SimpleName@@message[248]
+	Delete	SimpleName@@toString[248]
+, Delete	ExpressionStatement@@[299]
+	Delete	MethodInvocation@@[299]
+	Delete	SimpleName@@log[299]
+	Delete	SimpleName@@error[299]
+	Delete	MethodInvocation@@[299]
+	Delete	SimpleName@@ex[299]
+	Delete	SimpleName@@getMessage[300]
+	Delete	SimpleName@@ex[300]
+]

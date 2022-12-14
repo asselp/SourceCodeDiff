@@ -1,0 +1,6 @@
+[Update	QualifiedName@@org.jboss.as.security.SecurityLogger[25]	TO	org.jboss.as.security.logging.SecurityLogger
+, Update	QualifiedName@@SecurityMessages.MESSAGES[65]	TO	SecurityLogger.ROOT_LOGGER
+, Update	QualifiedName@@SecurityMessages.MESSAGES[73]	TO	SecurityLogger.ROOT_LOGGER
+, Delete	ImportDeclaration@@[26]
+	Delete	QualifiedName@@org.jboss.as.security.SecurityMessages[26]
+]

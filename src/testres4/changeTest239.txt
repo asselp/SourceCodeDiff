@@ -1,0 +1,5 @@
+[Update	QualifiedName@@javax.annotation.Nullable[9]	TO	android.app.Activity
+, Update	QualifiedName@@android.app.Activity[10]	TO	android.content.Context
+, Update	QualifiedName@@android.content.Context[12]	TO	com.facebook.react.bridge.LifecycleEventListener
+, Update	QualifiedName@@com.facebook.react.bridge.LifecycleEventListener[16]	TO	javax.annotation.Nullable
+]

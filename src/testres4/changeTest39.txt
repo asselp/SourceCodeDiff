@@ -1,0 +1,4 @@
+[Update	QualifiedName@@org.elasticsearch.transport.TransportService[25]	TO	org.elasticsearch.common.inject.Inject
+, Update	QualifiedName@@org.elasticsearch.util.inject.Inject[26]	TO	org.elasticsearch.common.settings.Settings
+, Update	QualifiedName@@org.elasticsearch.util.settings.Settings[27]	TO	org.elasticsearch.transport.TransportService
+]

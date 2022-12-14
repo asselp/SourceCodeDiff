@@ -1,0 +1,3 @@
+[Update	QualifiedName@@io.ballerina.runtime.api.values.BString[19]	TO	org.ballerinalang.jvm.api.values.BString
+, Update	QualifiedName@@io.ballerina.runtime.scheduling.Scheduler[21]	TO	org.ballerinalang.jvm.scheduling.Scheduler
+]

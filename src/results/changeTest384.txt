@@ -1,0 +1,4 @@
+Insert: MethodInvocation|#|setProperty
+Insert: MethodInvocation|#|setProperty
+Insert: MethodInvocation|#|setProperty
+Insert: MethodInvocation|#|setProperty

@@ -1,0 +1,5 @@
+[Delete	SwitchCase@@[439]
+	Delete	StringLiteral@@"endpointCertificateTimeout"[439]
+, Delete	ReturnStatement@@[439]
+	Delete	QualifiedName@@DeploymentLog.Status.endpointCertificateTimeout[439]
+]

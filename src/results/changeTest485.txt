@@ -1,0 +1,4 @@
+Update: MethodInvocation|#|generateModuleDocs
+Update: SimpleName|#|generateModuleDocs
+Delete: VariableDeclarationStatement
+Delete: SimpleName|#|generateModuleDocsFromBLangPackages

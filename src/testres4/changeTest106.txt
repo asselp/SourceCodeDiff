@@ -1,0 +1,4 @@
+[Insert	ImportDeclaration@@[21]
+	Insert	QualifiedName@@com.hazelcast.spi.impl.operationservice.OperationService[21]
+, Update	QualifiedName@@com.hazelcast.spi.Operation[19]	TO	com.hazelcast.spi.impl.operationservice.Operation
+]

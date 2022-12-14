@@ -1,0 +1,24 @@
+[Update	QualifiedName@@java.io.IOException[20]	TO	java.util.HashMap
+, Update	QualifiedName@@java.util.HashMap[22]	TO	java.util.Map
+, Update	QualifiedName@@java.util.Map[23]	TO	java.util.Set
+, Update	QualifiedName@@java.util.Set[24]	TO	org.neo4j.internal.kernel.api.exceptions.EntityNotFoundException
+, Update	QualifiedName@@org.neo4j.kernel.api.exceptions.EntityNotFoundException[25]	TO	org.neo4j.internal.kernel.api.schema.SchemaDescriptor
+, Update	QualifiedName@@org.neo4j.kernel.api.schema.LabelSchemaDescriptor[31]	TO	org.neo4j.kernel.api.schema.index.SchemaIndexDescriptor
+, Update	SimpleType@@LabelSchemaDescriptor[38]	TO	SchemaDescriptor
+	Update	SimpleName@@LabelSchemaDescriptor[38]	TO	SchemaDescriptor
+, Update	SimpleType@@LabelSchemaDescriptor[40]	TO	SchemaIndexDescriptor
+	Update	SimpleName@@LabelSchemaDescriptor[40]	TO	SchemaIndexDescriptor
+, Update	SimpleName@@schema[42]	TO	descriptor
+, Insert	SuperConstructorInvocation@@[42]
+	Insert	SimpleName@@descriptor[42]
+, Insert	MethodInvocation@@[44]
+	Insert	SimpleName@@descriptor[44]
+	Insert	SimpleName@@schema[44]
+, Delete	SimpleName@@schema[42]
+, Delete	SimpleType@@IOException[53]
+	Delete	SimpleName@@IOException[53]
+, Delete	SimpleType@@IndexEntryConflictException[53]
+	Delete	SimpleName@@IndexEntryConflictException[53]
+, Delete	SimpleType@@IOException[89]
+	Delete	SimpleName@@IOException[89]
+]

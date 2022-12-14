@@ -1,0 +1,3 @@
+Insert: MethodDeclaration
+Insert: IfStatement
+Insert: MethodInvocation|#|resetNative

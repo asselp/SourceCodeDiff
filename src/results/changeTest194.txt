@@ -1,0 +1,6 @@
+Update: QualifiedName|#|org.junit.jupiter.api.Assertions.assertThrows
+Delete: TryStatement
+Delete: MethodInvocation|#|get
+Delete: MethodInvocation|#|fail
+Delete: CatchClause
+Delete: MethodInvocation|#|assertTrue

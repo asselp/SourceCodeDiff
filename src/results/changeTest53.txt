@@ -1,0 +1,5 @@
+Update: QualifiedName|#|org.jboss.ejb.client.legacy.JBossEJBProperties
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|runCallable
+Delete: MethodInvocation|#|setup
+Delete: ImportDeclaration

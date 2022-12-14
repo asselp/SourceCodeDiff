@@ -1,0 +1,10 @@
+[Update	QualifiedName@@org.neo4j.kernel.impl.util.monitoring.ProgressReporter[22]	TO	org.neo4j.kernel.impl.storemigration.monitoring.MigrationProgressMonitor.Section
+, Update	SimpleType@@ProgressReporter[74]	TO	Section
+	Update	SimpleName@@ProgressReporter[74]	TO	Section
+, Update	SimpleName@@progressReporter[74]	TO	section
+, Update	SimpleName@@progressReporter[76]	TO	section
+, Update	SimpleName@@progressReporter[78]	TO	section
+, Update	SimpleName@@progressReporter[77]	TO	section
+, Delete	NumberLiteral@@1[38]
+, Delete	NumberLiteral@@1[54]
+]

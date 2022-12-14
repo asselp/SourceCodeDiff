@@ -1,0 +1,9 @@
+[Insert	ImportDeclaration@@[23]
+	Insert	QualifiedName@@com.hazelcast.test.HazelcastParallelClassRunner[23]
+, Update	QualifiedName@@com.hazelcast.test.HazelcastJUnit4ClassRunner[23]	TO	com.hazelcast.test.HazelcastSerialClassRunner
+, Update	QualifiedName@@com.hazelcast.test.annotation.ParallelTest[26]	TO	com.hazelcast.test.annotation.QuickTest
+, Update	SimpleType@@HazelcastJUnit4ClassRunner[35]	TO	HazelcastParallelClassRunner
+	Update	SimpleName@@HazelcastJUnit4ClassRunner[35]	TO	HazelcastParallelClassRunner
+, Update	SimpleType@@ParallelTest[37]	TO	QuickTest
+	Update	SimpleName@@ParallelTest[37]	TO	QuickTest
+]

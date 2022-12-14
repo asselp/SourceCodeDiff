@@ -1,0 +1,3 @@
+[Update	SimpleType@@AbstractCountDownLatchOperation[24]	TO	BaseCountDownLatchOperation
+	Update	SimpleName@@AbstractCountDownLatchOperation[24]	TO	BaseCountDownLatchOperation
+]

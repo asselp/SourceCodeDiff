@@ -1,0 +1,5 @@
+[Insert	NullLiteral@@[45]
+, Delete	ImportDeclaration@@[26]
+	Delete	QualifiedName@@org.elasticsearch.common.xcontent.XContentType[26]
+, Delete	QualifiedName@@XContentType.JSON[46]
+]

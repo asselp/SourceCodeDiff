@@ -43,20 +43,20 @@ public class GTAction {
 		sb.append("\t");
 		sb.append(convertNodeType(action.getNode().toShortString()));
 		sb.append("[");
-		if(actionType.equals("INS")){
+		if(actionType.equals("Insert")){
 			sb.append(dstCu.getLineNumber(action.getNode().getPos()));
 		}else{
 			sb.append(srcCu.getLineNumber(action.getNode().getPos()));
 		}
 		sb.append("]");
-		if(actionType.equals("MOV")){
+		if(actionType.equals("Move")){
 			Move move = (Move)action;
 			sb.append("\tTO\t");
 			sb.append(convertNodeType(move.getParent().toShortString()));
 			sb.append("[");
 			sb.append(dstCu.getLineNumber(move.getParent().getPos()));
 			sb.append("]");
-		}else if(actionType.equals("UPD")){
+		}else if(actionType.equals("Update")){
 			Update update = (Update)action;
 			sb.append("\tTO\t");
 			sb.append(update.getValue());
@@ -94,13 +94,13 @@ public class GTAction {
 	public static String getActionType(Action action) {
 		String actionType = "";
 		if(action instanceof Insert){
-			actionType = "INS";
+			actionType = "Insert";
 		}else if(action instanceof Delete){
-			actionType = "DEL";
+			actionType = "Delete";
 		}else if(action instanceof Update){
-			actionType = "UPD";
+			actionType = "Update";
 		}else if(action instanceof Move){
-			actionType = "MOV";
+			actionType = "Move";
 		}
 		return actionType;
 	}

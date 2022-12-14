@@ -1,0 +1,25 @@
+[Update	QualifiedName@@java.util.Map[24]	TO	java.util.Collections
+, Update	QualifiedName@@java.util.Set[25]	TO	java.util.Map
+, Update	QualifiedName@@java.util.UUID[26]	TO	java.util.Set
+, Update	QualifiedName@@java.util.concurrent.atomic.AtomicReference[27]	TO	java.util.UUID
+, Move	ParameterizedType@@Map<String,UUID>[38]	TO	FieldDeclaration@@[38]
+, Move	ParameterizedType@@Map<String,UUID>[44]	TO	SingleVariableDeclaration@@[44]
+, Insert	MethodInvocation@@[44]
+	Insert	SimpleName@@Collections[44]
+	Insert	SimpleName@@unmodifiableMap[44]
+	Insert	SimpleName@@names[45]
+, Move	FieldAccess@@[52]	TO	MethodInvocation@@[52]
+, Move	FieldAccess@@[57]	TO	MethodInvocation@@[58]
+, Move	SimpleName@@get[57]	TO	MethodInvocation@@[58]
+, Delete	ParameterizedType@@AtomicReference<Map<String,UUID>>[38]
+	Delete	SimpleType@@AtomicReference[38]
+	Delete	SimpleName@@AtomicReference[38]
+, Delete	ParameterizedType@@AtomicReference<Map<String,UUID>>[43]
+	Delete	SimpleType@@AtomicReference[43]
+	Delete	SimpleName@@AtomicReference[43]
+, Delete	SimpleName@@names[44]
+, Delete	MethodInvocation@@[52]
+	Delete	SimpleName@@get[52]
+, Delete	MethodInvocation@@[57]
+, Delete	SimpleName@@get[57]
+]

@@ -1,0 +1,9 @@
+[Update	PrimitiveType@@int[36]	TO	long
+, Update	PrimitiveType@@int[81]	TO	long
+, Update	PrimitiveType@@int[40]	TO	long
+, Update	PrimitiveType@@int[85]	TO	long
+, Update	PrimitiveType@@int[56]	TO	long
+, Update	PrimitiveType@@int[91]	TO	long
+, Update	SimpleName@@Integer[91]	TO	Long
+, Update	SimpleName@@parseInt[91]	TO	parseLong
+]

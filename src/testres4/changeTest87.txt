@@ -1,0 +1,6 @@
+[Insert	ParameterizedType@@ClassReflectionIndex<?>[168]
+	Insert	SimpleType@@ClassReflectionIndex[168]
+	Insert	WildcardType@@?[168]
+, Move	SimpleName@@ClassReflectionIndex[168]	TO	SimpleType@@ClassReflectionIndex[168]
+, Delete	SimpleType@@ClassReflectionIndex[168]
+]

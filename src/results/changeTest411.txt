@@ -1,0 +1,4 @@
+Update: StringLiteral|#|"    flavor: d-2-8-50\n"
+Update: StringLiteral|#|"    canonicalFlavor: d-2-8-50\n"
+Update: StringLiteral|#|"    flavor: d-2-8-50\n"
+Update: StringLiteral|#|"    canonicalFlavor: d-2-8-50\n"

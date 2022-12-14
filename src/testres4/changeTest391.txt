@@ -1,0 +1,4 @@
+[Delete	MemberValuePair@@[37]
+	Delete	SimpleName@@date[37]
+	Delete	StringLiteral@@"2016-09-18"[37]
+]

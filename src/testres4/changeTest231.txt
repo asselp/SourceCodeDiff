@@ -1,0 +1,3 @@
+[Update	SimpleType@@ReactShadowNodeImpl[97]	TO	ReactShadowNode
+	Update	SimpleName@@ReactShadowNodeImpl[97]	TO	ReactShadowNode
+]

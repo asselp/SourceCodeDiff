@@ -1,0 +1,9 @@
+Update: QualifiedName|#|com.google.common.collect.ImmutableMap
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: Initializer
+Delete: MethodInvocation|#|put
+Delete: MethodInvocation|#|put
+Delete: MethodInvocation|#|put
+Delete: MethodInvocation|#|put
+Delete: MethodInvocation|#|put

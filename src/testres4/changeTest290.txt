@@ -1,0 +1,7 @@
+[Delete	VariableDeclarationFragment@@[75]
+	Delete	SimpleName@@map[75]
+, Delete	VariableDeclarationFragment@@[78]
+	Delete	SimpleName@@map[78]
+, Delete	VariableDeclarationFragment@@[81]
+	Delete	SimpleName@@map[81]
+]

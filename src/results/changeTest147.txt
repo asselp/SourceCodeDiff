@@ -1,0 +1,4 @@
+Update: SimpleName|#|getClassId
+Delete: ReturnStatement
+Delete: Assignment|#|=
+Delete: Assignment|#|=

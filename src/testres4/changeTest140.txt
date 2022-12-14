@@ -1,0 +1,8 @@
+[Update	PrimitiveType@@int[30]	TO	long
+, Update	PrimitiveType@@int[33]	TO	long
+, Update	SimpleName@@writeInt[56]	TO	writeLong
+, Update	SimpleName@@readInt[63]	TO	readLong
+, Update	StringLiteral@@"Lock is not owned by the transaction! Owner: "[44]	TO	"Lock is not owned by the transaction! Caller: "
+, Insert	SimpleName@@lockOwner[45]
+, Insert	StringLiteral@@", Owner: "[45]
+]

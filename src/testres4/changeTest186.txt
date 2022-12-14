@@ -1,0 +1,6 @@
+[Update	QualifiedName@@org.neo4j.cluster.protocol.TimeoutsContext[27]	TO	org.neo4j.cluster.protocol.LoggingContext
+, Update	QualifiedName@@org.neo4j.cluster.protocol.cluster.ClusterMessage[28]	TO	org.neo4j.cluster.protocol.TimeoutsContext
+, Update	QualifiedName@@org.neo4j.logging.LogProvider[29]	TO	org.neo4j.cluster.protocol.cluster.ClusterMessage
+, Update	SimpleType@@LogProvider[35]	TO	LoggingContext
+	Update	SimpleName@@LogProvider[35]	TO	LoggingContext
+]

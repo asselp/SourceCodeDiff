@@ -1,0 +1,3 @@
+Update: QualifiedName|#|org.jboss.as.jacorb.logging.JacORBLogger
+Insert: ThrowStatement
+Delete: ThrowStatement

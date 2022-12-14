@@ -1,0 +1,7 @@
+[Update	QualifiedName@@tachyon.thrift.ClientFileInfo[38]	TO	tachyon.thrift.FileInfo
+, Update	SimpleType@@ClientFileInfo[72]	TO	FileInfo
+	Update	SimpleName@@ClientFileInfo[72]	TO	FileInfo
+, Update	SimpleName@@clientFileInfo[72]	TO	fileInfo
+, Update	SimpleName@@clientFileInfo[74]	TO	fileInfo
+, Update	SimpleName@@clientFileInfo[76]	TO	fileInfo
+]

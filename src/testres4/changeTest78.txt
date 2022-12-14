@@ -1,0 +1,5 @@
+[Insert	MethodInvocation@@[132]
+	Insert	SimpleName@@withFlags[133]
+	Insert	QualifiedName@@Flag.SKIP_LISTENER_NOTIFICATION[133]
+, Move	SimpleName@@creationMetaDataCache[132]	TO	MethodInvocation@@[132]
+]

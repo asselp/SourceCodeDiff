@@ -1,0 +1,4 @@
+Update: MethodInvocation|#|setRequired
+Update: SimpleName|#|setRequired
+Delete: Modifier|#|static
+Delete: QualifiedName|#|EJB3SubsystemModel.TYPE

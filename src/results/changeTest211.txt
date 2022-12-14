@@ -1,0 +1,8 @@
+Update: QualifiedName|#|com.facebook.react.uimanager.common.UIManagerType
+Update: QualifiedName|#|com.facebook.react.uimanager.common.ViewUtil
+Insert: IfStatement
+Insert: InfixExpression|#|==
+Delete: MethodDeclaration
+Delete: MethodDeclaration
+Delete: IfStatement
+Delete: IfStatement

@@ -1,0 +1,21 @@
+[Update	QualifiedName@@com.hazelcast.nio.ConnectionListenable[22]	TO	com.hazelcast.nio.ConnectionListener
+, Insert	MethodDeclaration@@[69]
+, Insert	MethodDeclaration@@[88]
+	Insert	PrimitiveType@@void[88]
+	Insert	SimpleName@@addConnectionListener[88]
+, Move	Javadoc@@[69]	TO	MethodDeclaration@@[69]
+, Move	PrimitiveType@@void[80]	TO	MethodDeclaration@@[69]
+, Move	SimpleName@@destroyConnection[80]	TO	MethodDeclaration@@[69]
+, Move	SingleVariableDeclaration@@[80]	TO	MethodDeclaration@@[69]
+, Move	SingleVariableDeclaration@@[80]	TO	MethodDeclaration@@[69]
+, Move	SingleVariableDeclaration@@[80]	TO	MethodDeclaration@@[88]
+, Update	SimpleType@@String[80]	TO	Throwable
+	Update	SimpleName@@String[80]	TO	Throwable
+, Update	SimpleName@@reason[80]	TO	exception
+, Update	SimpleType@@Throwable[80]	TO	ConnectionListener
+	Update	SimpleName@@Throwable[80]	TO	ConnectionListener
+, Update	SimpleName@@cause[81]	TO	connectionListener
+, Delete	SimpleType@@ConnectionListenable[30]
+	Delete	SimpleName@@ConnectionListenable[30]
+, Delete	MethodDeclaration@@[69]
+]

@@ -1,0 +1,14 @@
+[Update	QualifiedName@@com.hazelcast.instance.GroupProperty[21]	TO	com.hazelcast.instance.GroupProperties
+, Move	TypeLiteral@@[38]	TO	SingleMemberAnnotation@@[38]
+, Update	QualifiedName@@GroupProperty.SLOW_OPERATION_DETECTOR_ENABLED[52]	TO	GroupProperties.PROP_SLOW_OPERATION_DETECTOR_ENABLED
+, Update	QualifiedName@@GroupProperty.SLOW_OPERATION_DETECTOR_THRESHOLD_MILLIS[53]	TO	GroupProperties.PROP_SLOW_OPERATION_DETECTOR_THRESHOLD_MILLIS
+, Update	QualifiedName@@GroupProperty.SLOW_OPERATION_DETECTOR_THRESHOLD_MILLIS[173]	TO	GroupProperties.PROP_SLOW_OPERATION_DETECTOR_THRESHOLD_MILLIS
+, Update	QualifiedName@@GroupProperty.SLOW_OPERATION_DETECTOR_LOG_RETENTION_SECONDS[176]	TO	GroupProperties.PROP_SLOW_OPERATION_DETECTOR_LOG_RETENTION_SECONDS
+, Update	QualifiedName@@GroupProperty.PARTITION_OPERATION_THREAD_COUNT[179]	TO	GroupProperties.PROP_PARTITION_OPERATION_THREAD_COUNT
+, Delete	ImportDeclaration@@[26]
+	Delete	QualifiedName@@com.hazelcast.test.annotation.ParallelTest[26]
+, Delete	ArrayInitializer@@[38]
+	Delete	TypeLiteral@@[38]
+	Delete	SimpleType@@ParallelTest[38]
+	Delete	SimpleName@@ParallelTest[38]
+]

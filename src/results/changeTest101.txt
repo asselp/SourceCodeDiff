@@ -1,0 +1,3 @@
+Update: SimpleName|#|getOrCreateHazelcastInstance
+Insert: IfStatement
+Insert: ReturnStatement

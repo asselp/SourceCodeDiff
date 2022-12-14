@@ -1,0 +1,6 @@
+[Delete	ExpressionStatement@@[212]
+	Delete	MethodInvocation@@[212]
+	Delete	QualifiedName@@System.out[212]
+	Delete	SimpleName@@println[213]
+	Delete	StringLiteral@@"calling"[213]
+]

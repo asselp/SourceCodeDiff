@@ -1,0 +1,8 @@
+Update: QualifiedName|#|org.apache.wicket.injection.web.InjectorHolder
+Insert: MethodDeclaration
+Delete: VariableDeclarationStatement
+Delete: MethodDeclaration
+Delete: MethodInvocation|#|inject
+Delete: MethodDeclaration
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement

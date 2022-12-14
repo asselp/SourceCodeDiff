@@ -1,0 +1,7 @@
+Update: QualifiedName|#|java.util.concurrent.CompletableFuture
+Insert: ImportDeclaration
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|kill
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|setBucket
+Insert: MethodInvocation|#|get

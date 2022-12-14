@@ -1,0 +1,5 @@
+[Delete	SimpleName@@helperId[145]
+, Delete	MethodInvocation@@[145]
+	Delete	SimpleName@@localizer[145]
+	Delete	StringLiteral@@"action.makesitepage"[145]
+]

@@ -1,0 +1,5 @@
+[Delete	MethodDeclaration@@[25]
+	Delete	Javadoc@@[25]
+	Delete	PrimitiveType@@boolean[28]
+	Delete	SimpleName@@isJSDevModeEnabled[28]
+]

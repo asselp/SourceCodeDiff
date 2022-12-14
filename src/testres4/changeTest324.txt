@@ -1,0 +1,13 @@
+[Insert	Block@@[103]
+, Move	ExpressionStatement@@[106]	TO	Block@@[103]
+, Update	SimpleName@@saveOrUpdate[106]	TO	saveOrUpdateAll
+, Update	SimpleName@@item[106]	TO	items
+, Delete	Block@@[103]
+	Delete	EnhancedForStatement@@[103]
+	Delete	SingleVariableDeclaration@@[103]
+	Delete	SimpleType@@SynopticMsgcntrItem[103]
+	Delete	SimpleName@@SynopticMsgcntrItem[103]
+	Delete	SimpleName@@item[104]
+	Delete	SimpleName@@items[106]
+	Delete	Block@@[106]
+]

@@ -1,0 +1,5 @@
+[Update	SimpleType@@MockedClusterServiceModule[61]	TO	TestModule
+	Update	SimpleName@@MockedClusterServiceModule[61]	TO	TestModule
+, Delete	ImportDeclaration@@[31]
+	Delete	QualifiedName@@io.crate.testing.MockedClusterServiceModule[31]
+]

@@ -1,0 +1,6 @@
+Update: QualifiedName|#|org.apache.commons.logging.Log
+Update: QualifiedName|#|org.apache.commons.logging.LogFactory
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: Modifier|#|private
+Delete: Modifier|#|private

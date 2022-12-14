@@ -1,0 +1,5 @@
+Update: QualifiedName|#|org.elasticsearch.common.inject.Inject
+Update: QualifiedName|#|org.elasticsearch.common.settings.Settings
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration

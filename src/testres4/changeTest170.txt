@@ -1,0 +1,7 @@
+[Insert	ImportDeclaration@@[37]
+	Insert	QualifiedName@@org.mockito.Matchers.anyVararg[37]
+, Update	QualifiedName@@org.mockito.ArgumentMatchers.any[34]	TO	org.mockito.Matchers.any
+, Update	QualifiedName@@org.mockito.ArgumentMatchers.anyInt[35]	TO	org.mockito.Matchers.anyInt
+, Update	QualifiedName@@org.mockito.ArgumentMatchers.anyLong[36]	TO	org.mockito.Matchers.anyLong
+, Update	SimpleName@@any[53]	TO	anyVararg
+]

@@ -1,0 +1,5 @@
+Update: QualifiedName|#|com.facebook.react.common.SystemClock
+Delete: ImportDeclaration
+Delete: ClassInstanceCreation
+Delete: ClassInstanceCreation
+Delete: ClassInstanceCreation

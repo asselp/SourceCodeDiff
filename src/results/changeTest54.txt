@@ -1,0 +1,2 @@
+Insert: Modifier|#|public
+Insert: SuperConstructorInvocation

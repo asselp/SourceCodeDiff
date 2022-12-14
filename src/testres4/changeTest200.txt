@@ -1,0 +1,19 @@
+[Update	QualifiedName@@org.neo4j.kernel.InternalAbstractGraphDatabase[35]	TO	org.neo4j.kernel.GraphDatabaseAPI
+, Update	SimpleType@@InternalAbstractGraphDatabase[61]	TO	GraphDatabaseAPI
+	Update	SimpleName@@InternalAbstractGraphDatabase[61]	TO	GraphDatabaseAPI
+, Insert	VariableDeclarationExpression@@[210]
+	Insert	SimpleType@@Transaction[210]
+	Insert	SimpleName@@Transaction[210]
+, Move	VariableDeclarationFragment@@[211]	TO	VariableDeclarationExpression@@[210]
+, Update	SimpleType@@InternalAbstractGraphDatabase[65]	TO	GraphDatabaseAPI
+	Update	SimpleName@@InternalAbstractGraphDatabase[65]	TO	GraphDatabaseAPI
+, Insert	NullLiteral@@[73]
+, Delete	VariableDeclarationStatement@@[211]
+	Delete	SimpleType@@Transaction[211]
+	Delete	SimpleName@@Transaction[211]
+, Delete	Block@@[228]
+	Delete	ExpressionStatement@@[228]
+	Delete	MethodInvocation@@[228]
+	Delete	SimpleName@@tx[228]
+	Delete	SimpleName@@finish[228]
+]

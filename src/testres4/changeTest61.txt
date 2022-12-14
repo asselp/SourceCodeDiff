@@ -1,0 +1,22 @@
+[Insert	MethodInvocation@@[60]
+	Insert	SimpleName@@build[65]
+, Move	MethodInvocation@@[60]	TO	MethodInvocation@@[60]
+, Update	SimpleName@@build[64]	TO	setRestartAllServices
+, Update	SimpleName@@setRestartAllServices[63]	TO	setRequired
+, Insert	BooleanLiteral@@false[64]
+, Update	SimpleName@@setRequired[63]	TO	setAllowExpression
+, Update	BooleanLiteral@@false[63]	TO	true
+, Delete	MethodDeclaration@@[110]
+	Delete	MarkerAnnotation@@[110]
+	Delete	SimpleName@@Override[110]
+	Delete	Modifier@@protected[110]
+	Delete	PrimitiveType@@boolean[111]
+	Delete	SimpleName@@requiresRuntime[111]
+	Delete	SingleVariableDeclaration@@[111]
+	Delete	SimpleType@@OperationContext[111]
+	Delete	SimpleName@@OperationContext[111]
+	Delete	SimpleName@@context[111]
+	Delete	Block@@[111]
+	Delete	ReturnStatement@@[112]
+	Delete	BooleanLiteral@@true[113]
+]

@@ -1,0 +1,18 @@
+[Update	QualifiedName@@org.neo4j.helpers.collection.MapUtil.stringMap[20]	TO	org.junit.After
+, Update	QualifiedName@@org.neo4j.test.ha.ClusterManager.allSeesAllAsJoined[22]	TO	org.junit.Before
+, Update	QualifiedName@@org.neo4j.test.ha.ClusterManager.clusterWithAdditionalClients[23]	TO	org.junit.Test
+, Update	QualifiedName@@org.neo4j.test.ha.ClusterManager.masterAvailable[24]	TO	org.neo4j.kernel.ha.HighlyAvailableGraphDatabase
+, Update	QualifiedName@@org.neo4j.test.ha.ClusterManager.masterSeesMembers[25]	TO	org.neo4j.test.TargetDirectory
+, Update	QualifiedName@@org.junit.After[26]	TO	org.neo4j.test.ha.ClusterManager
+, Update	QualifiedName@@org.junit.Before[28]	TO	org.neo4j.test.ha.ClusterManager.ManagedCluster
+, Update	QualifiedName@@org.junit.Test[30]	TO	org.neo4j.helpers.collection.MapUtil.stringMap
+, Update	QualifiedName@@org.neo4j.kernel.ha.HighlyAvailableGraphDatabase[31]	TO	org.neo4j.test.ha.ClusterManager.allSeesAllAsJoined
+, Update	QualifiedName@@org.neo4j.test.TargetDirectory[32]	TO	org.neo4j.test.ha.ClusterManager.clusterWithAdditionalClients
+, Update	QualifiedName@@org.neo4j.test.ha.ClusterManager[33]	TO	org.neo4j.test.ha.ClusterManager.masterAvailable
+, Update	QualifiedName@@org.neo4j.test.ha.ClusterManager.ManagedCluster[34]	TO	org.neo4j.test.ha.ClusterManager.masterSeesMembers
+, Delete	ImportDeclaration@@[28]
+	Delete	QualifiedName@@org.junit.Ignore[29]
+, Delete	SingleMemberAnnotation@@[35]
+	Delete	SimpleName@@Ignore[35]
+	Delete	StringLiteral@@"build failures make this block forever"[35]
+]

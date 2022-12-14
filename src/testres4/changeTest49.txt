@@ -1,0 +1,19 @@
+[Update	QualifiedName@@org.elasticsearch.index.mapper.core.ByteFieldMapper[45]	TO	org.elasticsearch.index.mapper.core.LegacyByteFieldMapper
+, Update	QualifiedName@@org.elasticsearch.index.mapper.core.DoubleFieldMapper[46]	TO	org.elasticsearch.index.mapper.core.LegacyDoubleFieldMapper
+, Update	QualifiedName@@org.elasticsearch.index.mapper.core.FloatFieldMapper[47]	TO	org.elasticsearch.index.mapper.core.LegacyFloatFieldMapper
+, Update	QualifiedName@@org.elasticsearch.index.mapper.core.IntegerFieldMapper[48]	TO	org.elasticsearch.index.mapper.core.LegacyIntegerFieldMapper
+, Update	QualifiedName@@org.elasticsearch.index.mapper.core.LongFieldMapper[49]	TO	org.elasticsearch.index.mapper.core.LegacyLongFieldMapper
+, Update	QualifiedName@@org.elasticsearch.index.mapper.core.ShortFieldMapper[50]	TO	org.elasticsearch.index.mapper.core.LegacyShortFieldMapper
+, Update	SimpleType@@FloatFieldMapper.Builder[107]	TO	LegacyFloatFieldMapper.Builder
+	Update	QualifiedName@@FloatFieldMapper.Builder[107]	TO	LegacyFloatFieldMapper.Builder
+, Update	SimpleType@@DoubleFieldMapper.Builder[109]	TO	LegacyDoubleFieldMapper.Builder
+	Update	QualifiedName@@DoubleFieldMapper.Builder[109]	TO	LegacyDoubleFieldMapper.Builder
+, Update	SimpleType@@LongFieldMapper.Builder[111]	TO	LegacyLongFieldMapper.Builder
+	Update	QualifiedName@@LongFieldMapper.Builder[111]	TO	LegacyLongFieldMapper.Builder
+, Update	SimpleType@@IntegerFieldMapper.Builder[113]	TO	LegacyIntegerFieldMapper.Builder
+	Update	QualifiedName@@IntegerFieldMapper.Builder[113]	TO	LegacyIntegerFieldMapper.Builder
+, Update	SimpleType@@ShortFieldMapper.Builder[115]	TO	LegacyShortFieldMapper.Builder
+	Update	QualifiedName@@ShortFieldMapper.Builder[115]	TO	LegacyShortFieldMapper.Builder
+, Update	SimpleType@@ByteFieldMapper.Builder[117]	TO	LegacyByteFieldMapper.Builder
+	Update	QualifiedName@@ByteFieldMapper.Builder[117]	TO	LegacyByteFieldMapper.Builder
+]

@@ -11,7 +11,7 @@ import java.util.List;
 public class GumTreeTest {
 
     private static String nameFile(int i) {
-        return "src/testres/changeTest" + String.valueOf(i) + ".txt";
+        return "src/testres2/changeTest" + String.valueOf(i) + ".txt";
     }
     public static void main(String[] args) throws Exception {
 
@@ -35,11 +35,11 @@ public class GumTreeTest {
                 File [] oldNewDir = dir.listFiles();
                 // new, old
 
-                File [] newDir = oldNewDir[0].listFiles();
+                File [] newDir = oldNewDir[1].listFiles();
 
                 File src = new File(newDir[0].getPath());
 
-                File [] oldDir = oldNewDir[1].listFiles();
+                File [] oldDir = oldNewDir[0].listFiles();
 
                 File dst = new File(oldDir[0].getPath());
 

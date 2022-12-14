@@ -1,0 +1,5 @@
+[Update	QualifiedName@@com.google.common.annotations.VisibleForTesting[23]	TO	io.crate.action.sql.ResultReceiver
+, Update	QualifiedName@@io.crate.action.sql.ResultReceiver[25]	TO	io.crate.action.sql.SQLOperations
+, Update	QualifiedName@@io.crate.action.sql.SQLOperations[26]	TO	io.crate.action.sql.Session
+, Update	QualifiedName@@io.crate.action.sql.Session[27]	TO	io.crate.common.annotations.VisibleForTesting
+]

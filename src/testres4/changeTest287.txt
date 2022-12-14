@@ -1,0 +1,4 @@
+[Delete	MethodInvocation@@[36]
+	Delete	SimpleName@@indexSettings[36]
+	Delete	SimpleName@@getIndexVersionCreated[36]
+]

@@ -1,0 +1,7 @@
+[Insert	MemberValuePair@@[195]
+	Insert	SimpleName@@enabled[195]
+	Insert	BooleanLiteral@@false[195]
+, Insert	MemberValuePair@@[219]
+	Insert	SimpleName@@enabled[219]
+	Insert	BooleanLiteral@@false[219]
+]

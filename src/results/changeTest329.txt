@@ -1,0 +1,57 @@
+Update: StringLiteral|#|" detected jQuery '+tver);\n"
+Update: StringLiteral|#|" found jQuery '+tver);\n"
+Update: StringLiteral|#|"jquery/jquery-1.9.1.min.js"
+Delete: StringLiteral|#|"               window.console && console.log
+Delete: StringLiteral|#|"               window.console && console.log
+Delete: StringLiteral|#|"               window.console && console.log
+Delete: StringLiteral|#|"               window.console && console.log
+Delete: MethodInvocation|#|getScriptPath
+Delete: MethodInvocation|#|getScriptPath
+Delete: MethodInvocation|#|getScriptPath
+Delete: MethodInvocation|#|getScriptPath
+Delete: MethodInvocation|#|getScriptPath
+Delete: StringLiteral|#|"} else { \n"
+Delete: StringLiteral|#|"} else { \n"
+Delete: StringLiteral|#|"} else { \n"
+Delete: StringLiteral|#|"   window.console && console.log
+Delete: StringLiteral|#|"   window.console && console.log
+Delete: StringLiteral|#|"   window.console && console.log
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"   if 
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           document.write
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"           window.console && console.log
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"   }\n"
+Delete: StringLiteral|#|"       window.console && console.log
+Delete: StringLiteral|#|"       window.console && console.log
+Delete: StringLiteral|#|"       window.console && console.log

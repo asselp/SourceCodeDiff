@@ -1,0 +1,3 @@
+[Update	QualifiedName@@alluxio.Constants[15]	TO	alluxio.PropertyKey
+, Update	QualifiedName@@Constants.WORKER_ALLOCATOR_CLASS[29]	TO	PropertyKey.WORKER_ALLOCATOR_CLASS
+]

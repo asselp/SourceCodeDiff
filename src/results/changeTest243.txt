@@ -1,0 +1,5 @@
+Update: QualifiedName|#|com.facebook.react.bridge.ReactApplicationContext
+Insert: CastExpression
+Insert: NullLiteral
+Delete: FieldDeclaration
+Delete: ClassInstanceCreation

@@ -1,0 +1,4 @@
+[Update	QualifiedName@@tachyon.worker.block.BlockServiceHandler[52]	TO	tachyon.worker.block.BlockWorkerClientServiceHandler
+, Update	SimpleType@@BlockServiceHandler[67]	TO	BlockWorkerClientServiceHandler
+	Update	SimpleName@@BlockServiceHandler[67]	TO	BlockWorkerClientServiceHandler
+]

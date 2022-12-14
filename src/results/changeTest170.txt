@@ -1,0 +1,17 @@
+Update: QualifiedName|#|org.mockito.Matchers.any
+Update: QualifiedName|#|org.mockito.Matchers.anyInt
+Update: QualifiedName|#|org.mockito.Matchers.anyLong
+Update: QualifiedName|#|org.mockito.Matchers.anyVararg
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: ImportDeclaration
+Delete: MethodInvocation|#|thenReturn
+Delete: MethodInvocation|#|thenReturn
+Delete: MethodInvocation|#|thenReturn
+Delete: MethodInvocation|#|thenReturn

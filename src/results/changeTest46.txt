@@ -1,0 +1,2 @@
+Update: QualifiedName|#|org.elasticsearch.search.internal.SearchContext
+Delete: Modifier|#|protected

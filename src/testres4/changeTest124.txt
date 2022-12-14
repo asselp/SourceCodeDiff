@@ -1,0 +1,10 @@
+[Update	SimpleName@@CONSTANT_TYPE_DATA_SERIALIZABLE[28]	TO	CONSTANT_TYPE_DATA
+, Delete	FieldDeclaration@@[22]
+	Delete	Modifier@@public[22]
+	Delete	Modifier@@static[22]
+	Delete	Modifier@@final[22]
+	Delete	PrimitiveType@@int[24]
+	Delete	VariableDeclarationFragment@@[24]
+	Delete	SimpleName@@CONSTANT_TYPE_NULL[24]
+	Delete	NumberLiteral@@0[24]
+]

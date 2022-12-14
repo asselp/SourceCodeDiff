@@ -1,0 +1,7 @@
+Insert: MethodInvocation|#|assertThat
+Insert: MethodInvocation|#|assertThat
+Insert: MethodInvocation|#|allShards
+Insert: MethodDeclaration
+Insert: MethodInvocation|#|assertThat
+Insert: MethodInvocation|#|assertThat
+Insert: MethodInvocation|#|assertThat

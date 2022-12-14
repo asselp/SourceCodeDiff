@@ -1,0 +1,9 @@
+[Insert	MethodInvocation@@[56]
+	Insert	SimpleName@@build[60]
+, Move	MethodInvocation@@[56]	TO	MethodInvocation@@[56]
+, Update	SimpleName@@build[59]	TO	setFlags
+, Insert	QualifiedName@@AttributeAccess.Flag.RESTART_RESOURCE_SERVICES[59]
+, Update	SimpleName@@setFlags[58]	TO	setAllowNull
+, Insert	BooleanLiteral@@false[58]
+, Delete	QualifiedName@@AttributeAccess.Flag.RESTART_RESOURCE_SERVICES[58]
+]

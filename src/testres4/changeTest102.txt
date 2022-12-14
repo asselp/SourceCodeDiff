@@ -1,0 +1,17 @@
+[Insert	ImportDeclaration@@[29]
+	Insert	QualifiedName@@java.util.UUID[29]
+, Insert	ImportDeclaration@@[29]
+	Insert	QualifiedName@@java.util.concurrent.Future[30]
+, Update	QualifiedName@@com.hazelcast.instance.Node[22]	TO	com.hazelcast.instance.impl.Node
+, Update	QualifiedName@@com.hazelcast.nio.Connection[23]	TO	com.hazelcast.internal.nio.Connection
+, Update	QualifiedName@@com.hazelcast.spi.EventService[26]	TO	com.hazelcast.spi.impl.eventservice.EventService
+, Insert	ParameterizedType@@Future<Boolean>[41]
+	Insert	SimpleType@@Future[41]
+	Insert	SimpleName@@Future[41]
+	Insert	SimpleType@@Boolean[42]
+	Insert	SimpleName@@Boolean[42]
+, Update	SimpleType@@String[45]	TO	UUID
+	Update	SimpleName@@String[45]	TO	UUID
+, Update	SimpleName@@deregisterListener[44]	TO	deregisterListenerAsync
+, Delete	PrimitiveType@@boolean[39]
+]

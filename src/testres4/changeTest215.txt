@@ -1,0 +1,4 @@
+[Update	SimpleName@@getColorInt[194]	TO	getInt
+, Update	SimpleName@@getColorInt[207]	TO	getInt
+, Update	SimpleName@@getColorInt[216]	TO	getInt
+]

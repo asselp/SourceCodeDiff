@@ -1,0 +1,14 @@
+Update: NumberLiteral|#|56
+Delete: MethodInvocation|#|validateError
+Delete: Assignment|#|+=
+Delete: MethodInvocation|#|validateError
+Delete: MethodInvocation|#|validateError
+Delete: Assignment|#|+=
+Delete: MethodInvocation|#|validateError
+Delete: MethodInvocation|#|validateError
+Delete: MethodInvocation|#|validateError
+Delete: MethodInvocation|#|validateError
+Delete: MethodInvocation|#|validateError
+Delete: Assignment|#|+=
+Delete: MethodInvocation|#|validateError
+Delete: NumberLiteral|#|24

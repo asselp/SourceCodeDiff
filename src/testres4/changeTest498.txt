@@ -1,0 +1,6 @@
+[Delete	ImportDeclaration@@[33]
+	Delete	QualifiedName@@org.ballerinalang.util.BLangCompilerConstants.ARRAY_VERSION[33]
+, Delete	MemberValuePair@@[42]
+	Delete	SimpleName@@version[42]
+	Delete	SimpleName@@ARRAY_VERSION[42]
+]

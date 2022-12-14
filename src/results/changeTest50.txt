@@ -1,0 +1,6 @@
+Update: QualifiedName|#|Translog.Operation.Type.INDEX
+Update: QualifiedName|#|Translog.Operation.Type.INDEX
+Delete: MethodInvocation|#|assertThat
+Delete: MethodInvocation|#|assertThat
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement

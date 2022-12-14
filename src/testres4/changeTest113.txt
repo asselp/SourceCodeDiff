@@ -1,0 +1,4 @@
+[Update	QualifiedName@@com.hazelcast.transaction.impl.TransactionSupport[27]	TO	com.hazelcast.transaction.impl.Transaction
+, Update	SimpleType@@TransactionSupport[52]	TO	Transaction
+	Update	SimpleName@@TransactionSupport[52]	TO	Transaction
+]

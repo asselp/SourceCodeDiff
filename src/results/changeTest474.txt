@@ -1,0 +1,13 @@
+Update: QualifiedName|#|org.ballerinalang.jvm.BRuntime
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: LambdaExpression
+Insert: MethodInvocation|#|get
+Insert: ExpressionMethodReference
+Insert: ReturnStatement
+Delete: VariableDeclarationStatement
+Delete: EnhancedForStatement
+Delete: Assignment|#|=
+Delete: ReturnStatement

@@ -1,0 +1,17 @@
+Update: AnonymousClassDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: Modifier|#|public
+Insert: FieldDeclaration
+Insert: AnonymousClassDeclaration
+Delete: ImportDeclaration
+Delete: TypeDeclaration
+Delete: MethodDeclaration
+Delete: MethodDeclaration
+Delete: VariableDeclarationStatement
+Delete: TryStatement
+Delete: TryStatement
+Delete: ForStatement
+Delete: MethodInvocation|#|println
+Delete: VariableDeclarationStatement
+Delete: MethodInvocation|#|execute

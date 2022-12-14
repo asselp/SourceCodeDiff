@@ -1,0 +1,3 @@
+Update: QualifiedName|#|java.nio.file.NoSuchFileException
+Insert: ImportDeclaration
+Insert: ParameterizedType

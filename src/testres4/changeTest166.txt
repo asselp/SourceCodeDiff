@@ -1,0 +1,13 @@
+[Update	QualifiedName@@org.neo4j.causalclustering.core.consensus.log.cache.InFlightCache[23]	TO	org.neo4j.causalclustering.core.consensus.LeaderContext
+, Update	QualifiedName@@org.neo4j.causalclustering.core.consensus.LeaderContext[25]	TO	org.neo4j.causalclustering.core.consensus.RaftMessages
+, Update	QualifiedName@@org.neo4j.causalclustering.core.consensus.RaftMessages[26]	TO	org.neo4j.causalclustering.core.consensus.log.RaftLogEntry
+, Update	QualifiedName@@org.neo4j.causalclustering.core.consensus.schedule.Timer[27]	TO	org.neo4j.causalclustering.core.consensus.log.ReadableRaftLog
+, Update	QualifiedName@@org.neo4j.causalclustering.core.consensus.schedule.TimerService[28]	TO	org.neo4j.causalclustering.core.consensus.log.cache.InFlightCache
+, Update	QualifiedName@@org.neo4j.causalclustering.core.consensus.log.RaftLogEntry[29]	TO	org.neo4j.causalclustering.core.consensus.schedule.Timer
+, Update	QualifiedName@@org.neo4j.causalclustering.core.consensus.log.ReadableRaftLog[30]	TO	org.neo4j.causalclustering.core.consensus.schedule.TimerService
+, Update	QualifiedName@@org.neo4j.causalclustering.messaging.Outbound[31]	TO	org.neo4j.causalclustering.core.state.InFlightLogEntryReader
+, Update	QualifiedName@@org.neo4j.causalclustering.core.state.InFlightLogEntryReader[32]	TO	org.neo4j.causalclustering.identity.MemberId
+, Update	QualifiedName@@org.neo4j.causalclustering.identity.MemberId[33]	TO	org.neo4j.causalclustering.messaging.Outbound
+, Delete	ImportDeclaration@@[43]
+	Delete	QualifiedName@@org.neo4j.causalclustering.core.consensus.schedule.Timer.CancelMode.SYNC_WAIT[43]
+]

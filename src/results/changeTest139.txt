@@ -1,0 +1,4 @@
+Update: QualifiedName|#|com.hazelcast.instance.TestUtil
+Insert: VariableDeclarationStatement
+Delete: VariableDeclarationStatement
+Delete: VariableDeclarationStatement

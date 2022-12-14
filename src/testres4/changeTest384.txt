@@ -1,0 +1,21 @@
+[Insert	ExpressionStatement@@[84]
+	Insert	MethodInvocation@@[84]
+	Insert	SimpleName@@System[84]
+	Insert	SimpleName@@setProperty[85]
+	Insert	QualifiedName@@Constants.SECURITY_LOGIN_USERNAME[85]
+	Insert	StringLiteral@@""[85]
+, Insert	ExpressionStatement@@[142]
+	Insert	MethodInvocation@@[142]
+	Insert	SimpleName@@System[142]
+	Insert	SimpleName@@setProperty[142]
+	Insert	QualifiedName@@Constants.SECURITY_LOGIN_USERNAME[142]
+	Insert	StringLiteral@@""[144]
+, Update	SimpleName@@conf[76]	TO	System
+, Update	SimpleName@@set[76]	TO	setProperty
+, Update	SimpleName@@conf[95]	TO	System
+, Update	SimpleName@@set[95]	TO	setProperty
+, Update	SimpleName@@conf[128]	TO	System
+, Update	SimpleName@@set[128]	TO	setProperty
+, Update	SimpleName@@conf[147]	TO	System
+, Update	SimpleName@@set[147]	TO	setProperty
+]

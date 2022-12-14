@@ -1,0 +1,7 @@
+Update: QualifiedName|#|java.util.Collections
+Delete: ImportDeclaration
+Delete: FieldDeclaration
+Delete: MethodDeclaration
+Delete: Assignment|#|=
+Delete: ReturnStatement
+Delete: VariableDeclarationStatement

@@ -1,0 +1,3 @@
+Insert: MethodInvocation|#|clear
+Insert: MethodInvocation|#|add
+Insert: MethodInvocation|#|add

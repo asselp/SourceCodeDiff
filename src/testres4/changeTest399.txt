@@ -1,0 +1,28 @@
+[Update	QualifiedName@@tachyon.worker.lineage.LineageWorker[28]	TO	tachyon.worker.file.FileSystemWorker
+, Update	SimpleType@@LineageWorker[79]	TO	FileSystemWorker
+	Update	SimpleName@@LineageWorker[79]	TO	FileSystemWorker
+, Update	SimpleName@@getLineageWorker[82]	TO	getFileSystemWorker
+, Move	ExpressionStatement@@[136]	TO	Block@@[127]
+, Move	ExpressionStatement@@[149]	TO	Block@@[145]
+, Update	SimpleName@@mLineageWorker[82]	TO	mFileSystemWorker
+, Update	SimpleName@@mLineageWorker[136]	TO	mFileSystemWorker
+, Update	SimpleName@@mLineageWorker[149]	TO	mFileSystemWorker
+, Delete	ImportDeclaration@@[25]
+	Delete	QualifiedName@@tachyon.util.LineageUtils[25]
+, Delete	IfStatement@@[133]
+	Delete	MethodInvocation@@[133]
+	Delete	SimpleName@@LineageUtils[133]
+	Delete	SimpleName@@isLineageEnabled[134]
+	Delete	MethodInvocation@@[134]
+	Delete	SimpleName@@WorkerContext[134]
+	Delete	SimpleName@@getConf[135]
+	Delete	Block@@[136]
+, Delete	IfStatement@@[147]
+	Delete	MethodInvocation@@[147]
+	Delete	SimpleName@@LineageUtils[147]
+	Delete	SimpleName@@isLineageEnabled[147]
+	Delete	MethodInvocation@@[147]
+	Delete	SimpleName@@WorkerContext[147]
+	Delete	SimpleName@@getConf[148]
+	Delete	Block@@[149]
+]

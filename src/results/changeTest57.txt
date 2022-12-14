@@ -1,0 +1,1 @@
+Update: QualifiedName|#|org.wildfly.naming.java.permission.JndiPermission

@@ -1,0 +1,11 @@
+[Update	SimpleName@@seek[63]	TO	lookup
+, Update	SimpleName@@seek[153]	TO	lookup
+, Delete	ExpressionStatement@@[77]
+	Delete	MethodInvocation@@[77]
+	Delete	SimpleName@@populator[77]
+	Delete	SimpleName@@create[77]
+, Delete	ExpressionStatement@@[94]
+	Delete	MethodInvocation@@[94]
+	Delete	SimpleName@@populator[94]
+	Delete	SimpleName@@create[94]
+]

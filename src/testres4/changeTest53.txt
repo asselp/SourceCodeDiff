@@ -1,0 +1,35 @@
+[Update	QualifiedName@@org.jboss.as.test.clustering.EJBClientContextSelector[33]	TO	org.jboss.as.test.clustering.cluster.registry.bean.RegistryRetriever
+, Update	QualifiedName@@org.jboss.as.test.clustering.cluster.registry.bean.RegistryRetriever[34]	TO	org.jboss.as.test.clustering.cluster.registry.bean.RegistryRetrieverBean
+, Update	QualifiedName@@org.jboss.as.test.clustering.cluster.registry.bean.RegistryRetrieverBean[35]	TO	org.jboss.as.test.clustering.ejb.EJBDirectory
+, Update	QualifiedName@@org.jboss.as.test.clustering.ejb.EJBDirectory[36]	TO	org.jboss.as.test.clustering.ejb.RemoteEJBDirectory
+, Update	QualifiedName@@org.jboss.as.test.clustering.ejb.RemoteEJBDirectory[37]	TO	org.jboss.as.test.shared.util.DisableInvocationTestUtil
+, Update	QualifiedName@@org.jboss.as.test.shared.util.DisableInvocationTestUtil[38]	TO	org.jboss.ejb.client.legacy.JBossEJBProperties
+, Insert	Block@@[69]
+	Insert	VariableDeclarationStatement@@[69]
+	Insert	SimpleType@@JBossEJBProperties[69]
+	Insert	SimpleName@@JBossEJBProperties[69]
+	Insert	VariableDeclarationFragment@@[72]
+	Insert	SimpleName@@properties[72]
+	Insert	MethodInvocation@@[73]
+	Insert	SimpleName@@JBossEJBProperties[73]
+	Insert	SimpleName@@fromClassPath[73]
+	Insert	MethodInvocation@@[74]
+	Insert	TypeLiteral@@[74]
+	Insert	SimpleType@@RegistryTestCase[74]
+	Insert	SimpleName@@RegistryTestCase[74]
+	Insert	SimpleName@@getClassLoader[74]
+	Insert	SimpleName@@CLIENT_PROPERTIES[74]
+	Insert	ExpressionStatement@@[74]
+	Insert	MethodInvocation@@[74]
+	Insert	SimpleName@@properties[74]
+	Insert	SimpleName@@runCallable[74]
+	Insert	LambdaExpression@@[74]
+, Move	Block@@[69]	TO	LambdaExpression@@[74]
+, Insert	ReturnStatement@@[80]
+	Insert	NullLiteral@@[80]
+, Delete	ExpressionStatement@@[76]
+	Delete	MethodInvocation@@[76]
+	Delete	SimpleName@@EJBClientContextSelector[76]
+	Delete	SimpleName@@setup[77]
+	Delete	SimpleName@@CLIENT_PROPERTIES[77]
+]

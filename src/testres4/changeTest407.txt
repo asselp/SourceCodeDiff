@@ -1,0 +1,2 @@
+[Update	QualifiedName@@com.yahoo.vespa.hosted.node.admin.docker.ContainerOperations[5]	TO	com.yahoo.vespa.hosted.node.admin.container.ContainerOperations
+]

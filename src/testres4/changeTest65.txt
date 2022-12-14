@@ -1,0 +1,15 @@
+[Move	MethodInvocation@@[56]	TO	Assignment@@=[56]
+	Move	SimpleName@@configurator[56]	TO	MethodInvocation@@[56]
+, Move	MethodInvocation@@[56]	TO	MethodInvocation@@[56]
+, Update	SimpleName@@configurator[56]	TO	build
+, Update	SimpleName@@setFlags[60]	TO	configurator
+, Insert	SimpleName@@apply[55]
+, Update	SimpleName@@setAttributeParser[58]	TO	setFlags
+, Update	QualifiedName@@AttributeParsers.COLLECTION[59]	TO	AttributeAccess.Flag.RESTART_RESOURCE_SERVICES
+, Delete	ImportDeclaration@@[26]
+	Delete	QualifiedName@@org.jboss.as.clustering.controller.AttributeParsers[26]
+, Delete	SimpleName@@apply[56]
+, Delete	QualifiedName@@AttributeAccess.Flag.RESTART_RESOURCE_SERVICES[60]
+, Delete	MethodInvocation@@[56]
+	Delete	SimpleName@@build[61]
+]

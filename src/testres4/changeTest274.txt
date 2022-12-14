@@ -1,0 +1,18 @@
+[Insert	VariableDeclarationStatement@@[42]
+	Insert	SimpleType@@TransportDropUserAction[42]
+	Insert	SimpleName@@TransportDropUserAction[42]
+	Insert	VariableDeclarationFragment@@[42]
+	Insert	SimpleName@@transportDropUserAction[42]
+	Insert	ClassInstanceCreation@@[43]
+	Insert	SimpleType@@TransportDropUserAction[43]
+	Insert	SimpleName@@TransportDropUserAction[43]
+	Insert	SimpleName@@settings[43]
+	Insert	SimpleName@@transportService[43]
+	Insert	SimpleName@@clusterService[43]
+	Insert	SimpleName@@threadPool[44]
+	Insert	SimpleName@@actionFilters[44]
+	Insert	SimpleName@@indexNameExpressionResolver[44]
+, Update	SimpleName@@transportAction[40]	TO	transportCreateAction
+, Update	SimpleName@@transportAction[43]	TO	transportCreateAction
+, Insert	SimpleName@@transportDropUserAction[45]
+]

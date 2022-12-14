@@ -1,0 +1,5 @@
+[Update	QualifiedName@@org.elasticsearch.index.query.QueryShardContext[27]	TO	org.elasticsearch.search.internal.SearchContext
+, Update	SimpleType@@QueryShardContext[65]	TO	SearchContext
+	Update	SimpleName@@QueryShardContext[65]	TO	SearchContext
+, Update	SimpleName@@queryShardContext[66]	TO	context
+]
