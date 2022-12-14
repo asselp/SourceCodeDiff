@@ -1,0 +1,17 @@
+Insert: Modifier|#|public
+Insert: Modifier|#|public
+Insert: MarkerAnnotation
+Insert: Modifier|#|public
+Insert: ReturnStatement
+Insert: ImportDeclaration
+Insert: ReturnStatement
+Insert: MethodDeclaration
+Insert: Modifier|#|public
+Insert: Modifier|#|public
+Insert: Modifier|#|public
+Insert: MarkerAnnotation
+Insert: Modifier|#|public
+Insert: ImportDeclaration
+Insert: ReturnStatement
+Insert: MethodDeclaration
+Insert: Modifier|#|public

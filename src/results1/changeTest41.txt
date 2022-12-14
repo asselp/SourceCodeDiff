@@ -1,0 +1,2 @@
+Update: StringLiteral|#|"explicit index in multi search is not allowed"
+Insert: ThrowStatement

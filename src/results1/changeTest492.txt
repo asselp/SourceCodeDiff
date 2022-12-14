@@ -1,0 +1,5 @@
+Update: QualifiedName|#|org.ballerinalang.packerina.model.ExecutableJar
+Insert: ImportDeclaration
+Insert: MethodInvocation|#|put
+Insert: MethodInvocation|#|put
+Insert: MethodInvocation|#|put

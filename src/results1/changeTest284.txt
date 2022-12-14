@@ -1,0 +1,8 @@
+Update: QualifiedName|#|io.crate.data.InMemoryBatchIterator
+Update: QualifiedName|#|io.crate.testing.TestingRowConsumer
+Update: QualifiedName|#|io.crate.data.SentinelRow.SENTINEL
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement

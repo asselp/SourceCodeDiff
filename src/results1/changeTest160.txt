@@ -1,0 +1,11 @@
+Update: PrimitiveType|#|long
+Update: PrimitiveType|#|long
+Update: PrimitiveType|#|long
+Update: PrimitiveType|#|long
+Update: PrimitiveType|#|long
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: VariableDeclarationStatement
+Insert: MethodDeclaration
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement

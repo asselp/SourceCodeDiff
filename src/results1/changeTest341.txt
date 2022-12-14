@@ -1,0 +1,12 @@
+Update: QualifiedName|#|org.sakaiproject.gradebookng.business.model.GbStudentNameSortOrder
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|add
+Insert: Modifier|#|private
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: IfStatement
+Insert: MethodInvocation|#|add
+Insert: Modifier|#|private
+Insert: VariableDeclarationStatement
+Insert: IfStatement

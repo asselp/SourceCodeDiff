@@ -1,0 +1,2 @@
+Insert: TypeDeclaration
+Insert: MethodDeclaration

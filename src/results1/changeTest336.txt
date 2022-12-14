@@ -1,0 +1,6 @@
+Update: SimpleName|#|siteTitle
+Update: SimpleName|#|siteTitle
+Insert: MethodInvocation|#|put
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|put
+Insert: MethodInvocation|#|put

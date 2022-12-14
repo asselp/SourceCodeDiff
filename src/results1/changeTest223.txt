@@ -1,0 +1,9 @@
+Update: QualifiedName|#|com.facebook.infer.annotation.Assertions
+Insert: ImportDeclaration
+Insert: TypeDeclaration
+Insert: FieldDeclaration
+Insert: Modifier|#|public
+Insert: ReturnStatement
+Insert: FieldDeclaration
+Insert: Modifier|#|public
+Insert: ReturnStatement

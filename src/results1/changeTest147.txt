@@ -1,0 +1,5 @@
+Update: SimpleName|#|getClassId
+Insert: ReturnStatement
+Insert: Assignment|#|=
+Insert: Modifier|#|public
+Insert: Assignment|#|=

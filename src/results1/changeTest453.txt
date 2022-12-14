@@ -1,0 +1,9 @@
+Update: StringLiteral|#|"Error from Connector: {ballerina/grpc}InternalError - No registered method "
+Update: StringLiteral|#|"descriptor for 'grpcservices.HelloWorld98/hello1'"
+Insert: VariableDeclarationStatement
+Insert: StringLiteral|#|"05_invalid_resource_client.bal"
+Insert: VariableDeclarationStatement
+Insert: StringLiteral|#|"descriptor for 'grpcservices.HelloWorld98/hello1'"
+Insert: VariableDeclarationStatement
+Insert: StringLiteral|#|"the message"
+Insert: StringLiteral|#|"the message"

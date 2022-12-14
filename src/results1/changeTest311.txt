@@ -1,0 +1,8 @@
+Update: StringLiteral|#|"nav nav-pills"
+Insert: MethodDeclaration
+Insert: MethodInvocation|#|appendJavaScript
+Insert: ReturnStatement
+Insert: MethodInvocation|#|appendJavaScript
+Insert: InfixExpression|#|+
+Insert: MethodDeclaration
+Insert: InfixExpression|#|+

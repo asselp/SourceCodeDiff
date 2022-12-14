@@ -1,0 +1,11 @@
+Update: QualifiedName|#|com.yahoo.vespa.config.server.MockTesterClient
+Insert: ImportDeclaration
+Insert: ClassInstanceCreation
+Insert: SimpleName|#|instanceName
+Insert: MethodInvocation|#|deploy
+Insert: ClassInstanceCreation
+Insert: Modifier|#|public
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|assertEquals
+Insert: ClassInstanceCreation
+Insert: Modifier|#|public

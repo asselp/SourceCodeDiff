@@ -1,0 +1,13 @@
+Update: QualifiedName|#|org.neo4j.internal.kernel.api.schema.SchemaDescriptor
+Update: QualifiedName|#|org.neo4j.kernel.api.schema.index.SchemaIndexDescriptor
+Update: SimpleType|#|SchemaDescriptor
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: SuperConstructorInvocation
+Insert: Assignment|#|=
+Insert: SimpleType|#|IndexEntryConflictException
+Insert: ImportDeclaration
+Insert: Assignment|#|=

@@ -1,0 +1,7 @@
+Update: QualifiedName|#|org.elasticsearch.client.watcher.DeactivateWatchRequest
+Insert: ImportDeclaration
+Insert: MethodDeclaration
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|assertEquals
+Insert: VariableDeclarationStatement

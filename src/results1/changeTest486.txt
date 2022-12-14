@@ -1,0 +1,8 @@
+Insert: IfStatement
+Insert: Assignment|#|=
+Insert: MethodDeclaration
+Insert: IfStatement
+Insert: MethodInvocation|#|equals
+Insert: VariableDeclarationStatement
+Insert: ReturnStatement
+Insert: IfStatement

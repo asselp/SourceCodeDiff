@@ -1,0 +1,12 @@
+Update: QualifiedName|#|junit.framework.TestCase
+Insert: MethodInvocation|#|assertEquals
+Insert: MethodInvocation|#|assertEquals
+Insert: MethodInvocation|#|assertEquals
+Insert: MethodInvocation|#|assertEquals
+Insert: ImportDeclaration
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|assertNotNull
+Insert: MethodInvocation|#|assertNull
+Insert: MethodInvocation|#|assertNotNull
+Insert: MethodInvocation|#|assertNull
+Insert: MethodInvocation|#|assertEquals

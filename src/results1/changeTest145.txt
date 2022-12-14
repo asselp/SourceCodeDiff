@@ -1,0 +1,5 @@
+Update: QualifiedName|#|com.hazelcast.instance.impl.Node
+Update: QualifiedName|#|com.hazelcast.internal.nio.Connection
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: MethodDeclaration

@@ -1,0 +1,10 @@
+Update: QualifiedName|#|org.sakaiproject.util.api.FormattedText
+Update: QualifiedName|#|lombok.Setter
+Insert: ReturnStatement
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: FieldDeclaration
+Insert: FieldDeclaration
+Insert: ReturnStatement
+Insert: FieldDeclaration

@@ -1,0 +1,3 @@
+Insert: TypeDeclaration
+Insert: SingleVariableDeclaration
+Insert: SingleVariableDeclaration

@@ -1,0 +1,4 @@
+Update: QualifiedName|#|org.wildfly.clustering.marshalling.spi.IndexExternalizer
+Insert: ImportDeclaration
+Insert: MethodInvocation|#|writeData
+Insert: VariableDeclarationStatement

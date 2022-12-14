@@ -120,36 +120,6 @@ public class Matcher {
 
         List<Map<Integer, List<String>>> unchanged2 = new ArrayList<>();
 
-        for (int key : dstFileMap.keySet()) {
-            List<String> currentValue = dstFileMap.get(key);
-            if (srcFileMap.containsValue(currentValue)) {
-                int keyOfValueSrc = getKey(srcFileMap, currentValue);
-                if (Math.abs(key - keyOfValueSrc) <= 3) {
-                    Map<Integer, List<String>> potentialUnchanged = new HashMap<>();
-                    potentialUnchanged.put(key, currentValue);
-                    unchanged2.add(potentialUnchanged);
-                }
-            } else {
-                if (!srcFileMap.containsValue(currentValue) && srcFileMap.containsKey(key)) {
-                    int currentValueLength = currentValue.size();
-                    List<String> valueAtKeySrc = srcFileMap.get(key);
-                    int valueAtKeySrcLength = valueAtKeySrc.size();
-                    if (currentValueLength == valueAtKeySrcLength) {
-                        List<String> differences = new ArrayList<>(currentValue);
-                        differences.removeAll(valueAtKeySrc);
-                        if (differences.size() == 1) {
-                            Map<Integer, List<String>> potentialUpdate = new HashMap<>();
-                            potentialUpdate.put(key, differences);
-                            potentialUpdates.add(potentialUpdate);
-                        }
-                    }
-                } else {
-                    Map<Integer, List<String>> potentialInsert = new HashMap<>();
-                    potentialInsert.put(key, currentValue);
-                    potentialInserts.add(potentialInsert);
-                }
-            }
-        }
         for (int key : srcFileMap.keySet()) {
             List<String> currentValue = srcFileMap.get(key);
             if (dstFileMap.containsValue(currentValue)) {
@@ -175,30 +145,135 @@ public class Matcher {
                 }
             }
         }
+        for (int key : dstFileMap.keySet()) {
+            List<String> currentValue = dstFileMap.get(key);
+            if (srcFileMap.containsValue(currentValue)) {
+                int keySrc = getKey(srcFileMap, currentValue);
+                if (key == keySrc) {
+                    Map<Integer, List<String>> potentialUnchanged = new HashMap<>();
+                    potentialUnchanged.put(key, currentValue);
+                    unchanged.add(potentialUnchanged);
+                }
+
+            } else {
+                Map<Integer, List<String>> potentialInsert = new HashMap<>();
+                potentialInsert.put(key, currentValue);
+                potentialInserts.add(potentialInsert);
+            }
+        }
+
+        for (int key : dstFileMap.keySet()) {
+            List<String> currentValue = dstFileMap.get(key);
+            if (srcFileMap.containsValue(currentValue)) {
+                int keyOfValueSrc = getKey(srcFileMap, currentValue);
+                if (Math.abs(key - keyOfValueSrc) <= 3) {
+                    Map<Integer, List<String>> potentialUnchanged = new HashMap<>();
+                    potentialUnchanged.put(key, currentValue);
+                    unchanged2.add(potentialUnchanged);
+                }
+            } else if (!srcFileMap.containsValue(currentValue) && srcFileMap.containsKey(key)) {
+                int currentValueLength = currentValue.size();
+                List<String> valueAtKeySrc = srcFileMap.get(key);
+                int valueAtKeySrcLength = valueAtKeySrc.size();
+                if (currentValueLength == valueAtKeySrcLength) {
+                    List<String> differences = new ArrayList<>(currentValue);
+                    differences.removeAll(valueAtKeySrc);
+                    if (differences.size() == 1) {
+                        Map<Integer, List<String>> potentialUpdate = new HashMap<>();
+                        potentialUpdate.put(key, differences);
+                        potentialUpdates.add(potentialUpdate);
+                    }
+                }
+            } else {
+                Map<Integer, List<String>> potentialInsert = new HashMap<>();
+                potentialInsert.put(key, currentValue);
+                potentialInserts.add(potentialInsert);
+
+            }
+        }
+
+//        for (int key : dstFileMap.keySet()) {
+//            List<String> currentValue = dstFileMap.get(key);
+//            if (srcFileMap.containsValue(currentValue)) {
+//                int keyOfValueSrc = getKey(srcFileMap, currentValue);
+//                if (Math.abs(key - keyOfValueSrc) <= 3) {
+//                    Map<Integer, List<String>> potentialUnchanged = new HashMap<>();
+//                    potentialUnchanged.put(key, currentValue);
+//                    unchanged2.add(potentialUnchanged);
+//                }
+//            } else if (!srcFileMap.containsValue(currentValue) && srcFileMap.containsKey(key)) {
+//                int currentValueLength = currentValue.size();
+//                List<String> valueAtKeySrc = srcFileMap.get(key);
+//                int valueAtKeySrcLength = valueAtKeySrc.size();
+//                if (currentValueLength == valueAtKeySrcLength) {
+//                    List<String> differences = new ArrayList<>(currentValue);
+//                    differences.removeAll(valueAtKeySrc);
+//                    if (differences.size() == 1) {
+//                        Map<Integer, List<String>> potentialUpdate = new HashMap<>();
+//                        potentialUpdate.put(key, differences);
+//                        potentialUpdates.add(potentialUpdate);
+//                    }
+//                }
+//            } else {
+//                Map<Integer, List<String>> potentialInsert = new HashMap<>();
+//                potentialInsert.put(key, currentValue);
+//                potentialInserts.add(potentialInsert);
+//
+//            }
+//        }
+
+
+//        for (int key : srcFileMap.keySet()) {
+//            List<String> currentValue = srcFileMap.get(key);
+//            if (dstFileMap.containsValue(currentValue)) {
+//                int keyDst = getKey(dstFileMap, currentValue);
+//                if (key == keyDst) {
+//                    Map<Integer, List<String>> potentialUnchanged = new HashMap<>();
+//                    potentialUnchanged.put(key, currentValue);
+//                    unchanged2.add(potentialUnchanged);
+//                }
+////                else {
+////
+////                    if (Math.abs(key - keyDst) <= 3) {
+////                        Map<Integer, List<String>> potentialMove = new HashMap<>();
+////                        potentialMove.put(key, currentValue);
+////                        potentialMoves.add(potentialMove);
+////                    }
+////                }
+//            } else {
+//                Map<Integer, List<String>> potentialDelete = new HashMap<>();
+//                potentialDelete.put(key, currentValue);
+//                potentialDeletes.add(potentialDelete);
+//            }
+//        }
 
         System.out.println();
         StringBuffer stringBuffer2 = new StringBuffer();
 
-        for (Map<Integer, List<String>> map : potentialUpdates) {
+        for (
+                Map<Integer, List<String>> map : potentialUpdates) {
             for (List<String> list : map.values()) {
                 stringBuffer2.append("Update: " + list.get(0));
                 stringBuffer2.append("\n");
             }
         }
-        for (Map<Integer, List<String>> map : potentialInserts) {
+        for (
+                Map<Integer, List<String>> map : potentialInserts) {
             for (List<String> list : map.values()) {
                 stringBuffer2.append("Insert: " + list.get(0));
                 stringBuffer2.append("\n");
             }
         }
-        for (Map<Integer, List<String>> map : potentialMoves) {
+        for (
+                Map<Integer, List<String>> map : potentialMoves) {
             for (List<String> list : map.values()) {
                 stringBuffer2.append("Move: " + list.get(0));
                 stringBuffer2.append("\n");
             }
         }
 
-        for (Map<Integer, List<String>> map : potentialDeletes) {
+        for (
+                Map<Integer, List<String>> map : potentialDeletes) {
             for (List<String> list : map.values()) {
                 stringBuffer2.append("Delete: " + list.get(0));
                 stringBuffer2.append("\n");

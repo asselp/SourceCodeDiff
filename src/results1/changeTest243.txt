@@ -1,0 +1,15 @@
+Update: QualifiedName|#|com.facebook.react.bridge.ReactApplicationContext
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: IfStatement
+Insert: Assignment|#|=
+Insert: CastExpression
+Insert: NullLiteral
+Insert: BooleanLiteral|#|false
+Insert: IfStatement
+Insert: Assignment|#|=
+Insert: CastExpression
+Insert: NullLiteral
+Insert: BooleanLiteral|#|false
+Insert: CastExpression
+Insert: NullLiteral

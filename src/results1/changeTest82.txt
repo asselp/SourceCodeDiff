@@ -1,0 +1,5 @@
+Insert: MethodInvocation|#|install
+Insert: SimpleName|#|addAliases
+Insert: SimpleName|#|setInitialMode
+Insert: SimpleName|#|install
+Insert: SimpleName|#|install

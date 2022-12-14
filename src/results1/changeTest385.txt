@@ -1,0 +1,17 @@
+Update: QualifiedName|#|tachyon.conf.TachyonConf
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: Assignment|#|=
+Insert: VariableDeclarationStatement
+Insert: QualifiedName|#|Constants.DEFAULT_JOURNAL_FOLDER
+Insert: VariableDeclarationStatement
+Insert: SimpleName|#|mTachyonConf
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|createRawTable
+Insert: VariableDeclarationStatement
+Insert: ClassInstanceCreation
+Insert: SimpleName|#|mTachyonConf
+Insert: FieldDeclaration
+Insert: Assignment|#|=
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement

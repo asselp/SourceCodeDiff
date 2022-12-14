@@ -1,0 +1,8 @@
+Insert: SimpleName|#|listener
+Insert: ConstructorInvocation
+Insert: SingleVariableDeclaration
+Insert: SingleVariableDeclaration
+Insert: SingleVariableDeclaration
+Insert: SuperConstructorInvocation
+Insert: SingleVariableDeclaration
+Insert: SuperConstructorInvocation

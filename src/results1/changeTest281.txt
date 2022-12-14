@@ -1,0 +1,7 @@
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration

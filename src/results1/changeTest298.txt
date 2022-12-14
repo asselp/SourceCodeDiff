@@ -1,0 +1,10 @@
+Update: NullLiteral
+Insert: MethodInvocation|#|parameters
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: MethodInvocation|#|add
+Insert: NullLiteral
+Insert: MethodInvocation|#|parameters

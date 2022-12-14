@@ -1,0 +1,3 @@
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|add
+Insert: ReturnStatement

@@ -1,0 +1,3 @@
+Update: QualifiedName|#|io.crate.action.SQLXContentQueryParser
+Insert: ImportDeclaration
+Insert: MethodInvocation|#|toInstance

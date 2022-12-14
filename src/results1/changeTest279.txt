@@ -1,0 +1,14 @@
+Update: SimpleName|#|relationName
+Update: QualifiedName|#|io.crate.metadata.RelationName
+Update: SimpleType|#|RelationName
+Update: SimpleName|#|relationName
+Update: SimpleName|#|relationName
+Insert: Assignment|#|=
+Insert: MethodInvocation|#|writeTo
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: Assignment|#|=
+Insert: MethodDeclaration
+Insert: ReturnStatement
+Insert: IfStatement

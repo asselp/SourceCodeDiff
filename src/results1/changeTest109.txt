@@ -1,0 +1,4 @@
+Insert: Modifier|#|protected
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement

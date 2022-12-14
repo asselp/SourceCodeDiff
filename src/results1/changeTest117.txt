@@ -1,0 +1,7 @@
+Update: QualifiedName|#|com.hazelcast.concurrent.atomicreference.AtomicReferenceAbstractTest
+Update: QualifiedName|#|com.hazelcast.test.annotation.ParallelTest
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: SingleMemberAnnotation
+Insert: Modifier|#|public
+Insert: Modifier|#|public

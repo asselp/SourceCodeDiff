@@ -1,0 +1,7 @@
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|updateRootView
+Insert: MethodInvocation|#|dispatchViewUpdates
+Insert: Modifier|#|public
+Insert: SingleVariableDeclaration
+Insert: MethodInvocation|#|registerRootView
+Insert: Modifier|#|public

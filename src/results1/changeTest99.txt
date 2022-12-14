@@ -1,0 +1,3 @@
+Update: QualifiedName|#|org.junit.FixMethodOrder
+Insert: ImportDeclaration
+Insert: MarkerAnnotation

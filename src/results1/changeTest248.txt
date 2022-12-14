@@ -1,0 +1,14 @@
+Update: QualifiedName|#|androidx.annotation.IntDef
+Insert: MethodDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: FieldDeclaration
+Insert: FieldDeclaration
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|setDisplayModeNative
+Insert: MethodDeclaration
+Insert: FieldDeclaration
+Insert: Modifier|#|public
+Insert: MethodInvocation|#|setDisplayModeNative

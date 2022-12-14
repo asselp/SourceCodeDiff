@@ -1,0 +1,4 @@
+Insert: Modifier|#|public
+Insert: ReturnStatement
+Insert: Modifier|#|public
+Insert: ReturnStatement

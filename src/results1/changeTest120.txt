@@ -1,0 +1,3 @@
+Update: QualifiedName|#|com.hazelcast.test.annotation.ParallelTest
+Insert: ImportDeclaration
+Insert: SingleMemberAnnotation

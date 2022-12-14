@@ -1,0 +1,7 @@
+Insert: FieldDeclaration
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|get
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|get

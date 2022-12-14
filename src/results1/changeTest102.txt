@@ -1,0 +1,14 @@
+Update: QualifiedName|#|com.hazelcast.instance.impl.Node
+Update: QualifiedName|#|com.hazelcast.internal.nio.Connection
+Update: QualifiedName|#|com.hazelcast.spi.impl.eventservice.EventService
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: Modifier|#|protected
+Insert: ReturnStatement
+Insert: Modifier|#|protected
+Insert: ImportDeclaration
+Insert: ReturnStatement
+Insert: Modifier|#|protected

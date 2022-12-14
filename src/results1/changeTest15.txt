@@ -1,0 +1,8 @@
+Update: QualifiedName|#|java.io.BufferedInputStream
+Update: QualifiedName|#|java.io.InputStream
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: Assignment|#|=
+Insert: Assignment|#|=

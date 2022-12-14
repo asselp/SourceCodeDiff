@@ -1,0 +1,9 @@
+Update: QualifiedName|#|org.jboss.as.ejb3.iiop.RemoteObjectSubstitutionService
+Update: QualifiedName|#|org.jboss.com.sun.corba.se.impl.javax.rmi.RemoteObjectSubstitutionManager
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|add
+Insert: SimpleName|#|addDependency
+Insert: MethodInvocation|#|setRemoteObjectSubstitution
+Insert: SimpleName|#|addDependency

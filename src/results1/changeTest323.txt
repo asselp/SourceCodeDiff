@@ -1,0 +1,17 @@
+Update: QualifiedName|#|org.sakaiproject.user.api.Preferences
+Update: QualifiedName|#|org.sakaiproject.user.api.PreferencesService
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: Assignment|#|=
+Insert: MethodInvocation|#|put
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: Assignment|#|=
+Insert: MethodInvocation|#|put

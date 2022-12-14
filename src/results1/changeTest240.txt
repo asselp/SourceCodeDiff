@@ -1,0 +1,10 @@
+Update: QualifiedName|#|com.facebook.react.devsupport.interfaces.DevSupportManager
+Update: QualifiedName|#|com.facebook.react.devsupport.interfaces.PackagerStatusCallback
+Update: QualifiedName|#|com.facebook.react.modules.debug.interfaces.DeveloperSettings
+Update: QualifiedName|#|com.facebook.react.modules.appregistry.AppRegistry
+Update: SimpleType|#|PackagerStatusCallback
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ClassInstanceCreation

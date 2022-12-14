@@ -1,0 +1,2 @@
+Insert: SimpleName|#|filter
+Insert: MethodInvocation|#|equals

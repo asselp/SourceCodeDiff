@@ -1,0 +1,10 @@
+Update: QualifiedName|#|java.util.HashMap
+Insert: ImportDeclaration
+Insert: FieldDeclaration
+Insert: MethodInvocation|#|loadCommands
+Insert: MethodInvocation|#|println
+Insert: MethodInvocation|#|format
+Insert: MethodInvocation|#|getDescription
+Insert: MethodInvocation|#|loadCommands
+Insert: MethodInvocation|#|format
+Insert: MethodInvocation|#|getDescription

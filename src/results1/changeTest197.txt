@@ -1,0 +1,10 @@
+Update: QualifiedName|#|java.util.stream.Collectors
+Insert: ImportDeclaration
+Insert: MethodDeclaration
+Insert: ReturnStatement
+Insert: SimpleName|#|collect
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: ReturnStatement
+Insert: SimpleName|#|collect
+Insert: MethodDeclaration

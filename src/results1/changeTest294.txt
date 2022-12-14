@@ -1,0 +1,3 @@
+Insert: VariableDeclarationStatement
+Insert: SimpleName|#|returnSummary
+Insert: SimpleName|#|returnSummary

@@ -1,0 +1,8 @@
+Update: QualifiedName|#|com.hazelcast.test.HazelcastParallelClassRunner
+Update: QualifiedName|#|com.hazelcast.test.HazelcastSerialClassRunner
+Update: QualifiedName|#|com.hazelcast.test.annotation.QuickTest
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: TypeDeclaration
+Insert: SingleMemberAnnotation

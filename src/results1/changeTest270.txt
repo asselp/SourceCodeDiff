@@ -1,0 +1,2 @@
+Update: QualifiedName|#|com.google.common.base.MoreObjects
+Insert: ImportDeclaration

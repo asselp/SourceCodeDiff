@@ -1,0 +1,7 @@
+Insert: Modifier|#|public
+Insert: MethodDeclaration
+Insert: MethodInvocation|#|debug
+Insert: MethodDeclaration
+Insert: MethodInvocation|#|debug
+Insert: MethodInvocation|#|putAll
+Insert: MethodDeclaration

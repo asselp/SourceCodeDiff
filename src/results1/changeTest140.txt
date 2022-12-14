@@ -1,0 +1,7 @@
+Update: PrimitiveType|#|long
+Update: PrimitiveType|#|long
+Insert: Assignment|#|=
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: ThrowStatement
+Insert: MethodInvocation|#|writeLong

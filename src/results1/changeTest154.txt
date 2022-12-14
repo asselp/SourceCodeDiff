@@ -1,0 +1,13 @@
+Update: QualifiedName|#|org.neo4j.kernel.impl.storemigration.StoreVersionCheck.Result.Outcome
+Insert: SimpleName|#|thenReturn
+Insert: ImportDeclaration
+Insert: ImportDeclaration
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|thenReturn
+Insert: SimpleName|#|thenReturn
+Insert: MethodInvocation|#|thenReturn
+Insert: SimpleName|#|thenReturn
+Insert: MethodInvocation|#|thenReturn
+Insert: ImportDeclaration
+Insert: MethodInvocation|#|thenReturn
+Insert: MethodInvocation|#|thenReturn

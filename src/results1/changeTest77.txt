@@ -1,0 +1,6 @@
+Insert: VariableDeclarationStatement
+Insert: IfStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: MethodInvocation|#|tracef
+Insert: MethodInvocation|#|put

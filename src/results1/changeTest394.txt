@@ -1,0 +1,10 @@
+Update: SimpleName|#|tfs
+Update: SimpleName|#|tfs
+Update: SimpleName|#|mTfs
+Update: SimpleName|#|mTfs
+Update: SimpleName|#|mTfs
+Insert: Modifier|#|public
+Insert: SuperConstructorInvocation
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement
+Insert: VariableDeclarationStatement

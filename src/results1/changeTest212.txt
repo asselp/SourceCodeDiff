@@ -1,0 +1,3 @@
+Insert: MethodInvocation|#|invokeCallback
+Insert: MethodDeclaration
+Insert: MethodDeclaration

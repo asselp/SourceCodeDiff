@@ -1,0 +1,4 @@
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration
+Insert: MethodDeclaration

@@ -55,11 +55,14 @@ public class Parser {
     }
 
     private static String nameFile(int i) {
-        return "src/results/changeTest" + String.valueOf(i) + ".txt";
+        return "src/results1/changeTest" + String.valueOf(i) + ".txt";
     }
 
     public static void main(final String[] args) throws Exception {
 
+//        File srcFile = new File("changes/change139/old/ClientMapIssueTest.java");
+//        File dstFile = new File("changes/change139/new/ClientMapIssueTest.java");
+//
 //        Matcher matcher = new Matcher(srcFile, dstFile);
 //        StringBuffer editScript = matcher.match();
 //        System.out.println(editScript);

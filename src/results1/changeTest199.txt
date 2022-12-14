@@ -1,0 +1,5 @@
+Insert: PrimitiveType|#|long
+Insert: ReturnStatement
+Insert: TypeDeclaration
+Insert: PrimitiveType|#|long
+Insert: ReturnStatement

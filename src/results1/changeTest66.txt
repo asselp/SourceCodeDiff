@@ -1,0 +1,4 @@
+Insert: MethodDeclaration
+Insert: Assignment|#|=
+Insert: ImportDeclaration
+Insert: ImportDeclaration

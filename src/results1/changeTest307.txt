@@ -1,0 +1,5 @@
+Update: QualifiedName|#|org.apache.commons.logging.Log
+Update: QualifiedName|#|org.apache.commons.logging.LogFactory
+Insert: FieldDeclaration
+Insert: ImportDeclaration
+Insert: ImportDeclaration

@@ -1,0 +1,8 @@
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: IfStatement
+Insert: ThrowStatement
+Insert: ReturnStatement
+Insert: FieldDeclaration
+Insert: MethodDeclaration
+Insert: ThrowStatement

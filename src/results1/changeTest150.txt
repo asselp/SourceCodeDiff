@@ -1,0 +1,2 @@
+Update: QualifiedName|#|com.hazelcast.cluster.impl.MemberSelectingCollection
+Insert: ImportDeclaration

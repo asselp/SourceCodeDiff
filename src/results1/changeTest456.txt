@@ -1,0 +1,11 @@
+Update: NumberLiteral|#|56
+Insert: MethodInvocation|#|assertEquals
+Insert: MethodInvocation|#|validateError
+Insert: MethodInvocation|#|validateError
+Insert: MethodInvocation|#|validateError
+Insert: MethodInvocation|#|validateError
+Insert: MethodInvocation|#|validateError
+Insert: Assignment|#|+=
+Insert: MethodInvocation|#|validateError
+Insert: MethodInvocation|#|validateError
+Insert: MethodInvocation|#|validateError

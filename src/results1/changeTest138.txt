@@ -1,0 +1,2 @@
+Update: QualifiedName|#|com.hazelcast.instance.Node
+Insert: ImportDeclaration

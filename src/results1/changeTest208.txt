@@ -1,0 +1,3 @@
+Update: QualifiedName|#|com.facebook.react.bridge.annotations.ReactModule
+Insert: ImportDeclaration
+Insert: NormalAnnotation
