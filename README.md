@@ -57,7 +57,7 @@ Logics:
 ![alt text](logics.png)
 
 ### Note
-The key idea of generating edit scripts in this project is handling TreeNodes as Strings and saving in maps (line number - key, nodes in line - value) and applying logics above. Logics being applied, change type is detected -> getting first node in a list as a type of entity which changed.
+The key idea of generating edit scripts in this project is handling TreeNodes as Strings and saving in maps (line number - key, nodes in line - value) and applying logics above. Logics being applied, change type is detected -> getting first node in a list as a type of entity which is changed.
 
 # Authors
 - Assel 
