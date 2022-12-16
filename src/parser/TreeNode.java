@@ -11,7 +11,7 @@ public class TreeNode {
 
 	private ASTNode astNode;
 	private String label;
-	private TreeNode parent;
+	public TreeNode parent;
 	public List<TreeNode> children;
 	private int lineNumber;
 
